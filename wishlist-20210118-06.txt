@@ -18,3 +18,6 @@ dimwishlist:item=3164743584&perks=839105230,3230963543,2869569095,1546637391#not
 // Succession - Kinetic Sniper - Aggressive Frame
 dimwishlist:item=2990047042&perks=1840239774,106909392,588594999,957782887#notes:PvP - MW Handling or Reload
 dimwishlist:item=2990047042&perks=839105230,1431678320,1556840489,2726471870#notes:PvE - MW Handling or Reload
+
+// Seventh Seraph - Kinetic 180 Hand Canon - Precision Frame
+dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,2779035018#notes:PvE - MW Any
