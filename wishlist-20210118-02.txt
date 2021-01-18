@@ -1,8 +1,0 @@
-title:~Zero's DIM wishlist
-description:~Zero's DIM wishlist.
-
-// Night Watch - Kinetic Scout Rifle - Lightweight Frame - PVP
-dimwishlist:item=3504336176&perks=4090651448,3230963543,957782887,3038247973#notes:PVP - MW Handling or Reload
-
-// Astral Horizon - Kinetic Shotgun - Aggressive Frame - PVP
-dimwishlist:item=1697682876&perks=1482024992,3142289711,706527188,47981717#notes:PVP - MW Range
