@@ -10,3 +10,11 @@ dimwishlist:item=1697682876&perks=4090651448,106909392,3300816228,4082225868#not
 
 // Heritage - Kinetic Slug Shotgun - Precision Frame
 dimwishlist:item=4248569242&perks=3250034553,106909392,3300816228,2726471870#notes:PvE - MW Range
+
+// Eye of Sol - Kinetic Sniper - Adaptive Frame
+dimwishlist:item=3164743584&perks=839105230,3230963543,957782887,47981717#notes:PvP - MW Handling or Reload
+dimwishlist:item=3164743584&perks=839105230,3230963543,2869569095,1546637391#notes:PvE - MW Handling or Reload
+
+// Succession - Kinetic Sniper - Aggressive Frame
+dimwishlist:item=2990047042&perks=1840239774,106909392,588594999,957782887#notes:PvP - MW Handling or Reload
+dimwishlist:item=2990047042&perks=839105230,1431678320,1556840489,2726471870#notes:PvE - MW Handling or Reload
