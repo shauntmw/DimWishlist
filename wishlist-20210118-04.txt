@@ -7,3 +7,6 @@ dimwishlist:item=3504336176&perks=4090651448,3230963543,957782887,3038247973#not
 // Astral Horizon - Kinetic Shotgun - Aggressive Frame
 dimwishlist:item=1697682876&perks=1482024992,3142289711,706527188,47981717#notes:PvP - MW Range
 dimwishlist:item=1697682876&perks=4090651448,106909392,3300816228,4082225868#notes:PvE - MW Range or Reload or Handling
+
+// Heritage - Kinetic Slug Shotgun - Precision Frame
+dimwishlist:item=4248569242&perks=3250034553,106909392,3300816228,2726471870#notes:PvE - MW Range
