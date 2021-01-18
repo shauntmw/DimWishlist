@@ -25,20 +25,8 @@ dimwishlist:item=1506719573&perks=1392496348,106909392,706527188,2726471870#note
 dimwishlist:item=1506719573&perks=3250034553,106909392,706527188,2726471870#notes:PvE - MW Any
 dimwishlist:item=1506719573&perks=1840239774,106909392,706527188,2726471870#notes:PvE - MW Any
 
-// Friction Fire - Kinetic SMG - Precision Frame (Wellspring)
-dimwishlist:item=1513993763&perks=1482024992,3230963543,1820235745,3592538738#notes:PvE - MW Any
-dimwishlist:item=1513993763&perks=3250034553,3230963543,1820235745,3592538738#notes:PvE - MW Any
-dimwishlist:item=1513993763&perks=4090651448,3230963543,1820235745,3592538738#notes:PvE - MW Any
-dimwishlist:item=1513993763&perks=1482024992,106909392,1820235745,3592538738#notes:PvE - MW Any
-dimwishlist:item=1513993763&perks=3250034553,106909392,1820235745,3592538738#notes:PvE - MW Any
-dimwishlist:item=1513993763&perks=4090651448,106909392,1820235745,3592538738#notes:PvE - MW Any
-
 // Seventh Serapth CQC-12 - Solar Shotgun - Lightweight Frame
 dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887#notes:PvP - MW Range
-
-// Deafening Whisper - Void Special Grenade Launcher - Wave Frame (Auto-loading or Wellspring)
-dimwishlist:item=981718087&perks=3525010810,2822142346,1556840489,3300816228#notes:PvE - MW Blast or Velocity
-dimwishlist:item=981718087&perks=3525010810,2822142346,3436462433,3592538738#notes:PvE - MW Blast or Velocity or Reload
 
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
@@ -65,4 +53,33 @@ dimwishlist:item=3366545721&perks=2827049491,269888150,2726471870,2244851822#not
 dimwishlist:item=4230965989&perks=3250034553,2420895100,1523832109,2848615171#notes:PvE - MW Range or Reload
 dimwishlist:item=4230965989&perks=3250034553,2420895100,1523832109,3425386926#notes:PvE - MW Range or Reload
 dimwishlist:item=4230965989&perks=3250034553,2420895100,1523832109,3108830275#notes:PvE - MW Range or Reload
+// --------------------------------------------------------------------------
+
+// --------------------------------------------------------------------------
+// Wrathborn Hunt
+// --------------------------------------------------------------------------
+// Deafening Whisper - Void Special Grenade Launcher - Wave Frame (Auto-loading or Wellspring)
+dimwishlist:item=981718087&perks=3525010810,2822142346,1556840489,3300816228#notes:PvE - MW Blast or Velocity
+dimwishlist:item=981718087&perks=3525010810,2822142346,3436462433,3592538738#notes:PvE - MW Blast or Velocity or Reload
+
+// Friction Fire - Kinetic SMG - Precision Frame (Wellspring)
+dimwishlist:item=1513993763&perks=1482024992,3230963543,1820235745,3592538738#notes:PvE - MW Any
+dimwishlist:item=1513993763&perks=3250034553,3230963543,1820235745,3592538738#notes:PvE - MW Any
+dimwishlist:item=1513993763&perks=4090651448,3230963543,1820235745,3592538738#notes:PvE - MW Any
+dimwishlist:item=1513993763&perks=1482024992,106909392,1820235745,3592538738#notes:PvE - MW Any
+dimwishlist:item=1513993763&perks=3250034553,106909392,1820235745,3592538738#notes:PvE - MW Any
+dimwishlist:item=1513993763&perks=4090651448,106909392,1820235745,3592538738#notes:PvE - MW Any
+
+// Corsair's Wrath - Sonar Linear Fusion Rifle
+// Not using...
+
+// Royal Chase - Void Scout Rifle - Precision Frame (Thresh)
+dimwishlist:item=2776503072&perks=3250034553,3230963543,3300816228,2726471870#notes:PvE - MW Reload
+dimwishlist:item=2776503072&perks=3250034553,106909392,3300816228,2726471870#notes:PvE - MW Reload
+dimwishlist:item=2776503072&perks=3250034553,1087426260,3300816228,2726471870#notes:PvE - MW Reload
+dimwishlist:item=2776503072&perks=3250034553,3142289711,3300816228,2726471870#notes:PvE - MW Reload
+
+// Blast Battue - Arc Heavy Grenade Launcher - Adaptive Frame (Chain Reaction)
+dimwishlist:item=2453357042&perks=981914802,3301904089,2284787283,2396489472#notes:PvE - MW Velocity
+dimwishlist:item=2453357042&perks=3525010810,3301904089,2284787283,2396489472#notes:PvE - MW Velocity
 // --------------------------------------------------------------------------
