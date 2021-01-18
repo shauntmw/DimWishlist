@@ -39,3 +39,10 @@ dimwishlist:item=1513993763&perks=4090651448,3230963543,1820235745,3592538738#no
 dimwishlist:item=1513993763&perks=1482024992,106909392,1820235745,3592538738#notes:PvE - MW Any
 dimwishlist:item=1513993763&perks=3250034553,106909392,1820235745,3592538738#notes:PvE - MW Any
 dimwishlist:item=1513993763&perks=4090651448,106909392,1820235745,3592538738#notes:PvE - MW Any
+
+// Seventh Serapth CQC-12 - Solar Shotgun - Lightweight Frame
+dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887#notes:PvP - MW Range
+
+// Deafening Whisper - Void Special Grenade Launcher - Wave Frame (Auto-loading or Wellspring)
+dimwishlist:item=981718087&perks=3525010810,2822142346,1556840489,3300816228#notes:PvP - MW Blast or Velocity
+dimwishlist:item=981718087&perks=3525010810,2822142346,3436462433,3592538738#notes:PvP - MW Blast or Velocity or Reload
