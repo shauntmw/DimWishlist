@@ -1,5 +1,0 @@
-title:~Zero's DIM wishlist
-description:~Zero's DIM wishlist.
-
-// Night Watch - Kinetic Scout Rifle - Lightweight Frame - PVP
-dimwishlist:item=3504336176&perks=4090651448,3230963543,957782887,3038247973#notes:pvp
