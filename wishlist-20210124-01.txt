@@ -44,7 +44,9 @@ dimwishlist:item=3281285075&perks=3250034553,3142289711,1523832109,3523296417#no
 
 // Trustee - Solar Scout Rifle - Rapid-fire Frame (Wellspring)
 dimwishlist:item=1392919471&perks=1482024992,3230963543,1523832109,3592538738#notes:PvE - MW Any
-dimwishlist:item=1392919471&perks=1482024992,3230963543,1523832109,3592538738#notes:PvE - MW Any
+dimwishlist:item=1392919471&perks=1467527085,3230963543,1523832109,3592538738#notes:PvE - MW Any
+dimwishlist:item=1392919471&perks=202670084,3230963543,1523832109,3592538738#notes:PvE - MW Any
+dimwishlist:item=1392919471&perks=3250034553,3230963543,1523832109,3592538738#notes:PvE - MW Any
 
 // Bequest - Arc Sword - Adaptive Frame (Thresh)
 dimwishlist:item=3366545721&perks=2827049491,269888150,2726471870,2244851822#notes:PvE - MW Impact
