@@ -104,3 +104,8 @@ dimwishlist:item=1561006927&perks=3250034553,1885400500,1866048759,2846385770#no
 // Seventh Seraph SI-2 - Void Sidearm - Lightweight Frame
 dimwishlist:item=3937866388&perks=4090651448,3230963543,3523296417,2387244414#notes:PvE - MW Any Except Handling
 
+// IKELOS SMG - Arc SMG - Aggressive Frame
+dimwishlist:item=2222560548&perks=1482024992,3230963543,1359896290,1683379515#notes:PvE - MW Any Except Handling
+dimwishlist:item=2222560548&perks=3250034553,3230963543,1359896290,1683379515#notes:PvE - MW Any Except Handling
+dimwishlist:item=2222560548&perks=1467527085,3230963543,1359896290,1683379515#notes:PvE - MW Any Except Handling
+dimwishlist:item=2222560548&perks=4090651448,3230963543,1359896290,1683379515#notes:PvE - MW Any Except Handling
