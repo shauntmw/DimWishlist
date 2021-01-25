@@ -22,9 +22,6 @@ dimwishlist:item=1506719573&perks=1392496348,106909392,706527188,2726471870#note
 dimwishlist:item=1506719573&perks=3250034553,106909392,706527188,2726471870#notes:PvE - MW Any
 dimwishlist:item=1506719573&perks=1840239774,106909392,706527188,2726471870#notes:PvE - MW Any
 
-// Seventh Serapth CQC-12 - Solar Shotgun - Lightweight Frame
-dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887#notes:PvP - MW Range
-
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
 // --------------------------------------------------------------------------
@@ -89,4 +86,17 @@ dimwishlist:item=2453357042&perks=3525010810,3301904089,2284787283,2396489472#no
 // --------------------------------------------------------------------------
 // Seventh Seraph Officer Revolver - Kinetic 180 Hand Cannon - Precision Frame
 dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,2779035018#notes:PvE - MW Any
+
+// Seventh Serapth CQC-12 - Solar Shotgun - Lightweight Frame
+dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887#notes:PvP - MW Range
+
+// Seventh Seraph SAW - Arc LMG - High Impact Frame
+dimwishlist:item=2582755344&perks=839105230,1968497646,3300816228,1683379515#notes:PvE - MW Any Except Reload
+
+// Seventh Seraph Carbine - Kinetic 450 Auto Rifle - Precision Frame
+dimwishlist:item=1561006927&perks=839105230,3230963543,1354429876,3425386926#notes:PvE - MW Reload
+dimwishlist:item=1561006927&perks=3250034553,1885400500,1866048759,2846385770#notes:PvP - MW Any
+
+// Seventh Seraph SI-2 - Void Sidearm - Lightweight Frame
+dimwishlist:item=3937866388&perks=4090651448,3230963543,3523296417,2387244414#notes:PvE - MW Any Except Handling
 
