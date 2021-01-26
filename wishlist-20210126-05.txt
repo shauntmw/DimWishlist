@@ -26,6 +26,28 @@ dimwishlist:item=1506719573&perks=1840239774,106909392,706527188,2726471870#note
 dimwishlist:item=3143732432&perks=1467527085,1885400500,1359896290,2387244414#notes:PvE - MW Any
 dimwishlist:item=3143732432&perks=1467527085,1968497646,1359896290,2387244414#notes:PvE - MW Any
 
+// Gnawing Hunger - Void 600 Auto Rigle - Adaptive Frame
+dimwishlist:item=821154603&perks=3250034553,3142289711,2387244414,1015611457#notes:PvP - MW Any
+dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,1015611457#notes:PvP - MW Any
+dimwishlist:item=821154603&perks=839105230,3142289711,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=4090651448,3142289711,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=3250034553,3142289711,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1392496348,3142289711,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=839105230,106909392,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1467527085,106909392,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=3250034553,106909392,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1392496348,106909392,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1482024992,106909392,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=839105230,3230963543,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=4090651448,3230963543,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1467527085,3230963543,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=3250034553,3230963543,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1392496348,3230963543,2387244414,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1482024992,3230963543,2387244414,3523296417#notes:PvE - MW Any except Handling
+
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
 // --------------------------------------------------------------------------
