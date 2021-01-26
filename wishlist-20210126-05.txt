@@ -4,14 +4,6 @@ description:~Zero's DIM wishlist.
 // Night Watch - Kinetic Scout Rifle - Lightweight Frame - PVP
 dimwishlist:item=3504336176&perks=4090651448,3230963543,957782887,3038247973#notes:PvP - MW Handling or Reload
 
-// Astral Horizon - Kinetic Shotgun - Aggressive Frame
-dimwishlist:item=1697682876&perks=1482024992,3142289711,706527188,47981717#notes:PvP - MW Range
-dimwishlist:item=1697682876&perks=4090651448,106909392,3300816228,4082225868#notes:PvE - MW Range or Reload or Handling
-
-// Eye of Sol - Kinetic Sniper - Adaptive Frame
-dimwishlist:item=3164743584&perks=839105230,3230963543,957782887,47981717#notes:PvP - MW Handling or Reload
-dimwishlist:item=3164743584&perks=839105230,3230963543,2869569095,1546637391#notes:PvE - MW Handling or Reload
-
 // Cold Front - Kinetic SMG - Agressive Frame (Thresh)
 dimwishlist:item=1506719573&perks=1482024992,3230963543,706527188,2726471870#notes:PvE - MW Any
 dimwishlist:item=1506719573&perks=1392496348,3230963543,706527188,2726471870#notes:PvE - MW Any
@@ -133,6 +125,51 @@ dimwishlist:item=2222560548&perks=1467527085,3230963543,1359896290,1683379515#no
 dimwishlist:item=2222560548&perks=4090651448,3230963543,1359896290,1683379515#notes:PvE - MW Any Except Handling
 
 // --------------------------------------------------------------------------
+// Trials of Osiris
+// --------------------------------------------------------------------------
+// Astral Horizon - Kinetic Shotgun - Aggressive Frame
+dimwishlist:item=1697682876&perks=1482024992,3142289711,706527188,47981717#notes:PvP - MW Range
+dimwishlist:item=1697682876&perks=4090651448,106909392,3300816228,4082225868#notes:PvE - MW Range or Reload or Handling
+
+// Eye of Sol - Kinetic Sniper - Adaptive Frame
+dimwishlist:item=3164743584&perks=839105230,3230963543,957782887,47981717#notes:PvP - MW Handling or Reload
+dimwishlist:item=3164743584&perks=839105230,3230963543,2869569095,1546637391#notes:PvE - MW Handling or Reload
+
+// The Summoner - Solar 600 Auto Rifle - Adaptive Frame
+dimwishlist:item=1907698332&perks=3250034553,1885400500,2387244414,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=1482024992,1885400500,2387244414,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=3250034553,679225683,2387244414,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=1482024992,679225683,2387244414,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=3250034553,1885400500,588594999,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=1482024992,1885400500,588594999,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=3250034553,679225683,588594999,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=1482024992,679225683,588594999,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=3250034553,1885400500,1359896290,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=1482024992,1885400500,1359896290,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=3250034553,679225683,1359896290,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=1482024992,679225683,1359896290,2846385770#notes:PvP - MW Any
+dimwishlist:item=1907698332&perks=839105230,1968497646,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1467527085,1968497646,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=3250034553,1968497646,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1392496348,1968497646,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1482024992,1968497646,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=839105230,1885400500,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1467527085,1885400500,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=3250034553,1885400500,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1392496348,1885400500,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1482024992,1885400500,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=839105230,3230963543,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1467527085,3230963543,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=3250034553,3230963543,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1392496348,3230963543,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1482024992,3230963543,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=839105230,679225683,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1467527085,679225683,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=3250034553,679225683,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1392496348,679225683,3643424744,2848615171#notes:PvE - MW Any except Handling
+dimwishlist:item=1907698332&perks=1482024992,679225683,3643424744,2848615171#notes:PvE - MW Any except Handling
+
+// --------------------------------------------------------------------------
 // Europa
 // --------------------------------------------------------------------------
 // Arctic Haze - Solar 720 Auto Rifle - Rapid Fire Frame
@@ -160,3 +197,4 @@ dimwishlist:item=20935540&perks=1840239774,3230963543,1168162263,2726471870#note
 dimwishlist:item=20935540&perks=3250034553,3230963543,1168162263,2726471870#notes:PvE - MW Any Except Handling
 dimwishlist:item=20935540&perks=1392496348,3230963543,1168162263,2726471870#notes:PvE - MW Any Except Handling
 dimwishlist:item=20935540&perks=1482024992,3230963543,1168162263,2726471870#notes:PvE - MW Any Except Handling
+
