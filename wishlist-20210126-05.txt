@@ -198,3 +198,20 @@ dimwishlist:item=20935540&perks=3250034553,3230963543,1168162263,2726471870#note
 dimwishlist:item=20935540&perks=1392496348,3230963543,1168162263,2726471870#notes:PvE - MW Any Except Handling
 dimwishlist:item=20935540&perks=1482024992,3230963543,1168162263,2726471870#notes:PvE - MW Any Except Handling
 
+// Thermal Erosion - Solar LMG - Rapid-Fire Frame
+dimwishlist:item=1766088024&perks=839105230,1087426260,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=3250034553,1087426260,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=1482024992,1087426260,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=839105230,1968497646,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=3250034553,1968497646,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=1482024992,1968497646,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=839105230,1885400500,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=3250034553,1885400500,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=1482024992,1885400500,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=839105230,3230963543,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=3250034553,3230963543,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=1482024992,3230963543,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=839105230,679225683,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=3250034553,679225683,2869569095,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1766088024&perks=1482024992,679225683,2869569095,3592538738#notes:PvE - MW Any Except Handling
+
