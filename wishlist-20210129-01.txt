@@ -313,3 +313,10 @@ dimwishlist:item=42351395&perks=981914802,2822142346,2010801679,2396489472#notes
 // Coriolis Force - Void Fusion Rifle - Agressive Frame
 dimwishlist:item=3512349612&perks=839105230,2969185026,2779035018,2726471870#notes:PvE - MW Charge
 
+// Boneshiller - Void Slug Shotgun - Precision Frame
+dimwishlist:item=4037745684&perks=1840239774,791862061,3300816228,4071163871#notes:PvE - MW Range
+dimwishlist:item=4037745684&perks=1482024992,791862061,3300816228,4071163871#notes:PvE - MW Range
+dimwishlist:item=4037745684&perks=1840239774,106909392,3300816228,4071163871#notes:PvE - MW Range
+dimwishlist:item=4037745684&perks=1482024992,106909392,3300816228,4071163871#notes:PvE - MW Range
+dimwishlist:item=4037745684&perks=1840239774,3142289711,3300816228,4071163871#notes:PvE - MW Range
+dimwishlist:item=4037745684&perks=1482024992,3142289711,3300816228,4071163871#notes:PvE - MW Range
