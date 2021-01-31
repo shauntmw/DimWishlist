@@ -85,6 +85,8 @@ dimwishlist:item=720351795&perks=2801223209,3827198035,957782887,201365942#notes
 // Falling Guillotine - Void Sword - Vortex Frame
 dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,3913600130#notes:PvE - MW Impact
 
+// Bad Omens - Void Rocket Launcher - Aggresive Frame
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
 
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
@@ -186,6 +188,9 @@ dimwishlist:item=1253087083&perks=202670084,106909392,3400784728,2551157718#note
 // Death Adder - Solar SMG - Lightweight Frame
 dimwishlist:item=2742490609&perks=3250034553,3142289711,3300816228,1683379515#notes:PvE - MW Range
 
+// Hoosegow - Arc Rocket Launcher - Adaptive Frame
+dimwishlist:item=3669616453&perks=981914802,3796465595,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
+
 // --------------------------------------------------------------------------
 // Trials of Osiris
 // --------------------------------------------------------------------------
@@ -230,6 +235,16 @@ dimwishlist:item=1907698332&perks=1467527085,679225683,3643424744,2848615171#not
 dimwishlist:item=1907698332&perks=3250034553,679225683,3643424744,2848615171#notes:PvE - MW Any except Handling
 dimwishlist:item=1907698332&perks=1392496348,679225683,3643424744,2848615171#notes:PvE - MW Any except Handling
 dimwishlist:item=1907698332&perks=1482024992,679225683,3643424744,2848615171#notes:PvE - MW Any except Handling
+
+// Tomorrow's Answer - Void Rocket Launcher - High Impact Frame
+dimwishlist:item=958384347&perks=3525010810,3796465595,3977735242,1275731761#notes:PvE - MW Velocity or Blast Radius
+dimwishlist:item=958384347&perks=3525010810,3796465595,3977735242,957782887#notes:PvP - MW Velocity or Blast Radius
+
+// --------------------------------------------------------------------------
+// Iron Banner
+// --------------------------------------------------------------------------
+// Shining Sphere - Arc Rocket Launcher - Adaptive Frame
+dimwishlist:item=136525518&perks=981914802,3796465595,3300816228,3977735242#notes:PvP or PvE - MW Velocity or Blast Radius
 
 // --------------------------------------------------------------------------
 // Europa
@@ -308,7 +323,7 @@ dimwishlist:item=2870169846&perks=202670084,679225683,3436462433,3592538738#note
 dimwishlist:item=2870169846&perks=3250034553,679225683,3436462433,3592538738#notes:PvE - MW Range or Reload
 
 // Subzero Salvo - Arc Rocket Launcher - Precision Frame
-dimwishlist:item=42351395&perks=981914802,2822142346,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=981914802,3796465595,2010801679,1275731761#notes:PvE - MW Blast or Velocity
 
 // Coriolis Force - Void Fusion Rifle - Agressive Frame
 dimwishlist:item=3512349612&perks=839105230,2969185026,2779035018,2726471870#notes:PvE - MW Charge
@@ -320,3 +335,9 @@ dimwishlist:item=4037745684&perks=1840239774,106909392,3300816228,4071163871#not
 dimwishlist:item=4037745684&perks=1482024992,106909392,3300816228,4071163871#notes:PvE - MW Range
 dimwishlist:item=4037745684&perks=1840239774,3142289711,3300816228,4071163871#notes:PvE - MW Range
 dimwishlist:item=4037745684&perks=1482024992,3142289711,3300816228,4071163871#notes:PvE - MW Range
+
+// --------------------------------------------------------------------------
+// Last Wish
+// --------------------------------------------------------------------------
+// Apex Predator - Solar Rocket Launcher - Adaptive Frame
+dimwishlist:item=2545083870&perks=981914802,3796465595,3977735242,3300816228#notes:PvP or PvE - MW Velocity or Blast Radius
