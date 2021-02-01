@@ -88,6 +88,14 @@ dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,3913600130#not
 // Bad Omens - Void Rocket Launcher - Aggresive Frame
 dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
 
+// Escape Velocity - Kinetic SMG - Lightweight Frame
+dimwishlist:item=1786797708&perks=663495154,3230963543,4071163871,3708227201#notes:PvE - MW Reload
+dimwishlist:item=1786797708&perks=663495155,3230963543,4071163871,3708227201#notes:PvE - MW Reload
+dimwishlist:item=1786797708&perks=663495154,106909392,4071163871,3708227201#notes:PvE - MW Reload
+dimwishlist:item=1786797708&perks=663495155,106909392,4071163871,3708227201#notes:PvE - MW Reload
+dimwishlist:item=1786797708&perks=663495154,3142289711,4071163871,3708227201#notes:PvE - MW Reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,4071163871,3708227201#notes:PvE - MW Reload
+
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
 // --------------------------------------------------------------------------
