@@ -127,12 +127,21 @@ dimwishlist:item=981718087&perks=3525010810,2822142346,1556840489,3300816228#not
 dimwishlist:item=981718087&perks=3525010810,2822142346,3436462433,3592538738#notes:PvE - MW Blast or Velocity or Reload
 
 // Friction Fire - Kinetic SMG - Precision Frame (Wellspring)
-dimwishlist:item=1513993763&perks=1482024992,3230963543,1820235745,3592538738#notes:PvE - MW Any
-dimwishlist:item=1513993763&perks=3250034553,3230963543,1820235745,3592538738#notes:PvE - MW Any
-dimwishlist:item=1513993763&perks=4090651448,3230963543,1820235745,3592538738#notes:PvE - MW Any
-dimwishlist:item=1513993763&perks=1482024992,106909392,1820235745,3592538738#notes:PvE - MW Any
-dimwishlist:item=1513993763&perks=3250034553,106909392,1820235745,3592538738#notes:PvE - MW Any
-dimwishlist:item=1513993763&perks=4090651448,106909392,1820235745,3592538738#notes:PvE - MW Any
+dimwishlist:item=1513993763&perks=839105230,3142289711,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=4090651448,3142289711,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=3250034553,3142289711,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=1392496348,3142289711,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=839105230,106909392,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=4090651448,106909392,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=3250034553,106909392,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=1392496348,106909392,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=1482024992,106909392,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=839105230,3230963543,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=4090651448,3230963543,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=3250034553,3230963543,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=1392496348,3230963543,2387244414,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=1513993763&perks=1482024992,3230963543,2387244414,3592538738#notes:PvE - MW Any except Handling
 
 // Corsair's Wrath - Sonar Linear Fusion Rifle
 // Not using...
