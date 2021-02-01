@@ -96,6 +96,10 @@ dimwishlist:item=1786797708&perks=663495155,106909392,4071163871,3708227201#note
 dimwishlist:item=1786797708&perks=663495154,3142289711,4071163871,3708227201#notes:PvE - MW Reload
 dimwishlist:item=1786797708&perks=663495155,3142289711,4071163871,3708227201#notes:PvE - MW Reload
 
+// Wishbringer - Solar Shotgun - Rapid Frame
+dimwishlist:item=3356526253&perks=466087222,2420895100,2869569095,3300816228#notes:PvE - MW Range
+dimwishlist:item=3356526253&perks=466087222,3142289711,2869569095,3300816228#notes:PvE - MW Range
+
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
 // --------------------------------------------------------------------------
