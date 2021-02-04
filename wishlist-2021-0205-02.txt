@@ -274,6 +274,9 @@ dimwishlist:item=136525518&perks=981914802,3796465595,3300816228,3977735242#note
 dimwishlist:item=3169616514&perks=1840239774,1087426260,957782887,3038247973#notes:PvP - MW Handling or Reload
 dimwishlist:item=3169616514&perks=1840239774,1087426260,957782887,2869569095#notes:PvE - MW Handling or Reload
 
+// Steady Hand - Kinetic 120 Hand Cannon - Agressive Frame
+dimwishlist:item=2220884262&perks=1926090093,1885400500,588594999,957782887#notes:PvP - MW Range or Reload
+
 // --------------------------------------------------------------------------
 // Europa
 // --------------------------------------------------------------------------
