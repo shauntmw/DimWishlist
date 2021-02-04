@@ -270,6 +270,10 @@ dimwishlist:item=958384347&perks=3525010810,3796465595,3977735242,957782887#note
 // Shining Sphere - Arc Rocket Launcher - Adaptive Frame
 dimwishlist:item=136525518&perks=981914802,3796465595,3300816228,3977735242#notes:PvP or PvE - MW Velocity or Blast Radius
 
+// Bite of the Fox - Kinetic Sniper - Agressive Frame
+dimwishlist:item=3169616514&perks=1840239774,1087426260,957782887,3038247973#notes:PvP - MW Handling or Reload
+dimwishlist:item=3169616514&perks=1840239774,1087426260,957782887,2869569095#notes:PvE - MW Handling or Reload
+
 // --------------------------------------------------------------------------
 // Europa
 // --------------------------------------------------------------------------
