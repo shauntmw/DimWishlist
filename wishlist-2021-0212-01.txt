@@ -184,6 +184,13 @@ dimwishlist:item=3356526253&perks=1332244541,2420895100,2869569095,3300816228#no
 // PvE: Rangefinder + Combat Grip
 dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,3438534621#notes:PvE
 
+// -----
+// Toil and Trouble - Kinetic Shotgun - Agressive Frame
+dimwishlist:item=2957367743&perks=1332244541,791862061,2117683199,3300816228#notes:PvE - MW Range
+dimwishlist:item=2957367743&perks=1482024992,791862061,2117683199,3300816228#notes:PvE - MW Range
+dimwishlist:item=2957367743&perks=4090651448,791862061,2117683199,3300816228#notes:PvE - MW Range
+
+
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
 // --------------------------------------------------------------------------
