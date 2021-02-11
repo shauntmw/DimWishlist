@@ -682,15 +682,15 @@ dimwishlist:item=2545083870&perks=1844523823,1996142143,3977735242,3300816228#no
 // Season of Chosen
 // --------------------------------------------------------------------------
 // Extraordinary Rendition - Kinetic SMG - Agressive Frame
-// PvE: Zen Movement + Thresh
-dimwishlist:item=1097616550&perks=1467527085,106909392,2387244414,2726471870#notes:PvE - MW Reload
-dimwishlist:item=1097616550&perks=3250034553,106909392,2387244414,2726471870#notes:PvE - MW Reload
-dimwishlist:item=1097616550&perks=1392496348,106909392,2387244414,2726471870#notes:PvE - MW Reload
-dimwishlist:item=1097616550&perks=1482024992,106909392,2387244414,2726471870#notes:PvE - MW Reload
-dimwishlist:item=1097616550&perks=1467527085,3230963543,2387244414,2726471870#notes:PvE - MW Reload
-dimwishlist:item=1097616550&perks=3250034553,3230963543,2387244414,2726471870#notes:PvE - MW Reload
-dimwishlist:item=1097616550&perks=1392496348,3230963543,2387244414,2726471870#notes:PvE - MW Reload
-dimwishlist:item=1097616550&perks=1482024992,3230963543,2387244414,2726471870#notes:PvE - MW Reload
+// PvE: Zen Movement + Frenzy
+dimwishlist:item=1097616550&perks=1467527085,106909392,2387244414,4104185692#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=3250034553,106909392,2387244414,4104185692#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=1392496348,106909392,2387244414,4104185692#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=1482024992,106909392,2387244414,4104185692#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=1467527085,3230963543,2387244414,4104185692#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=3250034553,3230963543,2387244414,4104185692#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=1392496348,3230963543,2387244414,4104185692#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=1482024992,3230963543,2387244414,4104185692#notes:PvE - MW Reload
 
 // Far Future - Solar Sniper - Adaptive Frame
 // PvE: Auto loading + Wellspring
