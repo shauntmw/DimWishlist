@@ -186,10 +186,38 @@ dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,3438534621#no
 
 // -----
 // Toil and Trouble - Kinetic Shotgun - Agressive Frame
+// PvE: Full Auto + Auto Loading
 dimwishlist:item=2957367743&perks=1332244541,791862061,2117683199,3300816228#notes:PvE - MW Range
 dimwishlist:item=2957367743&perks=1482024992,791862061,2117683199,3300816228#notes:PvE - MW Range
 dimwishlist:item=2957367743&perks=4090651448,791862061,2117683199,3300816228#notes:PvE - MW Range
 
+// -----
+// Distant Tumulus - Solar Sniper - Rapid Fire Frame
+// PvP: Pulse Monitor + Snapshot
+dimwishlist:item=2807687156&perks=3250034553,106909392,972757866,957782887#notes:PvP - MW Handling
+dimwishlist:item=2807687156&perks=1482024992,106909392,972757866,957782887#notes:PvP - MW Handling
+
+// PvE: Lead from Gold + Snapshot
+dimwishlist:item=2807687156&perks=839105230,106909392,1556840489,957782887#notes:PvE - MW Reload
+dimwishlist:item=2807687156&perks=3661387068,106909392,1556840489,957782887#notes:PvE - MW Reload
+dimwishlist:item=2807687156&perks=1467527085,106909392,1556840489,957782887#notes:PvE - MW Reload
+dimwishlist:item=2807687156&perks=202670084,106909392,1556840489,957782887#notes:PvE - MW Reload
+dimwishlist:item=2807687156&perks=3250034553,106909392,1556840489,957782887#notes:PvE - MW Reload
+dimwishlist:item=2807687156&perks=1482024992,106909392,1556840489,957782887#notes:PvE - MW Reload
+
+// -----
+// Xenoclast IV - Arc Shotgun - Lightweight Frame
+// PvE: Auto loading + Vorpal
+dimwishlist:item=2891672170&perks=1332244541,791862061,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2891672170&perks=1332244541,3142289711,3300816228,1546637391#notes:PvE - MW Range
+
+// -----
+// Berenger's Memory - Void Heavy Grenade Launcher - Rapid fire Frame
+// PvE: Field prrp + Demolitionist
+dimwishlist:item=407621213&perks=1441682018,3301904089,2869569095,3523296417#notes:PvE - MW Blast or Velocity
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3523296417#notes:PvE - MW Blast or Velocity
+dimwishlist:item=407621213&perks=1441682018,3373736292,2869569095,3523296417#notes:PvE - MW Blast or Velocity
+dimwishlist:item=407621213&perks=3525010810,3373736292,2869569095,3523296417#notes:PvE - MW Blast or Velocity
 
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
@@ -363,6 +391,16 @@ dimwishlist:item=3937866388&perks=4090651448,3230963543,3523296417,1546637391#no
 dimwishlist:item=3937866388&perks=202670084,3230963543,3523296417,1546637391#notes:PvE - MW Any Except Handling
 dimwishlist:item=3937866388&perks=3250034553,3230963543,3523296417,1546637391#notes:PvE - MW Any Except Handling
 dimwishlist:item=3937866388&perks=1482024992,3230963543,3523296417,1546637391#notes:PvE - MW Any Except Handling
+
+// -----
+// Seventh Seraph VY-7 - Arc SMG - Precision Frame
+// PvE: Assassin + Vorpal
+dimwishlist:item=766323545&perks=1467527085,106909392,2010801679,1546637391#notes:PvE - MW Reload
+dimwishlist:item=766323545&perks=3250034553,106909392,2010801679,1546637391#notes:PvE - MW Reload
+dimwishlist:item=766323545&perks=1482024992,106909392,2010801679,1546637391#notes:PvE - MW Reload
+dimwishlist:item=766323545&perks=1467527085,3230963543,2010801679,1546637391#notes:PvE - MW Reload
+dimwishlist:item=766323545&perks=3250034553,3230963543,2010801679,1546637391#notes:PvE - MW Reload
+dimwishlist:item=766323545&perks=1482024992,3230963543,2010801679,1546637391#notes:PvE - MW Reload
 
 // --------------------------------------------------------------------------
 // IKELOS
@@ -610,6 +648,22 @@ dimwishlist:item=4037745684&perks=202670084,3142289711,3300816228,3523296417#not
 dimwishlist:item=4037745684&perks=3250034553,3142289711,3300816228,3523296417#notes:PvE - MW Range
 dimwishlist:item=4037745684&perks=1482024992,3142289711,3300816228,3523296417#notes:PvE - MW Range
 
+// -----
+// Hollow Words - Arc Fusion Rifle - Precision Frame
+// PvE: Lead from Gold + Vorpal
+dimwishlist:item=607191995&perks=839105230,2680121939,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=3661387068,2680121939,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=1467527085,2680121939,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=202670084,2680121939,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=3250034553,2680121939,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=1482024992,2680121939,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=839105230,2969185026,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=3661387068,2969185026,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=1467527085,2969185026,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=202670084,2969185026,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=3250034553,2969185026,1556840489,1546637391#notes:PvE - MW Range
+dimwishlist:item=607191995&perks=1482024992,2969185026,1556840489,1546637391#notes:PvE - MW Range
+
 // --------------------------------------------------------------------------
 // Last Wish
 // --------------------------------------------------------------------------
@@ -623,3 +677,30 @@ dimwishlist:item=2545083870&perks=3525010810,3492396210,3977735242,957782887#not
 // PvE: Tracking + Auto Loading
 dimwishlist:item=2545083870&perks=1478423395,1996142143,3977735242,3300816228#notes:PvE - MW Blast Radius
 dimwishlist:item=2545083870&perks=1844523823,1996142143,3977735242,3300816228#notes:PvE - MW Blast Radius
+
+// --------------------------------------------------------------------------
+// Season of Chosen
+// --------------------------------------------------------------------------
+// Extraordinary Rendition - Kinetic SMG - Agressive Frame
+// PvE: Zen Movement + Thresh
+dimwishlist:item=1097616550&perks=1467527085,106909392,2387244414,2726471870#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=3250034553,106909392,2387244414,2726471870#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=1392496348,106909392,2387244414,2726471870#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=1482024992,106909392,2387244414,2726471870#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=1467527085,3230963543,2387244414,2726471870#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=3250034553,3230963543,2387244414,2726471870#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=1392496348,3230963543,2387244414,2726471870#notes:PvE - MW Reload
+dimwishlist:item=1097616550&perks=1482024992,3230963543,2387244414,2726471870#notes:PvE - MW Reload
+
+// Far Future - Solar Sniper - Adaptive Frame
+// PvE: Auto loading + Wellspring
+dimwishlist:item=893527433&perks=839105230,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
+dimwishlist:item=893527433&perks=1467527085,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
+dimwishlist:item=893527433&perks=202670084,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
+dimwishlist:item=893527433&perks=3250034553,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
+dimwishlist:item=893527433&perks=1482024992,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
+dimwishlist:item=893527433&perks=839105230,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
+dimwishlist:item=893527433&perks=1467527085,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
+dimwishlist:item=893527433&perks=202670084,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
+dimwishlist:item=893527433&perks=3250034553,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
+dimwishlist:item=893527433&perks=1482024992,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
