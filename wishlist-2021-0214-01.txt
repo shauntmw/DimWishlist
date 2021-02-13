@@ -70,6 +70,7 @@ dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391#not
 
 // -----
 // Truthteller - Special Granade Launcher - Lightweight Frame (Blinding)
+// PvE: Blinding Grenade + Quickdraw + auto loading
 dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,706527188#notes:PvE - MW Velocity
 
 // -----
@@ -499,6 +500,13 @@ dimwishlist:item=958384347&perks=3525010810,2822142346,3977735242,1275731761#not
 dimwishlist:item=958384347&perks=981914802,3492396210,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
 dimwishlist:item=958384347&perks=3525010810,3492396210,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
 
+// -----
+// The Messenger
+// PvE: Outlaw + Desperado
+dimwishlist:item=3658188704&perks=839105230,3230963543,1168162263,3047969693#notes:PvE - MW Reload
+dimwishlist:item=3658188704&perks=839105230,679225683,1168162263,3047969693#notes:PvE - MW Reload
+
+
 // --------------------------------------------------------------------------
 // Iron Banner
 // --------------------------------------------------------------------------
@@ -692,6 +700,7 @@ dimwishlist:item=1097616550&perks=3250034553,3230963543,2387244414,4104185692#no
 dimwishlist:item=1097616550&perks=1392496348,3230963543,2387244414,4104185692#notes:PvE - MW Reload
 dimwishlist:item=1097616550&perks=1482024992,3230963543,2387244414,4104185692#notes:PvE - MW Reload
 
+// -----
 // Far Future - Solar Sniper - Adaptive Frame
 // PvE: Auto loading + Wellspring
 dimwishlist:item=893527433&perks=839105230,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
@@ -704,3 +713,23 @@ dimwishlist:item=893527433&perks=1467527085,2420895100,3300816228,3592538738#not
 dimwishlist:item=893527433&perks=202670084,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
 dimwishlist:item=893527433&perks=3250034553,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
 dimwishlist:item=893527433&perks=1482024992,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
+
+// -----
+// Eternal Blazon - Arc Scout Rifle - Lightweight Frame
+// PvE: Rapid hit + Thresh
+dimwishlist:item=3514096004&perks=194952923,3230963543,247725512,2726471870#notes:PvE - MW Reload
+dimwishlist:item=3514096004&perks=1628165637,3230963543,247725512,2726471870#notes:PvE - MW Reload
+dimwishlist:item=3514096004&perks=194952923,679225683,247725512,2726471870#notes:PvE - MW Reload
+dimwishlist:item=3514096004&perks=1628165637,679225683,247725512,2726471870#notes:PvE - MW Reload
+
+// -----
+// Code Duello - Solar Rocket Launcher - High Impact Frame
+// PvE: Auto loading + Assassin
+dimwishlist:item=2496242052&perks=981914802,1996142143,3300816228,2010801679#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2496242052&perks=1441682018,1996142143,3300816228,2010801679#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2496242052&perks=3525010810,1996142143,3300816228,2010801679#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2496242052&perks=981914802,2822142346,3300816228,2010801679#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2496242052&perks=1441682018,2822142346,3300816228,2010801679#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2496242052&perks=3525010810,2822142346,3300816228,2010801679#notes:PvE - MW Blast or Velocity
+
+// -----
