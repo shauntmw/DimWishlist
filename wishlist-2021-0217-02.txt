@@ -214,11 +214,20 @@ dimwishlist:item=2891672170&perks=1332244541,3142289711,3300816228,1546637391#no
 
 // -----
 // Berenger's Memory - Void Heavy Grenade Launcher - Rapid fire Frame
-// PvE: Field prrp + Demolitionist
+// PvE: Field prep + Demolitionist
 dimwishlist:item=407621213&perks=1441682018,3301904089,2869569095,3523296417#notes:PvE - MW Blast or Velocity
 dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3523296417#notes:PvE - MW Blast or Velocity
 dimwishlist:item=407621213&perks=1441682018,3373736292,2869569095,3523296417#notes:PvE - MW Blast or Velocity
 dimwishlist:item=407621213&perks=3525010810,3373736292,2869569095,3523296417#notes:PvE - MW Blast or Velocity
+
+// -----
+// The Last Dance - Sidearm
+// Not used...
+
+// -----
+// Interference IV - Arc Heavy Grenade - Adaptive Frame
+// PvE: Spike Grenade + Auto loading + Full court
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110#notes:PvE - MW Velocity
 
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
@@ -638,6 +647,7 @@ dimwishlist:item=42351395&perks=1844523823,3796465595,2010801679,1275731761#note
 // PvE: Feeding Frenzy + Thresh
 dimwishlist:item=3512349612&perks=839105230,2969185026,2779035018,2726471870#notes:PvE - MW Charge
 
+// -----
 // Bonechiller - Void Slug Shotgun - Precision Frame
 // PvE: Auto Loading + Demolitionist
 dimwishlist:item=4037745684&perks=839105230,791862061,3300816228,3523296417#notes:PvE - MW Range
@@ -672,6 +682,12 @@ dimwishlist:item=607191995&perks=202670084,2969185026,1556840489,1546637391#note
 dimwishlist:item=607191995&perks=3250034553,2969185026,1556840489,1546637391#notes:PvE - MW Range
 dimwishlist:item=607191995&perks=1482024992,2969185026,1556840489,1546637391#notes:PvE - MW Range
 
+// -----
+// Biting Winds - Kinetic Bow - Precision Frame
+// PvE: Killing Wind + Explosive Head
+dimwishlist:item=1621657423&perks=2801223209,3429800428,2450788523,3365897133#notes:PvE - MW Draw Time
+dimwishlist:item=1621657423&perks=2801223209,3827198035,2450788523,3365897133#notes:PvE - MW Draw Time
+
 // --------------------------------------------------------------------------
 // Last Wish
 // --------------------------------------------------------------------------
@@ -685,6 +701,10 @@ dimwishlist:item=2545083870&perks=3525010810,3492396210,3977735242,957782887#not
 // PvE: Tracking + Auto Loading
 dimwishlist:item=2545083870&perks=1478423395,1996142143,3977735242,3300816228#notes:PvE - MW Blast Radius
 dimwishlist:item=2545083870&perks=1844523823,1996142143,3977735242,3300816228#notes:PvE - MW Blast Radius
+
+// The Supremacy - Kinetic Sniper - Rapid fire frame
+// PvP or PvE: Snapshot + Triple Tap
+dimwishlist:item=686951703&perks=839105230,1087426260,957782887,3400784728#notes:PvP or PvE - MW Reload
 
 // --------------------------------------------------------------------------
 // Season of Chosen
@@ -730,3 +750,23 @@ dimwishlist:item=2496242052&perks=1844523823,2822142346,951095735,3927722942#not
 dimwishlist:item=2496242052&perks=1441682018,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
 
 // -----
+// Imperial Needle - Void Bow - Lightweight Frame
+// PvE: Archer's Tempo + Frenzy
+dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,4104185692#notes:PvE - MW Draw Time
+dimwishlist:item=3460122497&perks=2801223209,3827198035,201365942,4104185692#notes:PvE - MW Draw Time
+
+// -----
+// Brass Attacks - Void Sidearm - Agressive Burst
+// PvE: Threat Detector + Frenzy
+dimwishlist:item=2121785039&perks=1467527085,1087426260,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=202670084,1087426260,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=3250034553,1087426260,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=1482024992,1087426260,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=1467527085,3230963543,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=202670084,3230963543,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=3250034553,3230963543,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=1482024992,3230963543,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=1467527085,679225683,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=202670084,679225683,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=3250034553,679225683,4071163871,4104185692#notes:PvE - MW Reload
+dimwishlist:item=2121785039&perks=1482024992,679225683,4071163871,4104185692#notes:PvE - MW Reload
