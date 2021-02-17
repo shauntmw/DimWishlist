@@ -229,6 +229,10 @@ dimwishlist:item=407621213&perks=3525010810,3373736292,2869569095,3523296417#not
 // PvE: Spike Grenade + Auto loading + Full court
 dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110#notes:PvE - MW Velocity
 
+// -----
+// Tarantula - Arc Linear Fusion Rifle
+// Not used...
+
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
 // --------------------------------------------------------------------------
@@ -770,3 +774,13 @@ dimwishlist:item=2121785039&perks=1467527085,679225683,4071163871,4104185692#not
 dimwishlist:item=2121785039&perks=202670084,679225683,4071163871,4104185692#notes:PvE - MW Reload
 dimwishlist:item=2121785039&perks=3250034553,679225683,4071163871,4104185692#notes:PvE - MW Reload
 dimwishlist:item=2121785039&perks=1482024992,679225683,4071163871,4104185692#notes:PvE - MW Reload
+
+// -----
+// Threaded Needle - Void Linear Fusion Rifle - Precision Frame
+// PvE: Auto loading + Vorpal
+dimwishlist:item=3075224551&perks=202670084,2680121939,3300816228,1546637391#notes:PvE - MW Reload
+dimwishlist:item=3075224551&perks=3250034553,2680121939,3300816228,1546637391#notes:PvE - MW Reload
+dimwishlist:item=3075224551&perks=1482024992,2680121939,3300816228,1546637391#notes:PvE - MW Reload
+dimwishlist:item=3075224551&perks=202670084,2969185026,3300816228,1546637391#notes:PvE - MW Reload
+dimwishlist:item=3075224551&perks=3250034553,2969185026,3300816228,1546637391#notes:PvE - MW Reload
+dimwishlist:item=3075224551&perks=1482024992,2969185026,3300816228,1546637391#notes:PvE - MW Reload
