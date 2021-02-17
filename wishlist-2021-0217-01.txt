@@ -724,12 +724,9 @@ dimwishlist:item=3514096004&perks=1628165637,679225683,247725512,2726471870#note
 
 // -----
 // Code Duello - Solar Rocket Launcher - High Impact Frame
-// PvE: Auto loading + Assassin
-dimwishlist:item=2496242052&perks=981914802,1996142143,3300816228,2010801679#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2496242052&perks=1441682018,1996142143,3300816228,2010801679#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2496242052&perks=3525010810,1996142143,3300816228,2010801679#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2496242052&perks=981914802,2822142346,3300816228,2010801679#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2496242052&perks=1441682018,2822142346,3300816228,2010801679#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2496242052&perks=3525010810,2822142346,3300816228,2010801679#notes:PvE - MW Blast or Velocity
+// PvE: Impulse Amplifier + Lasting Impression
+dimwishlist:item=2496242052&perks=1478423395,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2496242052&perks=1844523823,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2496242052&perks=1441682018,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
 
 // -----
