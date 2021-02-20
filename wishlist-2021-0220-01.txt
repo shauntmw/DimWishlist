@@ -225,6 +225,10 @@ dimwishlist:item=407621213&perks=3525010810,3373736292,2869569095,3523296417#not
 // Not used...
 
 // -----
+// Nature of the Beast - Hand Cannon
+// Not used...
+
+// -----
 // Interference IV - Arc Heavy Grenade - Adaptive Frame
 // PvE: Spike Grenade + Auto loading + Full court
 dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110#notes:PvE - MW Velocity
@@ -726,17 +730,8 @@ dimwishlist:item=1097616550&perks=1482024992,3230963543,2387244414,4104185692#no
 
 // -----
 // Far Future - Solar Sniper - Adaptive Frame
-// PvE: Auto loading + Wellspring
-dimwishlist:item=893527433&perks=839105230,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
-dimwishlist:item=893527433&perks=1467527085,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
-dimwishlist:item=893527433&perks=202670084,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
-dimwishlist:item=893527433&perks=3250034553,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
-dimwishlist:item=893527433&perks=1482024992,1087426260,3300816228,3592538738#notes:PvE - MW Range or Stability
-dimwishlist:item=893527433&perks=839105230,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
-dimwishlist:item=893527433&perks=1467527085,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
-dimwishlist:item=893527433&perks=202670084,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
-dimwishlist:item=893527433&perks=3250034553,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
-dimwishlist:item=893527433&perks=1482024992,2420895100,3300816228,3592538738#notes:PvE - MW Range or Stability
+// PvE: Auto loading + Frenzy
+dimwishlist:item=893527433&perks=839105230,1087426260,3300816228,4104185692#notes:PvE - MW Range or Stability
 
 // -----
 // Eternal Blazon - Arc Scout Rifle - Lightweight Frame
