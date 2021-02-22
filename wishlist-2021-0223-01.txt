@@ -168,12 +168,8 @@ dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#note
 dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
 
 // -----
-// Escape Velocity - Kinetic SMG - Lightweight Frame
-// PvE: Zen Movement + Vorpal
-dimwishlist:item=1786797708&perks=663495155,106909392,2387244414,1546637391#notes:PvE - MW Reload
-dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#notes:PvE - MW Reload
-dimwishlist:item=1786797708&perks=663495155,3230963543,2387244414,1546637391#notes:PvE - MW Reload
-dimwishlist:item=1786797708&perks=663495154,3230963543,2387244414,1546637391#notes:PvE - MW Reload
+// Escape Velocity - Kinetic SMG - Lightweight Frame (Sunsetting)
+// Not farming... sunset soon.
 
 // -----
 // Wishbringer - Solar Shotgun - Rapid Frame
@@ -237,9 +233,14 @@ dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110#not
 // Tarantula - Arc Linear Fusion Rifle
 // Not used...
 
-// ---
+// -----
 // Lonesome - Kinetic Sidearm
 // Not used...
+
+// -----
+// Retrofuturist - Void Shotgun - Lightweight Frame
+// PvP: Quickdraw + Snapshot
+dimwishlist:item=1402766122&perks=1332244541,3142289711,706527188,957782887#notes:PvP - MW Range
 
 // --------------------------------------------------------------------------
 // Vanguard Strike / Nightfall
@@ -359,9 +360,11 @@ dimwishlist:item=1513993763&perks=1840239774,3230963543,4071163871,3592538738#no
 dimwishlist:item=1513993763&perks=3250034553,3230963543,4071163871,3592538738#notes:PvE - MW Reload
 dimwishlist:item=1513993763&perks=1482024992,3230963543,4071163871,3592538738#notes:PvE - MW Reload
 
+// -----
 // Corsair's Wrath - Sonar Linear Fusion Rifle
 // Not using...
 
+// -----
 // Royal Chase - Void Scout Rifle - Precision Frame
 // PvE: Auto Loading + Thresh
 dimwishlist:item=2776503072&perks=3250034553,3230963543,3300816228,2726471870#notes:PvE - MW Reload
@@ -423,15 +426,7 @@ dimwishlist:item=1561006927&perks=1482024992,679225683,1354429876,1546637391#not
 
 // -----
 // Seventh Seraph SI-2 - Void Sidearm - Lightweight Frame
-// PvE: Demolitionist + Vorpal
-dimwishlist:item=3937866388&perks=4090651448,106909392,3523296417,1546637391#notes:PvE - MW Any Except Handling
-dimwishlist:item=3937866388&perks=202670084,106909392,3523296417,1546637391#notes:PvE - MW Any Except Handling
-dimwishlist:item=3937866388&perks=3250034553,106909392,3523296417,1546637391#notes:PvE - MW Any Except Handling
-dimwishlist:item=3937866388&perks=1482024992,106909392,3523296417,1546637391#notes:PvE - MW Any Except Handling
-dimwishlist:item=3937866388&perks=4090651448,3230963543,3523296417,1546637391#notes:PvE - MW Any Except Handling
-dimwishlist:item=3937866388&perks=202670084,3230963543,3523296417,1546637391#notes:PvE - MW Any Except Handling
-dimwishlist:item=3937866388&perks=3250034553,3230963543,3523296417,1546637391#notes:PvE - MW Any Except Handling
-dimwishlist:item=3937866388&perks=1482024992,3230963543,3523296417,1546637391#notes:PvE - MW Any Except Handling
+// Not getting... sunset soon.
 
 // -----
 // Seventh Seraph VY-7 - Arc SMG - Precision Frame
