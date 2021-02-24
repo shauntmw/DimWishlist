@@ -760,15 +760,15 @@ dimwishlist:item=3514096004&perks=1628165637,679225683,247725512,2726471870#note
 // -----
 // Code Duello - Solar Rocket Launcher - High Impact Frame
 // PvE: Field Prep + Frenzy
+dimwishlist:item=2496242052&perks=1478423395,2985827016,2869569095,4104185692#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2496242052&perks=1441682018,2985827016,2869569095,4104185692#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2496242052&perks=3525010810,2985827016,2869569095,4104185692#notes:PvE - MW Blast or Velocity
 dimwishlist:item=2496242052&perks=1478423395,1996142143,2869569095,4104185692#notes:PvE - MW Blast or Velocity
 dimwishlist:item=2496242052&perks=1441682018,1996142143,2869569095,4104185692#notes:PvE - MW Blast or Velocity
 dimwishlist:item=2496242052&perks=3525010810,1996142143,2869569095,4104185692#notes:PvE - MW Blast or Velocity
 dimwishlist:item=2496242052&perks=1478423395,2822142346,2869569095,4104185692#notes:PvE - MW Blast or Velocity
 dimwishlist:item=2496242052&perks=1441682018,2822142346,2869569095,4104185692#notes:PvE - MW Blast or Velocity
 dimwishlist:item=2496242052&perks=3525010810,2822142346,2869569095,4104185692#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2496242052&perks=1478423395,3796465595,2869569095,4104185692#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2496242052&perks=1441682018,3796465595,2869569095,4104185692#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2496242052&perks=3525010810,3796465595,2869569095,4104185692#notes:PvE - MW Blast or Velocity
 
 // -----
 // Imperial Needle - Void Bow - Lightweight Frame
