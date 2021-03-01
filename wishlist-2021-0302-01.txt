@@ -236,7 +236,11 @@ dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110#not
 
 // -----
 // Tarantula - Arc Linear Fusion Rifle
-// Not used...
+// PvE: Field Prep + Wellspring
+dimwishlist:item=3335343363&perks=3250034553,2680121939,2869569095,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=3335343363&perks=1482024992,2680121939,2869569095,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=3335343363&perks=3250034553,3868766766,2869569095,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=3335343363&perks=1482024992,3868766766,2869569095,3592538738#notes:PvE - MW Range or Reload
 
 // -----
 // Lonesome - Kinetic Sidearm
@@ -261,6 +265,15 @@ dimwishlist:item=35794111&perks=1261178282,3625355092,1749209109,1546637391#note
 dimwishlist:item=35794111&perks=1261178282,599007201,1749209109,1546637391#notes:PvE - MW - Impact
 dimwishlist:item=35794111&perks=1261178282,2349202967,1749209109,1546637391#notes:PvE - MW - Impact
 dimwishlist:item=35794111&perks=1261178282,269888150,1749209109,1546637391#notes:PvE - MW - Impact
+
+// -----
+// Timeline's Vertex - Solar Fusion Rifle - Adaptive Frame
+// PvE: Field Prep + Demolitionist
+dimwishlist:item=3055192515&perks=1628165637,2680121939,2869569095,3523296417#notes:PvE - MW - Stability or Reload
+
+// -----
+// Honor's Edge - Arc Sword - Adaptive Frame
+dimwishlist:item=-2276266837#notes:Use Bequest instead.
 
 // --------------------------------------------------------------------------
 // Vanguard Strike / Nightfall
