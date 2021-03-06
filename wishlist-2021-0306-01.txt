@@ -184,6 +184,21 @@ dimwishlist:item=3356526253&perks=1332244541,2420895100,2869569095,3300816228#no
 dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,3438534621#notes:PvE
 
 // -----
+// Dead Man's Tale
+// PvP: Subsistence
+dimwishlist:item=3654674561&perks=839105230,3142289711,1820235745,3465198467#notes:PvP
+dimwishlist:item=3654674561&perks=839105230,3142289711,1820235745,990298390#notes:PvP
+dimwishlist:item=3654674561&perks=839105230,3142289711,1820235745,1067908860#notes:PvP
+
+// PvE: Outlaw
+dimwishlist:item=3654674561&perks=202670084,3230963543,1168162263,4259401308#notes:PvE
+dimwishlist:item=3654674561&perks=3250034553,3230963543,1168162263,4259401308#notes:PvE
+dimwishlist:item=3654674561&perks=1482024992,3230963543,1168162263,4259401308#notes:PvE
+dimwishlist:item=3654674561&perks=202670084,679225683,1168162263,4259401308#notes:PvE
+dimwishlist:item=3654674561&perks=3250034553,679225683,1168162263,4259401308#notes:PvE
+dimwishlist:item=3654674561&perks=1482024992,679225683,1168162263,4259401308#notes:PvE
+
+// -----
 // Toil and Trouble - Kinetic Shotgun - Agressive Frame
 // PvE: Full Auto + Auto Loading
 dimwishlist:item=2957367743&perks=1332244541,791862061,2117683199,3300816228#notes:PvE - MW Range
@@ -321,6 +336,16 @@ dimwishlist:item=4156253727&perks=1467527085,1087426260,2846385770,1546637391#no
 dimwishlist:item=4156253727&perks=202670084,1087426260,2846385770,1546637391#notes:PvE - MW Range or Reload
 dimwishlist:item=4156253727&perks=3250034553,1087426260,2846385770,1546637391#notes:PvE - MW Range or Reload
 dimwishlist:item=4156253727&perks=1482024992,1087426260,2846385770,1546637391#notes:PvE - MW Range or Reload
+
+// -----
+// Shadow Price - Arc 450 Auto Rifle - Precision Frame
+// PvE: Surplus + One for all
+dimwishlist:item=2633186522&perks=839105230,106909392,3436462433,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2633186522&perks=3250034553,106909392,3436462433,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2633186522&perks=1482024992,106909392,3436462433,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2633186522&perks=839105230,3230963543,3436462433,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2633186522&perks=3250034553,3230963543,3436462433,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2633186522&perks=1482024992,3230963543,3436462433,4049631843#notes:PvE - MW Range or Reload
 
 // --------------------------------------------------------------------------
 // Crucible
