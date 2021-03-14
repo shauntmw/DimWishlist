@@ -380,6 +380,12 @@ dimwishlist:item=409551876&perks=202670084,1087426260,4071163871,4049631843#note
 dimwishlist:item=409551876&perks=3250034553,1087426260,4071163871,4049631843#notes:PvE - MW Range
 
 // --------------------------------------------------------------------------
+// Gambit
+// --------------------------------------------------------------------------
+// Trinary System - Solar Fusion - Adaptive Frame
+dimwishlist:item=-3258665412#notes:Use Timeline's Vertex instead.
+
+// --------------------------------------------------------------------------
 // Deep Stone Crypt
 // --------------------------------------------------------------------------
 // Heritage - Kinetic Slug Shotgun - Precision Frame
@@ -899,6 +905,13 @@ dimwishlist:item=607191995&perks=1482024992,2969185026,1556840489,1546637391#not
 // PvE: Killing Wind + Explosive Head
 dimwishlist:item=1621657423&perks=2801223209,3429800428,2450788523,3365897133#notes:PvE - MW Draw Time
 dimwishlist:item=1621657423&perks=2801223209,3827198035,2450788523,3365897133#notes:PvE - MW Draw Time
+
+// --------------------------------------------------------------------------
+// Dreaming City
+// --------------------------------------------------------------------------
+// Retold Tale - Void Shotgun - Precision Frame
+// PvP: Quickdraw + Vorpal
+dimwishlist:item=346136302&perks=1332244541,3142289711,706527188,1546637391#notes:PvP - MW Range
 
 // --------------------------------------------------------------------------
 // Last Wish
