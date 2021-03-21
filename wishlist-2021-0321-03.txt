@@ -705,6 +705,24 @@ dimwishlist:item=1313528549&perks=1261178282,599007201,1749209109,2396489472#not
 dimwishlist:item=1313528549&perks=1261178282,2349202967,1749209109,2396489472#notes:PvE - MW Impact
 dimwishlist:item=1313528549&perks=1261178282,269888150,1749209109,2396489472#notes:PvE - MW Impact
 
+// -----
+// Igneous Hammer - Solar 120 Hand Cannon - Agressive Frame
+// PvP: Quickdraw + Snapshot
+dimwishlist:item=2351180975&perks=1467527085,1885400500,706527188,957782887#notes:PvP - MW Range
+dimwishlist:item=2351180975&perks=202670084,1885400500,706527188,957782887#notes:PvP - MW Range
+dimwishlist:item=2351180975&perks=3250034553,1885400500,706527188,957782887#notes:PvP - MW Range
+dimwishlist:item=2351180975&perks=1482024992,1885400500,706527188,957782887#notes:PvP - MW Range
+
+// PvE: Outlaw + One for all
+dimwishlist:item=2351180975&perks=1467527085,3230963543,1168162263,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2351180975&perks=202670084,3230963543,1168162263,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2351180975&perks=3250034553,3230963543,1168162263,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2351180975&perks=1482024992,3230963543,1168162263,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2351180975&perks=1467527085,679225683,1168162263,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2351180975&perks=202670084,679225683,1168162263,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2351180975&perks=3250034553,679225683,1168162263,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=2351180975&perks=1482024992,679225683,1168162263,4049631843#notes:PvE - MW Range or Reload
+
 // --------------------------------------------------------------------------
 // Iron Banner
 // --------------------------------------------------------------------------
