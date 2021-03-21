@@ -390,18 +390,9 @@ dimwishlist:item=-3258665412#notes:Use Timeline's Vertex instead.
 // --------------------------------------------------------------------------
 // Heritage - Kinetic Slug Shotgun - Precision Frame
 // PvE: Reconstruction + Recombination
-dimwishlist:item=4248569242&perks=1467527085,791862061,1523832109,469285294#notes:PvE - MW Range
-dimwishlist:item=4248569242&perks=202670084,791862061,1523832109,469285294#notes:PvE - MW Range
-dimwishlist:item=4248569242&perks=3250034553,791862061,1523832109,469285294#notes:PvE - MW Range
-dimwishlist:item=4248569242&perks=1482024992,791862061,1523832109,469285294#notes:PvE - MW Range
 dimwishlist:item=4248569242&perks=1467527085,106909392,1523832109,469285294#notes:PvE - MW Range
 dimwishlist:item=4248569242&perks=202670084,106909392,1523832109,469285294#notes:PvE - MW Range
 dimwishlist:item=4248569242&perks=3250034553,106909392,1523832109,469285294#notes:PvE - MW Range
-dimwishlist:item=4248569242&perks=1482024992,106909392,1523832109,469285294#notes:PvE - MW Range
-dimwishlist:item=4248569242&perks=1467527085,3142289711,1523832109,469285294#notes:PvE - MW Range
-dimwishlist:item=4248569242&perks=202670084,3142289711,1523832109,469285294#notes:PvE - MW Range
-dimwishlist:item=4248569242&perks=3250034553,3142289711,1523832109,469285294#notes:PvE - MW Range
-dimwishlist:item=4248569242&perks=1482024992,3142289711,1523832109,469285294#notes:PvE - MW Range
 
 // -----
 // Succession - Kinetic Sniper - Aggressive Frame
