@@ -170,8 +170,15 @@ dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#note
 
 // -----
 // Bad Omens - Void Rocket Launcher - Aggresive Frame
-// PvP or PvE: Tracking + Cluster Bomb
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
+// PvE: Auto-Loading + Cluster Bomb
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=3525010810,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
 
 // -----
 // Escape Velocity - Kinetic SMG - Lightweight Frame
@@ -320,13 +327,10 @@ dimwishlist:item=4146702548&perks=981914802,3301904089,2869569095,2010801679#not
 
 // -----
 // Royal Entry - Void Rocket - Precision Frame
-// PvE: Field Prep + Clown Cartridge
-dimwishlist:item=2448907086&perks=1441682018,1996142143,2869569095,2284787283#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2448907086&perks=3525010810,1996142143,2869569095,2284787283#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2448907086&perks=1441682018,2822142346,2869569095,2284787283#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2448907086&perks=3525010810,2822142346,2869569095,2284787283#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2448907086&perks=1441682018,3796465595,2869569095,2284787283#notes:PvE - MW Blast or Velocity
-dimwishlist:item=2448907086&perks=3525010810,3796465595,2869569095,2284787283#notes:PvE - MW Blast or Velocity
+// PvE: Impulse Amplifier + Clown Cartridge
+dimwishlist:item=2448907086&perks=981914802,2822142346,951095735,2284787283#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2448907086&perks=1441682018,2822142346,951095735,2284787283#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2448907086&perks=3525010810,2822142346,951095735,2284787283#notes:PvE - MW Blast or Velocity
 
 // -----
 // The Third Axion - Arc Pulse Rifle - Adaptive Frame
@@ -660,11 +664,13 @@ dimwishlist:item=2742490609&perks=1482024992,3230963543,2779035018,2846385770#no
 
 // -----
 // Hoosegow - Arc Rocket Launcher - Adaptive Frame
-// PvE: Feld Prep + Cluster Bomb
-dimwishlist:item=3669616453&perks=1441682018,1996142143,2869569095,1275731761#notes:PvE - MW Velocity or Blase Radius
-dimwishlist:item=3669616453&perks=3525010810,1996142143,2869569095,1275731761#notes:PvE - MW Velocity or Blase Radius
-dimwishlist:item=3669616453&perks=1441682018,2822142346,2869569095,1275731761#notes:PvE - MW Velocity or Blase Radius
-dimwishlist:item=3669616453&perks=3525010810,2822142346,2869569095,1275731761#notes:PvE - MW Velocity or Blase Radius
+// PvE: Auto-Loading + Cluster Bomb
+dimwishlist:item=3669616453&perks=1478423395,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3669616453&perks=1441682018,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3669616453&perks=3525010810,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3669616453&perks=1478423395,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3669616453&perks=1441682018,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3669616453&perks=3525010810,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
 
 // --------------------------------------------------------------------------
 // Trials of Osiris
@@ -705,11 +711,16 @@ dimwishlist:item=1907698332&perks=1482024992,679225683,3643424744,2846385770#not
 
 // -----
 // Tomorrow's Answer - Void Rocket Launcher - High Impact Frame
-// PvP and PvE: Tracking + Cluster Bomb
-dimwishlist:item=958384347&perks=981914802,2822142346,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
-dimwishlist:item=958384347&perks=3525010810,2822142346,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
-dimwishlist:item=958384347&perks=981914802,3492396210,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
-dimwishlist:item=958384347&perks=3525010810,3492396210,3977735242,1275731761#notes:PvP or PvE - MW Velocity or Blast Radius
+// PvP: Tracking + Snapshot
+dimwishlist:item=958384347&perks=981914802,2822142346,3977735242,957782887#notes:PvP - MW Velocity
+dimwishlist:item=958384347&perks=1441682018,2822142346,3977735242,957782887#notes:PvP - MW Velocity
+dimwishlist:item=958384347&perks=3525010810,2822142346,3977735242,957782887#notes:PvP - MW Velocity
+
+// PvE: Auto-Loading + Chain Reaction
+dimwishlist:item=958384347&perks=981914802,1996142143,3300816228,2396489472#notes:PvE - MW Velocity
+dimwishlist:item=958384347&perks=3525010810,1996142143,3300816228,2396489472#notes:PvE - MW Velocity
+dimwishlist:item=958384347&perks=981914802,2822142346,3300816228,2396489472#notes:PvE - MW Velocity
+dimwishlist:item=958384347&perks=3525010810,2822142346,3300816228,2396489472#notes:PvE - MW Velocity
 
 // -----
 // The Messenger - Kinetic Pulse Rifle - High Impact Frame
@@ -751,11 +762,13 @@ dimwishlist:item=2351180975&perks=1482024992,679225683,1168162263,4049631843#not
 // PvP: Snapshot + Tracking
 dimwishlist:item=136525518&perks=3525010810,2822142346,957782887,3977735242#notes:PvP - MW Velocity or Blast Radius
 
-// PvE: Field Prep + Assassin
-dimwishlist:item=136525518&perks=1441682018,1996142143,2869569095,2010801679#notes:PvE - MW Blast Radius
-dimwishlist:item=136525518&perks=3525010810,1996142143,2869569095,2010801679#notes:PvE - MW Blast Radius
-dimwishlist:item=136525518&perks=1441682018,2822142346,2869569095,2010801679#notes:PvE - MW Blast Radius
-dimwishlist:item=136525518&perks=3525010810,2822142346,2869569095,2010801679#notes:PvE - MW Blast Radius
+// PvE: Auto Loading + Assassin
+dimwishlist:item=136525518&perks=1478423395,1996142143,3300816228,2010801679#notes:PvE - MW Blast Radius
+dimwishlist:item=136525518&perks=1441682018,1996142143,3300816228,2010801679#notes:PvE - MW Blast Radius
+dimwishlist:item=136525518&perks=3525010810,1996142143,3300816228,2010801679#notes:PvE - MW Blast Radius
+dimwishlist:item=136525518&perks=1478423395,2822142346,3300816228,2010801679#notes:PvE - MW Blast Radius
+dimwishlist:item=136525518&perks=1441682018,2822142346,3300816228,2010801679#notes:PvE - MW Blast Radius
+dimwishlist:item=136525518&perks=3525010810,2822142346,3300816228,2010801679#notes:PvE - MW Blast Radius
 
 // -----
 // Bite of the Fox - Kinetic Sniper - Agressive Frame
