@@ -885,17 +885,15 @@ dimwishlist:item=2870169846&perks=1482024992,679225683,3436462433,3592538738#not
 
 // -----
 // Subzero Salvo - Arc Rocket Launcher - Precision Frame
-// PvP: Killing Wind + Thresh
-dimwishlist:item=42351395&perks=981914802,2822142346,2450788523,2726471870#notes:PvP - MW Blast or Velocity
-dimwishlist:item=42351395&perks=3525010810,2822142346,2450788523,2726471870#notes:PvP - MW Blast or Velocity
-dimwishlist:item=42351395&perks=981914802,3492396210,2450788523,2726471870#notes:PvP - MW Blast or Velocity
-dimwishlist:item=42351395&perks=3525010810,3492396210,2450788523,2726471870#notes:PvP - MW Blast or Velocity
-
-// PvE: Assassin + Cluster Bomb
-dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,1275731761#notes:PvE - MW Blast
-dimwishlist:item=42351395&perks=1844523823,1996142143,2010801679,1275731761#notes:PvE - MW Blast
-dimwishlist:item=42351395&perks=1478423395,3796465595,2010801679,1275731761#notes:PvE - MW Blast
-dimwishlist:item=42351395&perks=1844523823,3796465595,2010801679,1275731761#notes:PvE - MW Blast
+// PvE: Assassin + Chain Reaction
+dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=981914802,1996142143,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=1441682018,1996142143,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=3525010810,1996142143,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=1478423395,2822142346,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=981914802,2822142346,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=1441682018,2822142346,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE - MW Blast or Velocity
 
 // -----
 // Coriolis Force - Void Fusion Rifle - Agressive Frame
