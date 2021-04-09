@@ -522,11 +522,15 @@ dimwishlist:item=2714022207&perks=3250034553,2969185026,2866798147,2213355989#no
 
 // -----
 // Royal Chase - Void Scout Rifle - Precision Frame
-// PvE: Auto Loading + Thresh
-dimwishlist:item=2776503072&perks=3250034553,3230963543,3300816228,2726471870#notes:PvE - MW Reload
-dimwishlist:item=2776503072&perks=3250034553,106909392,3300816228,2726471870#notes:PvE - MW Reload
-dimwishlist:item=2776503072&perks=3250034553,1087426260,3300816228,2726471870#notes:PvE - MW Reload
-dimwishlist:item=2776503072&perks=3250034553,3142289711,3300816228,2726471870#notes:PvE - MW Reload
+// PvE: No Distraction + Thresh
+dimwishlist:item=2776503072&perks=839105230,106909392,2866798147,2726471870#notes:PvE - MW Reload
+dimwishlist:item=2776503072&perks=1467527085,106909392,2866798147,2726471870#notes:PvE - MW Reload
+dimwishlist:item=2776503072&perks=202670084,106909392,2866798147,2726471870#notes:PvE - MW Reload
+dimwishlist:item=2776503072&perks=3250034553,106909392,2866798147,2726471870#notes:PvE - MW Reload
+dimwishlist:item=2776503072&perks=839105230,3230963543,2866798147,2726471870#notes:PvE - MW Reload
+dimwishlist:item=2776503072&perks=1467527085,3230963543,2866798147,2726471870#notes:PvE - MW Reload
+dimwishlist:item=2776503072&perks=202670084,3230963543,2866798147,2726471870#notes:PvE - MW Reload
+dimwishlist:item=2776503072&perks=3250034553,3230963543,2866798147,2726471870#notes:PvE - MW Reload
 
 // -----
 // Blast Battue - Arc Heavy Grenade Launcher - Adaptive Frame
