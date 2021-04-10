@@ -410,6 +410,22 @@ dimwishlist:item=409551876&perks=3250034553,1087426260,4071163871,4049631843#not
 // Trinary System - Solar Fusion - Adaptive Frame
 dimwishlist:item=-3258665412#notes:Use Timeline's Vertex instead.
 
+// -----
+// Crowd Pleaser - Void Heavy Grenade - Adaptiv Frame
+// PvE: Clown Cartridge + Chain Reaction
+dimwishlist:item=3565520715&perks=1478423395,2985827016,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=1844523823,2985827016,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=981914802,2985827016,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=3525010810,2985827016,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=1478423395,1380253176,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=1844523823,1380253176,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=981914802,1380253176,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=3525010810,1380253176,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=1478423395,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=1844523823,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=981914802,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=3565520715&perks=3525010810,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
 // --------------------------------------------------------------------------
