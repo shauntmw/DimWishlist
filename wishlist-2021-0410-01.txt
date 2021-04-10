@@ -1020,14 +1020,15 @@ dimwishlist:item=893527433&perks=839105230,1087426260,3300816228,4104185692#note
 
 // -----
 // Eternal Blazon - Arc Scout Rifle - Lightweight Frame
-// PvP: Quickdraw + Rangefinder
-dimwishlist:item=3514096004&perks=1628165637,1885400500,706527188,2846385770#notes:PvP - MW Any
+// PvP: Quickdraw + Thresh
+dimwishlist:item=3514096004&perks=1628165637,1561002382,706527188,2726471870#notes:PvP - MW Any
+dimwishlist:item=3514096004&perks=1628165637,1885400500,706527188,2726471870#notes:PvP - MW Any
 
-// PvE: Rapid hit + Thresh
-dimwishlist:item=3514096004&perks=194952923,3230963543,247725512,2726471870#notes:PvE - MW Reload
-dimwishlist:item=3514096004&perks=1628165637,3230963543,247725512,2726471870#notes:PvE - MW Reload
-dimwishlist:item=3514096004&perks=194952923,679225683,247725512,2726471870#notes:PvE - MW Reload
-dimwishlist:item=3514096004&perks=1628165637,679225683,247725512,2726471870#notes:PvE - MW Reload
+// PvE: Full Auto + Thresh
+dimwishlist:item=3514096004&perks=194952923,3230963543,4267945040,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=3514096004&perks=1628165637,3230963543,4267945040,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=3514096004&perks=194952923,679225683,4267945040,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=3514096004&perks=1628165637,679225683,4267945040,2726471870#notes:PvE - MW Range or Reload
 
 // -----
 // Code Duello - Solar Rocket Launcher - High Impact Frame
