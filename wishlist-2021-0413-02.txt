@@ -10,14 +10,14 @@ dimwishlist:item=2481881293&perks=2405638014,2680121939,1556840489,1546637391#no
 // -----
 // Night Watch - Kinetic Scout Rifle - Lightweight Frame
 // PvP: Snapshot + Explosive Payload
-dimwishlist:item=3504336176&perks=839105230,106909392,957782887,3038247973#notes:PvP - MW Reload
-dimwishlist:item=3504336176&perks=1840239774,106909392,957782887,3038247973#notes:PvP - MW Reload
-dimwishlist:item=3504336176&perks=1392496348,106909392,957782887,3038247973#notes:PvP - MW Reload
-dimwishlist:item=3504336176&perks=1482024992,106909392,957782887,3038247973#notes:PvP - MW Reload
-dimwishlist:item=3504336176&perks=839105230,3230963543,957782887,3038247973#notes:PvP - MW Reload
-dimwishlist:item=3504336176&perks=1840239774,3230963543,957782887,3038247973#notes:PvP - MW Reload
-dimwishlist:item=3504336176&perks=1392496348,3230963543,957782887,3038247973#notes:PvP - MW Reload
-dimwishlist:item=3504336176&perks=1482024992,3230963543,957782887,3038247973#notes:PvP - MW Reload
+dimwishlist:item=3504336176&perks=839105230,106909392,957782887,3038247973#notes:PvP - MW Range or Reload
+dimwishlist:item=3504336176&perks=1840239774,106909392,957782887,3038247973#notes:PvP - MW Range or Reload
+dimwishlist:item=3504336176&perks=1392496348,106909392,957782887,3038247973#notes:PvP - MW Range or Reload
+dimwishlist:item=3504336176&perks=1482024992,106909392,957782887,3038247973#notes:PvP - MW Range or Reload
+dimwishlist:item=3504336176&perks=839105230,3230963543,957782887,3038247973#notes:PvP - MW Range or Reload
+dimwishlist:item=3504336176&perks=1840239774,3230963543,957782887,3038247973#notes:PvP - MW Range or Reload
+dimwishlist:item=3504336176&perks=1392496348,3230963543,957782887,3038247973#notes:PvP - MW Range or Reload
+dimwishlist:item=3504336176&perks=1482024992,3230963543,957782887,3038247973#notes:PvP - MW Range or Reload
 
 // PvE: Outlaw + Demolitionist
 dimwishlist:item=3504336176&perks=4090651448,106909392,1168162263,3523296417#notes:PvE - MW Reload
