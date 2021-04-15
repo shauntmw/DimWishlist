@@ -297,8 +297,11 @@ dimwishlist:item=35794111&perks=1261178282,269888150,1749209109,1546637391#notes
 
 // -----
 // Timeline's Vertex - Solar Fusion Rifle - Adaptive Frame
-// PvE: Field Prep + Demolitionist
-dimwishlist:item=3055192515&perks=1628165637,2680121939,2869569095,3523296417#notes:PvE - MW - Stability or Reload
+// PvE: Auto-loading + Demolitionist
+dimwishlist:item=3055192515&perks=194952923,1483536627,3300816228,3523296417#notes:PvE - MW - Stability or Range
+dimwishlist:item=3055192515&perks=1628165637,1483536627,3300816228,3523296417#notes:PvE - MW - Stability or Range
+dimwishlist:item=3055192515&perks=194952923,1687452232,3300816228,3523296417#notes:PvE - MW - Stability or Range
+dimwishlist:item=3055192515&perks=1628165637,1687452232,3300816228,3523296417#notes:PvE - MW - Stability or Range
 
 // -----
 // Honor's Edge - Arc Sword - Adaptive Frame
