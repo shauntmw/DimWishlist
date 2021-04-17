@@ -143,11 +143,11 @@ dimwishlist:item=188882152&perks=3151536501,3230963543,2846385770,2213355989#not
 dimwishlist:item=1162247618&perks=360593482,1885400500,2387244414,2846385770#notes:PvP - MW Any
 dimwishlist:item=1162247618&perks=3151536501,1885400500,2387244414,2846385770#notes:PvP - MW Any
 
-// PvE: Disruption Break + Rangefinder
-dimwishlist:item=1162247618&perks=360593482,3230963543,1683379515,2846385770#notes:PvE - MW Reload
-dimwishlist:item=1162247618&perks=3151536501,3230963543,1683379515,2846385770#notes:PvE - MW Reload
-dimwishlist:item=1162247618&perks=360593482,679225683,1683379515,2846385770#notes:PvE - MW Reload
-dimwishlist:item=1162247618&perks=3151536501,679225683,1683379515,2846385770#notes:PvE - MW Reload
+// PvE: Disruption Break + Dragonfly
+dimwishlist:item=1162247618&perks=360593482,3230963543,1683379515,2848615171#notes:PvE - MW Reload
+dimwishlist:item=1162247618&perks=3151536501,3230963543,1683379515,2848615171#notes:PvE - MW Reload
+dimwishlist:item=1162247618&perks=360593482,679225683,1683379515,2848615171#notes:PvE - MW Reload
+dimwishlist:item=1162247618&perks=3151536501,679225683,1683379515,2848615171#notes:PvE - MW Reload
 
 // -----
 // Whispering Slab - Kinetic Bow - Lightweight Frame
@@ -182,9 +182,7 @@ dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761#not
 
 // -----
 // Escape Velocity - Kinetic SMG - Lightweight Frame
-// PvE: Threat Detector + Vorpal
-dimwishlist:item=1786797708&perks=663495154,106909392,4071163871,1546637391#notes:PvE - MW Reload
-dimwishlist:item=1786797708&perks=663495154,3230963543,4071163871,1546637391#notes:PvE - MW Reload
+dimwishlist:item=-1786797708#notes:Use the Extraordinary Rendition instead.
 
 // -----
 // Wishbringer - Solar Shotgun - Rapid Frame
@@ -846,11 +844,15 @@ dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,1890422124#no
 dimwishlist:item=1641430382&perks=13792279,1885400500,706527188,2387244414#notes:PvP - MW Stability or Reload
 dimwishlist:item=1641430382&perks=2405638015,1885400500,706527188,2387244414#notes:PvP - MW Stability or Reload
 
-// PvE: Rapid Hit + Vorpal
-dimwishlist:item=1641430382&perks=679077872,1885400500,247725512,1546637391#notes:PvE - MW Reload
-dimwishlist:item=1641430382&perks=2405638014,1885400500,247725512,1546637391#notes:PvE - MW Reload
-dimwishlist:item=1641430382&perks=679077872,3230963543,247725512,1546637391#notes:PvE - MW Reload
-dimwishlist:item=1641430382&perks=2405638014,3230963543,247725512,1546637391#notes:PvE - MW Reload
+// PvE: Surplus + One for all
+dimwishlist:item=1641430382&perks=13792279,3230963543,3436462433,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=13792278,3230963543,3436462433,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=2405638015,3230963543,3436462433,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=2405638014,3230963543,3436462433,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=13792279,679225683,3436462433,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=13792278,679225683,3436462433,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=2405638015,679225683,3436462433,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=2405638014,679225683,3436462433,4049631843#notes:PvE - MW Reload
 
 // -----
 // Orewing's Maul - Void Special Grenade - Lightweight Frame
@@ -868,9 +870,7 @@ dimwishlist:item=3593598010&perks=2405638014,679225683,2779035018,1546637391#not
 
 // -----
 // Multimach CCX - Kinetic SMG - Lightweight Frame
-// PvE: Threat Detector + Unrelenting
-dimwishlist:item=3717177717&perks=663495154,106909392,4071163871,3108830275#notes:PvE - MW Reload
-dimwishlist:item=3717177717&perks=663495154,3230963543,4071163871,3108830275#notes:PvE - MW Reload
+dimwishlist:item=-3717177717#notes:Use the Extraordinary Rendition instead.
 
 // -----
 // The Fool's Remedy - Solar Sidearm - Suros Rapid-Fire
