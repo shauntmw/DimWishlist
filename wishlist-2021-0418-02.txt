@@ -219,10 +219,6 @@ dimwishlist:item=2957367743&perks=4090651448,791862061,2117683199,3300816228#not
 
 // -----
 // Distant Tumulus - Solar Sniper - Rapid Fire Frame
-// PvP: Pulse Monitor + Snapshot
-dimwishlist:item=2807687156&perks=3250034553,106909392,972757866,957782887#notes:PvP - MW Handling
-dimwishlist:item=2807687156&perks=1482024992,106909392,972757866,957782887#notes:PvP - MW Handling
-
 // PvE: Lead from Gold + Snapshot
 dimwishlist:item=2807687156&perks=839105230,106909392,1556840489,957782887#notes:PvE - MW Reload
 dimwishlist:item=2807687156&perks=3661387068,106909392,1556840489,957782887#notes:PvE - MW Reload
@@ -822,12 +818,7 @@ dimwishlist:item=136525518&perks=3525010810,2822142346,3300816228,2010801679#not
 dimwishlist:item=3169616514&perks=839105230,3142289711,957782887,47981717#notes:PvP - MW Handling
 dimwishlist:item=3169616514&perks=1840239774,3142289711,957782887,47981717#notes:PvP - MW Handling
 
-// PvE: Snapshot + Explosive Payload
-dimwishlist:item=3169616514&perks=1840239774,3142289711,957782887,47981717#notes:PvP - MW Range or Reload
-dimwishlist:item=3169616514&perks=4090651448,3142289711,957782887,47981717#notes:PvP - MW Range or Reload
-dimwishlist:item=3169616514&perks=202670084,3142289711,957782887,47981717#notes:PvP - MW Range or Reload
-dimwishlist:item=3169616514&perks=3250034553,3142289711,957782887,47981717#notes:PvP - MW Range or Reload
-dimwishlist:item=3169616514&perks=1482024992,3142289711,957782887,47981717#notes:PvP - MW Range or Reload
+// PvE: No need. Use Succession better.
 
 // -----
 // Steady Hand - Kinetic 120 Hand Cannon - Agressive Frame
