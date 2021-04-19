@@ -855,13 +855,29 @@ dimwishlist:item=2108920981&perks=981914802,3032599245,2869569095,3300816228#not
 // PvP: Moving Target + Vorpal
 dimwishlist:item=3593598010&perks=2405638015,1885400500,588594999,1546637391#notes:PvP - MW Range or Reload
 
-// PvE: Feeding Frenzy + Vorpal
-dimwishlist:item=3593598010&perks=2405638014,3230963543,2779035018,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=3593598010&perks=2405638014,679225683,2779035018,1546637391#notes:PvE - MW Range or Reload
+// PvE: Feeding Frenzy + One for all
+dimwishlist:item=3593598010&perks=13792279,1087426260,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=13792278,1087426260,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=2405638015,1087426260,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=2405638014,1087426260,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=13792279,3230963543,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=13792278,3230963543,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=2405638015,3230963543,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=2405638014,3230963543,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=13792279,679225683,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=13792278,679225683,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=2405638015,679225683,2779035018,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3593598010&perks=2405638014,679225683,2779035018,4049631843#notes:PvE - MW Range or Reload
 
 // -----
 // Multimach CCX - Kinetic SMG - Lightweight Frame
-dimwishlist:item=-3717177717#notes:Use the Extraordinary Rendition instead.
+// PvE: Thread Detector + One for all
+dimwishlist:item=3717177717&perks=2209280307,106909392,4071163871,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3717177717&perks=663495155,106909392,4071163871,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3717177717&perks=663495154,106909392,4071163871,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3717177717&perks=2209280307,3230963543,4071163871,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3717177717&perks=663495155,3230963543,4071163871,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=3717177717&perks=663495154,3230963543,4071163871,4049631843#notes:PvE - MW Range or Reload
 
 // -----
 // The Fool's Remedy - Solar Sidearm - Suros Rapid-Fire
