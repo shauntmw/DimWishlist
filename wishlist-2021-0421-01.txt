@@ -305,6 +305,10 @@ dimwishlist:item=-2276266837#notes:Use Bequest instead.
 // Widow's Bite - Solar Sniper - Rapid Fire
 dimwishlist:item=-1271343896#notes:Use IKELOS or Far Future instead.
 
+// -----
+// True Prophecy - Kinetic 120 Hand Cannon - Agressive Frame
+dimwishlist:item=-2742838700#notes:Hate hand cannon.
+
 // --------------------------------------------------------------------------
 // Vanguard Strike / Nightfall
 // --------------------------------------------------------------------------
