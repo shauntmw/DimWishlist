@@ -322,6 +322,16 @@ dimwishlist:item=432476743&perks=3250034553,679225683,1168162263,4049631843#note
 dimwishlist:item=432476743&perks=1482024992,679225683,1168162263,4049631843#notes:PvE - MW Reload
 
 // -----
+// The Palindrome (Adept) - Void 140 Hand Cannon - Adaptive Frame
+// PvE: Outlaw + One for all
+dimwishlist:item=1481892490&perks=3250034553,1087426260,1168162263,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1481892490&perks=1482024992,1087426260,1168162263,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1481892490&perks=3250034553,3230963543,1168162263,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1481892490&perks=1482024992,3230963543,1168162263,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1481892490&perks=3250034553,679225683,1168162263,4049631843#notes:PvE - MW Reload
+dimwishlist:item=1481892490&perks=1482024992,679225683,1168162263,4049631843#notes:PvE - MW Reload
+
+// -----
 // Outrageous Fortune - Solar Heavy Grenade Launcher - Rapid Fire Frame (Spike Grenade)
 // PvE: Spike Grenade + Field Prep + Assassin
 dimwishlist:item=4146702548&perks=981914802,3301904089,2869569095,2010801679#notes:PvE - MW Velocity
@@ -417,11 +427,6 @@ dimwishlist:item=3836861464&perks=1482024992,3230963543,1168162263,1546637391#no
 // Crucible
 // --------------------------------------------------------------------------
 // Frozen Orbit - Void Sniper - Agressive Frame
-// PvP: Firmly Planted + Snapshot
-dimwishlist:item=3473290087&perks=1840239774,3142289711,280464955,957782887#notes:PvP - MW Any except Stability
-dimwishlist:item=3473290087&perks=3250034553,3142289711,280464955,957782887#notes:PvP - MW Any except Stability
-dimwishlist:item=3473290087&perks=1482024992,3142289711,280464955,957782887#notes:PvP - MW Any except Stability
-
 // PvE: Outlaw + Vorpal
 dimwishlist:item=3473290087&perks=839105230,1087426260,1168162263,1546637391#notes:PvE - MW Reload
 dimwishlist:item=3473290087&perks=839105230,106909392,1168162263,1546637391#notes:PvE - MW Reload
