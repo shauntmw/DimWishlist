@@ -445,7 +445,7 @@ dimwishlist:item=409551876&perks=3250034553,1087426260,4071163871,4049631843#not
 dimwishlist:item=-3258665412#notes:Use Timeline's Vertex instead.
 
 // -----
-// Crowd Pleaser - Void Heavy Grenade - Adaptiv Frame
+// Crowd Pleaser - Void Heavy Grenade - Adaptive Frame
 // PvE: Clown Cartridge + Chain Reaction
 dimwishlist:item=3565520715&perks=1478423395,2985827016,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
 dimwishlist:item=3565520715&perks=1844523823,2985827016,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
@@ -459,6 +459,28 @@ dimwishlist:item=3565520715&perks=1478423395,2822142346,2284787283,2396489472#no
 dimwishlist:item=3565520715&perks=1844523823,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
 dimwishlist:item=3565520715&perks=981914802,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
 dimwishlist:item=3565520715&perks=3525010810,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+
+// -----
+// Bottom Dollar - Void 120 Hand Cannon - Agressive Frame
+// PvE: Outlaw + Wellspring
+dimwishlist:item=1046651176&perks=1467527085,106909392,1168162263,3592538738#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=202670084,106909392,1168162263,3592538738#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=3250034553,106909392,1168162263,3592538738#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=1482024992,106909392,1168162263,3592538738#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=1467527085,3230963543,1168162263,3592538738#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=202670084,3230963543,1168162263,3592538738#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=3250034553,3230963543,1168162263,3592538738#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=1482024992,3230963543,1168162263,3592538738#notes:PvE - MW Reload
+
+// PvE: Outlaw + Demolitionist
+dimwishlist:item=1046651176&perks=1467527085,106909392,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=202670084,106909392,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=3250034553,106909392,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=1482024992,106909392,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=1467527085,3230963543,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=202670084,3230963543,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=3250034553,3230963543,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=1046651176&perks=1482024992,3230963543,1168162263,3523296417#notes:PvE - MW Reload
 
 // --------------------------------------------------------------------------
 // Deep Stone Crypt
