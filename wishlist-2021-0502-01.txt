@@ -52,21 +52,17 @@ dimwishlist:item=3143732432&perks=1482024992,3230963543,2779035018,3108830275#no
 dimwishlist:item=821154603&perks=3250034553,3142289711,2387244414,1015611457#notes:PvP - MW Any
 dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,1015611457#notes:PvP - MW Any
 
-// PvE: Zen Movement + Demolitionist
-dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=3661387068,3142289711,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=4090651448,3142289711,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=1840239774,3142289711,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=3250034553,3142289711,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=1482024992,3230963543,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=3661387068,3230963543,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=4090651448,3230963543,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=1467527085,3230963543,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=1840239774,3230963543,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=3250034553,3230963543,2387244414,1015611457#notes:PvE - MW Any except Handling
-dimwishlist:item=821154603&perks=1482024992,3230963543,2387244414,1015611457#notes:PvE - MW Any except Handling
+// PvE: Subsistence + Demolitionist
+dimwishlist:item=821154603&perks=3661387068,106909392,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1467527085,106909392,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=202670084,106909392,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=3250034553,106909392,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1482024992,106909392,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=3661387068,3230963543,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1467527085,3230963543,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=202670084,3230963543,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=3250034553,3230963543,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=821154603&perks=1482024992,3230963543,1820235745,3523296417#notes:PvE - MW Any except Handling
 
 // -----
 // First In Last Out - Arc Slug Shotgun - Precision Frame
@@ -76,7 +72,7 @@ dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391#not
 
 // -----
 // Truthteller - Special Granade Launcher - Lightweight Frame (Blinding)
-// PvE: Blinding Grenade + Quickdraw + auto loading
+// PvE: Blinding Grenade + Quickdraw + Auto-Loading
 dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,706527188#notes:PvE - MW Velocity
 
 // -----
@@ -682,13 +678,12 @@ dimwishlist:item=766323545&perks=1482024992,3230963543,2010801679,1546637391#not
 // IKELOS
 // --------------------------------------------------------------------------
 // IKELOS SMG - Arc SMG - Aggressive Frame
-// PvE: Seraph Rounds + Threat Detector + Vorpal
-dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,1546637391#notes:PvE - MW Reload
-dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,1546637391#notes:PvE - MW Reload
-dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,1546637391#notes:PvE - MW Reload
-dimwishlist:item=2222560548&perks=1467527085,1140096971,4071163871,1546637391#notes:PvE - MW Reload
-dimwishlist:item=2222560548&perks=3250034553,1140096971,4071163871,1546637391#notes:PvE - MW Reload
-dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,1546637391#notes:PvE - MW Reload
+// PvE: Seraph Rounds + Subsistence + Vorpal
+dimwishlist:item=2222560548&perks=3661387068,1140096971,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=2222560548&perks=1467527085,1140096971,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=2222560548&perks=202670084,1140096971,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=2222560548&perks=3250034553,1140096971,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=2222560548&perks=1482024992,1140096971,1820235745,3523296417#notes:PvE - MW Any except Handling
 
 // -----
 // IKELOS Shotgun - Solar Shotgun - Rapid-Fire Frame
@@ -1103,6 +1098,14 @@ dimwishlist:item=1097616550&perks=1482024992,106909392,3436462433,4104185692#not
 dimwishlist:item=1097616550&perks=1467527085,3230963543,3436462433,4104185692#notes:PvE - MW Any except Handling
 dimwishlist:item=1097616550&perks=3250034553,3230963543,3436462433,4104185692#notes:PvE - MW Any except Handling
 dimwishlist:item=1097616550&perks=1482024992,3230963543,3436462433,4104185692#notes:PvE - MW Any except Handling
+
+// PvE: Subsistence + Frenzy
+dimwishlist:item=1097616550&perks=1467527085,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=1097616550&perks=3250034553,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=1097616550&perks=1482024992,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=1097616550&perks=1467527085,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=1097616550&perks=3250034553,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=1097616550&perks=1482024992,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
 
 // -----
 // Far Future - Solar Sniper - Adaptive Frame
