@@ -231,11 +231,9 @@ dimwishlist:item=2891672170&perks=1332244541,3142289711,3300816228,1546637391#no
 
 // -----
 // Berenger's Memory - Void Heavy Grenade Launcher - Rapid fire Frame
-// PvE: Field prep + Demolitionist
-dimwishlist:item=407621213&perks=1441682018,3301904089,2869569095,3523296417#notes:PvE - MW Blast or Velocity
-dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3523296417#notes:PvE - MW Blast or Velocity
-dimwishlist:item=407621213&perks=1441682018,3373736292,2869569095,3523296417#notes:PvE - MW Blast or Velocity
-dimwishlist:item=407621213&perks=3525010810,3373736292,2869569095,3523296417#notes:PvE - MW Blast or Velocity
+// PvE: Spike Grenade + Field Prep + Auto-Loading
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3300816228#notes:PvE - MW Blast or Velocity
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3300816228#notes:PvE - MW Blast or Velocity
 
 // -----
 // The Last Dance - Arc Sidearm - Adaptive Frame
@@ -1080,12 +1078,70 @@ dimwishlist:item=2545083870&perks=1844523823,1996142143,3977735242,3300816228#no
 
 // -----
 // The Supremacy - Kinetic Sniper - Rapid fire frame
-// PvP or PvE: Snapshot + Triple Tap
-dimwishlist:item=686951703&perks=839105230,1087426260,957782887,3400784728#notes:PvP or PvE - MW Reload
+dimwishlist:item=-686951703#notes:Just use Succession.
 
 // -----
 // Age-Old Bond - Void Auto-Rifle - High Impact Frame
 dimwishlist:item=-601592879#notes:No good perk.
+
+// -----
+// Chattering Bone - Kinetic Pulse Rifle - Lightweight Frame
+dimwishlist:item=-568515759#notes:No good perk.
+
+// -----
+// Transfiguration - Kinetic Scout Rifle - High Impact Frame
+dimwishlist:item=-3799980700#notes:No good perk.
+
+// -----
+// Tyranny of Heaven - Solar Bow - Lightweight Frame
+// Pve: Archer's Tempo + Explosive Head
+dimwishlist:item=2721249463&perks=2801223209,16392701,201365942,3365897133#notes:PvE - MW Draw Time or Accuracy
+dimwishlist:item=2721249463&perks=4067834857,16392701,201365942,3365897133#notes:PvE - MW Draw Time or Accuracy
+dimwishlist:item=2721249463&perks=852209214,16392701,201365942,3365897133#notes:PvE - MW Draw Time or Accuracy
+dimwishlist:item=2721249463&perks=2801223209,3827198035,201365942,3365897133#notes:PvE - MW Draw Time or Accuracy
+dimwishlist:item=2721249463&perks=4067834857,3827198035,201365942,3365897133#notes:PvE - MW Draw Time or Accuracy
+dimwishlist:item=2721249463&perks=852209214,3827198035,201365942,3365897133#notes:PvE - MW Draw Time or Accuracy
+
+// -----
+// Techeun Force - Arc Fusion Rifle - Adaptive Frame
+// PvE: Under Pressure + High Impact Reserve
+dimwishlist:item=4094657108&perks=839105230,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=3661387068,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=1467527085,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=202670084,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=3250034553,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=1482024992,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=839105230,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=3661387068,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=1467527085,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=202670084,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=3250034553,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=4094657108&perks=1482024992,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
+
+// -----
+// Nation of Beasts - Arc 140 Hand Cannon - Adaptive Frame
+dimwishlist:item=654370424&perks=1467527085,106909392,1168162263,3038247973#notes:PvE - MW Range or Reload
+dimwishlist:item=654370424&perks=202670084,106909392,1168162263,3038247973#notes:PvE - MW Range or Reload
+dimwishlist:item=654370424&perks=3250034553,106909392,1168162263,3038247973#notes:PvE - MW Range or Reload
+dimwishlist:item=654370424&perks=1482024992,106909392,1168162263,3038247973#notes:PvE - MW Range or Reload
+
+// --------------------------------------------------------------------------
+// Moon
+// --------------------------------------------------------------------------
+// Heretic - Arc Rocket - Aggressive Frame
+// PvE: Impulse Amplifier + Lasting Impression
+dimwishlist:item=3067821200&perks=1478423395,2985827016,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=981914802,2985827016,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=1441682018,2985827016,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=3525010810,2985827016,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=1478423395,1996142143,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=981914802,1996142143,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=1441682018,1996142143,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=3525010810,1996142143,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=1478423395,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=981914802,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=1441682018,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=3525010810,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
 
 // --------------------------------------------------------------------------
 // Season of Chosen
