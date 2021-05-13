@@ -1256,3 +1256,16 @@ dimwishlist:item=3075224551&perks=202670084,2969185026,3300816228,1546637391#not
 dimwishlist:item=3075224551&perks=3250034553,2969185026,3300816228,1546637391#notes:PvE - MW Reload
 dimwishlist:item=3075224551&perks=1482024992,2969185026,3300816228,1546637391#notes:PvE - MW Reload
 
+// --------------------------------------------------------------------------
+// Season of Splicer
+// --------------------------------------------------------------------------
+// Ignition Code - Kinetic Special Grenade Launcher - Lightweight Frame
+// PvE: Blinding Grenade + Slideshot + Danger Zone
+dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,960810156#notes:PvE - MW Velocity
+
+// PvE: Slideshot + Vorpal
+dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=304659313&perks=981914802,2822142346,3161816588,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=304659313&perks=3525010810,2822142346,3161816588,1546637391#notes:PvE - MW Velocity
+
