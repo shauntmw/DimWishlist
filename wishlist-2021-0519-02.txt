@@ -988,6 +988,13 @@ dimwishlist:item=3717177717&perks=663495154,3230963543,4071163871,4049631843#not
 // The Fool's Remedy - Solar Sidearm - Suros Rapid-Fire
 dimwishlist:item=-65611680#notes:No good perk.
 
+// -----
+// Riiswalker - Kinetic Shotgun - Lightweight Frame
+// PvP: Quickdraw + Iron Reach
+dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007#notes:PvP - MW Range
+dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007#notes:PvP - MW Range
+dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007#notes:PvP - MW Range
+
 // --------------------------------------------------------------------------
 // Europa
 // --------------------------------------------------------------------------
