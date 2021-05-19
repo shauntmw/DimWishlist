@@ -441,6 +441,14 @@ dimwishlist:item=4281371574&perks=1467527085,3230963543,1820235745,3824105627#no
 dimwishlist:item=4281371574&perks=3250034553,3230963543,1820235745,3824105627#notes:PvE - MW Reload
 dimwishlist:item=4281371574&perks=1482024992,3230963543,1820235745,3824105627#notes:PvE - MW Reload
 
+// PvE: Subsistence + Explosive Payload
+dimwishlist:item=4281371574&perks=1467527085,106909392,1820235745,3038247973#notes:PvE - MW Reload
+dimwishlist:item=4281371574&perks=3250034553,106909392,1820235745,3038247973#notes:PvE - MW Reload
+dimwishlist:item=4281371574&perks=1482024992,106909392,1820235745,3038247973#notes:PvE - MW Reload
+dimwishlist:item=4281371574&perks=1467527085,3230963543,1820235745,3038247973#notes:PvE - MW Reload
+dimwishlist:item=4281371574&perks=3250034553,3230963543,1820235745,3038247973#notes:PvE - MW Reload
+dimwishlist:item=4281371574&perks=1482024992,3230963543,1820235745,3038247973#notes:PvE - MW Reload
+
 // -----
 // Hung Jury SR4 (Adept) - Kinetic Scout Rifle - Precision Frame
 // PvE: Subsistence + Firefly
@@ -450,6 +458,14 @@ dimwishlist:item=681067419&perks=1482024992,106909392,1820235745,3824105627#note
 dimwishlist:item=681067419&perks=1467527085,3230963543,1820235745,3824105627#notes:PvE - MW Reload
 dimwishlist:item=681067419&perks=3250034553,3230963543,1820235745,3824105627#notes:PvE - MW Reload
 dimwishlist:item=681067419&perks=1482024992,3230963543,1820235745,3824105627#notes:PvE - MW Reload
+
+// PvE: Subsistence + Explosive Payload
+dimwishlist:item=681067419&perks=1467527085,106909392,1820235745,3038247973#notes:PvE - MW Reload
+dimwishlist:item=681067419&perks=3250034553,106909392,1820235745,3038247973#notes:PvE - MW Reload
+dimwishlist:item=681067419&perks=1482024992,106909392,1820235745,3038247973#notes:PvE - MW Reload
+dimwishlist:item=681067419&perks=1467527085,3230963543,1820235745,3038247973#notes:PvE - MW Reload
+dimwishlist:item=681067419&perks=3250034553,3230963543,1820235745,3038247973#notes:PvE - MW Reload
+dimwishlist:item=681067419&perks=1482024992,3230963543,1820235745,3038247973#notes:PvE - MW Reload
 
 // -----
 // Plug One.1 - Arc Fusion Rifle - Precision Frame
