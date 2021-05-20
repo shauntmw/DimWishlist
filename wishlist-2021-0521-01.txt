@@ -341,8 +341,9 @@ dimwishlist:item=1481892490&perks=1482024992,679225683,1168162263,4049631843#not
 
 // -----
 // Outrageous Fortune - Solar Heavy Grenade Launcher - Rapid Fire Frame (Spike Grenade)
-// PvE: Spike Grenade + Field Prep + Assassin
-dimwishlist:item=4146702548&perks=981914802,3301904089,2869569095,2010801679#notes:PvE - MW Velocity
+// PvE: Spike Grenade + Auto-Loading + Assassin
+dimwishlist:item=4146702548&perks=981914802,3301904089,3300816228,2010801679#notes:PvE - MW Velocity
+dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,2010801679#notes:PvE - MW Velocity
 
 // -----
 // Royal Entry - Void Rocket - Precision Frame
@@ -509,9 +510,22 @@ dimwishlist:item=534775659&perks=1482024992,2969185026,2779035018,1427256713#not
 // Crucible
 // --------------------------------------------------------------------------
 // Frozen Orbit - Void Sniper - Agressive Frame
-// PvE: Outlaw + Vorpal
-dimwishlist:item=3473290087&perks=839105230,1087426260,1168162263,1546637391#notes:PvE - MW Reload
-dimwishlist:item=3473290087&perks=839105230,106909392,1168162263,1546637391#notes:PvE - MW Reload
+// PvE: Auto-Loading + Vorpal
+dimwishlist:item=3473290087&perks=3661387068,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=1467527085,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=3250034553,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=1392496348,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=1482024992,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=3661387068,106909392,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=1467527085,106909392,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=3250034553,106909392,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=1392496348,106909392,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=1482024992,106909392,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=3661387068,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=1467527085,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=3250034553,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=1392496348,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=3473290087&perks=1482024992,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
 
 // -----
 // The Keening - Arc Sidearm - Adaptive Frame
@@ -1048,6 +1062,77 @@ dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007#notes
 dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007#notes:PvP - MW Range
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007#notes:PvP - MW Range
 
+// -----
+// Survivor's Epitaph - Kinetic 180 Hand Cannon
+// PvE: Subsistence + Frenzy
+dimwishlist:item=310708513&perks=3661387068,3230963543,1820235745,4104185692#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=1467527085,3230963543,1820235745,4104185692#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=202670084,3230963543,1820235745,4104185692#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,3230963543,1820235745,4104185692#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,3230963543,1820235745,4104185692#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=3661387068,679225683,1820235745,4104185692#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=1467527085,679225683,1820235745,4104185692#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=202670084,679225683,1820235745,4104185692#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,679225683,1820235745,4104185692#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,679225683,1820235745,4104185692#notes:PvP - MW Range or Reload
+
+// PvP: Quickdraw + Snapshot
+dimwishlist:item=310708513&perks=202670084,1885400500,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,1885400500,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,1885400500,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=202670084,3230963543,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,3230963543,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,3230963543,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=202670084,679225683,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,679225683,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,679225683,706527188,957782887#notes:PvP - MW Range or Reload
+
+// -----
+// Occluded Finality - Arc Sniper - Aggressive Frame
+// PvP: Snapshot + Opening Shot
+dimwishlist:item=852551895&perks=839105230,1885400500,957782887,47981717#notes:PvP - MW Any
+dimwishlist:item=852551895&perks=3661387068,1885400500,957782887,47981717#notes:PvP - MW Any
+dimwishlist:item=852551895&perks=4090651448,1885400500,957782887,47981717#notes:PvP - MW Any
+dimwishlist:item=852551895&perks=1840239774,1885400500,957782887,47981717#notes:PvP - MW Any
+dimwishlist:item=852551895&perks=1392496348,1885400500,957782887,47981717#notes:PvP - MW Any
+dimwishlist:item=852551895&perks=1482024992,1885400500,957782887,47981717#notes:PvP - MW Any
+
+// PvE: Auto-Loading + Vorpal
+dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=3661387068,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=4090651448,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=1840239774,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=1392496348,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=1482024992,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=839105230,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=3661387068,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=4090651448,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=1840239774,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=1392496348,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=1482024992,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
+
+// -----
+// Finite Impactor - Arc 140 Hand Cannon - Adaptive Frame
+dimwishlist:item=-3813153080#notes:Use Posterity better.
+
+// -----
+// Archon's Thunder - Solar Machine Gun - High-Impact Frame
+// PvE: Field Prep + Rampage
+dimwishlist:item=1967303408&perks=839105230,106909392,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=3661387068,106909392,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=4090651448,106909392,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=1467527085,106909392,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=3250034553,106909392,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=1392496348,106909392,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=1482024992,106909392,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=839105230,3230963543,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=3661387068,3230963543,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=4090651448,3230963543,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=1467527085,3230963543,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=3250034553,3230963543,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=1392496348,3230963543,2869569095,3425386926#notes:PvE - MW Any except Handling
+dimwishlist:item=1967303408&perks=1482024992,3230963543,2869569095,3425386926#notes:PvE - MW Any except Handling
+
 // --------------------------------------------------------------------------
 // Europa
 // --------------------------------------------------------------------------
@@ -1546,3 +1631,13 @@ dimwishlist:item=3165547384&perks=1478423395,2822142346,3300816228,2396489472#no
 dimwishlist:item=3165547384&perks=981914802,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
 dimwishlist:item=3165547384&perks=1441682018,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
 dimwishlist:item=3165547384&perks=3525010810,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+
+// -----
+// Eternity's Edge - Solar Warlock Sword - Vortex Frame
+// PvE: Relentless + Flash Counter
+dimwishlist:item=2782325301&perks=436053704,2363751990,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=2782325301&perks=1261178282,2363751990,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=2782325301&perks=2827049491,2363751990,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=2782325301&perks=938542991,2363751990,1749209109,2244851822#notes:PvE - MW Impact
+
