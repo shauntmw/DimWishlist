@@ -20,18 +20,24 @@ dimwishlist:item=3504336176&perks=1392496348,3230963543,957782887,3038247973#not
 dimwishlist:item=3504336176&perks=1482024992,3230963543,957782887,3038247973#notes:PvP - MW Range or Reload
 
 // PvE: Outlaw + Demolitionist
-dimwishlist:item=3504336176&perks=4090651448,106909392,1168162263,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=1840239774,106909392,1168162263,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=202670084,106909392,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=839105230,106909392,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1467527085,106909392,1168162263,3523296417#notes:PvE - MW Reload
 dimwishlist:item=3504336176&perks=3250034553,106909392,1168162263,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=1392496348,106909392,1168162263,3523296417#notes:PvE - MW Reload
 dimwishlist:item=3504336176&perks=1482024992,106909392,1168162263,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=4090651448,3230963543,1168162263,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=1840239774,3230963543,1168162263,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=202670084,3230963543,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=839105230,3230963543,1168162263,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1467527085,3230963543,1168162263,3523296417#notes:PvE - MW Reload
 dimwishlist:item=3504336176&perks=3250034553,3230963543,1168162263,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=1392496348,3230963543,1168162263,3523296417#notes:PvE - MW Reload
 dimwishlist:item=3504336176&perks=1482024992,3230963543,1168162263,3523296417#notes:PvE - MW Reload
+
+// PvE: Subsistence + Demolitionist
+dimwishlist:item=3504336176&perks=839105230,106909392,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1467527085,106909392,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=3250034553,106909392,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1482024992,106909392,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=839105230,3230963543,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1467527085,3230963543,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=3250034553,3230963543,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1482024992,3230963543,1820235745,3523296417#notes:PvE - MW Reload
 
 // -----
 // False Promises - Kinetic 360 Auto Rifle
@@ -1482,19 +1488,8 @@ dimwishlist:item=3075224551&perks=3250034553,2969185026,3300816228,1546637391#no
 dimwishlist:item=3075224551&perks=1482024992,2969185026,3300816228,1546637391#notes:PvE - MW Reload
 
 // --------------------------------------------------------------------------
-// Season of Splicer
+// Season of Splicer - Override
 // --------------------------------------------------------------------------
-// Ignition Code - Kinetic Special Grenade Launcher - Lightweight Frame
-// PvE: Blinding Grenade + Slideshot + Danger Zone
-dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,960810156#notes:PvE - MW Velocity
-
-// PvE: Slideshot + Vorpal
-dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes:PvE - MW Velocity
-dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391#notes:PvE - MW Velocity
-dimwishlist:item=304659313&perks=981914802,2822142346,3161816588,1546637391#notes:PvE - MW Velocity
-dimwishlist:item=304659313&perks=3525010810,2822142346,3161816588,1546637391#notes:PvE - MW Velocity
-
-// -----
 // Chroma Rush - Kinetic Auto Rifle - Rapid Fire Frame
 // PvE: Subsistence + Thresh
 dimwishlist:item=1119734784&perks=1467527085,106909392,1820235745,2726471870#notes:PvE - MW Range
@@ -1507,12 +1502,15 @@ dimwishlist:item=1119734784&perks=3250034553,3230963543,1820235745,2726471870#no
 dimwishlist:item=1119734784&perks=1482024992,3230963543,1820235745,2726471870#notes:PvE - MW Range
 
 // -----
-// Farewell - Kinetic Sidearm - Lightweight Frame
-// PvE: Subsistence + Frenzy
-dimwishlist:item=541188001&perks=1467527085,3142289711,1820235745,4104185692#notes:PvE - MW Range
-dimwishlist:item=541188001&perks=202670084,3142289711,1820235745,4104185692#notes:PvE - MW Range
-dimwishlist:item=541188001&perks=3250034553,3142289711,1820235745,4104185692#notes:PvE - MW Range
-dimwishlist:item=541188001&perks=1482024992,3142289711,1820235745,4104185692#notes:PvE - MW Range
+// Ignition Code - Kinetic Special Grenade Launcher - Lightweight Frame
+// PvE: Blinding Grenade + Slideshot + Danger Zone
+dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,960810156#notes:PvE - MW Velocity
+
+// PvE: Slideshot + Vorpal
+dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=304659313&perks=981914802,2822142346,3161816588,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=304659313&perks=3525010810,2822142346,3161816588,1546637391#notes:PvE - MW Velocity
 
 // -----
 // Gridskipper - Void Pulse Rifle - Rapid Fire Frame
@@ -1530,31 +1528,39 @@ dimwishlist:item=1621558458&perks=3250034553,679225683,2450788523,4104185692#not
 dimwishlist:item=1621558458&perks=1482024992,679225683,2450788523,4104185692#notes:PvE - MW Range or Reload
 
 // -----
+// Farewell - Kinetic Sidearm - Lightweight Frame
+// PvE: Subsistence + Frenzy
+dimwishlist:item=541188001&perks=1467527085,3142289711,1820235745,4104185692#notes:PvE - MW Range
+dimwishlist:item=541188001&perks=202670084,3142289711,1820235745,4104185692#notes:PvE - MW Range
+dimwishlist:item=541188001&perks=3250034553,3142289711,1820235745,4104185692#notes:PvE - MW Range
+dimwishlist:item=541188001&perks=1482024992,3142289711,1820235745,4104185692#notes:PvE - MW Range
+
+// -----
+// Shattered Cipher - Void Machine Gun - Rapid Fire Frame
+// PvE: Auto-Loading + Rampage
+dimwishlist:item=2434225986&perks=839105230,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=3661387068,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=4090651448,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=1467527085,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=3250034553,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=1482024992,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=839105230,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=3661387068,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=4090651448,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=1467527085,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=3250034553,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
+dimwishlist:item=2434225986&perks=1482024992,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
+
+// -----
 // Sojourner's Tale - Solar Slug Shotgun - Precision Frame
 // PvE: Auto-Loading + Frenzy
 dimwishlist:item=599895591&perks=1467527085,791862061,3300816228,4104185692#notes:PvE - MW Range
 dimwishlist:item=599895591&perks=202670084,791862061,3300816228,4104185692#notes:PvE - MW Range
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,4104185692#notes:PvE - MW Range
 
-// -----
-// Borrowed Time - Solar SMG - Aggressive Frame
-// PvE: Thread Detector + Frenzy
-dimwishlist:item=875848769&perks=1467527085,3230963543,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=202670084,3230963543,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=3250034553,3230963543,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1482024992,3230963543,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1467527085,679225683,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=202670084,679225683,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=3250034553,679225683,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1482024992,679225683,4071163871,4104185692#notes:PvE - MW Range
-
-// -----
-// Empty Vessel - Solar Special Grenade - Lightweight Frame
-// PvE: Blinding + Auto Loading + Danger Zone
-dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,960810156#notes:PvE - MW Velocity
-dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,960810156#notes:PvE - MW Velocity
-
-// -----
+// --------------------------------------------------------------------------
+// Season of Splicer - Future War Cult
+// --------------------------------------------------------------------------
 // The Number - Arc Auto Rifle - Precision Frame
 // PvE: Surplus + One for all
 dimwishlist:item=2492081469&perks=839105230,3230963543,3436462433,4049631843#notes:PvE - MW Range or Reload
@@ -1569,10 +1575,29 @@ dimwishlist:item=2492081469&perks=3250034553,679225683,3436462433,4049631843#not
 dimwishlist:item=2492081469&perks=1482024992,679225683,3436462433,4049631843#notes:PvE - MW Range or Reload
 
 // -----
+// Memory Interdict - Void Heavy Grenade - Adaptive Frame
+// PvE: Auto-Loading + Chain Reaction
+dimwishlist:item=3165547384&perks=1478423395,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=981914802,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=1478423395,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=981914802,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=1441682018,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=3525010810,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=1478423395,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=981914802,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=1441682018,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=3525010810,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+
+// -----
 // The Vision - Arc Sidearm - Adaptive Frame
 // PvE: Surplus + One for all
 dimwishlist:item=2414141462&perks=445755711,3142289711,3436462433,4049631843#notes:PvE - MW Range
 dimwishlist:item=2414141462&perks=445755710,3142289711,3436462433,4049631843#notes:PvE - MW Range
+
+// -----
+// Stochastic Variable - Arc SMG - Lightweight Frame
 
 // -----
 // Pleisdes Corrector - Solar Scout Rifle - Lightweight Frame
@@ -1600,37 +1625,25 @@ dimwishlist:item=217140611&perks=1482024992,3142289711,1556840489,1546637391#not
 dimwishlist:item=217140611&perks=1332244541,679225683,1556840489,1546637391#notes:PvE - MW Range or Reload
 dimwishlist:item=217140611&perks=1482024992,679225683,1556840489,1546637391#notes:PvE - MW Range or Reload
 
-// -----
-// Shattered Cipher - Void Machine Gun - Rapid Fire Frame
-// PvE: Auto-Loading + Rampage
-dimwishlist:item=2434225986&perks=839105230,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=3661387068,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=4090651448,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=1467527085,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=3250034553,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=1482024992,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=839105230,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=3661387068,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=4090651448,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=1467527085,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=3250034553,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
-dimwishlist:item=2434225986&perks=1482024992,3230963543,3300816228,3425386926#notes:PvE - MW Range or Reload
+// --------------------------------------------------------------------------
+// Season of Splicer - World Loot Pool
+// --------------------------------------------------------------------------
+// Borrowed Time - Solar SMG - Aggressive Frame
+// PvE: Thread Detector + Frenzy
+dimwishlist:item=875848769&perks=1467527085,3230963543,4071163871,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=202670084,3230963543,4071163871,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=3250034553,3230963543,4071163871,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1482024992,3230963543,4071163871,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1467527085,679225683,4071163871,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=202670084,679225683,4071163871,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=3250034553,679225683,4071163871,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1482024992,679225683,4071163871,4104185692#notes:PvE - MW Range
 
 // -----
-// Memory Interdict - Void Heavy Grenade - Adaptive Frame
-// PvE: Auto-Loading + Chain Reaction
-dimwishlist:item=3165547384&perks=1478423395,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=981914802,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=1478423395,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=981914802,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=1441682018,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=3525010810,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=1478423395,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=981914802,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=1441682018,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
-dimwishlist:item=3165547384&perks=3525010810,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+// Empty Vessel - Solar Special Grenade - Lightweight Frame
+// PvE: Blinding + Auto Loading + Danger Zone
+dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,960810156#notes:PvE - MW Velocity
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,960810156#notes:PvE - MW Velocity
 
 // -----
 // Eternity's Edge - Solar Warlock Sword - Vortex Frame
