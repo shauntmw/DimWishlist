@@ -1742,6 +1742,13 @@ dimwishlist:item=3653573172&perks=1467527085,106909392,3418782618,2213355989#not
 dimwishlist:item=3653573172&perks=3250034553,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
 dimwishlist:item=3653573172&perks=1482024992,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
 
+// PvE: Rewind Rounds + Frenzy
+dimwishlist:item=3653573172&perks=839105230,106909392,3418782618,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=3653573172&perks=3661387068,106909392,3418782618,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=3653573172&perks=1467527085,106909392,3418782618,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=3653573172&perks=3250034553,106909392,3418782618,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=3653573172&perks=1482024992,106909392,3418782618,4104185692#notes:PvE - MW Range or Reload
+
 // -----
 // The Supremacy - Kinetic Sniper - Rapid fire frame (Last Wish)
 dimwishlist:item=-686951703#notes:Just use Succession.
