@@ -1655,6 +1655,18 @@ dimwishlist:item=1513993763&perks=1840239774,3230963543,4071163871,3592538738#no
 dimwishlist:item=1513993763&perks=3250034553,3230963543,4071163871,3592538738#notes:PvE - MW Range
 dimwishlist:item=1513993763&perks=1482024992,3230963543,4071163871,3592538738#notes:PvE - MW Range
 
+// PvE: Subsistence + Unrelenting
+dimwishlist:item=1513993763&perks=4090651448,106909392,1820235745,3108830275#notes:PvE - MW Range or Reload
+dimwishlist:item=1513993763&perks=1467527085,106909392,1820235745,3108830275#notes:PvE - MW Range or Reload
+dimwishlist:item=1513993763&perks=1840239774,106909392,1820235745,3108830275#notes:PvE - MW Range or Reload
+dimwishlist:item=1513993763&perks=3250034553,106909392,1820235745,3108830275#notes:PvE - MW Range or Reload
+dimwishlist:item=1513993763&perks=1482024992,106909392,1820235745,3108830275#notes:PvE - MW Range or Reload
+dimwishlist:item=1513993763&perks=4090651448,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
+dimwishlist:item=1513993763&perks=1467527085,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
+dimwishlist:item=1513993763&perks=1840239774,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
+dimwishlist:item=1513993763&perks=3250034553,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
+dimwishlist:item=1513993763&perks=1482024992,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
+
 // -----
 // Extraordinary Rendition - Kinetic 750 SMG - Agressive Frame (Season of Chosen - Battlegrounds)
 // PvE: Surplus + Frenzy
