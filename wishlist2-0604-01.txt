@@ -1090,6 +1090,16 @@ dimwishlist:item=4050645223&perks=981914802,3796465595,3643424744,3927722942#not
 dimwishlist:item=4050645223&perks=1441682018,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
 
+// PvE: Tracking + Vorpal
+dimwishlist:item=4050645223&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=4050645223&perks=1441682018,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
+
+// PvE: Tracking + Lasting Impression
+dimwishlist:item=4050645223&perks=981914802,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
+dimwishlist:item=4050645223&perks=1441682018,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
+
 // -----
 // Hoosegow - Arc Rocket Launcher - Adaptive Frame (Prophecy dungeon)
 // PvE: Auto-Loading + Cluster Bomb
