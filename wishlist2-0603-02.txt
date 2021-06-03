@@ -1477,6 +1477,16 @@ dimwishlist:item=2891672170&perks=1332244541,791862061,3300816228,1546637391#not
 dimwishlist:item=2891672170&perks=1332244541,3142289711,3300816228,1546637391#notes:PvE - MW Range
 
 // -----
+// Found Verdict - Arc Shotgun - Agressive Frame (Vault of Glass)
+// PvE: Auto-Loading + Vorpal
+dimwishlist:item=3197270240&perks=1332244541,791862061,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3300816228,1546637391#notes:PvE - MW Range
+
+// PvE: Rewind Rounds + Demolitionist
+dimwishlist:item=3197270240&perks=1332244541,791862061,3418782618,3523296417#notes:PvE - MW Range
+dimwishlist:item=3197270240&perks=1332244541,3142289711,3418782618,3523296417#notes:PvE - MW Range
+
+// -----
 // Retrofuturist - Void Shotgun - Lightweight Frame (World)
 dimwishlist:item=-1402766122#notes:No good perk. Use Retold Tale instead.
 
@@ -1839,6 +1849,40 @@ dimwishlist:item=3169616514&perks=1840239774,3142289711,957782887,47981717#notes
 dimwishlist:item=893527433&perks=839105230,1087426260,3300816228,4104185692#notes:PvE - MW Range or Stability
 
 // -----
+// Uzume RR4 - Solar Sniper - Adaptive Frame (Nightfall)
+// PvP: Snapshot + Vorpal
+dimwishlist:item=2065081837&perks=839105230,3142289711,957782887,1546637391#notes:PvP - MW Any except Reload
+dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,1546637391#notes:PvP - MW Any except Reload
+dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,1546637391#notes:PvP - MW Any except Reload
+dimwishlist:item=2065081837&perks=3250034553,3142289711,957782887,1546637391#notes:PvP - MW Any except Reload
+dimwishlist:item=2065081837&perks=1392496348,3142289711,957782887,1546637391#notes:PvP - MW Any except Reload
+dimwishlist:item=2065081837&perks=1482024992,3142289711,957782887,1546637391#notes:PvP - MW Any except Reload
+
+// PvP: Snapshot + High-Impact Reserve
+dimwishlist:item=2065081837&perks=839105230,3142289711,957782887,2213355989#notes:PvP - MW Any except Reload
+dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,2213355989#notes:PvP - MW Any except Reload
+dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,2213355989#notes:PvP - MW Any except Reload
+dimwishlist:item=2065081837&perks=3250034553,3142289711,957782887,2213355989#notes:PvP - MW Any except Reload
+dimwishlist:item=2065081837&perks=1392496348,3142289711,957782887,2213355989#notes:PvP - MW Any except Reload
+dimwishlist:item=2065081837&perks=1482024992,3142289711,957782887,2213355989#notes:PvP - MW Any except Reload
+
+// PvE: Clown Cartridge + Explosive Payload
+dimwishlist:item=2065081837&perks=839105230,106909392,2284787283,3038247973#notes:PvE - MW Reload
+dimwishlist:item=2065081837&perks=3661387068,106909392,2284787283,3038247973#notes:PvE - MW Reload
+dimwishlist:item=2065081837&perks=1392496348,106909392,2284787283,3038247973#notes:PvE - MW Reload
+dimwishlist:item=2065081837&perks=839105230,3230963543,2284787283,3038247973#notes:PvE - MW Reload
+dimwishlist:item=2065081837&perks=3661387068,3230963543,2284787283,3038247973#notes:PvE - MW Reload
+dimwishlist:item=2065081837&perks=1392496348,3230963543,2284787283,3038247973#notes:PvE - MW Reload
+
+// PvE: Clown Cartridge + Vorpal
+dimwishlist:item=2065081837&perks=839105230,106909392,2284787283,1546637391#notes:PvE - MW Reload
+dimwishlist:item=2065081837&perks=3661387068,106909392,2284787283,1546637391#notes:PvE - MW Reload
+dimwishlist:item=2065081837&perks=1392496348,106909392,2284787283,1546637391#notes:PvE - MW Reload
+dimwishlist:item=2065081837&perks=839105230,3230963543,2284787283,1546637391#notes:PvE - MW Reload
+dimwishlist:item=2065081837&perks=3661387068,3230963543,2284787283,1546637391#notes:PvE - MW Reload
+dimwishlist:item=2065081837&perks=1392496348,3230963543,2284787283,1546637391#notes:PvE - MW Reload
+
+// -----
 // Omniscient Eye - Solar Sniper - Rapid Fire Frame (Garden of Salvation)
 // PvE: Outlaw + Snapshot
 dimwishlist:item=3454326177&perks=1467527085,106909392,1168162263,957782887#notes:PvE - MW Range or Reload
@@ -1919,6 +1963,15 @@ dimwishlist:item=3473290087&perks=1482024992,2420895100,3300816228,1546637391#no
 // --------------------------------------------------------------------------
 // Type - Sword
 // --------------------------------------------------------------------------
+// Negative Space - Solar Sword - Adaptive Frame (Prophecy Dungeon)
+// PvE: Relentless + Whirlwind
+dimwishlist:item=3629968765&perks=3666208348,52780822,1749209109,3913600130#notes:PvE - MW Impact
+dimwishlist:item=3629968765&perks=3666208348,3625355092,1749209109,3913600130#notes:PvE - MW Impact
+dimwishlist:item=3629968765&perks=3666208348,599007201,1749209109,3913600130#notes:PvE - MW Impact
+dimwishlist:item=3629968765&perks=3666208348,2349202967,1749209109,3913600130#notes:PvE - MW Impact
+dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130#notes:PvE - MW Impact
+
+// -----
 // Sola's Scar - Solar Sword - Caster Frame (Trials of Osiris)
 // PvE: Relentless + Chain Reaction
 dimwishlist:item=1313528549&perks=1261178282,52780822,1749209109,2396489472#notes:PvE - MW Impact
