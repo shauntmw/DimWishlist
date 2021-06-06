@@ -1176,6 +1176,10 @@ dimwishlist:item=3740842661&perks=981914802,2822142346,3300816228,1546637391#not
 dimwishlist:item=3740842661&perks=1441682018,2822142346,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=3740842661&perks=3525010810,2822142346,3300816228,1546637391#notes:PvE - MW Velocity
 
+// PvE: Tracking + Vorpal
+dimwishlist:item=3740842661&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=3740842661&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
+
 // -----
 // Royal Entry - Void Rocket - Precision Frame (Nightfall)
 // PvE: Impulse Amplifier + Clown Cartridge
