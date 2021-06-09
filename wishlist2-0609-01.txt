@@ -1068,10 +1068,7 @@ dimwishlist:item=2496242052&perks=1441682018,2822142346,3300816228,4104185692#no
 dimwishlist:item=2496242052&perks=3525010810,2822142346,3300816228,4104185692#notes:PvE - MW Velocity
 
 // PvE: Auto-Loading + Lasting Impression
-dimwishlist:item=2496242052&perks=981914802,2822142346,3300816228,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=2496242052&perks=3525010810,2822142346,3300816228,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=2496242052&perks=981914802,3492396210,3300816228,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=2496242052&perks=3525010810,3492396210,3300816228,3927722942#notes:PvE - MW Velocity
+// No need anymore. Already has on Hezen Vengeance.
 
 // -----
 // Hezen Vengeance - Solar Rocket Launcher - Agressive Frame (Vault of Glass)
