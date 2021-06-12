@@ -1240,6 +1240,16 @@ dimwishlist:item=1641430382&perks=13792278,679225683,247725512,4049631843#notes:
 dimwishlist:item=1641430382&perks=2405638015,679225683,247725512,4049631843#notes:PvE - MW Reload
 dimwishlist:item=1641430382&perks=2405638014,679225683,247725512,4049631843#notes:PvE - MW Reload
 
+// PvE: Rapid Hit + Osmosis
+dimwishlist:item=1641430382&perks=13792279,3230963543,247725512,1774574192#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=13792278,3230963543,247725512,1774574192#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=2405638015,3230963543,247725512,1774574192#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=2405638014,3230963543,247725512,1774574192#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=13792279,679225683,247725512,1774574192#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=13792278,679225683,247725512,1774574192#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=2405638015,679225683,247725512,1774574192#notes:PvE - MW Reload
+dimwishlist:item=1641430382&perks=2405638014,679225683,247725512,1774574192#notes:PvE - MW Reload
+
 // -----
 // Transfiguration - Kinetic 150 Scout Rifle - High Impact Frame (Last Wish)
 dimwishlist:item=-3799980700#notes:No good perk.
