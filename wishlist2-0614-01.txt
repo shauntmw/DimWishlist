@@ -437,16 +437,28 @@ dimwishlist:item=3037520408&perks=1482024992,3230963543,4071163871,1774574192#no
 // -----
 // Survivor's Epitaph - Kinetic 180 Hand Cannon (Iron Banner)
 // PvE: Subsistence + Frenzy
-dimwishlist:item=310708513&perks=3661387068,3230963543,1820235745,4104185692#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=1467527085,3230963543,1820235745,4104185692#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=202670084,3230963543,1820235745,4104185692#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=3250034553,3230963543,1820235745,4104185692#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=1482024992,3230963543,1820235745,4104185692#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=3661387068,679225683,1820235745,4104185692#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=1467527085,679225683,1820235745,4104185692#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=202670084,679225683,1820235745,4104185692#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=3250034553,679225683,1820235745,4104185692#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=1482024992,679225683,1820235745,4104185692#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=3661387068,3230963543,1820235745,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=1467527085,3230963543,1820235745,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=202670084,3230963543,1820235745,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,3230963543,1820235745,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,3230963543,1820235745,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=3661387068,679225683,1820235745,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=1467527085,679225683,1820235745,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=202670084,679225683,1820235745,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,679225683,1820235745,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,679225683,1820235745,4104185692#notes:PvE - MW Range or Reload
+
+// PvE: Subsistence + Osmosis
+dimwishlist:item=310708513&perks=3661387068,3230963543,1820235745,1774574192#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=1467527085,3230963543,1820235745,1774574192#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=202670084,3230963543,1820235745,1774574192#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,3230963543,1820235745,1774574192#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,3230963543,1820235745,1774574192#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=3661387068,679225683,1820235745,1774574192#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=1467527085,679225683,1820235745,1774574192#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=202670084,679225683,1820235745,1774574192#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,679225683,1820235745,1774574192#notes:PvE - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,679225683,1820235745,1774574192#notes:PvE - MW Range or Reload
 
 // PvP: Quickdraw + Snapshot
 dimwishlist:item=310708513&perks=202670084,1885400500,706527188,957782887#notes:PvP - MW Range or Reload
@@ -1311,6 +1323,16 @@ dimwishlist:item=3504336176&perks=839105230,3230963543,1168162263,3523296417#not
 dimwishlist:item=3504336176&perks=1467527085,3230963543,1168162263,3523296417#notes:PvE - MW Reload
 dimwishlist:item=3504336176&perks=3250034553,3230963543,1168162263,3523296417#notes:PvE - MW Reload
 dimwishlist:item=3504336176&perks=1482024992,3230963543,1168162263,3523296417#notes:PvE - MW Reload
+
+// PvE: Subsistence + Demolitionist
+dimwishlist:item=3504336176&perks=839105230,106909392,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1467527085,106909392,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=3250034553,106909392,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1482024992,106909392,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=839105230,3230963543,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1467527085,3230963543,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=3250034553,3230963543,1820235745,3523296417#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1482024992,3230963543,1820235745,3523296417#notes:PvE - MW Reload
 
 // PvE: Subsistence + Demolitionist
 dimwishlist:item=3504336176&perks=839105230,106909392,1820235745,3523296417#notes:PvE - MW Reload
