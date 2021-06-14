@@ -1840,10 +1840,14 @@ dimwishlist:item=3682803680&perks=1482024992,3230963543,2450788523,1264398905#no
 // --------------------------------------------------------------------------
 // Long Shadow - Kinetic Sniper - Adaptive Frame (Strike)
 // PvP: Snapshot + Moving Target
+dimwishlist:item=3745990145&perks=893526895,3142289711,957782887,588594999#notes:PvP - MW Handling or Reload
 dimwishlist:item=3745990145&perks=893526895,1087426260,957782887,588594999#notes:PvP - MW Handling or Reload
+dimwishlist:item=3745990145&perks=893526895,106909392,957782887,588594999#notes:PvP - MW Handling or Reload
 
 // PvE: Field Prep + Explosive Payload
 dimwishlist:item=3745990145&perks=893526895,1087426260,2869569095,3038247973#notes:PvE - MW Reload
+dimwishlist:item=3745990145&perks=893526895,106909392,2869569095,3038247973#notes:PvE - MW Reload
+dimwishlist:item=3745990145&perks=893526895,3230963543,2869569095,3038247973#notes:PvE - MW Reload
 
 // -----
 // Succession - Kinetic Sniper - Aggressive Frame (Deep Stone Crypt)
@@ -1961,18 +1965,18 @@ dimwishlist:item=852551895&perks=1392496348,1885400500,957782887,47981717#notes:
 dimwishlist:item=852551895&perks=1482024992,1885400500,957782887,47981717#notes:PvP - MW Any
 
 // PvE: Auto-Loading + Vorpal
-dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=3661387068,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=4090651448,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=1840239774,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=1392496348,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=1482024992,2420895100,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=839105230,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=3661387068,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=4090651448,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=1840239774,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=1392496348,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
-dimwishlist:item=852551895&perks=1482024992,1087426260,3300816228,1546637391#notes:PvE - MW Any except Handling
+dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=3661387068,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=4090651448,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=1840239774,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=1392496348,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=1482024992,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=839105230,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=3661387068,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=4090651448,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=1840239774,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=1392496348,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
+dimwishlist:item=852551895&perks=1482024992,1087426260,3300816228,1546637391#notes:PvE - MW Range or Stability
 
 // -----
 // Frozen Orbit - Void Sniper - Agressive Frame (Crucible)
