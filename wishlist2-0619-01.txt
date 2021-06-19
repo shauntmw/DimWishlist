@@ -345,6 +345,10 @@ dimwishlist:item=607191995&perks=3250034553,2969185026,1556840489,1546637391#not
 dimwishlist:item=607191995&perks=1482024992,2969185026,1556840489,1546637391#notes:PvE - MW Range
 
 // -----
+// Null Composure - Void Fusion Rifle - Rapid-Fire Frame (Seasonal - Splicer)
+dimwishlist:item=1644680957#notes: Seasonal Reward
+
+// -----
 // Coriolis Force - Void Fusion Rifle - Agressive Frame (Europa)
 // PvE: Feeding Frenzy + Thresh
 dimwishlist:item=3512349612&perks=839105230,2969185026,2779035018,2726471870#notes:PvE - MW Reload
@@ -1680,6 +1684,10 @@ dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,960810156#note
 dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,960810156#notes:PvE - MW Velocity
 
 // -----
+// Salvager's Salvo - Arc Special Grenade - Lightweight Frame (Seasonal - Chosen)
+dimwishlist:item=2060863616#notes:Seasonal Reward.
+
+// -----
 // Truthteller - Void Special Granade Launcher - Lightweight Frame (World)
 // PvE: Blinding Grenade + Auto-Loading + Quickdraw
 dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,706527188#notes:PvE - MW Velocity
@@ -1995,6 +2003,10 @@ dimwishlist:item=1253087083&perks=1467527085,1140096971,1354429876,2213355989#no
 dimwishlist:item=1253087083&perks=202670084,1140096971,1354429876,2213355989#notes:PvE - MW Range or Reload
 dimwishlist:item=1253087083&perks=3250034553,1140096971,1354429876,2213355989#notes:PvE - MW Range or Reload
 dimwishlist:item=1253087083&perks=1482024992,1140096971,1354429876,2213355989#notes:PvE - MW Range or Reload
+
+// -----
+// Adored - Arc Sniper - Adaptive Frame (Seasonal - Hunt)
+dimwishlist:item=4184808992#notes:Seasonal Reward
 
 // -----
 // Occluded Finality - Arc Sniper - Aggressive Frame (Iron Banner)
