@@ -97,14 +97,32 @@ dimwishlist:item=1907698332&perks=1482024992,679225683,3643424744,2846385770#not
 // -----
 // Arctic Haze - Solar 720 Auto Rifle - Rapid Fire Frame (Europa)
 // PvE: Subsistence + Unrelenting
-dimwishlist:item=20935540&perks=839105230,106909392,1820235745,3108830275#notes:PvE - MW Reload
-dimwishlist:item=20935540&perks=4090651448,106909392,1820235745,3108830275#notes:PvE - MW Reload
-dimwishlist:item=20935540&perks=3250034553,106909392,1820235745,3108830275#notes:PvE - MW Reload
-dimwishlist:item=20935540&perks=1482024992,106909392,1820235745,3108830275#notes:PvE - MW Reload
-dimwishlist:item=20935540&perks=839105230,3230963543,1820235745,3108830275#notes:PvE - MW Reload
-dimwishlist:item=20935540&perks=4090651448,3230963543,1820235745,3108830275#notes:PvE - MW Reload
-dimwishlist:item=20935540&perks=3250034553,3230963543,1820235745,3108830275#notes:PvE - MW Reload
-dimwishlist:item=20935540&perks=1482024992,3230963543,1820235745,3108830275#notes:PvE - MW Reload
+dimwishlist:item=20935540&perks=839105230,106909392,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=3661387068,106909392,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1467527085,106909392,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=3250034553,106909392,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1392496348,106909392,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1482024992,106909392,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=839105230,3230963543,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=3661387068,3230963543,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1467527085,3230963543,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=3250034553,3230963543,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1392496348,3230963543,1820235745,3108830275#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1482024992,3230963543,1820235745,3108830275#notes:PvE - MW Any except Handling
+
+// PvE: Subsistence + Thresh
+dimwishlist:item=20935540&perks=839105230,106909392,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=3661387068,106909392,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1467527085,106909392,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=3250034553,106909392,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1392496348,106909392,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1482024992,106909392,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=839105230,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=3661387068,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1467527085,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=3250034553,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1392496348,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
+dimwishlist:item=20935540&perks=1482024992,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
 
 // -----
 // Shadow Price - Arc 450 Auto Rifle - Precision Frame (Nightfall)
@@ -921,17 +939,17 @@ dimwishlist:item=2870169846&perks=1467527085,679225683,1168162263,3523296417#not
 dimwishlist:item=2870169846&perks=3250034553,679225683,1168162263,3523296417#notes:PvE - MW Range or Reload
 dimwishlist:item=2870169846&perks=1482024992,679225683,1168162263,3523296417#notes:PvE - MW Range or Reload
 
-// PvE: Surplus + Wellspring
-dimwishlist:item=2870169846&perks=839105230,3230963543,3436462433,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2870169846&perks=3661387068,3230963543,3436462433,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2870169846&perks=1467527085,3230963543,3436462433,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2870169846&perks=3250034553,3230963543,3436462433,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2870169846&perks=1482024992,3230963543,3436462433,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2870169846&perks=839105230,679225683,3436462433,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2870169846&perks=3661387068,679225683,3436462433,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2870169846&perks=1467527085,679225683,3436462433,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2870169846&perks=3250034553,679225683,3436462433,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2870169846&perks=1482024992,679225683,3436462433,3592538738#notes:PvE - MW Range or Reload
+// PvE: Outlaw + Wellspring
+dimwishlist:item=2870169846&perks=839105230,3230963543,1168162263,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2870169846&perks=3661387068,3230963543,1168162263,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2870169846&perks=1467527085,3230963543,1168162263,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2870169846&perks=3250034553,3230963543,1168162263,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2870169846&perks=1482024992,3230963543,1168162263,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2870169846&perks=839105230,679225683,1168162263,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2870169846&perks=3661387068,679225683,1168162263,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2870169846&perks=1467527085,679225683,1168162263,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2870169846&perks=3250034553,679225683,1168162263,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2870169846&perks=1482024992,679225683,1168162263,3592538738#notes:PvE - MW Range or Reload
 
 // -----
 // Chattering Bone - Kinetic 450 Pulse Rifle - Lightweight Frame (Last Wish)
