@@ -549,13 +549,21 @@ dimwishlist:item=1835747805&perks=1926090093,3230963543,1820235745,2848615171#no
 
 // -----
 // Posterity - Arc 180 Hand Cannon - Precision Frame (Deep Stone Crypt)
-// PvE: Reconstruction + Redirection
-dimwishlist:item=3281285075&perks=1467527085,1087426260,1523832109,3201496230#notes:PvE - MW Range
-dimwishlist:item=3281285075&perks=202670084,1087426260,1523832109,3201496230#notes:PvE - MW Range
-dimwishlist:item=3281285075&perks=3250034553,1087426260,1523832109,3201496230#notes:PvE - MW Range
-dimwishlist:item=3281285075&perks=1467527085,106909392,1523832109,3201496230#notes:PvE - MW Range
-dimwishlist:item=3281285075&perks=202670084,106909392,1523832109,3201496230#notes:PvE - MW Range
-dimwishlist:item=3281285075&perks=3250034553,106909392,1523832109,3201496230#notes:PvE - MW Range
+// PvE: Reconstruction + Demolitionist
+dimwishlist:item=3281285075&perks=202670084,1087426260,1523832109,3523296417#notes:PvE - MW Any Except Handling
+dimwishlist:item=3281285075&perks=3250034553,1087426260,1523832109,3523296417#notes:PvE - MW Any Except Handling
+dimwishlist:item=3281285075&perks=1482024992,1087426260,1523832109,3523296417#notes:PvE - MW Any Except Handling
+dimwishlist:item=3281285075&perks=202670084,106909392,1523832109,3523296417#notes:PvE - MW Any Except Handling
+dimwishlist:item=3281285075&perks=3250034553,106909392,1523832109,3523296417#notes:PvE - MW Any Except Handling
+dimwishlist:item=3281285075&perks=1482024992,106909392,1523832109,3523296417#notes:PvE - MW Any Except Handling
+
+// PvE: Reconstruction + One for all
+dimwishlist:item=3281285075&perks=202670084,1087426260,1523832109,4049631843#notes:PvE - MW Any Except Handling
+dimwishlist:item=3281285075&perks=3250034553,1087426260,1523832109,4049631843#notes:PvE - MW Any Except Handling
+dimwishlist:item=3281285075&perks=1482024992,1087426260,1523832109,4049631843#notes:PvE - MW Any Except Handling
+dimwishlist:item=3281285075&perks=202670084,106909392,1523832109,4049631843#notes:PvE - MW Any Except Handling
+dimwishlist:item=3281285075&perks=3250034553,106909392,1523832109,4049631843#notes:PvE - MW Any Except Handling
+dimwishlist:item=3281285075&perks=1482024992,106909392,1523832109,4049631843#notes:PvE - MW Any Except Handling
 
 // -----
 // Bottom Dollar - Void 120 Hand Cannon - Agressive Frame (Gambit)
@@ -1463,27 +1471,17 @@ dimwishlist:item=3556999246&perks=1482024992,679225683,1820235745,3523296417#not
 // PvP: Zen Movement + Opening Shot
 dimwishlist:item=1392919471&perks=839105230,3142289711,2387244414,47981717#notes:PvP - MW Any
 
-// PvE: Reconstruction + Redirection
-dimwishlist:item=1392919471&perks=839105230,3142289711,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=1467527085,3142289711,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=202670084,3142289711,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=3250034553,3142289711,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=1482024992,3142289711,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=1467527085,1087426260,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=202670084,1087426260,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=3250034553,1087426260,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=1482024992,1087426260,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=1467527085,106909392,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=202670084,106909392,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=3250034553,106909392,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=1482024992,106909392,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=839105230,3230963543,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=1467527085,3230963543,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=202670084,3230963543,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=3250034553,3230963543,1523832109,3201496230#notes:PvE - MW Any Except Handling
-dimwishlist:item=1392919471&perks=1482024992,3230963543,1523832109,3201496230#notes:PvE - MW Any Except Handling
+// PvE: Reconstruction + Wellspring
+dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1392919471&perks=1467527085,1087426260,1523832109,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1392919471&perks=202670084,1087426260,1523832109,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1392919471&perks=3250034553,1087426260,1523832109,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1392919471&perks=1482024992,1087426260,1523832109,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1392919471&perks=1467527085,106909392,1523832109,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1392919471&perks=202670084,106909392,1523832109,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1392919471&perks=3250034553,106909392,1523832109,3592538738#notes:PvE - MW Any Except Handling
+dimwishlist:item=1392919471&perks=1482024992,106909392,1523832109,3592538738#notes:PvE - MW Any Except Handling
 
 // -----
 // Eternal Blazon - Arc 200 Scout Rifle - Lightweight Frame (World)
