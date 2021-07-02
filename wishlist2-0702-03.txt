@@ -677,19 +677,7 @@ dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3300816228#not
 
 // -----
 // Crowd Pleaser - Void Heavy Grenade - Adaptive Frame (Gambit)
-// PvE: Clown Cartridge + Chain Reaction
-dimwishlist:item=3565520715&perks=1478423395,2985827016,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=1844523823,2985827016,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=981914802,2985827016,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=3525010810,2985827016,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=1478423395,1380253176,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=1844523823,1380253176,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=981914802,1380253176,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=3525010810,1380253176,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=1478423395,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=1844523823,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=981914802,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
-dimwishlist:item=3565520715&perks=3525010810,2822142346,2284787283,2396489472#notes:PvE - MW Blast, Velocity, or Reload
+dimwishlist:item=-3565520715#notes:Use Memory Interdict instead.
 
 // -----
 // Memory Interdict - Void Heavy Grenade - Adaptive Frame (Season of Splicer - FWC)
