@@ -581,20 +581,6 @@ dimwishlist:item=1046651176&perks=202670084,3230963543,247725512,3038247973#note
 dimwishlist:item=1046651176&perks=3250034553,3230963543,247725512,3038247973#notes:PvE - MW Reload
 dimwishlist:item=1046651176&perks=1482024992,3230963543,247725512,3038247973#notes:PvE - MW Reload
 
-// PvE: Rapid Hit + Explosive Payload
-dimwishlist:item=1046651176&perks=839105230,106909392,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=3661387068,106909392,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=1467527085,106909392,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=202670084,106909392,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=3250034553,106909392,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=1482024992,106909392,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=839105230,3230963543,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=3661387068,3230963543,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=1467527085,3230963543,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=202670084,3230963543,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=3250034553,3230963543,247725512,3038247973#notes:PvE - MW Reload
-dimwishlist:item=1046651176&perks=1482024992,3230963543,247725512,3038247973#notes:PvE - MW Reload
-
 // PvE: Outlaw + Demolitionist
 dimwishlist:item=1046651176&perks=839105230,106909392,1168162263,3523296417#notes:PvE - MW Reload
 dimwishlist:item=1046651176&perks=3661387068,106909392,1168162263,3523296417#notes:PvE - MW Reload
@@ -1404,15 +1390,15 @@ dimwishlist:item=3504336176&perks=1467527085,3230963543,1820235745,3523296417#no
 dimwishlist:item=3504336176&perks=3250034553,3230963543,1820235745,3523296417#notes:PvE - MW Reload
 dimwishlist:item=3504336176&perks=1482024992,3230963543,1820235745,3523296417#notes:PvE - MW Reload
 
-// PvE: Subsistence + Demolitionist
-dimwishlist:item=3504336176&perks=839105230,106909392,1820235745,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=1467527085,106909392,1820235745,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=3250034553,106909392,1820235745,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=1482024992,106909392,1820235745,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=839105230,3230963543,1820235745,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=1467527085,3230963543,1820235745,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=3250034553,3230963543,1820235745,3523296417#notes:PvE - MW Reload
-dimwishlist:item=3504336176&perks=1482024992,3230963543,1820235745,3523296417#notes:PvE - MW Reload
+// PvE: Rapid Hit + Explosive Payload
+dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3038247973#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1467527085,106909392,247725512,3038247973#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=3250034553,106909392,247725512,3038247973#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1482024992,106909392,247725512,3038247973#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=839105230,3230963543,247725512,3038247973#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1467527085,3230963543,247725512,3038247973#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=3250034553,3230963543,247725512,3038247973#notes:PvE - MW Reload
+dimwishlist:item=3504336176&perks=1482024992,3230963543,247725512,3038247973#notes:PvE - MW Reload
 
 // -----
 // Vision of Confluence - Solar 180 Scout Rifle - Precision Frame (Vault of Glass)
@@ -1497,11 +1483,11 @@ dimwishlist:item=2776503072&perks=3250034553,3230963543,2866798147,2726471870#no
 
 // -----
 // Vouchsafe - Void 200 Scout Rifle - Lightweight Frame (Dreaming City)
-// PvP: Surplus + Explosive Payload
-dimwishlist:item=3242168339&perks=3250034553,106909392,3436462433,3038247973#notes:PvP - MW Range or Reload
-dimwishlist:item=3242168339&perks=1482024992,106909392,3436462433,3038247973#notes:PvP - MW Range or Reload
-dimwishlist:item=3242168339&perks=3250034553,3230963543,3436462433,3038247973#notes:PvP - MW Range or Reload
-dimwishlist:item=3242168339&perks=1482024992,3230963543,3436462433,3038247973#notes:PvP - MW Range or Reload
+// PvP: Rapid Hit + Explosive Payload
+dimwishlist:item=3242168339&perks=3250034553,106909392,247725512,3038247973#notes:PvP - MW Range or Reload
+dimwishlist:item=3242168339&perks=1482024992,106909392,247725512,3038247973#notes:PvP - MW Range or Reload
+dimwishlist:item=3242168339&perks=3250034553,3230963543,247725512,3038247973#notes:PvP - MW Range or Reload
+dimwishlist:item=3242168339&perks=1482024992,3230963543,247725512,3038247973#notes:PvP - MW Range or Reload
 
 // PvE: Outlaw + Dragonfly
 dimwishlist:item=3242168339&perks=1467527085,106909392,1168162263,2848615171#notes:PvE - MW Reload
@@ -2224,6 +2210,15 @@ dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#note
 dimwishlist:item=2782325300&perks=436053704,269888150,1749209109,354401740#notes:PvE - MW Impact
 dimwishlist:item=2782325300&perks=1261178282,269888150,1749209109,354401740#notes:PvE - MW Impact
 dimwishlist:item=2782325300&perks=938542991,269888150,1749209109,354401740#notes:PvE - MW Impact
+
+// -----
+// Crown-Splitter - Void Titan Sword - Aggressive Frame (World)
+// PvE: Relentless + Vorpal
+dimwishlist:item=2782325302&perks=436053704,2349202967,1749209109,1546637391#notes:PvE - MW Impact
+dimwishlist:item=2782325302&perks=1261178282,2349202967,1749209109,1546637391#notes:PvE - MW Impact
+dimwishlist:item=2782325302&perks=2827049491,2349202967,1749209109,1546637391#notes:PvE - MW Impact
+dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391#notes:PvE - MW Impact
+dimwishlist:item=2782325302&perks=938542991,2349202967,1749209109,1546637391#notes:PvE - MW Impact
 
 
 // --------------------------------------------------------------------------
