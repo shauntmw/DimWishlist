@@ -4,11 +4,7 @@ description:~Zero's DIM wishlist. Sorted by gun types.
 // --------------------------------------------------------------------------
 // Type - Auto Rifle
 // --------------------------------------------------------------------------
-// False Promises - Kinetic 360 Auto Rifle (World)
-// PvP: Dynamic Sway + Zen Movement
-dimwishlist:item=3143732432&perks=3250034553,1885400500,1359896290,2387244414#notes:PvP - MW Range
-dimwishlist:item=3143732432&perks=1482024992,1885400500,1359896290,2387244414#notes:PvP - MW Range
-
+// False Promises - Kinetic 360 Auto Rifle - High-Impact Frame (World)
 // PvE: Subsistence + Unrelenting
 dimwishlist:item=3143732432&perks=839105230,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=3143732432&perks=3661387068,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
@@ -23,9 +19,6 @@ dimwishlist:item=3143732432&perks=1482024992,679225683,1820235745,3108830275#not
 
 // -----
 // Seventh Seraph Carbine - Kinetic 450 Auto Rifle - Precision Frame (World)
-// PvP: Hip Fire + Moving Target
-dimwishlist:item=1561006927&perks=839105230,1885400500,1866048759,588594999#notes:PvP - MW Range
-
 // PvE: Fourth Time the Charm + Vorpal
 dimwishlist:item=1561006927&perks=839105230,3230963543,1354429876,1546637391#notes:PvP - MW Reload
 dimwishlist:item=1561006927&perks=3661387068,3230963543,1354429876,1546637391#notes:PvP - MW Reload
@@ -150,6 +143,14 @@ dimwishlist:item=2633186522&perks=839105230,3230963543,3436462433,3108830275#not
 dimwishlist:item=2633186522&perks=3250034553,3230963543,3436462433,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=2633186522&perks=1482024992,3230963543,3436462433,3108830275#notes:PvE - MW Range or Reload
 
+// PvE: Surplus + Thresh
+dimwishlist:item=2633186522&perks=839105230,106909392,3436462433,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=2633186522&perks=3250034553,106909392,3436462433,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=2633186522&perks=1482024992,106909392,3436462433,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=2633186522&perks=839105230,3230963543,3436462433,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=2633186522&perks=3250034553,3230963543,3436462433,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=2633186522&perks=1482024992,3230963543,3436462433,2726471870#notes:PvE - MW Range or Reload
+
 // -----
 // Shadow Price (Adept) - Arc 450 Auto Rifle - Precision Frame (Nightfall)
 // PvE: Surplus + One for all
@@ -176,19 +177,17 @@ dimwishlist:item=2147010335&perks=839105230,3230963543,3436462433,3108830275#not
 dimwishlist:item=2147010335&perks=3250034553,3230963543,3436462433,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=2147010335&perks=1482024992,3230963543,3436462433,3108830275#notes:PvE - MW Range or Reload
 
+// PvE: Surplus + Thresh
+dimwishlist:item=2147010335&perks=839105230,106909392,3436462433,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=2147010335&perks=3250034553,106909392,3436462433,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=2147010335&perks=1482024992,106909392,3436462433,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=2147010335&perks=839105230,3230963543,3436462433,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=2147010335&perks=3250034553,3230963543,3436462433,2726471870#notes:PvE - MW Range or Reload
+dimwishlist:item=2147010335&perks=1482024992,3230963543,3436462433,2726471870#notes:PvE - MW Range or Reload
+
 // -----
 // The Number - Arc 450 Auto Rifle - Precision Frame (Season of Splicer - FWC)
-// PvE: Surplus + One for all
-dimwishlist:item=2492081469&perks=839105230,3230963543,3436462433,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=2492081469&perks=1467527085,3230963543,3436462433,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=2492081469&perks=202670084,3230963543,3436462433,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=2492081469&perks=3250034553,3230963543,3436462433,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=2492081469&perks=1482024992,3230963543,3436462433,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=2492081469&perks=839105230,679225683,3436462433,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=2492081469&perks=1467527085,679225683,3436462433,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=2492081469&perks=202670084,679225683,3436462433,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=2492081469&perks=3250034553,679225683,3436462433,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=2492081469&perks=1482024992,679225683,3436462433,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=-2492081469#notes:Use Shadow Price instead.
 
 // -----
 // Age-Old Bond - Void 360 Auto-Rifle - High Impact Frame (Last Wish)
@@ -294,19 +293,7 @@ dimwishlist:item=3258665412&perks=1482024992,2969185026,3300816228,1683379515#no
 
 // -----
 // Techeun Force - Arc Fusion Rifle - Adaptive Frame (Last Wish)
-// PvE: Under Pressure + High Impact Reserve
-dimwishlist:item=4094657108&perks=839105230,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=3661387068,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=1467527085,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=202670084,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=3250034553,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=1482024992,2680121939,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=839105230,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=3661387068,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=1467527085,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=202670084,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=3250034553,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=4094657108&perks=1482024992,2969185026,1645158859,2213355989#notes:PvE - MW Range or Reload
+dimwishlist:item=-4094657108#notes:Use Plug One instead.
 
 // -----
 // Plug One.1 - Arc Fusion Rifle - Precision Frame (Nightfall)
@@ -368,8 +355,7 @@ dimwishlist:item=1644680957#notes: Seasonal Reward
 
 // -----
 // Coriolis Force - Void Fusion Rifle - Agressive Frame (Europa)
-// PvE: Feeding Frenzy + Thresh
-dimwishlist:item=3512349612&perks=839105230,2969185026,2779035018,2726471870#notes:PvE - MW Reload
+dimwishlist:item=-3512349612#notes:Just use Null Composure.
 
 // --------------------------------------------------------------------------
 // Type - Hand Cannon
@@ -379,7 +365,7 @@ dimwishlist:item=-2742838700#notes:Hate 120 Hand Cannon.
 
 // -----
 // Steady Hand - Kinetic 120 Hand Cannon - Agressive Frame (Iron Banner)
-dimwishlist:item=-2220884262#notes:Recoil too hard.
+dimwishlist:item=-2220884262#notes:Hate 120 Hand Cannon.
 
 // -----
 // Dire Promise - Kinetic 140 Hand Cannon - Adaptive Frame (World)
@@ -394,6 +380,11 @@ dimwishlist:item=2742838701&perks=1926090093,679225683,3643424744,1774574192#not
 
 // -----
 // Fatebringer - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
+// PvP: Explosive Payload + Opening Shot
+dimwishlist:item=2171478765&perks=202670084,3230963543,3038247973,47981717#notes:PvP - MW Any
+dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,47981717#notes:PvP - MW Any
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,47981717#notes:PvP - MW Any
+
 // PvE: Rewind Rounds + Firefly
 dimwishlist:item=2171478765&perks=3661387068,106909392,3418782618,3824105627#notes:PvE - MW Any except Handling
 dimwishlist:item=2171478765&perks=4090651448,106909392,3418782618,3824105627#notes:PvE - MW Any except Handling
@@ -457,7 +448,18 @@ dimwishlist:item=3037520408&perks=3250034553,3230963543,4071163871,1774574192#no
 dimwishlist:item=3037520408&perks=1482024992,3230963543,4071163871,1774574192#notes:PvE - MW Range or Reload
 
 // -----
-// Survivor's Epitaph - Kinetic 180 Hand Cannon (Iron Banner)
+// Survivor's Epitaph - Kinetic 180 Hand Cannon - Precision Frame (Iron Banner)
+// PvP: Quickdraw + Snapshot
+dimwishlist:item=310708513&perks=202670084,1885400500,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,1885400500,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,1885400500,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=202670084,3230963543,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,3230963543,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,3230963543,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=202670084,679225683,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=3250034553,679225683,706527188,957782887#notes:PvP - MW Range or Reload
+dimwishlist:item=310708513&perks=1482024992,679225683,706527188,957782887#notes:PvP - MW Range or Reload
+
 // PvE: Subsistence + Frenzy
 dimwishlist:item=310708513&perks=3661387068,3230963543,1820235745,4104185692#notes:PvE - MW Range or Reload
 dimwishlist:item=310708513&perks=1467527085,3230963543,1820235745,4104185692#notes:PvE - MW Range or Reload
@@ -481,17 +483,6 @@ dimwishlist:item=310708513&perks=1467527085,679225683,1820235745,1774574192#note
 dimwishlist:item=310708513&perks=202670084,679225683,1820235745,1774574192#notes:PvE - MW Range or Reload
 dimwishlist:item=310708513&perks=3250034553,679225683,1820235745,1774574192#notes:PvE - MW Range or Reload
 dimwishlist:item=310708513&perks=1482024992,679225683,1820235745,1774574192#notes:PvE - MW Range or Reload
-
-// PvP: Quickdraw + Snapshot
-dimwishlist:item=310708513&perks=202670084,1885400500,706527188,957782887#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=3250034553,1885400500,706527188,957782887#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=1482024992,1885400500,706527188,957782887#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=202670084,3230963543,706527188,957782887#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=3250034553,3230963543,706527188,957782887#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=1482024992,3230963543,706527188,957782887#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=202670084,679225683,706527188,957782887#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=3250034553,679225683,706527188,957782887#notes:PvP - MW Range or Reload
-dimwishlist:item=310708513&perks=1482024992,679225683,706527188,957782887#notes:PvP - MW Range or Reload
 
 // -----
 // Igneous Hammer - Solar 120 Hand Cannon - Agressive Frame (Trials of Osiris)
@@ -529,11 +520,7 @@ dimwishlist:item=-334171687#notes:Use Posterity better.
 
 // -----
 // Nation of Beasts - Arc 140 Hand Cannon - Adaptive Frame (Last Wish)
-// PvE: Outlaw + Explosive Head 
-dimwishlist:item=654370424&perks=1467527085,106909392,1168162263,3038247973#notes:PvE - MW Range or Reload
-dimwishlist:item=654370424&perks=202670084,106909392,1168162263,3038247973#notes:PvE - MW Range or Reload
-dimwishlist:item=654370424&perks=3250034553,106909392,1168162263,3038247973#notes:PvE - MW Range or Reload
-dimwishlist:item=654370424&perks=1482024992,106909392,1168162263,3038247973#notes:PvE - MW Range or Reload
+dimwishlist:item=-654370424#notes:Just use Posterity.
 
 // -----
 // Nature of the Beast - Arc 180 Hand Cannon - Precision Frame (Crucible)
@@ -684,7 +671,7 @@ dimwishlist:item=3165547384&perks=3525010810,2822142346,3300816228,2396489472#no
 // --------------------------------------------------------------------------
 // Type - Linear Fusion Rifle
 // --------------------------------------------------------------------------
-// Corsair's Wrath - Sonar Linear Fusion Rifle (Season of the Hunt - Wrathborn)
+// Corsair's Wrath - Solar Linear Fusion Rifle - Precision Frame (Season of the Hunt - Wrathborn)
 // PvE: No Distraction + High Impact Reserve
 dimwishlist:item=2714022207&perks=1467527085,2680121939,2866798147,2213355989#notes:PvE - MW Range or Reload
 dimwishlist:item=2714022207&perks=202670084,2680121939,2866798147,2213355989#notes:PvE - MW Range or Reload
@@ -1209,6 +1196,9 @@ dimwishlist:item=136525518&perks=3525010810,3492396210,3300816228,3977735242#not
 
 // -----
 // Subzero Salvo - Arc Rocket Launcher - Precision Frame (Europa)
+// PvP: Quickdraw + Snapshot
+dimwishlist:item=42351395&perks=3525010810,2822142346,706527188,957782887#notes:PvP - MW Velocity
+
 // PvE: Assassin + Chain Reaction
 dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,2396489472#notes:PvE - MW Blast or Velocity
 dimwishlist:item=42351395&perks=981914802,1996142143,2010801679,2396489472#notes:PvE - MW Blast or Velocity
@@ -1559,6 +1549,11 @@ dimwishlist:item=1096206669&perks=202670084,679225683,1556840489,1546637391#note
 dimwishlist:item=1096206669&perks=3250034553,679225683,1556840489,1546637391#notes:PvE - MW Range
 
 // -----
+// Compass Rose - Solar Shotgun - Precision Frame (Solstice)
+/ PvP: Quickdraw + Vorpal
+dimwishlist:item=2591111628&perks=1332244541,3142289711,706527188,1546637391#notes:PvP - MW Range
+
+// -----
 // First In Last Out - Arc Slug Shotgun - Precision Frame (World)
 // PvE: Auto-Loading + Vorpal
 dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391#notes:PvE - MW Range
@@ -1695,7 +1690,7 @@ dimwishlist:item=409551876&perks=202670084,679225683,4071163871,2726471870#notes
 dimwishlist:item=409551876&perks=3250034553,679225683,4071163871,2726471870#notes:PvE - MW Range
 dimwishlist:item=409551876&perks=1482024992,679225683,4071163871,2726471870#notes:PvE - MW Range
 
-// PvE: Threat Detector + Thresh
+// PvE: Threat Detector + Wellspring
 dimwishlist:item=409551876&perks=1467527085,3230963543,4071163871,3592538738#notes:PvE - MW Range
 dimwishlist:item=409551876&perks=202670084,3230963543,4071163871,3592538738#notes:PvE - MW Range
 dimwishlist:item=409551876&perks=3250034553,3230963543,4071163871,3592538738#notes:PvE - MW Range
@@ -1756,8 +1751,8 @@ dimwishlist:item=2060863616#notes:Seasonal Reward.
 
 // -----
 // Truthteller - Void Special Granade Launcher - Lightweight Frame (World)
-// PvE: Blinding Grenade + Auto-Loading + Quickdraw
-dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,706527188#notes:PvE - MW Velocity
+// PvE: Blinding Grenade + Auto-Loading + Distruption Break
+dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,1683379515#notes:PvE - MW Velocity
 
 // -----
 // Deafening Whisper - Void Special Grenade Launcher - Wave Frame (Season of the Hunt - Wrathborn)
@@ -2065,12 +2060,7 @@ dimwishlist:item=852228780&perks=1392496348,3230963543,3400784728,1546637391#not
 // -----
 // Omniscient Eye - Solar Sniper - Rapid Fire Frame (Garden of Salvation)
 // PvE: Outlaw + Snapshot
-dimwishlist:item=3454326177&perks=1467527085,106909392,1168162263,957782887#notes:PvE - MW Range or Reload
-dimwishlist:item=3454326177&perks=3250034553,106909392,1168162263,957782887#notes:PvE - MW Range or Reload
-dimwishlist:item=3454326177&perks=1482024992,106909392,1168162263,957782887#notes:PvE - MW Range or Reload
-dimwishlist:item=3454326177&perks=1467527085,3230963543,1168162263,957782887#notes:PvE - MW Range or Reload
-dimwishlist:item=3454326177&perks=3250034553,3230963543,1168162263,957782887#notes:PvE - MW Range or Reload
-dimwishlist:item=3454326177&perks=1482024992,3230963543,1168162263,957782887#notes:PvE - MW Range or Reload
+dimwishlist:item=-3454326177#notes:No good perk.
 
 // -----
 // Widow's Bite - Solar Sniper - Rapid Fire
