@@ -1142,6 +1142,38 @@ dimwishlist:item=4050645223&perks=1441682018,3796465595,3977735242,3927722942#no
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 
 // -----
+// Hezen Vengeance (Timelost) - Solar Rocket Launcher - Agressive Frame (Vault of Glass)
+// PvE: Auto-Loading + Vorpal
+dimwishlist:item=1921159786&perks=981914802,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=1441682018,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
+
+// PvE: Auto-Loading + Lasting Impression
+dimwishlist:item=1921159786&perks=981914802,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=1441682018,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
+
+// PvE: Overflow + Vorpal
+dimwishlist:item=1921159786&perks=981914802,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=1441682018,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
+
+// PvE: Overflow + Lasting Impression
+dimwishlist:item=1921159786&perks=981914802,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=1441682018,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
+
+// PvE: Tracking + Vorpal
+dimwishlist:item=1921159786&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=1441682018,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
+
+// PvE: Tracking + Lasting Impression
+dimwishlist:item=1921159786&perks=981914802,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=1441682018,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
+
+// -----
 // Hoosegow - Arc Rocket Launcher - Adaptive Frame (Prophecy dungeon)
 // PvE: Auto-Loading + Cluster Bomb
 dimwishlist:item=3669616453&perks=1478423395,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
@@ -1619,16 +1651,16 @@ dimwishlist:item=217140611&perks=1482024992,679225683,1556840489,1546637391#note
 // Type - Sidearm
 // --------------------------------------------------------------------------
 // Lonesome - Kinetic Sidearm - Precision Frame
-// PvE: Outlaw + Demolitionist
-dimwishlist:item=2199171672&perks=1467527085,1968497646,1168162263,3523296417#notes:PvE - MW Range
-dimwishlist:item=2199171672&perks=202670084,1968497646,1168162263,3523296417#notes:PvE - MW Range
-dimwishlist:item=2199171672&perks=3250034553,1968497646,1168162263,3523296417#notes:PvE - MW Range
-dimwishlist:item=2199171672&perks=1467527085,1885400500,1168162263,3523296417#notes:PvE - MW Range
-dimwishlist:item=2199171672&perks=202670084,1885400500,1168162263,3523296417#notes:PvE - MW Range
-dimwishlist:item=2199171672&perks=3250034553,1885400500,1168162263,3523296417#notes:PvE - MW Range
-dimwishlist:item=2199171672&perks=1467527085,679225683,1168162263,3523296417#notes:PvE - MW Range
-dimwishlist:item=2199171672&perks=202670084,679225683,1168162263,3523296417#notes:PvE - MW Range
-dimwishlist:item=2199171672&perks=3250034553,679225683,1168162263,3523296417#notes:PvE - MW Range
+// PvE: Rapid Hit + Demolitionist
+dimwishlist:item=2199171672&perks=1467527085,1968497646,247725512,3523296417#notes:PvE - MW Range
+dimwishlist:item=2199171672&perks=202670084,1968497646,247725512,3523296417#notes:PvE - MW Range
+dimwishlist:item=2199171672&perks=3250034553,1968497646,247725512,3523296417#notes:PvE - MW Range
+dimwishlist:item=2199171672&perks=1467527085,1885400500,247725512,3523296417#notes:PvE - MW Range
+dimwishlist:item=2199171672&perks=202670084,1885400500,247725512,3523296417#notes:PvE - MW Range
+dimwishlist:item=2199171672&perks=3250034553,1885400500,247725512,3523296417#notes:PvE - MW Range
+dimwishlist:item=2199171672&perks=1467527085,679225683,247725512,3523296417#notes:PvE - MW Range
+dimwishlist:item=2199171672&perks=202670084,679225683,247725512,3523296417#notes:PvE - MW Range
+dimwishlist:item=2199171672&perks=3250034553,679225683,247725512,3523296417#notes:PvE - MW Range
 
 // -----
 // Farewell - Kinetic Sidearm - Lightweight Frame (Season of Splicer - Override)
