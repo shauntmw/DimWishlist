@@ -870,6 +870,38 @@ dimwishlist:item=471518543&perks=3250034553,106909392,3523296417,11612903#notes:
 dimwishlist:item=471518543&perks=1482024992,106909392,3523296417,11612903#notes:PvE - MW Any except Handling
 
 // -----
+// Corrective Measure (Timelost) - Void 450 Machine Gun - Adaptive Frame (Vault of Glass)
+// PvE: Subsistence + Firefly
+dimwishlist:item=3796510434&perks=3661387068,1087426260,1820235745,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1467527085,1087426260,1820235745,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=3250034553,1087426260,1820235745,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1482024992,1087426260,1820235745,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=3661387068,106909392,1820235745,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1467527085,106909392,1820235745,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=3250034553,106909392,1820235745,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1482024992,106909392,1820235745,3824105627#notes:PvE - MW Any except Handling
+
+// PvE: Rewind Rounds + High Impact Reserve
+dimwishlist:item=3796510434&perks=3661387068,1087426260,3418782618,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1467527085,1087426260,3418782618,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=3250034553,1087426260,3418782618,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1482024992,1087426260,3418782618,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=3661387068,106909392,3418782618,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1467527085,106909392,3418782618,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=3250034553,106909392,3418782618,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1482024992,106909392,3418782618,2213355989#notes:PvE - MW Any except Handling
+
+// PvE: Demolitionist + Adrenaline
+dimwishlist:item=3796510434&perks=3661387068,1087426260,3523296417,11612903#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1467527085,1087426260,3523296417,11612903#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=3250034553,1087426260,3523296417,11612903#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1482024992,1087426260,3523296417,11612903#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=3661387068,106909392,3523296417,11612903#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1467527085,106909392,3523296417,11612903#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=3250034553,106909392,3523296417,11612903#notes:PvE - MW Any except Handling
+dimwishlist:item=3796510434&perks=1482024992,106909392,3523296417,11612903#notes:PvE - MW Any except Handling
+
+// -----
 // Shattered Cipher - Void 900 Machine Gun - Rapid Fire Frame (Season of Splicer - Override)
 // PvE: Auto-Loading + Rampage
 dimwishlist:item=2434225986&perks=839105230,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
