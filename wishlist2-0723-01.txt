@@ -1481,6 +1481,32 @@ dimwishlist:item=3186018373&perks=3250034553,679225683,3592538738,4104185692#not
 dimwishlist:item=3186018373&perks=1482024992,679225683,3592538738,4104185692#notes:PvE - MW Any except Handling
 
 // -----
+// Vision of Confluence (Timelost) - Solar 180 Scout Rifle - Precision Frame (Vault of Glass)
+// PvE: Wellspring + Firefly
+dimwishlist:item=690668916&perks=839105230,3230963543,3592538738,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=3661387068,3230963543,3592538738,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=1467527085,3230963543,3592538738,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=3250034553,3230963543,3592538738,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=1482024992,3230963543,3592538738,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=839105230,679225683,3592538738,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=3661387068,679225683,3592538738,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=1467527085,679225683,3592538738,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=3250034553,679225683,3592538738,3824105627#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=1482024992,679225683,3592538738,3824105627#notes:PvE - MW Any except Handling
+
+// PvE: Wellspring + Frenzy
+dimwishlist:item=690668916&perks=839105230,3230963543,3592538738,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=3661387068,3230963543,3592538738,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=1467527085,3230963543,3592538738,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=3250034553,3230963543,3592538738,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=1482024992,3230963543,3592538738,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=839105230,679225683,3592538738,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=3661387068,679225683,3592538738,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=1467527085,679225683,3592538738,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=3250034553,679225683,3592538738,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=690668916&perks=1482024992,679225683,3592538738,4104185692#notes:PvE - MW Any except Handling
+
+// -----
 // Pleisdes Corrector - Solar 200 Scout Rifle - Lightweight Frame (Season of Splicer - FWC)
 // PvE: Subsistence + Demolitionist
 dimwishlist:item=3556999246&perks=839105230,3230963543,1820235745,3523296417#notes:PvE - MW Range or Reload
@@ -2133,7 +2159,7 @@ dimwishlist:item=-1271343896#notes:Use IKELOS or Far Future instead.
 // -----
 // Distant Tumulus - Solar Sniper - Rapid Fire Frame (World)
 // PvE: Lead from Gold + Snapshot
-dimwishlist:item=-893527433#notes:Use IKELOS or Far Future instead.
+dimwishlist:item=-2807687156#notes:Use IKELOS or Far Future instead.
 
 // -----
 // IKELOS Sniper - Solar Sniper - Rapid-Fire Frame (World)
@@ -2147,7 +2173,19 @@ dimwishlist:item=1253087083&perks=1482024992,1140096971,1354429876,2213355989#no
 
 // -----
 // Adored - Arc Sniper - Adaptive Frame (Seasonal - Hunt)
+// PvE: Triple Tap + Vorpal
+// PvP: Killing Wind + Snapshot
 dimwishlist:item=4184808992#notes:Seasonal Reward
+
+// -----
+// Apostate - Arc Sniper - Rapid-Fire Frame (Moon)
+// PvE: Lead from Gold + Explosive Payload
+dimwishlist:item=2164448701&perks=839105230,106909392,1556840489,3038247973#notes:PvE - MW Any
+dimwishlist:item=2164448701&perks=3661387068,106909392,1556840489,3038247973#notes:PvE - MW Any
+dimwishlist:item=2164448701&perks=4090651448,106909392,1556840489,3038247973#notes:PvE - MW Any
+dimwishlist:item=2164448701&perks=1467527085,106909392,1556840489,3038247973#notes:PvE - MW Any
+dimwishlist:item=2164448701&perks=3250034553,106909392,1556840489,3038247973#notes:PvE - MW Any
+dimwishlist:item=2164448701&perks=1482024992,106909392,1556840489,3038247973#notes:PvE - MW Any
 
 // -----
 // Occluded Finality - Arc Sniper - Aggressive Frame (Iron Banner)
