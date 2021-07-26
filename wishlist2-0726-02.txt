@@ -2180,8 +2180,11 @@ dimwishlist:item=852228780&perks=1392496348,3230963543,3400784728,1546637391#not
 
 // -----
 // Omniscient Eye - Solar Sniper - Rapid Fire Frame (Garden of Salvation)
-// PvE: Outlaw + Snapshot
 dimwishlist:item=-3454326177#notes:No good perk.
+
+// -----
+// Twilight Oath - Solar Sniper - Rapid Fire Frame (Dreaming City)
+dimwishlist:item=-3297863558#notes:Use IKELOS or Far Future instead.
 
 // -----
 // Widow's Bite - Solar Sniper - Rapid Fire
