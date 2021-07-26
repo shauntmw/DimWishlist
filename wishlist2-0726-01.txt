@@ -59,6 +59,37 @@ dimwishlist:item=1119734784&perks=3250034553,3230963543,1820235745,3592538738#no
 dimwishlist:item=1119734784&perks=1482024992,3230963543,1820235745,3592538738#notes:PvE - MW Range
 
 // -----
+// Tigerspite - Kinetic 450 Auto Rifle - Precision Frame (Dreaming City)
+// PvE: Subsistence + Demolitionist
+dimwishlist:item=640114618&perks=839105230,3230963543,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=3661387068,3230963543,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=1467527085,3230963543,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=3250034553,3230963543,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=1482024992,3230963543,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=839105230,679225683,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=3661387068,679225683,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=1467527085,679225683,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=3250034553,679225683,1820235745,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=1482024992,679225683,1820235745,3523296417#notes:PvE - MW Any except Handling
+
+// PvE: Overflow + Frenzy
+dimwishlist:item=640114618&perks=839105230,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=3661387068,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=1467527085,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=3250034553,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=1482024992,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=839105230,3230963543,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=3661387068,3230963543,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=1467527085,3230963543,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=3250034553,3230963543,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=1482024992,3230963543,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=839105230,679225683,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=3661387068,679225683,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=1467527085,679225683,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=3250034553,679225683,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=1482024992,679225683,3643424744,4104185692#notes:PvE - MW Any except Handling
+
+// -----
 // The Summoner - Solar 600 Auto Rifle - Adaptive Frame (Trials of Osiris)
 // PvP: Moving Target + Rangefinder
 dimwishlist:item=1907698332&perks=839105230,1885400500,588594999,2846385770#notes:PvP - MW Any
