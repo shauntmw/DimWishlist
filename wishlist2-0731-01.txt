@@ -832,7 +832,7 @@ dimwishlist:item=3836861464&perks=1467527085,3230963543,1168162263,4049631843#no
 dimwishlist:item=3836861464&perks=3250034553,3230963543,1168162263,4049631843#notes:PvE - MW Reload
 dimwishlist:item=3836861464&perks=1482024992,3230963543,1168162263,4049631843#notes:PvE - MW Reload
 
-// PvE: Outlaw + Vorpal
+// PvE: Bottomless Grief + Vorpal
 dimwishlist:item=3836861464&perks=3661387068,1087426260,1168162263,1546637391#notes:PvE - MW Reload
 dimwishlist:item=3836861464&perks=1467527085,1087426260,1168162263,1546637391#notes:PvE - MW Reload
 dimwishlist:item=3836861464&perks=3250034553,1087426260,1168162263,1546637391#notes:PvE - MW Reload
@@ -841,10 +841,6 @@ dimwishlist:item=3836861464&perks=3661387068,106909392,1168162263,1546637391#not
 dimwishlist:item=3836861464&perks=1467527085,106909392,1168162263,1546637391#notes:PvE - MW Reload
 dimwishlist:item=3836861464&perks=3250034553,106909392,1168162263,1546637391#notes:PvE - MW Reload
 dimwishlist:item=3836861464&perks=1482024992,106909392,1168162263,1546637391#notes:PvE - MW Reload
-dimwishlist:item=3836861464&perks=3661387068,3230963543,1168162263,1546637391#notes:PvE - MW Reload
-dimwishlist:item=3836861464&perks=1467527085,3230963543,1168162263,1546637391#notes:PvE - MW Reload
-dimwishlist:item=3836861464&perks=3250034553,3230963543,1168162263,1546637391#notes:PvE - MW Reload
-dimwishlist:item=3836861464&perks=1482024992,3230963543,1168162263,1546637391#notes:PvE - MW Reload
 
 // -----
 // Commemoration - Void 450 Machine Gun - Adaptive Frame (Deep Stone Crypt)
@@ -2280,6 +2276,19 @@ dimwishlist:item=3629968765&perks=3666208348,3625355092,1749209109,3913600130#no
 dimwishlist:item=3629968765&perks=3666208348,599007201,1749209109,3913600130#notes:PvE - MW Impact
 dimwishlist:item=3629968765&perks=3666208348,2349202967,1749209109,3913600130#notes:PvE - MW Impact
 dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130#notes:PvE - MW Impact
+
+// -----
+// Abide the Return - Solar Sword - Adaptive Frame (Dreaming City)
+// PvE: Relentless + Flash Counter
+dimwishlist:item=1644160541&perks=436053704,52780822,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=1644160541&perks=2827049491,52780822,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=1644160541&perks=938542991,52780822,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=1644160541&perks=436053704,3625355092,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=1644160541&perks=2827049491,3625355092,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=1644160541&perks=938542991,3625355092,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=1644160541&perks=436053704,269888150,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=1644160541&perks=2827049491,269888150,1749209109,2244851822#notes:PvE - MW Impact
+dimwishlist:item=1644160541&perks=938542991,269888150,1749209109,2244851822#notes:PvE - MW Impact
 
 // -----
 // Sola's Scar - Solar Sword - Caster Frame (Trials of Osiris)
