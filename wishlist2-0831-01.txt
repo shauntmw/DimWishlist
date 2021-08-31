@@ -508,6 +508,18 @@ dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,4104185692#no
 dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,4104185692#notes:PvE - MW Any except Handling
 
 // -----
+// Judgment - Kinetic 140 Hand Cannont - Adaptive Frame (Prophecy)
+// PvE: Demolitionist + Timed Payload
+dimwishlist:item=1476654960&perks=1926090092,106909392,3523296417,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=1476654960&perks=1926090093,106909392,3523296417,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=1476654960&perks=1926090090,106909392,3523296417,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=1476654960&perks=1926090091,106909392,3523296417,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=1476654960&perks=1926090092,3230963543,3523296417,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=1476654960&perks=1926090093,3230963543,3523296417,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=1476654960&perks=1926090090,3230963543,3523296417,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=1476654960&perks=1926090091,3230963543,3523296417,1954620775#notes:PvE - MW Any except Handling
+
+// -----
 // Seventh Seraph Officer Revolver - Kinetic 180 Hand Cannon - Precision Frame (World)
 // PvE: Threat Detector + Timed Payload
 dimwishlist:item=3037520408&perks=4090651448,106909392,4071163871,1954620775#notes:PvE - MW Range or Reload
@@ -561,6 +573,20 @@ dimwishlist:item=1622998472&perks=3661387068,3230963543,3700496672,3038247973#no
 dimwishlist:item=1622998472&perks=1467527085,3230963543,3700496672,3038247973#notes:PvE - MW Range or Reload
 dimwishlist:item=1622998472&perks=3250034553,3230963543,3700496672,3038247973#notes:PvE - MW Range or Reload
 dimwishlist:item=1622998472&perks=1482024992,3230963543,3700496672,3038247973#notes:PvE - MW Range or Reload
+
+// PvE: Outlaw + Headstone
+dimwishlist:item=1622998472&perks=3661387068,1087426260,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=1467527085,1087426260,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=3250034553,1087426260,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=1482024992,1087426260,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=3661387068,106909392,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=1467527085,106909392,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=3250034553,106909392,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=1482024992,106909392,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=3661387068,3230963543,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=1467527085,3230963543,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=3250034553,3230963543,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=1622998472&perks=1482024992,3230963543,1168162263,124408337#notes:PvE - MW Range or Reload
 
 // -----
 // Igneous Hammer - Solar 120 Hand Cannon - Agressive Frame (Trials of Osiris)
@@ -1224,6 +1250,42 @@ dimwishlist:item=4156253727&perks=3250034553,679225683,1820235745,1546637391#not
 dimwishlist:item=4156253727&perks=1482024992,679225683,1820235745,1546637391#notes:PvE - MW Range or Reload
 
 // -----
+// Darkest Before - Arc 540 Pulse Rifle - Rapid Fire Frame (Prophecy Dungeon)
+// PvE: Overflow + One for all
+dimwishlist:item=2481758391&perks=839105230,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3661387068,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1467527085,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3250034553,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1482024992,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=839105230,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3661387068,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1467527085,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3250034553,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1482024992,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=839105230,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3661387068,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1467527085,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3250034553,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1482024992,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
+
+// PvE: Subsistence + Wellspring
+dimwishlist:item=2481758391&perks=839105230,1087426260,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3661387068,1087426260,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1467527085,1087426260,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3250034553,1087426260,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1482024992,1087426260,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=839105230,3230963543,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3661387068,3230963543,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1467527085,3230963543,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3250034553,3230963543,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1482024992,3230963543,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=839105230,679225683,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3661387068,679225683,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1467527085,679225683,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=3250034553,679225683,1820235745,3592538738#notes:PvE - MW Any except Handling
+dimwishlist:item=2481758391&perks=1482024992,679225683,1820235745,3592538738#notes:PvE - MW Any except Handling
+
+// -----
 // Last Perdition - Void 390 Pulse Rifle - Adaptive Frame (World)
 // PvE: Outlaw + Kill Clip
 dimwishlist:item=188882152&perks=360593482,106909392,1168162263,1015611457#notes:PvE - MW Range or Reload
@@ -1335,7 +1397,7 @@ dimwishlist:item=1921159786&perks=1441682018,3796465595,3977735242,3927722942#no
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 
 // -----
-// Hoosegow - Arc Rocket Launcher - Adaptive Frame (Prophecy dungeon)
+// Hoosegow - Arc Rocket Launcher - Adaptive Frame (World)
 // PvE: Auto-Loading + Cluster Bomb
 dimwishlist:item=3669616453&perks=1478423395,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
 dimwishlist:item=3669616453&perks=1441682018,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
@@ -1762,6 +1824,10 @@ dimwishlist:item=3197270240&perks=1332244541,791862061,3418782618,3523296417#not
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3418782618,3523296417#notes:PvE - MW Range
 
 // -----
+// A Sudden Death - Arc Shotgun - Agressive Frame (Prophecy)
+dimwishlist:item=-2855157553#notes:No good perks. Use Found Verdict better.
+
+// -----
 // Retrofuturist - Void Shotgun - Lightweight Frame (World)
 dimwishlist:item=-1402766122#notes:No good perk. Use Retold Tale instead.
 
@@ -1920,6 +1986,13 @@ dimwishlist:item=2121785039&perks=202670084,679225683,4071163871,4104185692#note
 dimwishlist:item=2121785039&perks=3250034553,679225683,4071163871,4104185692#notes:PvE - MW Reload
 dimwishlist:item=2121785039&perks=1482024992,679225683,4071163871,4104185692#notes:PvE - MW Reload
 
+// -----
+// A Swift Verdict - Void Sidearm - Precision Frame (Prophecy)
+// PvE: Thread Detector + Wellspring
+dimwishlist:item=1626503676&perks=445755710,1968497646,4071163871,3592538738#notes:PvE - MW Range
+dimwishlist:item=1626503676&perks=445755710,1885400500,4071163871,3592538738#notes:PvE - MW Range
+dimwishlist:item=1626503676&perks=445755710,679225683,4071163871,3592538738#notes:PvE - MW Range
+
 // --------------------------------------------------------------------------
 // Type - Special Grenade Launcher
 // --------------------------------------------------------------------------
@@ -2062,7 +2135,7 @@ dimwishlist:item=875848769&perks=3250034553,679225683,4071163871,3592538738#note
 dimwishlist:item=875848769&perks=1482024992,679225683,4071163871,3592538738#notes:PvE - MW Range
 
 // -----
-// Death Adder - Solar 900 SMG - Lightweight Frame (Prophecy dungeon)
+// Death Adder - Solar 900 SMG - Lightweight Frame (World)
 // PvE: Feeding Frenzy + Rangefinder
 dimwishlist:item=2742490609&perks=1467527085,3142289711,2779035018,2846385770#notes:PvE - MW Range or Reload
 dimwishlist:item=2742490609&perks=202670084,3142289711,2779035018,2846385770#notes:PvE - MW Range or Reload
@@ -2287,6 +2360,13 @@ dimwishlist:item=1253087083&perks=3250034553,1140096971,1354429876,2213355989#no
 dimwishlist:item=1253087083&perks=1482024992,1140096971,1354429876,2213355989#notes:PvE - MW Range or Reload
 
 // -----
+// The Long Walk - Solar Sniper - Agressive Frame (Prophecy)
+// PvE: Overflow + Frenzy
+dimwishlist:item=3326850591&perks=839105230,1087426260,3643424744,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=3326850591&perks=3661387068,1087426260,3643424744,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=3326850591&perks=1467527085,1087426260,3643424744,4104185692#notes:PvE - MW Range or Reload
+
+// -----
 // Adored - Arc Sniper - Adaptive Frame (Seasonal - Hunt)
 // PvE: Triple Tap + Vorpal
 // PvP: Killing Wind + Snapshot
@@ -2354,7 +2434,7 @@ dimwishlist:item=3473290087&perks=1482024992,2420895100,3300816228,1546637391#no
 // --------------------------------------------------------------------------
 // Type - Sword
 // --------------------------------------------------------------------------
-// Negative Space - Solar Sword - Adaptive Frame (Prophecy Dungeon)
+// Negative Space - Solar Sword - Adaptive Frame (World)
 // PvE: Relentless + Whirlwind
 dimwishlist:item=3629968765&perks=3666208348,52780822,1749209109,3913600130#notes:PvE - MW Impact
 dimwishlist:item=3629968765&perks=3666208348,3625355092,1749209109,3913600130#notes:PvE - MW Impact
