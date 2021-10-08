@@ -19,17 +19,19 @@ dimwishlist:item=3143732432&perks=1482024992,679225683,1820235745,3108830275#not
 
 // -----
 // Seventh Seraph Carbine - Kinetic 450 Auto Rifle - Precision Frame (World)
-// PvE: Fourth Time the Charm + Vorpal
-dimwishlist:item=1561006927&perks=839105230,3230963543,1354429876,1546637391#notes:PvP - MW Reload
-dimwishlist:item=1561006927&perks=3661387068,3230963543,1354429876,1546637391#notes:PvP - MW Reload
-dimwishlist:item=1561006927&perks=1467527085,3230963543,1354429876,1546637391#notes:PvP - MW Reload
-dimwishlist:item=1561006927&perks=3250034553,3230963543,1354429876,1546637391#notes:PvP - MW Reload
-dimwishlist:item=1561006927&perks=1482024992,3230963543,1354429876,1546637391#notes:PvP - MW Reload
-dimwishlist:item=1561006927&perks=839105230,679225683,1354429876,1546637391#notes:PvP - MW Reload
-dimwishlist:item=1561006927&perks=3661387068,679225683,1354429876,1546637391#notes:PvP - MW Reload
-dimwishlist:item=1561006927&perks=1467527085,679225683,1354429876,1546637391#notes:PvP - MW Reload
-dimwishlist:item=1561006927&perks=3250034553,679225683,1354429876,1546637391#notes:PvP - MW Reload
-dimwishlist:item=1561006927&perks=1482024992,679225683,1354429876,1546637391#notes:PvP - MW Reload
+// PvE: Fourth Time the Charm + Rangefinder
+dimwishlist:item=1561006927&perks=839105230,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=3661387068,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=1467527085,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=3250034553,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=1392496348,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=1482024992,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=839105230,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=3661387068,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=1467527085,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=3250034553,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=1392496348,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=1482024992,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
 
 // -----
 // Scathelocke - Kinetic 600 Auto Rifle - Adaptive Frame (Iron Banner)
@@ -1480,9 +1482,6 @@ dimwishlist:item=-568515759#notes:No good perk.
 
 // -----
 // The Time-Worn Spire - Kinetic 540 Pulse Rifle - Rapid-Fire Frame (Iron Banner)
-// PvP: Moving Target + Vorpal
-dimwishlist:item=3593598010&perks=2405638015,1885400500,588594999,1546637391#notes:PvP - MW Range or Reload
-
 // PvE: Feeding Frenzy + One for all
 dimwishlist:item=3593598010&perks=13792279,1087426260,2779035018,4049631843#notes:PvE - MW Range or Reload
 dimwishlist:item=3593598010&perks=13792278,1087426260,2779035018,4049631843#notes:PvE - MW Range or Reload
@@ -3111,12 +3110,7 @@ dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130#not
 
 // -----
 // Abide the Return - Solar Sword - Adaptive Frame (Dreaming City)
-// PvE: Relentless + Whirlwind
-dimwishlist:item=1644160541&perks=3666208348,52780822,1749209109,3913600130#notes:PvE - MW Impact
-dimwishlist:item=1644160541&perks=3666208348,3625355092,1749209109,3913600130#notes:PvE - MW Impact
-dimwishlist:item=1644160541&perks=3666208348,599007201,1749209109,3913600130#notes:PvE - MW Impact
-dimwishlist:item=1644160541&perks=3666208348,2349202967,1749209109,3913600130#notes:PvE - MW Impact
-dimwishlist:item=1644160541&perks=3666208348,269888150,1749209109,3913600130#notes:PvE - MW Impact
+dimwishlist:item=-1644160541#notes:Already have Negative Space.
 
 // -----
 // Sola's Scar - Solar Sword - Caster Frame (Trials of Osiris)
