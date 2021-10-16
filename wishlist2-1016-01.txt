@@ -38,6 +38,27 @@ dimwishlist:item=1561006927&perks=1482024992,679225683,1354429876,2846385770#not
 dimwishlist:item=-528834068#notes:No good perk.
 
 // -----
+// Horror Story - Kinetic 450 Auto Rifle - Precision Frame (Festival of the Lost)
+dimwishlist:item=3829285960&perks=679077873,1087426260,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=679077872,1087426260,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=13792279,1087426260,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=13792278,1087426260,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=2405638015,1087426260,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=2405638014,1087426260,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=679077873,106909392,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=679077872,106909392,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=13792279,106909392,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=13792278,106909392,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=2405638015,106909392,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=2405638014,106909392,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=679077873,3230963543,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=679077872,3230963543,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=13792279,3230963543,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=13792278,3230963543,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=2405638015,3230963543,1820235745,3523296417#notes:PvP - MW Any except Handling
+dimwishlist:item=3829285960&perks=2405638014,3230963543,1820235745,3523296417#notes:PvP - MW Any except Handling
+
+// -----
 // Scathelocke - Kinetic 600 Auto Rifle - Adaptive Frame (Iron Banner)
 // PvE: Subsistence + Sympathetic Arsenal
 dimwishlist:item=602618796&perks=839105230,106909392,1820235745,3350417888#notes:PvE - MW Any except Handling
