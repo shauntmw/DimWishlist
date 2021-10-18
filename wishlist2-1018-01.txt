@@ -39,6 +39,7 @@ dimwishlist:item=-528834068#notes:No good perk.
 
 // -----
 // Horror Story - Kinetic 450 Auto Rifle - Precision Frame (Festival of the Lost)
+// PvE: Subsistence + Demolitionist
 dimwishlist:item=3829285960&perks=679077873,1087426260,1820235745,3523296417#notes:PvP - MW Any except Handling
 dimwishlist:item=3829285960&perks=679077872,1087426260,1820235745,3523296417#notes:PvP - MW Any except Handling
 dimwishlist:item=3829285960&perks=13792279,1087426260,1820235745,3523296417#notes:PvP - MW Any except Handling
@@ -1573,6 +1574,59 @@ dimwishlist:item=1076810832&perks=839105230,3230963543,3436462433,3592538738#not
 dimwishlist:item=1076810832&perks=1467527085,3230963543,3436462433,3592538738#notes:PvE - MW Any except Handling
 dimwishlist:item=1076810832&perks=3250034553,3230963543,3436462433,3592538738#notes:PvE - MW Any except Handling
 dimwishlist:item=1076810832&perks=1482024992,3230963543,3436462433,3592538738#notes:PvE - MW Any except Handling
+
+// -----
+// Jurassic Green - Solar 540 Pulse Rifle - Rapid Fire Frame (Festival of the Lost)
+// PvE: Rangefinder + Wellspring
+dimwishlist:item=2261046232&perks=839105230,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3661387068,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1467527085,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3250034553,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1482024992,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=839105230,3230963543,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3661387068,3230963543,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1467527085,3230963543,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3250034553,3230963543,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1482024992,3230963543,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=839105230,679225683,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3661387068,679225683,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1467527085,679225683,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3250034553,679225683,2846385770,3592538738#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1482024992,679225683,2846385770,3592538738#notes:PvE - MW Range or Reload
+
+// PvE: Rangefinder + Frenzy
+dimwishlist:item=2261046232&perks=839105230,1087426260,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3661387068,1087426260,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1467527085,1087426260,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3250034553,1087426260,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1482024992,1087426260,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=839105230,3230963543,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3661387068,3230963543,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1467527085,3230963543,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3250034553,3230963543,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1482024992,3230963543,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=839105230,679225683,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3661387068,679225683,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1467527085,679225683,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3250034553,679225683,2846385770,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1482024992,679225683,2846385770,4104185692#notes:PvE - MW Range or Reload
+
+// PvE: Subsistence + Dragonfly
+dimwishlist:item=2261046232&perks=839105230,1087426260,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3661387068,1087426260,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1467527085,1087426260,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3250034553,1087426260,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1482024992,1087426260,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=839105230,3230963543,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3661387068,3230963543,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1467527085,3230963543,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3250034553,3230963543,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1482024992,3230963543,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=839105230,679225683,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3661387068,679225683,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1467527085,679225683,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=3250034553,679225683,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2261046232&perks=1482024992,679225683,1820235745,2848615171#notes:PvE - MW Range or Reload
 
 // -----
 // Jian 7 Rifle - Arc 390 Pulse Rifle - Adaptive Frame (World)
