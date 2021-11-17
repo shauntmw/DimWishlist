@@ -1320,6 +1320,48 @@ dimwishlist:item=3836861464&perks=3250034553,106909392,4252909580,1546637391#not
 dimwishlist:item=3836861464&perks=1482024992,106909392,4252909580,1546637391#notes:PvE - MW Reload
 
 // -----
+// A Fine Memorial - Arc 450 Machine Gun - Adaptive Frame (Moon)
+// PvE: Auto-Loading + Demolitionist
+dimwishlist:item=3325778512&perks=839105230,1087426260,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3661387068,1087426260,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1467527085,1087426260,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3250034553,1087426260,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1392496348,1087426260,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1482024992,1087426260,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=839105230,1968497646,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3661387068,1968497646,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1467527085,1968497646,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3250034553,1968497646,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1392496348,1968497646,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1482024992,1968497646,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=839105230,1885400500,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3661387068,1885400500,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1467527085,1885400500,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3250034553,1885400500,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1392496348,1885400500,3300816228,3523296417#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1482024992,1885400500,3300816228,3523296417#notes:PvE - MW Range or Stability
+
+// PvE: Field Prep + Frenzy
+dimwishlist:item=3325778512&perks=839105230,1087426260,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3661387068,1087426260,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1467527085,1087426260,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3250034553,1087426260,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1392496348,1087426260,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1482024992,1087426260,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=839105230,1968497646,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3661387068,1968497646,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1467527085,1968497646,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3250034553,1968497646,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1392496348,1968497646,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1482024992,1968497646,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=839105230,1885400500,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3661387068,1885400500,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1467527085,1885400500,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=3250034553,1885400500,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1392496348,1885400500,2869569095,4104185692#notes:PvE - MW Range or Stability
+dimwishlist:item=3325778512&perks=1482024992,1885400500,2869569095,4104185692#notes:PvE - MW Range or Stability
+
+// -----
 // Commemoration - Void 450 Machine Gun - Adaptive Frame (Deep Stone Crypt)
 // PvE: Reconstruction + Unrelenting
 dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,3108830275#notes:PvE - MW Any except Handling
@@ -3220,6 +3262,15 @@ dimwishlist:item=3366545721&perks=3666208348,3625355092,1749209109,1685431615#no
 dimwishlist:item=3366545721&perks=3666208348,599007201,1749209109,1685431615#notes:PvE - MW Impact
 dimwishlist:item=3366545721&perks=3666208348,2349202967,1749209109,1685431615#notes:PvE - MW Impact
 dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,1685431615#notes:PvE - MW Impact
+
+// -----
+// Night Terror - Arc Sword - Adaptive Frame (Moon)
+// PvE: Relentless + Vorpal
+dimwishlist:item=3870811754&perks=3666208348,52780822,1749209109,1546637391#notes:PvE - MW Impact
+dimwishlist:item=3870811754&perks=3666208348,3625355092,1749209109,1546637391#notes:PvE - MW Impact
+dimwishlist:item=3870811754&perks=3666208348,599007201,1749209109,1546637391#notes:PvE - MW Impact
+dimwishlist:item=3870811754&perks=3666208348,2349202967,1749209109,1546637391#notes:PvE - MW Impact
+dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,1546637391#notes:PvE - MW Impact
 
 // -----
 // Falling Guillotine - Void Sword - Vortex Frame (World)
