@@ -712,34 +712,7 @@ dimwishlist:item=2742838701&perks=1926090093,1885400500,957782887,2846385770#not
 
 // -----
 // Fatebringer - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
-// PvP: Explosive Payload + Opening Shot
-dimwishlist:item=2171478765&perks=202670084,3230963543,3038247973,47981717#notes:PvP - MW Any
-dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,47981717#notes:PvP - MW Any
-dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,47981717#notes:PvP - MW Any
-
-// PvE: Rewind Rounds + Firefly
-dimwishlist:item=2171478765&perks=3661387068,106909392,3418782618,3824105627#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=4090651448,106909392,3418782618,3824105627#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=1467527085,106909392,3418782618,3824105627#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=3250034553,106909392,3418782618,3824105627#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=1482024992,106909392,3418782618,3824105627#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=3661387068,3230963543,3418782618,3824105627#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=4090651448,3230963543,3418782618,3824105627#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=1467527085,3230963543,3418782618,3824105627#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=3250034553,3230963543,3418782618,3824105627#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=1482024992,3230963543,3418782618,3824105627#notes:PvE - MW Any except Handling
-
-// PvE: Explosive Payload + Frenzy
-dimwishlist:item=2171478765&perks=3661387068,106909392,3038247973,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=1467527085,106909392,3038247973,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=3661387068,3230963543,3038247973,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=4090651448,3230963543,3038247973,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=1467527085,3230963543,3038247973,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=-2171478765#notes:Have all the godrolls from timelost.
 
 // -----
 // Fatebringer (Timelost) - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
@@ -2854,51 +2827,40 @@ dimwishlist:item=3717177717&perks=663495154,3230963543,1820235745,4049631843#not
 
 // -----
 // Borrowed Time - Solar 750 SMG - Aggressive Frame (World)
-// PvE: Thread Detector + Frenzy
-dimwishlist:item=875848769&perks=1467527085,3230963543,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=202670084,3230963543,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=3250034553,3230963543,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1482024992,3230963543,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1467527085,679225683,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=202670084,679225683,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=3250034553,679225683,4071163871,4104185692#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1482024992,679225683,4071163871,4104185692#notes:PvE - MW Range
+// PvE: Rangefinder + Frenzy
+dimwishlist:item=875848769&perks=1467527085,1968497646,2846385770,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=202670084,1968497646,2846385770,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=3250034553,1968497646,2846385770,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1482024992,1968497646,2846385770,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1467527085,1482024992,2846385770,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=202670084,1482024992,2846385770,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=3250034553,1482024992,2846385770,4104185692#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1482024992,1482024992,2846385770,4104185692#notes:PvE - MW Range
 
 // PvE: Thread Detector + Demolitionist
-dimwishlist:item=875848769&perks=1467527085,3230963543,4071163871,3523296417#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=202670084,3230963543,4071163871,3523296417#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=3250034553,3230963543,4071163871,3523296417#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1482024992,3230963543,4071163871,3523296417#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1467527085,679225683,4071163871,3523296417#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=202670084,679225683,4071163871,3523296417#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=3250034553,679225683,4071163871,3523296417#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1482024992,679225683,4071163871,3523296417#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1467527085,1968497646,4071163871,3523296417#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=202670084,1968497646,4071163871,3523296417#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=3250034553,1968497646,4071163871,3523296417#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1482024992,1968497646,4071163871,3523296417#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1467527085,1482024992,4071163871,3523296417#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=202670084,1482024992,4071163871,3523296417#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=3250034553,1482024992,4071163871,3523296417#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1482024992,1482024992,4071163871,3523296417#notes:PvE - MW Range
 
 // PvE: Thread Detector + Wellspring
-dimwishlist:item=875848769&perks=1467527085,3230963543,4071163871,3592538738#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=202670084,3230963543,4071163871,3592538738#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=3250034553,3230963543,4071163871,3592538738#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1482024992,3230963543,4071163871,3592538738#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1467527085,679225683,4071163871,3592538738#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=202670084,679225683,4071163871,3592538738#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=3250034553,679225683,4071163871,3592538738#notes:PvE - MW Range
-dimwishlist:item=875848769&perks=1482024992,679225683,4071163871,3592538738#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1467527085,1968497646,4071163871,3592538738#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=202670084,1968497646,4071163871,3592538738#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=3250034553,1968497646,4071163871,3592538738#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1482024992,1968497646,4071163871,3592538738#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1467527085,1482024992,4071163871,3592538738#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=202670084,1482024992,4071163871,3592538738#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=3250034553,1482024992,4071163871,3592538738#notes:PvE - MW Range
+dimwishlist:item=875848769&perks=1482024992,1482024992,4071163871,3592538738#notes:PvE - MW Range
 
 // -----
 // Death Adder - Solar 900 SMG - Lightweight Frame (World)
 // PvE: Feeding Frenzy + Rangefinder
-dimwishlist:item=2742490609&perks=1467527085,3142289711,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=202670084,3142289711,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=3250034553,3142289711,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=1482024992,3142289711,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=1467527085,106909392,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=202670084,106909392,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=3250034553,106909392,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=1482024992,106909392,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=1467527085,3230963543,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=202670084,3230963543,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=3250034553,3230963543,2779035018,2846385770#notes:PvE - MW Range or Reload
-dimwishlist:item=2742490609&perks=1482024992,3230963543,2779035018,2846385770#notes:PvE - MW Range or Reload
+dimwishlist:item=-2742490609#notes:Use Borrowed Time instead.
 
 // -----
 // IKELOS SMG - Arc 750 SMG - Aggressive Frame
