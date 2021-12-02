@@ -381,7 +381,24 @@ dimwishlist:item=2496875173&perks=1482024992,3230963543,1820235745,3108830275#no
 
 // -----
 // Age-Old Bond - Void 360 Auto-Rifle - High Impact Frame (Last Wish)
-dimwishlist:item=-601592879#notes:No good perk.
+dimwishlist:item=601592879&perks=839105230,1431678320,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=3661387068,1431678320,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=1467527085,1431678320,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=202670084,1431678320,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=3250034553,1431678320,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=1482024992,1431678320,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=839105230,1968497646,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=3661387068,1968497646,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=1467527085,1968497646,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=202670084,1968497646,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=3250034553,1968497646,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=1482024992,1968497646,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=839105230,679225683,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=3661387068,679225683,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=1467527085,679225683,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=202670084,679225683,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=3250034553,679225683,3400784728,2213355989#notes:PvE - MW Any except Handling
+dimwishlist:item=601592879&perks=1482024992,679225683,3400784728,2213355989#notes:PvE - MW Any except Handling
 
 // -----
 // Gnawing Hunger - Void 600 Auto Rigle - Adaptive Frame (World)
