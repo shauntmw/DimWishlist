@@ -1960,6 +1960,118 @@ dimwishlist:item=136525518&perks=1441682018,3492396210,3300816228,3977735242#not
 dimwishlist:item=136525518&perks=3525010810,3492396210,3300816228,3977735242#notes:PvE - MW Blast or Velocity
 
 // -----
+// The Hothead - Arc Rocket Launcher - Adaptive Frame (Nightfall)
+// PvE: Tracking + Explosive Light
+dimwishlist:item=4255171531&perks=1478423395,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+
+// PvE: Field Prep + Explosive Light
+dimwishlist:item=4255171531&perks=1478423395,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+
+// PvE: Tracking + Vorpal
+dimwishlist:item=4255171531&perks=1478423395,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+
+// -----
+// The Hothead (Adept) - Arc Rocket Launcher - Adaptive Frame (Nightfall)
+// PvE: Tracking + Explosive Light
+dimwishlist:item=1866778462&perks=1478423395,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+
+// PvE: Field Prep + Explosive Light
+dimwishlist:item=1866778462&perks=1478423395,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+
+// PvE: Tracking + Vorpal
+dimwishlist:item=1866778462&perks=1478423395,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+
+// -----
 // Subzero Salvo - Arc Rocket Launcher - Precision Frame (Europa)
 // PvP: Quickdraw + Snapshot
 dimwishlist:item=42351395&perks=3525010810,2822142346,706527188,957782887#notes:PvP - MW Velocity
