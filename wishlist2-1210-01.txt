@@ -1639,6 +1639,20 @@ dimwishlist:item=1076810832&perks=3250034553,3230963543,3436462433,3592538738#no
 dimwishlist:item=1076810832&perks=1482024992,3230963543,3436462433,3592538738#notes:PvE - MW Any except Handling
 
 // -----
+// BXR-55 Battler - Solar 450 Pulse Rifle - Legacy PR-55 Frame (30 Anniversary - Dares of Eternity)
+// PvE: Demolitionist + Rangefinder
+dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,2846385770#notes:PvE - MW Range or Reload
+dimwishlist:item=2708806099&perks=1467527085,3230963543,3523296417,2846385770#notes:PvE - MW Range or Reload
+dimwishlist:item=2708806099&perks=202670084,3230963543,3523296417,2846385770#notes:PvE - MW Range or Reload
+dimwishlist:item=2708806099&perks=3250034553,3230963543,3523296417,2846385770#notes:PvE - MW Range or Reload
+dimwishlist:item=2708806099&perks=1482024992,3230963543,3523296417,2846385770#notes:PvE - MW Range or Reload
+dimwishlist:item=2708806099&perks=839105230,679225683,3523296417,2846385770#notes:PvE - MW Range or Reload
+dimwishlist:item=2708806099&perks=1467527085,679225683,3523296417,2846385770#notes:PvE - MW Range or Reload
+dimwishlist:item=2708806099&perks=202670084,679225683,3523296417,2846385770#notes:PvE - MW Range or Reload
+dimwishlist:item=2708806099&perks=3250034553,679225683,3523296417,2846385770#notes:PvE - MW Range or Reload
+dimwishlist:item=2708806099&perks=1482024992,679225683,3523296417,2846385770#notes:PvE - MW Range or Reload
+
+// -----
 // Jurassic Green - Solar 540 Pulse Rifle - Rapid Fire Frame (Festival of the Lost)
 // PvE: Rangefinder + Wellspring
 dimwishlist:item=2261046232&perks=839105230,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
@@ -2494,6 +2508,10 @@ dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007#notes
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007#notes:PvP - MW Range
 
 // -----
+// Wastelander M5 - Kinetic Shotgun - Lightweight Frame (Dares of Eternity)
+dimwishlist:item=-1679868061#notes:No good perks.
+
+// -----
 // Fractethyst - Stasis Shotgun - Precision Frame (Season of Lost)
 // PvP: Quickdraw + Opening Shot
 dimwishlist:item=3184681056&perks=1332244541,3142289711,706527188,47981717#notes:PvP - MW Range
@@ -2855,6 +2873,14 @@ dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#note
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=304659313&perks=981914802,2822142346,3161816588,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=304659313&perks=3525010810,2822142346,3161816588,1546637391#notes:PvE - MW Velocity
+
+// -----
+// Pardon Our Dust - Kinetic Special Grenade Launcher - Lightweight Frame (30 Anniversary - Dares of Eternity)
+// PvE: Blinding + Auto-Loading + Demolitionist
+dimwishlist:item=3849810018&perks=981914802,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
+dimwishlist:item=3849810018&perks=1441682018,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
+dimwishlist:item=3849810018&perks=3798852852,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
 
 // -----
 // Empty Vessel - Solar Special Grenade - Lightweight Frame (World)
@@ -3395,6 +3421,22 @@ dimwishlist:item=3870811754&perks=3666208348,2349202967,1749209109,1546637391#no
 dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,1546637391#notes:PvE - MW Impact
 
 // -----
+// Half-Truths - Arc Sword - Adaptive Frame (Dares of Eternity)
+// PvE: Duelist's Trance + Eager Edge
+dimwishlist:item=3257091166&perks=436053704,52780822,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=1261178282,52780822,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=2827049491,52780822,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=938542991,52780822,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=436053704,599007201,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=1261178282,599007201,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=2827049491,599007201,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=938542991,599007201,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=436053704,2349202967,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=1261178282,2349202967,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=2827049491,2349202967,3705817207,2077819806#notes:PvE - MW Impact
+dimwishlist:item=3257091166&perks=938542991,2349202967,3705817207,2077819806#notes:PvE - MW Impact
+
+// -----
 // Falling Guillotine - Void Sword - Vortex Frame (World)
 // PvE: Relentless + Whirlwind
 dimwishlist:item=614426548&perks=3666208348,52780822,1749209109,3913600130#notes:PvE - MW Impact
@@ -3413,6 +3455,15 @@ dimwishlist:item=4230993599&perks=3666208348,2349202967,1749209109,3913600130#no
 dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130#notes:PvE - MW Impact
 
 // -----
+// The Other Half - Void Sword - Adaptive Frame (Dares of Eternity)
+// PvE: Eager Edge + Vorpal
+dimwishlist:item=3257091167&perks=3666208348,52780822,2077819806,1546637391#notes:PvE - MW Impact
+dimwishlist:item=3257091167&perks=3666208348,3625355092,2077819806,1546637391#notes:PvE - MW Impact
+dimwishlist:item=3257091167&perks=3666208348,599007201,2077819806,1546637391#notes:PvE - MW Impact
+dimwishlist:item=3257091167&perks=3666208348,2349202967,2077819806,1546637391#notes:PvE - MW Impact
+dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,1546637391#notes:PvE - MW Impact
+
+// -----
 // Quickfang - Void Hunter Sword - Lightweight Frame (World)
 // PvE: Relentless + Assassin Blade
 dimwishlist:item=2782325300&perks=436053704,269888150,1749209109,354401740#notes:PvE - MW Impact
@@ -3428,6 +3479,45 @@ dimwishlist:item=2782325302&perks=2827049491,2349202967,1749209109,1546637391#no
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391#notes:PvE - MW Impact
 dimwishlist:item=2782325302&perks=938542991,2349202967,1749209109,1546637391#notes:PvE - MW Impact
 
+// --------------------------------------------------------------------------
+// Type - Trace Rifle
+// --------------------------------------------------------------------------
+// Retraced Path - Solar Trace Rifle - Adaptive Frame (Dares of Eternity)
+// PvE: Shoot to Loot + Frenzy
+dimwishlist:item=548958835&perks=1467527085,2680121939,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=202670084,2680121939,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=3250034553,2680121939,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1482024992,2680121939,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1467527085,2969185026,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=202670084,2969185026,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=3250034553,2969185026,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1482024992,2969185026,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1467527085,2749775325,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=202670084,2749775325,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=3250034553,2749775325,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1482024992,2749775325,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1467527085,732557052,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=202670084,732557052,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=3250034553,732557052,3700496672,4104185692#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1482024992,732557052,3700496672,4104185692#notes:PvE - MW Range or Reload
+
+// PvE: Shoot to Loot + Demolitionist
+dimwishlist:item=548958835&perks=1467527085,2680121939,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=202670084,2680121939,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=3250034553,2680121939,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1482024992,2680121939,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1467527085,2969185026,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=202670084,2969185026,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=3250034553,2969185026,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1482024992,2969185026,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1467527085,2749775325,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=202670084,2749775325,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=3250034553,2749775325,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1482024992,2749775325,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1467527085,732557052,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=202670084,732557052,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=3250034553,732557052,3700496672,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=548958835&perks=1482024992,732557052,3700496672,3523296417#notes:PvE - MW Range or Reload
 
 // --------------------------------------------------------------------------
 // Type - Random Roll Exotic
