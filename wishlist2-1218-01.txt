@@ -875,6 +875,36 @@ dimwishlist:item=310708513&perks=3250034553,679225683,1820235745,4104185692#note
 dimwishlist:item=310708513&perks=1482024992,679225683,1820235745,4104185692#notes:PvE - MW Range or Reload
 
 // -----
+// Eyasluna - Stasis 140 Hand Cannon - Adaptive Frame (Grasp of Avarice)
+// PvE: Outlaw + Headstone
+dimwishlist:item=235827225&perks=1926090092,1087426260,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090093,1087426260,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090090,1087426260,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090091,1087426260,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090092,3230963543,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090093,3230963543,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090090,3230963543,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090091,3230963543,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090092,679225683,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090093,679225683,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090090,679225683,1168162263,124408337#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090091,679225683,1168162263,124408337#notes:PvE - MW Range or Reload
+
+// PvE: Rangefinder + Demolitionist
+dimwishlist:item=235827225&perks=1926090092,1087426260,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090093,1087426260,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090090,1087426260,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090091,1087426260,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090092,3230963543,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090093,3230963543,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090090,3230963543,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090091,3230963543,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090092,679225683,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090093,679225683,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090090,679225683,2846385770,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=235827225&perks=1926090091,679225683,2846385770,3523296417#notes:PvE - MW Range or Reload
+
+// -----
 // Vulpecula - Stasis 180 Hand Cannon - Precision Frame (Season of Lost - Awoken)
 // PvE: Shoot to Loot + Explosive Payload
 dimwishlist:item=1622998472&perks=3661387068,1087426260,3700496672,3038247973#notes:PvE - MW Range or Reload
@@ -2614,14 +2644,14 @@ dimwishlist:item=3197270240&perks=1332244541,791862061,3418782618,3523296417#not
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3418782618,3523296417#notes:PvE - MW Range
 
 // -----
-// Retrofuturist - Void Shotgun - Lightweight Frame (World)
-dimwishlist:item=-1402766122#notes:No good perk. Use Retold Tale instead.
+// Matador 64 - Arc Shotgun - Precision Frame (Grasp of Avarice)
+// PvE: Full Auto + Golden Tricorn
+dimwishlist:item=2563012876&perks=1332244541,791862061,2117683199,2610012052#notes:PvE - MW Range or Reload
+dimwishlist:item=2563012876&perks=1482024992,791862061,2117683199,2610012052#notes:PvE - MW Range or Reload
 
 // -----
 // Xenoclast IV - Arc Shotgun - Lightweight Frame (World)
-// PvE: Auto loading + Vorpal
-dimwishlist:item=2891672170&perks=1332244541,791862061,3300816228,1546637391#notes:PvE - MW Range
-dimwishlist:item=2891672170&perks=1332244541,3142289711,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=-2891672170#notes:Use Found Verdict instead.
 
 // ----
 // Retold Tale - Void Shotgun - Precision Frame (Dreaming City)
@@ -2639,6 +2669,10 @@ dimwishlist:item=217140611&perks=1332244541,3142289711,1556840489,1546637391#not
 dimwishlist:item=217140611&perks=1482024992,3142289711,1556840489,1546637391#notes:PvE - MW Range or Reload
 dimwishlist:item=217140611&perks=1332244541,679225683,1556840489,1546637391#notes:PvE - MW Range or Reload
 dimwishlist:item=217140611&perks=1482024992,679225683,1556840489,1546637391#notes:PvE - MW Range or Reload
+
+// -----
+// Retrofuturist - Void Shotgun - Lightweight Frame (World)
+dimwishlist:item=-1402766122#notes:No good perk. Use Retold Tale instead.
 
 // --------------------------------------------------------------------------
 // Type - Shotgun (Slug)
@@ -3420,6 +3454,30 @@ dimwishlist:item=3473290087&perks=3250034553,2420895100,3300816228,1546637391#no
 dimwishlist:item=3473290087&perks=1392496348,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
 dimwishlist:item=3473290087&perks=1482024992,2420895100,3300816228,1546637391#notes:PvE - MW Range or Stability
 
+// -----
+// 1000 Yard Stare - Void Sniper - Adaptive Frame (Grasp of Avarice)
+// PvP: Quickdraw + Snapshot
+dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,957782887#notes:PvP - MW Range
+dimwishlist:item=4164201232&perks=3661387068,3142289711,706527188,957782887#notes:PvP - MW Range
+dimwishlist:item=4164201232&perks=1467527085,3142289711,706527188,957782887#notes:PvP - MW Range
+dimwishlist:item=4164201232&perks=202670084,3142289711,706527188,957782887#notes:PvP - MW Range
+dimwishlist:item=4164201232&perks=3250034553,3142289711,706527188,957782887#notes:PvP - MW Range
+dimwishlist:item=4164201232&perks=1482024992,3142289711,706527188,957782887#notes:PvP - MW Range
+
+// PvE: Triple Tap + Demolitionist
+dimwishlist:item=4164201232&perks=839105230,1087426260,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=3661387068,1087426260,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=1467527085,1087426260,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=202670084,1087426260,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=3250034553,1087426260,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=1482024992,1087426260,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=839105230,106909392,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=3661387068,106909392,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=1467527085,106909392,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=202670084,106909392,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=3250034553,106909392,3400784728,3523296417#notes:PvE - MW Range or Reload
+dimwishlist:item=4164201232&perks=1482024992,106909392,3400784728,3523296417#notes:PvE - MW Range or Reload
+
 // --------------------------------------------------------------------------
 // Type - Sword
 // --------------------------------------------------------------------------
@@ -3470,6 +3528,28 @@ dimwishlist:item=35794111&perks=1261178282,3625355092,1749209109,1546637391#note
 dimwishlist:item=35794111&perks=1261178282,599007201,1749209109,1546637391#notes:PvE - MW - Impact
 dimwishlist:item=35794111&perks=1261178282,2349202967,1749209109,1546637391#notes:PvE - MW - Impact
 dimwishlist:item=35794111&perks=1261178282,269888150,1749209109,1546637391#notes:PvE - MW - Impact
+
+// -----
+// Hero of Ages - Arc Sword - Vortex Frame (Grasp of Avarice)
+// PvE: Duelist's Trance + Assassin's Blade
+dimwishlist:item=2139640995&perks=3666208348,269888150,3705817207,354401740#notes:PvE - MW - Impact
+
+// PvE: Unrelenting + Chain Reaction
+dimwishlist:item=2139640995&perks=436053704,52780822,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=1261178282,52780822,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=938542991,52780822,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=436053704,3625355092,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=1261178282,3625355092,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=938542991,3625355092,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=436053704,599007201,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=1261178282,599007201,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=938542991,599007201,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=436053704,2349202967,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=1261178282,2349202967,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=938542991,2349202967,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=436053704,269888150,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=1261178282,269888150,3108830275,2396489472#notes:PvE - MW - Impact
+dimwishlist:item=2139640995&perks=938542991,269888150,3108830275,2396489472#notes:PvE - MW - Impact
 
 // -----
 // Honor's Edge - Arc Sword - Adaptive Frame (World)
