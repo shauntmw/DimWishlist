@@ -1008,6 +1008,30 @@ dimwishlist:item=-334171687#notes:Use Posterity or Nature of the Beast better.
 dimwishlist:item=-654370424#notes:Just use Posterity.
 
 // -----
+// Cantata-57 - Arc 140 Hand Cannon - Adaptive Frame (World)
+// PvE: Rapid Hit + Timed Payload
+dimwishlist:item=372697604&perks=3661387068,3142289711,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=1467527085,3142289711,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=202670084,3142289711,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=3250034553,3142289711,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=1482024992,3142289711,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=3661387068,1087426260,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=1467527085,1087426260,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=202670084,1087426260,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=3250034553,1087426260,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=1482024992,1087426260,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=3661387068,106909392,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=1467527085,106909392,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=202670084,106909392,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=3250034553,106909392,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=1482024992,106909392,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=3661387068,3230963543,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=1467527085,3230963543,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=202670084,3230963543,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=3250034553,3230963543,247725512,1954620775#notes:PvE - MW Any except Handling
+dimwishlist:item=372697604&perks=1482024992,3230963543,247725512,1954620775#notes:PvE - MW Any except Handling
+
+// -----
 // Nature of the Beast - Arc 180 Hand Cannon - Precision Frame (Crucible)
 // PvE: Subsistence + Dragonfly
 dimwishlist:item=1835747805&perks=1926090094,106909392,1820235745,2848615171#notes:PvE - MW Any except Handling
@@ -1149,6 +1173,22 @@ dimwishlist:item=1200824700&perks=3250034553,1140096971,4071163871,1546637391#no
 // --------------------------------------------------------------------------
 // Type - Heavy Grenade Launcher
 // --------------------------------------------------------------------------
+// Typhon GL5 - Stasis Heavy Grenade Launcher - Adaptive Frame (World)
+// PvE: Impulse Amplifier + Chill Clip
+dimwishlist:item=3568377122&perks=981914802,3301904089,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=1441682018,3301904089,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=981914802,2985827016,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=1441682018,2985827016,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=3525010810,2985827016,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=981914802,2822142346,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=1441682018,2822142346,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=3525010810,2822142346,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=981914802,3373736292,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=1441682018,3373736292,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=3525010810,3373736292,951095735,2978966579#notes:PvE - MW Blast or Velocity
+
+// -----
 // Canis Major - Solar Heavy Grenade Launcher - Rapid Fire Frame (Season of Lost)
 // PvE: Spike Grenade + Impulse Amplifier + Vorpal
 dimwishlist:item=2066434718&perks=981914802,3301904089,951095735,1546637391#notes:PvE - MW Velocity
@@ -1689,6 +1729,11 @@ dimwishlist:item=3593598010&perks=13792279,679225683,1820235745,4049631843#notes
 dimwishlist:item=3593598010&perks=13792278,679225683,1820235745,4049631843#notes:PvE - MW Range or Reload
 dimwishlist:item=3593598010&perks=2405638015,679225683,1820235745,4049631843#notes:PvE - MW Range or Reload
 dimwishlist:item=3593598010&perks=2405638014,679225683,1820235745,4049631843#notes:PvE - MW Range or Reload
+
+// -----
+// Syncopation-53 - Stasis 390 Pulse Rifle - Adaptive Frame (World)
+// PvE: Outlaw + Headstone
+dimwishlist:item=2856514843&perks=839105230,1087426260,1168162263,124408337#notes:PvE - MW Range (Craftable)
 
 // -----
 // Stars in Shadow - Solar 340 Pulse Rifle - High Impact Frame (Crucible)
@@ -2253,6 +2298,14 @@ dimwishlist:item=3740842661&perks=3525010810,2822142346,3300816228,1546637391#no
 // PvE: Tracking + Vorpal
 dimwishlist:item=3740842661&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=3740842661&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
+
+// -----
+// Red Herring - Void Rocket - Adaptive Frame (Campaign)
+// PvP: Tracking + Snapshot
+dimwishlist:item=3175851496&perks=981914802,2822142346,3977735242,957782887#notes:PvP - MW Velocity (Craftable)
+
+// PvE: Field Prep + Frenzy
+dimwishlist:item=3175851496&perks=981914802,3796465595,2869569095,4104185692#notes:PvE - MW Velocity (Craftable)
 
 // -----
 // Royal Entry - Void Rocket - Precision Frame (Nightfall)
@@ -2934,6 +2987,14 @@ dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,3523296417#note
 dimwishlist:item=829330711&perks=202670084,106909392,1820235745,3523296417#notes:PvE - MW Range
 dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,3523296417#notes:PvE - MW Range
 dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,3523296417#notes:PvE - MW Range
+
+// -----
+// Empirical Evidence - Kinetic Sidearm - Aggressive Burst (Campaign)
+// PvE: Compulsive Reloader + Wellspring
+dimwishlist:item=2607304614&perks=1482024992202670084,679225683,671806388,3592538738#notes:PvE - MW Range (Craftable)
+
+// PvE: Compulsive Reloader + Thresh
+dimwishlist:item=2607304614&perks=1482024992202670084,679225683,671806388,2726471870#notes:PvE - MW Range (Craftable)
 
 // -----
 // Drang - Solar Sidearm - Adaptive Frame (Special)
