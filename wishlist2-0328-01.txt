@@ -733,6 +733,32 @@ dimwishlist:item=253196586&perks=2405638014,2969185026,3300816228,1015611457#not
 dimwishlist:item=1644680957#notes: Ritual Weapon
 
 // -----
+// Likely Suspect - Void Fusion Rifle - Rapid-Fire Frame (Throne World)
+dimwishlist:item=-1994645182#notes: No good perks.
+
+// -----
+// Snorri FR5 - Void Fusion Rifle - Precision Frame (World)
+// PvE: Compulsive Reloader + Reservoir Burst
+dimwishlist:item=4114929480&perks=839105230,689005463,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=3661387068,689005463,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=1467527085,689005463,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=202670084,689005463,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=3250034553,689005463,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=1482024992,689005463,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=839105230,1687452232,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=3661387068,1687452232,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=1467527085,1687452232,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=202670084,1687452232,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=3250034553,1687452232,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=1482024992,1687452232,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=839105230,2969185026,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=3661387068,2969185026,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=1467527085,2969185026,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=202670084,2969185026,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=3250034553,2969185026,671806388,1427256713#notes:PvE - MW Any except Handling
+dimwishlist:item=4114929480&perks=1482024992,2969185026,671806388,1427256713#notes:PvE - MW Any except Handling
+
+// -----
 // Coriolis Force - Void Fusion Rifle - Agressive Frame (Europa)
 dimwishlist:item=-3512349612#notes:Just use Null Composure.
 
@@ -2008,8 +2034,8 @@ dimwishlist:item=1621558458&perks=1482024992,679225683,2450788523,2726471870#not
 // Type - Rocket Launcher
 // --------------------------------------------------------------------------
 // Palmyra-B - Stasis Rocket Launcher - Hakke Precision Frame (World)
-// PvE: Auto Loading + Explosive Light
-dimwishlist:item=3489657138&perks=981914802,3796465595,3300816228,3194351027#notes:PvE - Craftable
+// PvE: Hard Launch, Impact Casing, Auto Loading, Explosive Light
+dimwishlist:item=3489657138&perks=981914802,3796465595,3300816228,3194351027#notes:PvE - MW Velocity (Craftable)
 
 // -----
 // Ascendancy - Solar Rocket Launcher - Precision Frame (Ritual)
@@ -2301,10 +2327,10 @@ dimwishlist:item=3740842661&perks=3525010810,3796465595,3977735242,1546637391#no
 
 // -----
 // Red Herring - Void Rocket - Adaptive Frame (Campaign)
-// PvP: Tracking + Snapshot
+// PvP: Hard Launch, High Velocity, Tracking, Snapshot
 dimwishlist:item=3175851496&perks=981914802,2822142346,3977735242,957782887#notes:PvP - MW Velocity (Craftable)
 
-// PvE: Field Prep + Frenzy
+// PvE: Hard Launch, Impact Casing, Field Prep, Frenzy
 dimwishlist:item=3175851496&perks=981914802,3796465595,2869569095,4104185692#notes:PvE - MW Velocity (Craftable)
 
 // -----
@@ -2754,8 +2780,8 @@ dimwishlist:item=2957367743&perks=4090651448,791862061,2117683199,3300816228#not
 
 // -----
 // Ragnhild-D - Kinetic Shotgun - Agressive Frame (World)
-// PvE: Auto-Loading + Frenzy
-dimwishlist:item=4225322581&perks=1332244541,791862061,3300816228,4104185692#notes:PvE - MW Range
+// PvE: Rifled Barrel, Assault Mag, Auto-Loading, Frenzy
+dimwishlist:item=4225322581&perks=1332244541,791862061,3300816228,4104185692#notes:PvE - MW Range (Craftable)
 
 // -----
 // Astral Horizon - Kinetic Shotgun - Aggressive Frame (Trials of Osiris)
@@ -3680,6 +3706,32 @@ dimwishlist:item=4164201232&perks=1467527085,106909392,3400784728,3523296417#not
 dimwishlist:item=4164201232&perks=202670084,106909392,3400784728,3523296417#notes:PvE - MW Range or Reload
 dimwishlist:item=4164201232&perks=3250034553,106909392,3400784728,3523296417#notes:PvE - MW Range or Reload
 dimwishlist:item=4164201232&perks=1482024992,106909392,3400784728,3523296417#notes:PvE - MW Range or Reload
+
+// -----
+// Fugue-55 - Void Sniper - Adaptive Frame
+// PvE: Auto-Loading + Vorpal
+dimwishlist:item=2233545123&perks=839105230,1087426260,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=3661387068,1087426260,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=4090651448,1087426260,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=1467527085,1087426260,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=202670084,1087426260,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=3250034553,1087426260,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=1482024992,1087426260,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=839105230,106909392,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=3661387068,106909392,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=4090651448,106909392,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=1467527085,106909392,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=202670084,106909392,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=3250034553,106909392,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=1482024992,106909392,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=839105230,2420895100,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=3661387068,2420895100,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=4090651448,2420895100,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=1467527085,2420895100,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=202670084,2420895100,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=3250034553,2420895100,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=2233545123&perks=1482024992,2420895100,3300816228,1546637391#notes:PvE - MW Range
+
 
 // --------------------------------------------------------------------------
 // Type - Sword
