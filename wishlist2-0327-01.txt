@@ -2831,6 +2831,10 @@ dimwishlist:item=3197270240&perks=1332244541,791862061,3418782618,3523296417#not
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3418782618,3523296417#notes:PvE - MW Range
 
 // -----
+// Prophet of Doom - Arc Shotgun - Precision Frame (Garden of Salvation)
+dimwishlist:item=-4020742303#notes:No good perk.
+
+// -----
 // Matador 64 - Arc Shotgun - Precision Frame (Grasp of Avarice)
 // PvE: Full Auto + Golden Tricorn
 dimwishlist:item=2563012876&perks=1332244541,791862061,2117683199,2610012052#notes:PvE - MW Range or Reload
