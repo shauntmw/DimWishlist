@@ -6,7 +6,7 @@ description:~Zero's DIM wishlist. Sorted by gun types.
 // --------------------------------------------------------------------------
 // False Promises - Kinetic 360 Auto Rifle - High-Impact Frame (World)
 // PvE: Subsistence + Unrelenting
-dimwishlist:item=3143732432&perks=839105230,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
+// dimwishlist:item=3143732432&perks=839105230,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=3143732432&perks=3661387068,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=3143732432&perks=1467527085,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=3143732432&perks=3250034553,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
