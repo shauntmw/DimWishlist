@@ -1385,7 +1385,7 @@ dimwishlist:item=3075224551&perks=1482024992,2969185026,3300816228,1546637391#no
 // --------------------------------------------------------------------------
 // Type - Machine Gun
 // --------------------------------------------------------------------------
-// Recurrent Impact - Stasis 900 Machine Gun - Rapid-Fire Frame (
+// Recurrent Impact - Stasis 900 Machine Gun - Rapid-Fire Frame (Season of Risen)
 // PvE: Smallbore, Tactical, Subsistence, Headstone
 dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,124408337#notes:PvE - MW Reload (Craftable)
 
@@ -4030,5 +4030,3 @@ dimwishlist:item=3654674561&perks=202670084,679225683,1546637391,990298390#notes
 dimwishlist:item=3654674561&perks=3250034553,679225683,1546637391,990298390#notes:PvE
 dimwishlist:item=3654674561&perks=1392496348,679225683,1546637391,990298390#notes:PvE
 dimwishlist:item=3654674561&perks=1482024992,679225683,1546637391,990298390#notes:PvE
-
-
