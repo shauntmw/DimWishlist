@@ -404,6 +404,11 @@ dimwishlist:item=2496875173&perks=1392496348,3230963543,1820235745,3108830275#no
 dimwishlist:item=2496875173&perks=1482024992,3230963543,1820235745,3108830275#notes:PvE - MW Any except Handling
 
 // -----
+// Sweet Sorrow - Arc 720 Auto-Rifle - Rapid-Fire Frame (Season of Risen)
+// PvE: Extended, Tactical, Triple Tap, One for all
+dimwishlist:item=1248372789&perks=1467527085,106909392,3400784728,4049631843#notes:PvE - MW Range
+
+// -----
 // Age-Old Bond - Void 360 Auto-Rifle - High Impact Frame (Last Wish)
 dimwishlist:item=601592879&perks=839105230,1431678320,3400784728,2213355989#notes:PvE - MW Any except Handling
 dimwishlist:item=601592879&perks=3661387068,1431678320,3400784728,2213355989#notes:PvE - MW Any except Handling
@@ -1380,6 +1385,11 @@ dimwishlist:item=3075224551&perks=1482024992,2969185026,3300816228,1546637391#no
 // --------------------------------------------------------------------------
 // Type - Machine Gun
 // --------------------------------------------------------------------------
+// Recurrent Impact - Stasis 900 Machine Gun - Rapid-Fire Frame (
+// PvE: Smallbore, Tactical, Subsistence, Headstone
+dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,124408337#notes:PvE - MW Reload (Craftable)
+
+//-----
 // Archon's Thunder - Solar 360 Machine Gun - High-Impact Frame (Iron Banner)
 // PvE: Field Prep + Rampage
 dimwishlist:item=1967303408&perks=839105230,106909392,2869569095,3425386926#notes:PvE - MW Any except Handling
@@ -1763,7 +1773,7 @@ dimwishlist:item=2097055732&perks=1467527085,1087426260,3643424744,1546637391#no
 
 // -----
 // Syncopation-53 - Stasis 390 Pulse Rifle - Adaptive Frame (World)
-// PvE: Outlaw + Headstone
+// PvE: Arrowhead, Appended, Outlaw, Headstone
 dimwishlist:item=2856514843&perks=839105230,1087426260,1168162263,124408337#notes:PvE - MW Range (Craftable)
 
 // -----
@@ -3025,11 +3035,8 @@ dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,3523296417#note
 
 // -----
 // Empirical Evidence - Kinetic Sidearm - Aggressive Burst (Campaign)
-// PvE: Compulsive Reloader + Wellspring
-dimwishlist:item=2607304614&perks=1482024992202670084,679225683,671806388,3592538738#notes:PvE - MW Range (Craftable)
-
-// PvE: Compulsive Reloader + Thresh
-dimwishlist:item=2607304614&perks=1482024992202670084,679225683,671806388,2726471870#notes:PvE - MW Range (Craftable)
+// PvE: Full Bore, Light Mag, Ensemble, Wellspring
+dimwishlist:item=2607304614&perks=202670084,679225683,2621346526,3592538738#notes:PvE - MW Range (Craftable)
 
 // -----
 // Drang - Solar Sidearm - Adaptive Frame (Special)
@@ -3506,6 +3513,11 @@ dimwishlist:item=3653573172&perks=1482024992,106909392,3418782618,4104185692#not
 // -----
 // The Supremacy - Kinetic Sniper - Rapid fire frame (Last Wish)
 dimwishlist:item=-686951703#notes:Just use Succession.
+
+// -----
+// Thoughtless - Stasis Sniper - Adaptive Frame (Season of Risen)
+// PvE: Arrowhead, Tactical Mag, Overflow, Firing Line
+dimwishlist:item=4067556514&perks=839105230,106909392,3643424744,1771339417#notes:PvE - MW Reload (Craftable)
 
 // -----
 // Far Future - Solar Sniper - Adaptive Frame (Season of Chosen - Battlegrounds)
