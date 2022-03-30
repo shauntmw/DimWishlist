@@ -517,6 +517,11 @@ dimwishlist:item=1621657423&perks=4067834857,3827198035,2450788523,3365897133#no
 dimwishlist:item=1621657423&perks=852209214,3827198035,2450788523,3365897133#notes:PvE - MW Draw or Accuracy
 
 // -----
+// Fel Taradiddle - Kinetic Bow - Lightweight Frame (Wellspring)
+// PvE: Elastic, Compact, Shoot to Loot, Explosive Head
+dimwishlist:item=1399109800&perks=2801223209,16392701,3700496672,3365897133#notes:PvE - MW Draw (Craftable)
+
+// -----
 // Tyranny of Heaven - Solar Bow - Lightweight Frame (Last Wish)
 // Pve: Archer's Tempo + Explosive Head
 dimwishlist:item=2721249463&perks=2801223209,3311977193,201365942,3365897133#notes:PvE - MW Draw or Accuracy
@@ -608,6 +613,11 @@ dimwishlist:item=3460122497&perks=852209214,3311977193,201365942,3592538738#note
 dimwishlist:item=3460122497&perks=2801223209,3827198035,201365942,3592538738#notes:PvE - MW Draw or Accuracy
 dimwishlist:item=3460122497&perks=4067834857,3827198035,201365942,3592538738#notes:PvE - MW Draw or Accuracy
 dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,3592538738#notes:PvE - MW Draw or Accuracy
+
+// -----
+// Under Your Skin - Void Bow - Precision Frame (Season of Risen)
+// PvE: Elastic, Compact, Archer Tempo, Explosive Head
+dimwishlist:item=232928045&perks=2801223209,16392701,201365942,3365897133#notes:PvE - MW Draw (Craftable)
 
 // --------------------------------------------------------------------------
 // Type - Fusion Rifle
@@ -803,6 +813,13 @@ dimwishlist:item=1030895163&perks=202670084,2969185026,3161816588,1427256713#not
 dimwishlist:item=1030895163&perks=3250034553,2969185026,3161816588,1427256713#notes:PvE - MW Reload
 dimwishlist:item=1030895163&perks=1482024992,2969185026,3161816588,1427256713#notes:PvE - MW Reload
 
+
+// --------------------------------------------------------------------------
+// Type - Glaive
+// --------------------------------------------------------------------------
+// The Enigma - Void Glaive - Adaptive Glaive (Quest)
+// PvE: Low Impedance, Light Mag, Impulse Amplifier, Unstoppable Force
+dimwishlist:item=2595497736&perks=2713678205,679225683,951095735,2224838837#notes:PvE - MW Reload (Craftable)
 
 // --------------------------------------------------------------------------
 // Type - Hand Cannon
@@ -3048,6 +3065,26 @@ dimwishlist:item=2362471600#notes:PvP
 dimwishlist:item=-65611680#notes:No good perk. Use Punching Out instead.
 
 // -----
+// Redback-5si - Solar Sidearm - Lightweight Frame (World)
+// PvE: Subsistence + One For All
+dimwishlist:item=1687353095&perks=1467527085,3142289711,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=202670084,3142289711,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=3250034553,3142289711,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=1482024992,3142289711,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=1467527085,1087426260,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=202670084,1087426260,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=3250034553,1087426260,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=1482024992,1087426260,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=1467527085,106909392,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=202670084,106909392,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=3250034553,106909392,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=1482024992,106909392,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=1467527085,3230963543,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=202670084,3230963543,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=3250034553,3230963543,1820235745,4049631843#notes:PvE - MW Range or Reload
+dimwishlist:item=1687353095&perks=1482024992,3230963543,1820235745,4049631843#notes:PvE - MW Range or Reload
+
+// -----
 // Punching Out - Solar Sidearm - Suros Rapid Fire (Strike)
 // PvE: Rangefinder + Frenzy
 dimwishlist:item=378498222&perks=4090651448,1968497646,2846385770,4104185692#notes:PvE - MW Range
@@ -3442,6 +3479,27 @@ dimwishlist:item=4277547616&perks=1467527085,679225683,1820235745,2726471870#not
 dimwishlist:item=4277547616&perks=202670084,679225683,1820235745,2726471870#notes:PvE - MW Any except Handling
 dimwishlist:item=4277547616&perks=3250034553,679225683,1820235745,2726471870#notes:PvE - MW Any except Handling
 dimwishlist:item=4277547616&perks=1482024992,679225683,1820235745,2726471870#notes:PvE - MW Any except Handling
+
+// -----
+// Funnelweb - Void 900 SMG - Lightweight Frame (World)
+// PvE: Subsistence + Frenzy
+dimwishlist:item=3341893443&perks=1467527085,3142289711,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=202670084,3142289711,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=3250034553,3142289711,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=1482024992,3142289711,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=1467527085,1087426260,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=202670084,1087426260,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=3250034553,1087426260,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=1482024992,1087426260,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=1467527085,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=202670084,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=3250034553,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=1482024992,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=1467527085,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=202670084,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=3250034553,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=3341893443&perks=1482024992,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
+
 
 // --------------------------------------------------------------------------
 // Type - Sniper Rifle
@@ -4030,3 +4088,5 @@ dimwishlist:item=3654674561&perks=202670084,679225683,1546637391,990298390#notes
 dimwishlist:item=3654674561&perks=3250034553,679225683,1546637391,990298390#notes:PvE
 dimwishlist:item=3654674561&perks=1392496348,679225683,1546637391,990298390#notes:PvE
 dimwishlist:item=3654674561&perks=1482024992,679225683,1546637391,990298390#notes:PvE
+
+
