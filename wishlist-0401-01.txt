@@ -189,6 +189,25 @@ dimwishlist:item=1337707096&perks=1392496348,3230963543,2621346526,4104185692#no
 dimwishlist:item=1337707096&perks=1482024992,3230963543,2621346526,4104185692#notes:PvE - MW Any except Handling
 
 // -----
+// Herod-C - Stasis 360 Auto Rifle - High Impact Frame (Gambit)
+// PvE: Shoot to Loot + Demolitionist
+dimwishlist:item=1788603939&perks=839105230,1087426260,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=1467527085,1087426260,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=202670084,1087426260,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=3250034553,1087426260,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=1482024992,1087426260,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=839105230,3230963543,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=1467527085,3230963543,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=202670084,3230963543,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=3250034553,3230963543,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=1482024992,3230963543,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=839105230,679225683,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=1467527085,679225683,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=202670084,679225683,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=3250034553,679225683,3700496672,3523296417#notes:PvE - MW Any except Handling
+dimwishlist:item=1788603939&perks=1482024992,679225683,3700496672,3523296417#notes:PvE - MW Any except Handling
+
+// -----
 // Krait - Stasis 720 Auto Rifle - Rapid-Fire Frame (World)
 // PvE: Overflow + One for all
 dimwishlist:item=2852052802&perks=839105230,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
@@ -256,6 +275,11 @@ dimwishlist:item=20935540&perks=1467527085,3230963543,1820235745,2726471870#note
 dimwishlist:item=20935540&perks=3250034553,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
 dimwishlist:item=20935540&perks=1392496348,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
 dimwishlist:item=20935540&perks=1482024992,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
+
+// -----
+// Come to Pass - Arc 360 Auto Rifle - High Impact Frame (Wellspring)
+// PvE: Hammer Forged, Tactical, Shoot to Loot, Adaptive Munitions
+dimwishlist:item=927567426&perks=3250034553,106909392,3700496672,1048183818#notes:PvE - MW Range (Craftable)
 
 // -----
 // Shadow Price - Arc 450 Auto Rifle - Precision Frame (Nightfall)
@@ -2714,6 +2738,11 @@ dimwishlist:item=577528837&perks=1467527085,3230963543,1820235745,2726471870#not
 dimwishlist:item=577528837&perks=3250034553,3230963543,1820235745,2726471870#notes:PvE - MW Range or Reload
 
 // -----
+// Pointed Inquiry - Void 150 Scout Rifle - High Impact Frame (Throne World)
+// PvE: Arrowhead, Armor Piercing, Shoot to Loot, Adaptive Munitions
+dimwishlist:item=297296830&perks=839105230,1968497646,3700496672,1048183818#notes:PvE - MW Reload (Craftable)
+
+// -----
 // Royal Chase - Void 180 Scout Rifle - Precision Frame (Season of the Hunt - Wrathborn)
 // PvE: No Distraction + Thresh
 dimwishlist:item=2776503072&perks=839105230,106909392,2866798147,2726471870#notes:PvE - MW Reload
@@ -2935,6 +2964,13 @@ dimwishlist:item=4248569242&perks=3250034553,106909392,1523832109,469285294#note
 // -----
 // Blasphermer - Kinetic Slug Shotgun - Precision Frame (Moon)
 dimwishlist:item=-2782847179#notes:Use Heritage better.
+
+// -----
+// Fortissimo-11 - Kinetic Slug Shotgun - Pinpoint Slug Frame (Strike)
+// PvE: Demolitionist + Vorpal
+dimwishlist:item=2821430069&perks=202670084,791862061,3523296417,1546637391#notes:PvE - MW Range
+dimwishlist:item=2821430069&perks=3250034553,791862061,3523296417,1546637391#notes:PvE - MW Range
+dimwishlist:item=2821430069&perks=1482024992,791862061,3523296417,1546637391#notes:PvE - MW Range
 
 // -----
 // Sojourner's Tale - Solar Slug Shotgun - Precision Frame (Season of Splicer - Override)
@@ -3811,6 +3847,14 @@ dimwishlist:item=2233545123&perks=1467527085,2420895100,3300816228,1546637391#no
 dimwishlist:item=2233545123&perks=202670084,2420895100,3300816228,1546637391#notes:PvE - MW Range
 dimwishlist:item=2233545123&perks=3250034553,2420895100,3300816228,1546637391#notes:PvE - MW Range
 dimwishlist:item=2233545123&perks=1482024992,2420895100,3300816228,1546637391#notes:PvE - MW Range
+
+// -----
+// Father's Sins - Void Sniper - Rapid-Fire Frame (Wellspring)
+// PvP: Arrowhead, Accurized, Under Pressure, Snapshot
+dimwishlist:item=3865728990&perks=839105230,3142289711,1645158859,957782887#notes:PvP - MW Range (Craftable)
+
+// PvE: Arrowhead, Tactical, Triple Tap, Focused Fury
+dimwishlist:item=3865728990&perks=839105230,106909392,3400784728,2896038713#notes:PvE - MW Reload (Craftable)
 
 
 // --------------------------------------------------------------------------
