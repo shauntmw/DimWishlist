@@ -841,6 +841,11 @@ dimwishlist:item=1030895163&perks=1482024992,2969185026,3161816588,1427256713#no
 // --------------------------------------------------------------------------
 // Type - Glaive
 // --------------------------------------------------------------------------
+// Lubrae's Ruin - Solar Glaive - Adaptive Glaive (Vow of the Disciple)
+// PvE: Low Impedance, Light Mag, Immovable Object, Unstoppable Force
+dimwishlist:item=2534546147&perks=2713678205,679225683,3800201097,2224838837#notes:PvE - MW Reload (Craftable)
+
+// -----
 // The Enigma - Void Glaive - Adaptive Glaive (Quest)
 // PvE: Low Impedance, Light Mag, Impulse Amplifier, Unstoppable Force
 dimwishlist:item=2595497736&perks=2713678205,679225683,951095735,2224838837#notes:PvE - MW Reload (Craftable)
@@ -3314,6 +3319,11 @@ dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692#no
 // -----
 // Salvager's Salvo - Arc Special Grenade - Lightweight Frame (Seasonal - Chosen)
 dimwishlist:item=2060863616#notes:Seasonal Reward.
+
+// -----
+// Forbearance - Arc Special Grenade - Wave Frame (Vow of the Disciple)
+// PvE: Quick Launch, High Velocity, Assassin, Chain Reaction
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE - MW Reload (Craftable)
 
 // -----
 // Truthteller - Void Special Granade Launcher - Lightweight Frame (World)
