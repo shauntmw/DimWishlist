@@ -1,5 +1,5 @@
-title:~zero's dim wishlist
-description:~zero's dim wishlist. sorted by gun types.
+title:~Zero's DIM Wishlist
+description:~Zero's DIM Wishlist. Sorted by gun types.
 
 // --------------------------------------------------------------------------
 // type - auto rifle
