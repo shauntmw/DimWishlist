@@ -57,11 +57,11 @@ dimwishlist:item=1561006927&perks=3661387068,3230963543,1354429876,2846385770#no
 dimwishlist:item=1561006927&perks=1467527085,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
 dimwishlist:item=1561006927&perks=3250034553,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
 dimwishlist:item=1561006927&perks=1392496348,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=1482024992,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=148202499672,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
 dimwishlist:item=1561006927&perks=839105230,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
 dimwishlist:item=1561006927&perks=3661387068,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
 dimwishlist:item=1561006927&perks=1467527085,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=3250034553,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
+dimwishlist:item=1561006927&perks=3250034553,9225683,1354429876,2846385770#notes:PvP - MW Range or Reload
 dimwishlist:item=1561006927&perks=1392496348,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
 dimwishlist:item=1561006927&perks=1482024992,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
 
@@ -170,25 +170,6 @@ dimwishlist:item=1788603939&perks=3250034553,679225683,3700496672,4104185692#not
 dimwishlist:item=1788603939&perks=1482024992,679225683,3700496672,4104185692#notes:PvE - MW Any except Handling
 
 // -----
-// herod-c - Stasis 360 Auto Rifle - High Impact Frame (Gambit)
-// PvE: Shoot to Loot + Demolitionist
-dimwishlist:item=1788603939&perks=839105230,1087426260,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=1467527085,1087426260,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=202670084,1087426260,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=3250034553,1087426260,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=1482024992,1087426260,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=839105230,3230963543,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=1467527085,3230963543,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=202670084,3230963543,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=3250034553,3230963543,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=1482024992,3230963543,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=839105230,679225683,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=1467527085,679225683,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=202670084,679225683,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=3250034553,679225683,3700496672,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=1788603939&perks=1482024992,679225683,3700496672,3523296417#notes:PvE - MW Any except Handling
-
-// -----
 // krait - Stasis 720 Auto Rifle - Rapid-Fire Frame (World)
 // PvE: Overflow + One for All
 dimwishlist:item=2852052802&perks=839105230,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
@@ -271,8 +252,8 @@ dimwishlist:item=-20935540#notes:No good perks. Use Chrysura Melo instead.
 
 // -----
 // come to pass - Arc 360 Auto Rifle - High Impact Frame (Wellspring)
-// PvE: hammer forged, tactical, Shoot to Loot, Adaptive Munitions
-dimwishlist:item=927567426&perks=3250034553,106909392,3700496672,1048183818#notes:PvE - MW Range (craftable)
+// PvE: hammer forged, Tactical, Shoot to Loot, Adaptive Munitions
+dimwishlist:item=927567426&perks=3250034553,106909392,3700496672,1048183818#notes:PvE - MW Range (Craftable)
 
 // -----
 // Shadow Price - Arc 450 Auto Rifle - Precision Frame (Nightfall)
@@ -394,7 +375,7 @@ dimwishlist:item=2496875173&perks=1482024992,3230963543,1820235745,3592538738#no
 
 // -----
 // sweet sorrow - Arc 720 Auto Rifle - Rapid-Fire Frame (Season of Risen)
-// PvE: extended, tactical, triple tap, One for All
+// PvE: extended, Tactical, triple tap, One for All
 dimwishlist:item=1248372789&perks=1467527085,106909392,3400784728,4049631843#notes:PvE - MW Range
 
 // -----
@@ -499,7 +480,7 @@ dimwishlist:item=-1621657423#notes: No good perks. Use Fel Taradiddle instead.
 // -----
 // fel taradiddle - Kinetic Bow - Lightweight Frame (Wellspring)
 // PvE: elastic, compact, Shoot to Loot, Explosive Head
-dimwishlist:item=1399109800&perks=2801223209,16392701,3700496672,3365897133#notes:PvE - mw draw (craftable)
+dimwishlist:item=1399109800&perks=2801223209,16392701,3700496672,3365897133#notes:PvE - mw draw (Craftable)
 
 // -----
 // Tyranny of Heaven - Solar Bow - Lightweight Frame (Last Wish)
@@ -597,7 +578,7 @@ dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,3592538738#note
 // -----
 // under your skin - Void bow - Precision Frame (Season of Risen)
 // PvE: elastic, compact, Archer Tempo, Explosive Head
-dimwishlist:item=232928045&perks=2801223209,16392701,201365942,3365897133#notes:PvE - mw draw (craftable)
+dimwishlist:item=232928045&perks=2801223209,16392701,201365942,3365897133#notes:PvE - mw draw (Craftable)
 
 // --------------------------------------------------------------------------
 // Type - Fusion Rifle
@@ -606,6 +587,7 @@ dimwishlist:item=232928045&perks=2801223209,16392701,201365942,3365897133#notes:
 // PvE: Arrowhead, Accelerated, Compulsive Reloader, Chill Clip
 dimwishlist:item=768621510&perks=839105230,689005463,671806388,2978966579#notes:PvE - MW Charge (Craftable)
 
+// -----
 // cartesian coordinate - Solar Fusion Rifle - Rapid-Fire Frame (World)
 // PvE: Lead from Gold + Vorpal
 dimwishlist:item=2481881293&perks=2405638015,2680121939,1556840489,1546637391#notes:PvE - MW Range or Reload
@@ -807,7 +789,7 @@ dimwishlist:item=2534546147&perks=2713678205,679225683,3800201097,2224838837#not
 
 // -----
 // the enigma - Void glaive - adaptive glaive (quest)
-// PvE: low impedance, light mag, impulse amplifier, unstoppable force
+// PvE: low impedance, light mag, Impulse Amplifier, unstoppable force
 dimwishlist:item=2595497736&perks=2713678205,679225683,951095735,2224838837#notes:PvE - MW Reload (Craftable)
 
 // --------------------------------------------------------------------------
@@ -1211,72 +1193,72 @@ dimwishlist:item=1200824700&perks=202670084,1140096971,4071163871,1546637391#not
 dimwishlist:item=1200824700&perks=3250034553,1140096971,4071163871,1546637391#notes:PvE - MW Range
 
 // --------------------------------------------------------------------------
-// type - heavy grenade launcher
+// Type - Heavy Grenade Launcher
 // --------------------------------------------------------------------------
-// typhon gl5 - Stasis heavy grenade launcher - Adaptive Frame (World)
-// PvE: impulse amplifier + chill clip
-dimwishlist:item=3568377122&perks=981914802,3301904089,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=1441682018,3301904089,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=981914802,2985827016,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=1441682018,2985827016,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=3525010810,2985827016,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=981914802,2822142346,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=1441682018,2822142346,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=3525010810,2822142346,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=981914802,3373736292,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=1441682018,3373736292,951095735,2978966579#notes:PvE - mw blast or velocity
-dimwishlist:item=3568377122&perks=3525010810,3373736292,951095735,2978966579#notes:PvE - mw blast or velocity
+// Typhon GL5 - Stasis Heavy Grenade Launcher - Adaptive Frame (World)
+// PvE: Impulse Amplifier + Chill Clip
+dimwishlist:item=3568377122&perks=981914802,3301904089,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=1441682018,3301904089,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=981914802,2985827016,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=1441682018,2985827016,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=3525010810,2985827016,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=981914802,2822142346,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=1441682018,2822142346,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=3525010810,2822142346,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=981914802,3373736292,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=1441682018,3373736292,951095735,2978966579#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3568377122&perks=3525010810,3373736292,951095735,2978966579#notes:PvE - MW Blast or Velocity
 
 // -----
-// canis major - Solar heavy grenade launcher - Rapid-Fire Frame (Season of Lost)
-// PvE: spike grenade + impulse amplifier + Vorpal
+// canis major - Solar Heavy Grenade Launcher - Rapid-Fire Frame (Season of Lost)
+// PvE: spike grenade + Impulse Amplifier + Vorpal
 dimwishlist:item=2066434718&perks=981914802,3301904089,951095735,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=2066434718&perks=3525010810,3301904089,951095735,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=2066434718&perks=3798852852,3301904089,951095735,1546637391#notes:PvE - MW Velocity
 
-// PvE: Field Prep + chain reaction
-dimwishlist:item=2066434718&perks=1478423395,3301904089,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=1441682018,3301904089,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=3525010810,3301904089,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=3798852852,3301904089,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=1478423395,2985827016,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=1441682018,2985827016,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=3525010810,2985827016,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=3798852852,2985827016,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=1478423395,1380253176,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=1441682018,1380253176,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=3525010810,1380253176,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=3798852852,1380253176,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=1478423395,2822142346,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=1441682018,2822142346,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=3525010810,2822142346,2869569095,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=2066434718&perks=3798852852,2822142346,2869569095,2396489472#notes:PvE - mw blast or velocity
+// PvE: Field Prep + Chain Reaction
+dimwishlist:item=2066434718&perks=1478423395,3301904089,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=1441682018,3301904089,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=3525010810,3301904089,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=3798852852,3301904089,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=1478423395,2985827016,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=1441682018,2985827016,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=3525010810,2985827016,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=3798852852,2985827016,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=1478423395,1380253176,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=1441682018,1380253176,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=3525010810,1380253176,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=3798852852,1380253176,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=1478423395,2822142346,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=1441682018,2822142346,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=3525010810,2822142346,2869569095,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2066434718&perks=3798852852,2822142346,2869569095,2396489472#notes:PvE - MW Blast or Velocity
 
 // -----
-// love and death - Solar heavy grenade launcher - Rapid-Fire Frame (Moon)
+// love and death - Solar Heavy Grenade Launcher - Rapid-Fire Frame (Moon)
 // PvE: spike + clown cartridge + full court
 dimwishlist:item=3690523502&perks=981914802,3301904089,2284787283,2888557110#notes:PvE - MW Velocity or reload
 dimwishlist:item=3690523502&perks=1441682018,3301904089,2284787283,2888557110#notes:PvE - MW Velocity or reload
 dimwishlist:item=3690523502&perks=3525010810,3301904089,2284787283,2888557110#notes:PvE - MW Velocity or reload
 dimwishlist:item=3690523502&perks=3798852852,3301904089,2284787283,2888557110#notes:PvE - MW Velocity or reload
 
-// PvE: Auto Loading + chain reaction
-dimwishlist:item=3690523502&perks=1478423395,2870095399,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=1441682018,2870095399,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=3525010810,2870095399,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=3798852852,2870095399,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=1478423395,1380253176,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=1441682018,1380253176,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=3525010810,1380253176,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=3798852852,1380253176,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=1478423395,2822142346,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=1441682018,2822142346,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=3525010810,2822142346,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3690523502&perks=3798852852,2822142346,3300816228,2396489472#notes:PvE - mw blast or velocity
+// PvE: Auto Loading + Chain Reaction
+dimwishlist:item=3690523502&perks=1478423395,2870095399,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=1441682018,2870095399,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=3525010810,2870095399,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=3798852852,2870095399,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=1478423395,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=1441682018,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=3525010810,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=3798852852,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=1478423395,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=1441682018,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=3525010810,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3690523502&perks=3798852852,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
 
 // -----
-// outrageous fortune - Solar heavy grenade launcher - Rapid-Fire Frame (Strike)
+// outrageous fortune - Solar Heavy Grenade Launcher - Rapid-Fire Frame (Strike)
 // PvE: spike grenade + Auto Loading + assassin
 dimwishlist:item=4146702548&perks=981914802,3301904089,3300816228,2010801679#notes:PvE - MW Velocity
 dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,2010801679#notes:PvE - MW Velocity
@@ -1290,21 +1272,21 @@ dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110#no
 dimwishlist:item=2257180473&perks=3798852852,3301904089,3300816228,2888557110#notes:PvE - MW Velocity
 
 // -----
-// blast battue - Arc heavy grenade launcher - Adaptive Frame (Season of Hunt)
-// PvE: clown cartridge + chain reaction
+// blast battue - Arc Heavy Grenade Launcher - Adaptive Frame (Season of Hunt)
+// PvE: clown cartridge + Chain Reaction
 dimwishlist:item=2453357042&perks=981914802,3301904089,2284787283,2396489472#notes:PvE - MW Velocity
 dimwishlist:item=2453357042&perks=3525010810,3301904089,2284787283,2396489472#notes:PvE - MW Velocity
 
 // -----
-// tarnation - Arc heavy grenade launcher - Rapid-Fire Frame (Wellspring)
-// PvE: volatile, high-explosive, Field Prep, chain reaction
-dimwishlist:item=2721157927&perks=1478423395,1380253176,2869569095,2396489472#notes:PvE - mw blast (craftable)
+// Tarnation - Arc Heavy Grenade Launcher - Rapid-Fire Frame (Wellspring)
+// PvE: Volatile, High-Explosive, Field Prep, Chain Reaction
+dimwishlist:item=2721157927&perks=1478423395,1380253176,2869569095,2396489472#notes:PvE - mw blast (Craftable)
 
 // -----
-// berenger's memory - Void heavy grenade launcher - Rapid-Fire Frame (World)
+// berenger's memory - Void Heavy Grenade Launcher - Rapid-Fire Frame (World)
 // PvE: spike grenade + Field Prep + Auto Loading
-dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3300816228#notes:PvE - mw blast or velocity
-dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3300816228#notes:PvE - mw blast or velocity
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3300816228#notes:PvE - MW Blast or Velocity
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3300816228#notes:PvE - MW Blast or Velocity
 
 // -----
 // swarm of the raven - Void heavy grenade - Rapid-Fire Frame (Iron Banner)
@@ -1316,19 +1298,19 @@ dimwishlist:item=-3565520715#notes:use memory interdict instead.
 
 // -----
 // memory interdict - Void heavy grenade - Adaptive Frame (Season of Splicer)
-// PvE: Auto Loading + chain reaction
-dimwishlist:item=3165547384&perks=1478423395,3301904089,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=981914802,3301904089,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=1478423395,1380253176,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=981914802,1380253176,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=1441682018,1380253176,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=3525010810,1380253176,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=1478423395,2822142346,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=981914802,2822142346,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=1441682018,2822142346,3300816228,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=3165547384&perks=3525010810,2822142346,3300816228,2396489472#notes:PvE - mw blast or velocity
+// PvE: Auto Loading + Chain Reaction
+dimwishlist:item=3165547384&perks=1478423395,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=981914802,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=1478423395,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=981914802,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=1441682018,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=3525010810,1380253176,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=1478423395,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=981914802,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=1441682018,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3165547384&perks=3525010810,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
 
 // --------------------------------------------------------------------------
 // type - linear Fusion Rifle
@@ -1397,14 +1379,14 @@ dimwishlist:item=3075224551&perks=3250034553,2969185026,3300816228,1546637391#no
 dimwishlist:item=3075224551&perks=1482024992,2969185026,3300816228,1546637391#notes:PvE - mw reload
 
 // --------------------------------------------------------------------------
-// type - machine gun
+// type - Machine Gun
 // --------------------------------------------------------------------------
-// recurrent impact - Stasis 900 machine gun - Rapid-Fire Frame (Season of Risen)
-// PvE: smallbore, tactical, Subsistence, Headstone1512016990364397568
+// Recurrent Impact - Stasis 900 Machine Gun - Rapid-Fire Frame (Season of Risen)
+// PvE: Smallbore, Tactical, Subsistence, Headstone
 dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,124408337#notes:PvE - MW Reload (Craftable)
 
 //-----
-// Archon's thunder - Solar 360 machine gun - High Impact Frame (Iron Banner)
+// Archon's thunder - Solar 360 Machine Gun - High Impact Frame (Iron Banner)
 // PvE: Field Prep + rampage
 dimwishlist:item=1967303408&perks=839105230,106909392,2869569095,3425386926#notes:PvE - MW Any except Handling
 dimwishlist:item=1967303408&perks=3661387068,106909392,2869569095,3425386926#notes:PvE - MW Any except Handling
@@ -1422,7 +1404,7 @@ dimwishlist:item=1967303408&perks=1392496348,3230963543,2869569095,3425386926#no
 dimwishlist:item=1967303408&perks=1482024992,3230963543,2869569095,3425386926#notes:PvE - MW Any except Handling
 
 // -----
-// avalanche - Solar 450 machine gun - Adaptive Frame (dawning)
+// avalanche - Solar 450 Machine Gun - Adaptive Frame (dawning)
 // PvE: Auto Loading + adrenaline junkie
 dimwishlist:item=66875353&perks=360593482,2420895100,3300816228,11612903#notes:PvE - MW Range or stability
 dimwishlist:item=66875353&perks=3151536501,2420895100,3300816228,11612903#notes:PvE - MW Range or stability
@@ -1436,7 +1418,7 @@ dimwishlist:item=66875353&perks=360593482,1087426260,3300816228,2848615171#notes
 dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,2848615171#notes:PvE - MW Range or stability
 
 // -----
-// thermal erosion - Solar 900 machine gun - Rapid-Fire Frame (Europa)
+// thermal erosion - Solar 900 Machine Gun - Rapid-Fire Frame (Europa)
 // PvE: Field Prep + Dragonfly
 dimwishlist:item=1766088024&perks=839105230,3230963543,2869569095,2848615171#notes:PvE - MW Any except Handling
 dimwishlist:item=1766088024&perks=3661387068,3230963543,2869569095,2848615171#notes:PvE - MW Any except Handling
@@ -1462,7 +1444,7 @@ dimwishlist:item=1766088024&perks=3250034553,679225683,2869569095,3523296417#not
 dimwishlist:item=1766088024&perks=1482024992,679225683,2869569095,3523296417#notes:PvE - MW Any except Handling
 
 // -----
-// seventh seraph saw - Arc 360 machine gun - High Impact Frame (World)
+// seventh seraph saw - Arc 360 Machine Gun - High Impact Frame (World)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391#notes:PvE - MW Any except reload
 dimwishlist:item=2582755344&perks=3661387068,2420895100,3300816228,1546637391#notes:PvE - MW Any except reload
@@ -1478,11 +1460,11 @@ dimwishlist:item=2582755344&perks=1392496348,1087426260,3300816228,1546637391#no
 dimwishlist:item=2582755344&perks=1482024992,1087426260,3300816228,1546637391#notes:PvE - MW Any except reload
 
 // -----
-// the swarm - Arc 360 machine gun - High Impact Frame (Nightfall)
+// the swarm - Arc 360 Machine Gun - High Impact Frame (Nightfall)
 dimwishlist:item=-47772649#notes:not used. use seventh seraph saw instead.
 
 // -----
-// the swarm (adept) - Arc 360 machine gun - High Impact Frame (Nightfall)
+// the swarm (adept) - Arc 360 Machine Gun - High Impact Frame (Nightfall)
 // PvE: Surplus + Dragonfly
 dimwishlist:item=3836861464&perks=3661387068,1087426260,3436462433,2848615171#notes:PvE - mw reload
 dimwishlist:item=3836861464&perks=1467527085,1087426260,3436462433,2848615171#notes:PvE - mw reload
@@ -1522,7 +1504,7 @@ dimwishlist:item=3836861464&perks=3250034553,106909392,4252909580,1546637391#not
 dimwishlist:item=3836861464&perks=1482024992,106909392,4252909580,1546637391#notes:PvE - mw reload
 
 // -----
-// a fine memorial - Arc 450 machine gun - Adaptive Frame (Moon)
+// a fine memorial - Arc 450 Machine Gun - Adaptive Frame (Moon)
 // PvE: Auto Loading + Demolitionist
 dimwishlist:item=3325778512&perks=839105230,1087426260,3300816228,3523296417#notes:PvE - MW Range or stability
 dimwishlist:item=3325778512&perks=3661387068,1087426260,3300816228,3523296417#notes:PvE - MW Range or stability
@@ -1564,7 +1546,7 @@ dimwishlist:item=3325778512&perks=1392496348,1885400500,2869569095,4104185692#no
 dimwishlist:item=3325778512&perks=1482024992,1885400500,2869569095,4104185692#notes:PvE - MW Range or stability
 
 // -----
-// commemoration - Void 450 machine gun - Adaptive Frame (Deep Stone Crypt)
+// commemoration - Void 450 Machine Gun - Adaptive Frame (Deep Stone Crypt)
 // PvE: Reconstruction + unrelenting
 dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,3108830275#notes:PvE - MW Any except Handling
 dimwishlist:item=4230965989&perks=3661387068,1087426260,1523832109,3108830275#notes:PvE - MW Any except Handling
@@ -1586,7 +1568,7 @@ dimwishlist:item=4230965989&perks=1392496348,106909392,1523832109,2848615171#not
 dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,2848615171#notes:PvE - MW Any except Handling
 
 // -----
-// corrective measure - Void 450 machine gun - Adaptive Frame (Vault of Glass)
+// corrective measure - Void 450 Machine Gun - Adaptive Frame (Vault of Glass)
 // PvE: Subsistence + Firefly
 dimwishlist:item=471518543&perks=3661387068,1087426260,1820235745,3824105627#notes:PvE - MW Any except Handling
 dimwishlist:item=471518543&perks=1467527085,1087426260,1820235745,3824105627#notes:PvE - MW Any except Handling
@@ -1608,7 +1590,7 @@ dimwishlist:item=471518543&perks=3250034553,106909392,3418782618,2213355989#note
 dimwishlist:item=471518543&perks=1482024992,106909392,3418782618,2213355989#notes:PvE - MW Any except Handling
 
 // -----
-// corrective measure (timelost) - Void 450 machine gun - Adaptive Frame (Vault of Glass)
+// corrective measure (timelost) - Void 450 Machine Gun - Adaptive Frame (Vault of Glass)
 // PvE: Subsistence + Firefly
 dimwishlist:item=3796510434&perks=3661387068,1087426260,1820235745,3824105627#notes:PvE - MW Any except Handling
 dimwishlist:item=3796510434&perks=1467527085,1087426260,1820235745,3824105627#notes:PvE - MW Any except Handling
@@ -1630,7 +1612,7 @@ dimwishlist:item=3796510434&perks=3250034553,106909392,3418782618,2213355989#not
 dimwishlist:item=3796510434&perks=1482024992,106909392,3418782618,2213355989#notes:PvE - MW Any except Handling
 
 // -----
-// shattered cipher - Void 900 machine gun - Rapid-Fire Frame (Season of Splicer)
+// shattered cipher - Void 900 Machine Gun - Rapid-Fire Frame (Season of Splicer)
 // PvE: Auto Loading + rampage
 dimwishlist:item=2434225986&perks=839105230,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
 dimwishlist:item=2434225986&perks=3661387068,106909392,3300816228,3425386926#notes:PvE - MW Range or Reload
@@ -1762,7 +1744,7 @@ dimwishlist:item=2097055732&perks=1467527085,1087426260,3643424744,1546637391#no
 // -----
 // syncopation-53 - Stasis 390 Pulse Rifle - Adaptive Frame (World)
 // PvE: Arrowhead, appended, Outlaw, Headstone
-dimwishlist:item=2856514843&perks=839105230,1087426260,1168162263,124408337#notes:PvE - MW Range (craftable)
+dimwishlist:item=2856514843&perks=839105230,1087426260,1168162263,124408337#notes:PvE - MW Range (Craftable)
 
 // -----
 // Stars in Shadow - Solar 340 Pulse Rifle - High Impact Frame (Crucible)
@@ -2039,30 +2021,30 @@ dimwishlist:item=1621558458&perks=3250034553,679225683,2450788523,2726471870#not
 dimwishlist:item=1621558458&perks=1482024992,679225683,2450788523,2726471870#notes:PvE - MW Any except Handling
 
 // --------------------------------------------------------------------------
-// type - rocket launcher
+// type - Rocket launcher
 // --------------------------------------------------------------------------
-// palmyra-b - Stasis rocket launcher - hakke Precision Frame (World)
-// PvE: quick launch, impact casing, Auto Loading, explosive light
-dimwishlist:item=3489657138&perks=3525010810,3796465595,3300816228,3194351027#notes:PvE - MW Handling (craftable)
+// palmyra-b - Stasis Rocket launcher - hakke Precision Frame (World)
+// PvE: Quick Launch, Impact Casing, Auto Loading, explosive light
+dimwishlist:item=3489657138&perks=3525010810,3796465595,3300816228,3194351027#notes:PvE - MW Handling (Craftable)
 
 // -----
-// ascendancy - Solar rocket launcher - Precision Frame (ritual)
+// ascendancy - Solar Rocket launcher - Precision Frame (ritual)
 dimwishlist:item=725408022#notes:ritual.
 
 // -----
-// apex predator - Solar rocket launcher - Adaptive Frame (Last Wish)
-// PvP: tracking + Snapshot
+// apex predator - Solar Rocket launcher - Adaptive Frame (Last Wish)
+// PvP: Tracking + Snapshot
 dimwishlist:item=2545083870&perks=981914802,2822142346,3977735242,957782887#notes:PvP - MW Velocity or blast radius
 dimwishlist:item=2545083870&perks=3525010810,2822142346,3977735242,957782887#notes:PvP - MW Velocity or blast radius
 dimwishlist:item=2545083870&perks=981914802,3492396210,3977735242,957782887#notes:PvP - MW Velocity or blast radius
 dimwishlist:item=2545083870&perks=3525010810,3492396210,3977735242,957782887#notes:PvP - MW Velocity or blast radius
 
-// PvE: tracking + Auto Loading
+// PvE: Tracking + Auto Loading
 dimwishlist:item=2545083870&perks=1478423395,1996142143,3977735242,3300816228#notes:PvE - mw blast radius
 dimwishlist:item=2545083870&perks=1844523823,1996142143,3977735242,3300816228#notes:PvE - mw blast radius
 
 // -----
-// code duello - Solar rocket launcher - High Impact Frame (season of chosen - battlegrounds)
+// code duello - Solar Rocket launcher - High Impact Frame (season of chosen - battlegrounds)
 // PvE: Auto Loading + Frenzy
 dimwishlist:item=2496242052&perks=981914802,1996142143,3300816228,4104185692#notes:PvE - MW Velocity
 dimwishlist:item=2496242052&perks=1441682018,1996142143,3300816228,4104185692#notes:PvE - MW Velocity
@@ -2075,7 +2057,7 @@ dimwishlist:item=2496242052&perks=3525010810,2822142346,3300816228,4104185692#no
 // no need anymore. already has on hezen vengeance.
 
 // -----
-// hezen vengeance - Solar rocket launcher - Aggressive Frame (Vault of Glass)
+// hezen vengeance - Solar Rocket launcher - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=4050645223&perks=981914802,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=1441682018,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
@@ -2096,18 +2078,18 @@ dimwishlist:item=4050645223&perks=981914802,3796465595,3643424744,3927722942#not
 dimwishlist:item=4050645223&perks=1441682018,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
 
-// PvE: tracking + Vorpal
+// PvE: Tracking + Vorpal
 dimwishlist:item=4050645223&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=1441682018,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
 
-// PvE: tracking + lasting impression
+// PvE: Tracking + lasting impression
 dimwishlist:item=4050645223&perks=981914802,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=1441682018,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 
 // -----
-// hezen vengeance (timelost) - Solar rocket launcher - Aggressive Frame (Vault of Glass)
+// hezen vengeance (timelost) - Solar Rocket launcher - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=1921159786&perks=981914802,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=1441682018,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
@@ -2128,45 +2110,45 @@ dimwishlist:item=1921159786&perks=981914802,3796465595,3643424744,3927722942#not
 dimwishlist:item=1921159786&perks=1441682018,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
 
-// PvE: tracking + Vorpal
+// PvE: Tracking + Vorpal
 dimwishlist:item=1921159786&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=1441682018,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
 
-// PvE: tracking + lasting impression
+// PvE: Tracking + lasting impression
 dimwishlist:item=1921159786&perks=981914802,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=1441682018,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 
 // -----
-// hoosegow - Arc rocket launcher - Adaptive Frame (World)
+// hoosegow - Arc Rocket launcher - Adaptive Frame (World)
 // PvE: Auto Loading + cluster bomb
-dimwishlist:item=3669616453&perks=1478423395,1996142143,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=3669616453&perks=1441682018,1996142143,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=3669616453&perks=3525010810,1996142143,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=3669616453&perks=1478423395,2822142346,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=3669616453&perks=1441682018,2822142346,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=3669616453&perks=3525010810,2822142346,3300816228,1275731761#notes:PvE - mw blast or velocity
+dimwishlist:item=3669616453&perks=1478423395,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3669616453&perks=1441682018,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3669616453&perks=3525010810,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3669616453&perks=1478423395,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3669616453&perks=1441682018,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3669616453&perks=3525010810,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
 
 // -----
-// heretic - Arc rocket - Aggressive Frame (Moon)
-// PvE: impulse amplifier + lasting impression
-dimwishlist:item=3067821200&perks=1478423395,2985827016,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=981914802,2985827016,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=1441682018,2985827016,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=3525010810,2985827016,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=1478423395,1996142143,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=981914802,1996142143,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=1441682018,1996142143,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=3525010810,1996142143,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=1478423395,2822142346,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=981914802,2822142346,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=1441682018,2822142346,951095735,3927722942#notes:PvE - mw blast or velocity
-dimwishlist:item=3067821200&perks=3525010810,2822142346,951095735,3927722942#notes:PvE - mw blast or velocity
+// heretic - Arc Rocket - Aggressive Frame (Moon)
+// PvE: Impulse Amplifier + lasting impression
+dimwishlist:item=3067821200&perks=1478423395,2985827016,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=981914802,2985827016,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=1441682018,2985827016,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=3525010810,2985827016,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=1478423395,1996142143,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=981914802,1996142143,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=1441682018,1996142143,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=3525010810,1996142143,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=1478423395,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=981914802,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=1441682018,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
+dimwishlist:item=3067821200&perks=3525010810,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
 
 // -----
-// shining sphere - Arc rocket launcher - Adaptive Frame (Iron Banner)
-// PvP: Snapshot + tracking
+// shining sphere - Arc Rocket launcher - Adaptive Frame (Iron Banner)
+// PvP: Snapshot + Tracking
 dimwishlist:item=136525518&perks=3525010810,2822142346,957782887,3977735242#notes:PvP - MW Velocity or blast radius
 
 // PvE: Auto Loading + assassin
@@ -2177,149 +2159,149 @@ dimwishlist:item=136525518&perks=1478423395,2822142346,3300816228,2010801679#not
 dimwishlist:item=136525518&perks=1441682018,2822142346,3300816228,2010801679#notes:PvE - mw blast radius
 dimwishlist:item=136525518&perks=3525010810,2822142346,3300816228,2010801679#notes:PvE - mw blast radius
 
-// PvE: Auto Loading + tracking
-dimwishlist:item=136525518&perks=1478423395,1996142143,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=981914802,1996142143,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=1441682018,1996142143,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=3525010810,1996142143,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=1478423395,2822142346,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=981914802,2822142346,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=1441682018,2822142346,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=3525010810,2822142346,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=1478423395,3492396210,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=981914802,3492396210,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=1441682018,3492396210,3300816228,3977735242#notes:PvE - mw blast or velocity
-dimwishlist:item=136525518&perks=3525010810,3492396210,3300816228,3977735242#notes:PvE - mw blast or velocity
+// PvE: Auto Loading + Tracking
+dimwishlist:item=136525518&perks=1478423395,1996142143,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=981914802,1996142143,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=1441682018,1996142143,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=3525010810,1996142143,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=1478423395,2822142346,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=981914802,2822142346,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=1441682018,2822142346,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=3525010810,2822142346,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=1478423395,3492396210,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=981914802,3492396210,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=1441682018,3492396210,3300816228,3977735242#notes:PvE - MW Blast or Velocity
+dimwishlist:item=136525518&perks=3525010810,3492396210,3300816228,3977735242#notes:PvE - MW Blast or Velocity
 
 // -----
-// the hothead - Arc rocket launcher - Adaptive Frame (Nightfall)
-// PvE: tracking + explosive light
-dimwishlist:item=4255171531&perks=1478423395,1996142143,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,1996142143,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,1996142143,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,1996142143,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1478423395,2822142346,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,2822142346,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,2822142346,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,2822142346,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1478423395,3492396210,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,3492396210,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,3492396210,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,3492396210,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1478423395,3796465595,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,3796465595,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,3796465595,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,3796465595,3977735242,3194351027#notes:PvE - mw blast or velocity
+// the hothead - Arc Rocket launcher - Adaptive Frame (Nightfall)
+// PvE: Tracking + explosive light
+dimwishlist:item=4255171531&perks=1478423395,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
 
 // PvE: Field Prep + explosive light
-dimwishlist:item=4255171531&perks=1478423395,1996142143,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,1996142143,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,1996142143,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,1996142143,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1478423395,2822142346,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,2822142346,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,2822142346,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,2822142346,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1478423395,3492396210,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,3492396210,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,3492396210,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,3492396210,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1478423395,3796465595,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,3796465595,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,3796465595,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,3194351027#notes:PvE - mw blast or velocity
+dimwishlist:item=4255171531&perks=1478423395,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
 
-// PvE: tracking + Vorpal
-dimwishlist:item=4255171531&perks=1478423395,1996142143,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,1996142143,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,1996142143,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,1996142143,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1478423395,2822142346,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,2822142346,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,2822142346,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,2822142346,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1478423395,3492396210,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,3492396210,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,3492396210,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,3492396210,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1478423395,3796465595,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=1441682018,3796465595,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=4255171531&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - mw blast or velocity
+// PvE: Tracking + Vorpal
+dimwishlist:item=4255171531&perks=1478423395,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1478423395,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=1441682018,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
 
 // -----
-// the hothead (adept) - Arc rocket launcher - Adaptive Frame (Nightfall)
-// PvE: tracking + explosive light
-dimwishlist:item=1866778462&perks=1478423395,1996142143,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,1996142143,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,1996142143,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,1996142143,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1478423395,2822142346,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,2822142346,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,2822142346,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1478423395,3492396210,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,3492396210,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,3492396210,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,3492396210,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1478423395,3796465595,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,3796465595,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,3796465595,3977735242,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,3194351027#notes:PvE - mw blast or velocity
+// the hothead (adept) - Arc Rocket launcher - Adaptive Frame (Nightfall)
+// PvE: Tracking + explosive light
+dimwishlist:item=1866778462&perks=1478423395,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3492396210,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,3194351027#notes:PvE - MW Blast or Velocity
 
 // PvE: Field Prep + explosive light
-dimwishlist:item=1866778462&perks=1478423395,1996142143,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,1996142143,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,1996142143,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,1996142143,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1478423395,2822142346,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,2822142346,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,2822142346,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,2822142346,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1478423395,3492396210,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,3492396210,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,3492396210,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,3492396210,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1478423395,3796465595,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,3796465595,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,3796465595,2869569095,3194351027#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,3796465595,2869569095,3194351027#notes:PvE - mw blast or velocity
+dimwishlist:item=1866778462&perks=1478423395,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,1996142143,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,2822142346,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3492396210,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3796465595,2869569095,3194351027#notes:PvE - MW Blast or Velocity
 
-// PvE: tracking + Vorpal
-dimwishlist:item=1866778462&perks=1478423395,1996142143,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,1996142143,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,1996142143,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,1996142143,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1478423395,2822142346,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,2822142346,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,2822142346,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1478423395,3492396210,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,3492396210,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,3492396210,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,3492396210,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1478423395,3796465595,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=1441682018,3796465595,3977735242,1546637391#notes:PvE - mw blast or velocity
-dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - mw blast or velocity
+// PvE: Tracking + Vorpal
+dimwishlist:item=1866778462&perks=1478423395,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,1996142143,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3492396210,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1478423395,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=1441682018,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
+dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
 
 // -----
-// subzero salvo - Arc rocket launcher - Precision Frame (Europa)
+// subzero salvo - Arc Rocket launcher - Precision Frame (Europa)
 // PvP: Quickdraw + Snapshot
 dimwishlist:item=42351395&perks=3525010810,2822142346,706527188,957782887#notes:PvP - MW Velocity
 
-// PvE: assassin + chain reaction
-dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=42351395&perks=981914802,1996142143,2010801679,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=42351395&perks=1441682018,1996142143,2010801679,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=42351395&perks=3525010810,1996142143,2010801679,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=42351395&perks=1478423395,2822142346,2010801679,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=42351395&perks=981914802,2822142346,2010801679,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=42351395&perks=1441682018,2822142346,2010801679,2396489472#notes:PvE - mw blast or velocity
-dimwishlist:item=42351395&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE - mw blast or velocity
+// PvE: assassin + Chain Reaction
+dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=981914802,1996142143,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=1441682018,1996142143,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=3525010810,1996142143,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=1478423395,2822142346,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=981914802,2822142346,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=1441682018,2822142346,2010801679,2396489472#notes:PvE - MW Blast or Velocity
+dimwishlist:item=42351395&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE - MW Blast or Velocity
 
 // -----
-// sleepless - Arc rocket - High Impact Frame (Dreaming City)
+// sleepless - Arc Rocket - High Impact Frame (Dreaming City)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=3740842661&perks=1478423395,2822142346,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=3740842661&perks=981914802,1996142143,3300816228,1546637391#notes:PvE - MW Velocity
@@ -2329,24 +2311,24 @@ dimwishlist:item=3740842661&perks=981914802,2822142346,3300816228,1546637391#not
 dimwishlist:item=3740842661&perks=1441682018,2822142346,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=3740842661&perks=3525010810,2822142346,3300816228,1546637391#notes:PvE - MW Velocity
 
-// PvE: tracking + Vorpal
+// PvE: Tracking + Vorpal
 dimwishlist:item=3740842661&perks=981914802,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=3740842661&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Velocity
 
 // -----
-// red herring - Void rocket - Adaptive Frame (campaign)
-// PvP: quick launch, high velocity, tracking, Snapshot
-dimwishlist:item=3175851496&perks=3525010810,2822142346,3977735242,957782887#notes:PvP - MW Velocity (craftable)
+// Red Herring - Void Rocket - Adaptive Frame (Campaign)
+// PvP: Quick Launch, High Velocity, Tracking, Snapshot
+dimwishlist:item=3175851496&perks=3525010810,2822142346,3977735242,957782887#notes:PvP - MW Velocity (Craftable)
 
-// PvE: hard launch, impact casing, Field Prep, Frenzy
-dimwishlist:item=3175851496&perks=981914802,3796465595,2869569095,4104185692#notes:PvE - MW Velocity (craftable)
+// PvE: Hard Launch, Impact Casing, Tracking, Frenzy
+dimwishlist:item=3175851496&perks=981914802,3796465595,3977735242,4104185692#notes:PvE - MW Velocity (Craftable)
 
 // -----
-// royal entry - Void rocket - Precision Frame (Nightfall)
-// PvE: impulse amplifier + clown cartridge
-dimwishlist:item=2448907086&perks=981914802,2822142346,951095735,2284787283#notes:PvE - mw blast or velocity
-dimwishlist:item=2448907086&perks=1441682018,2822142346,951095735,2284787283#notes:PvE - mw blast or velocity
-dimwishlist:item=2448907086&perks=3525010810,2822142346,951095735,2284787283#notes:PvE - mw blast or velocity
+// royal entry - Void Rocket - Precision Frame (Nightfall)
+// PvE: Impulse Amplifier + clown cartridge
+dimwishlist:item=2448907086&perks=981914802,2822142346,951095735,2284787283#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2448907086&perks=1441682018,2822142346,951095735,2284787283#notes:PvE - MW Blast or Velocity
+dimwishlist:item=2448907086&perks=3525010810,2822142346,951095735,2284787283#notes:PvE - MW Blast or Velocity
 
 // PvE: Auto Loading + lasting impression
 dimwishlist:item=2448907086&perks=981914802,2822142346,3300816228,3927722942#notes:PvE - MW Velocity
@@ -2357,25 +2339,25 @@ dimwishlist:item=2448907086&perks=981914802,3796465595,3300816228,3927722942#not
 dimwishlist:item=2448907086&perks=3525010810,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
 
 // -----
-// bad omens - Void rocket launcher - aggresive frame (World)
+// bad omens - Void Rocket launcher - aggresive frame (World)
 // PvE: Auto Loading + cluster bomb
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=991314988&perks=3525010810,1996142143,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761#notes:PvE - mw blast or velocity
-dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761#notes:PvE - mw blast or velocity
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=3525010810,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
 
 // -----
-// tomorrow's answer - Void rocket launcher - High Impact Frame (Trials of Osiris)
-// PvP: tracking + Snapshot
+// tomorrow's answer - Void Rocket launcher - High Impact Frame (Trials of Osiris)
+// PvP: Tracking + Snapshot
 dimwishlist:item=958384347&perks=981914802,2822142346,3977735242,957782887#notes:PvP - MW Velocity
 dimwishlist:item=958384347&perks=1441682018,2822142346,3977735242,957782887#notes:PvP - MW Velocity
 dimwishlist:item=958384347&perks=3525010810,2822142346,3977735242,957782887#notes:PvP - MW Velocity
 
-// PvE: Auto Loading + chain reaction
+// PvE: Auto Loading + Chain Reaction
 dimwishlist:item=958384347&perks=981914802,1996142143,3300816228,2396489472#notes:PvE - MW Velocity
 dimwishlist:item=958384347&perks=3525010810,1996142143,3300816228,2396489472#notes:PvE - MW Velocity
 dimwishlist:item=958384347&perks=981914802,2822142346,3300816228,2396489472#notes:PvE - MW Velocity
@@ -2751,7 +2733,7 @@ dimwishlist:item=3242168339&perks=3250034553,3230963543,1168162263,2848615171#no
 dimwishlist:item=3242168339&perks=1482024992,3230963543,1168162263,2848615171#notes:PvE - MW Range or Reload
 
 // --------------------------------------------------------------------------
-// type - shotgun (pellet)
+// Type - Shotgun (Pellet)
 // --------------------------------------------------------------------------
 // toil and trouble - Kinetic Shotgun - Aggressive Frame (World)
 // PvE: full auto + Auto Loading
@@ -2762,7 +2744,7 @@ dimwishlist:item=2957367743&perks=4090651448,791862061,2117683199,3300816228#not
 // -----
 // ragnhild-d - Kinetic Shotgun - Aggressive Frame (World)
 // PvE: rifled barrel, assault mag, Auto Loading, Frenzy
-dimwishlist:item=4225322581&perks=1332244541,791862061,3300816228,4104185692#notes:PvE - MW Range (craftable)
+dimwishlist:item=4225322581&perks=1332244541,791862061,3300816228,4104185692#notes:PvE - MW Range (Craftable)
 
 // -----
 // astral horizon - Kinetic Shotgun - Aggressive Frame (Trials of Osiris)
@@ -2851,7 +2833,14 @@ dimwishlist:item=2563012876&perks=1482024992,791862061,2117683199,2610012052#not
 // Xenoclast IV - Arc Shotgun - Lightweight Frame (World)
 dimwishlist:item=-2891672170#notes:use Found Verdict instead.
 
-// ----
+// -----
+// The Comedian - Void Shotgun - Aggressive Frame (Nightfall)
+dimwishlist:item=-1028582252#notes:No good perks.
+
+// The Comedian (Adept) - Void Shotgun - Aggressive Frame (Nightfall)
+dimwishlist:item=-2443900757#notes:No good perks.
+
+// -----
 // retold tale - Void shotgun - Precision Frame (Dreaming City)
 // PvP: Quickdraw + Vorpal
 dimwishlist:item=346136302&perks=1332244541,3142289711,706527188,1546637391#notes:PvP - MW Range
@@ -2875,32 +2864,32 @@ dimwishlist:item=-1402766122#notes:no good perk. use retold tale instead.
 // --------------------------------------------------------------------------
 // type - shotgun (slug)
 // --------------------------------------------------------------------------
-// heritage - Kinetic slug shotgun - Precision Frame (Deep Stone Crypt)
+// heritage - Kinetic Slug Shotgun - Precision Frame (Deep Stone Crypt)
 // PvE: Reconstruction + recombination
 dimwishlist:item=4248569242&perks=1467527085,106909392,1523832109,469285294#notes:PvE - MW Range
 dimwishlist:item=4248569242&perks=202670084,106909392,1523832109,469285294#notes:PvE - MW Range
 dimwishlist:item=4248569242&perks=3250034553,106909392,1523832109,469285294#notes:PvE - MW Range
 
 // -----
-// blasphermer - Kinetic slug shotgun - Precision Frame (Moon)
+// blasphermer - Kinetic Slug Shotgun - Precision Frame (Moon)
 dimwishlist:item=-2782847179#notes:use heritage better.
 
 // -----
-// fortissimo-11 - Kinetic slug shotgun - pinpoint slug frame (Strike)
+// Fortissimo-11 - Kinetic Slug Shotgun - Pinpoint Slug Frame (Strike)
 // PvE: Demolitionist + Vorpal
 dimwishlist:item=2821430069&perks=202670084,791862061,3523296417,1546637391#notes:PvE - MW Range
 dimwishlist:item=2821430069&perks=3250034553,791862061,3523296417,1546637391#notes:PvE - MW Range
 dimwishlist:item=2821430069&perks=1482024992,791862061,3523296417,1546637391#notes:PvE - MW Range
 
 // -----
-// sojourner's tale - Solar slug shotgun - Precision Frame (Season of Splicer)
+// sojourner's tale - Solar Slug Shotgun - Precision Frame (Season of Splicer)
 // PvE: Auto Loading + Frenzy
 dimwishlist:item=599895591&perks=1467527085,791862061,3300816228,4104185692#notes:PvE - MW Range
 dimwishlist:item=599895591&perks=202670084,791862061,3300816228,4104185692#notes:PvE - MW Range
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,4104185692#notes:PvE - MW Range
 
 // -----
-// first in last out - Arc slug shotgun - Precision Frame (World)
+// first in last out - Arc Slug Shotgun - Precision Frame (World)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391#notes:PvE - MW Range
 dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391#notes:PvE - MW Range
@@ -3005,9 +2994,9 @@ dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,3523296417#note
 dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,3523296417#notes:PvE - MW Range
 
 // -----
-// empirical evidence - Kinetic Sidearm - aggressive burst (campaign)
+// empirical evidence - Kinetic Sidearm - aggressive burst (Campaign)
 // PvE: full bore, light mag, ensemble, Wellspring
-dimwishlist:item=2607304614&perks=202670084,679225683,2621346526,3592538738#notes:PvE - MW Range (craftable)
+dimwishlist:item=2607304614&perks=202670084,679225683,2621346526,3592538738#notes:PvE - MW Range (Craftable)
 
 // -----
 // drang - Solar Sidearm - Adaptive Frame (special)
@@ -3019,7 +3008,7 @@ dimwishlist:item=2362471600#notes:pvp
 dimwishlist:item=-65611680#notes:no good perk. use punching out instead.
 
 // -----
-// redback-5si - Solar Sidearm - Lightweight Frame (World)
+// Redback-5SI - Solar Sidearm - Lightweight Frame (World)
 // PvE: Subsistence + One for All
 dimwishlist:item=1687353095&perks=1467527085,3142289711,1820235745,4049631843#notes:PvE - MW Range or Reload
 dimwishlist:item=1687353095&perks=202670084,3142289711,1820235745,4049631843#notes:PvE - MW Range or Reload
@@ -3167,7 +3156,7 @@ dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,3523296417#no
 
 // -----
 // Explosive Personality - Solar Special Grenade Launcher - Wave Frame (Season of Risen)
-// PvE: Quick launch, High velocity, Auto Loading, Frenzy
+// PvE: Quick Launch, High Velocity, Auto Loading, Frenzy
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692#notes:PvE - MW Velocity (Craftable)
 
 // -----
@@ -3176,7 +3165,7 @@ dimwishlist:item=2060863616#notes:seasonal reward.
 
 // -----
 // forbearance - Arc special grenade - wave frame (vow of the disciple)
-// PvE: quick launch, high velocity, assassin, chain reaction
+// PvE: Quick Launch, High Velocity, assassin, Chain Reaction
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE - MW Reload (Craftable)
 
 // -----
@@ -3200,7 +3189,7 @@ dimwishlist:item=2108920981&perks=981914802,3032599245,2869569095,3300816228#not
 // --------------------------------------------------------------------------
 // Type - SMG
 // --------------------------------------------------------------------------
-// friction fire - Kinetic 600 smg - Precision Frame (Season of Hunt)
+// friction fire - Kinetic 600 SMG - Precision Frame (Season of Hunt)
 // PvE: Threat Detector + Wellspring
 dimwishlist:item=1513993763&perks=4090651448,106909392,4071163871,3592538738#notes:PvE - MW Range
 dimwishlist:item=1513993763&perks=1467527085,106909392,4071163871,3592538738#notes:PvE - MW Range
@@ -3226,7 +3215,7 @@ dimwishlist:item=1513993763&perks=3250034553,3230963543,1820235745,3108830275#no
 dimwishlist:item=1513993763&perks=1482024992,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
 
 // -----
-// extraordinary rendition - Kinetic 750 smg - Aggressive Frame (season of chosen - battlegrounds)
+// extraordinary rendition - Kinetic 750 SMG - Aggressive Frame (season of chosen - battlegrounds)
 // PvE: Surplus + Frenzy
 dimwishlist:item=1097616550&perks=1467527085,106909392,3436462433,4104185692#notes:PvE - MW Any except Handling
 dimwishlist:item=1097616550&perks=3250034553,106909392,3436462433,4104185692#notes:PvE - MW Any except Handling
@@ -3244,7 +3233,7 @@ dimwishlist:item=1097616550&perks=3250034553,3230963543,1820235745,4104185692#no
 dimwishlist:item=1097616550&perks=1482024992,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
 
 // -----
-// cold front - Kinetic 750 smg - Aggressive Frame (dawning)
+// cold front - Kinetic 750 SMG - Aggressive Frame (dawning)
 // PvE: Subsistence + Thresh
 dimwishlist:item=1506719573&perks=1467527085,3142289711,1820235745,2726471870#notes:PvE - MW Any except Handling
 dimwishlist:item=1506719573&perks=3250034553,3142289711,1820235745,2726471870#notes:PvE - MW Any except Handling
@@ -3257,11 +3246,11 @@ dimwishlist:item=1506719573&perks=3250034553,3230963543,1820235745,2726471870#no
 dimwishlist:item=1506719573&perks=1482024992,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
 
 // -----
-// escape velocity - Kinetic 900 smg - Lightweight Frame (World)
+// escape velocity - Kinetic 900 SMG - Lightweight Frame (World)
 dimwishlist:item=-1786797708&perks=#notes:no good perk. use extraordinary rendition instead.
 
 // -----
-// multimach ccx - Kinetic 900 smg - Lightweight Frame (Iron Banner)
+// multimach ccx - Kinetic 900 SMG - Lightweight Frame (Iron Banner)
 // PvE: Threat Detector + One for All
 dimwishlist:item=3717177717&perks=2209280307,106909392,4071163871,4049631843#notes:PvE - MW Range or Reload
 dimwishlist:item=3717177717&perks=663495155,106909392,4071163871,4049631843#notes:PvE - MW Range or Reload
@@ -3284,12 +3273,12 @@ dimwishlist:item=3717177717&perks=663495154,3230963543,1820235745,4049631843#not
 dimwishlist:item=3886416794&perks=3250034553,106909392,1820235745,4104185692#notes:PvE - MW Range (Craftable)
 
 // -----
-// forensic nightmare - Stasis 600 smg - Precision Frame
+// forensic nightmare - Stasis 600 SMG - Precision Frame
 // PvE: hammer forged, light mag, grave robber, Kill Clip
-dimwishlist:item=1526296434&perks=3250034553,679225683,1631667848,1015611457#notes:PvE - MW Range (craftable)
+dimwishlist:item=1526296434&perks=3250034553,679225683,1631667848,1015611457#notes:PvE - MW Range (Craftable)
 
 // -----
-// borrowed time - Solar 750 smg - Aggressive Frame (World)
+// borrowed time - Solar 750 SMG - Aggressive Frame (World)
 // PvE: Rangefinder + Frenzy
 dimwishlist:item=875848769&perks=1467527085,1968497646,2846385770,4104185692#notes:PvE - MW Range
 dimwishlist:item=875848769&perks=202670084,1968497646,2846385770,4104185692#notes:PvE - MW Range
@@ -3321,7 +3310,7 @@ dimwishlist:item=875848769&perks=3250034553,1482024992,4071163871,3592538738#not
 dimwishlist:item=875848769&perks=1482024992,1482024992,4071163871,3592538738#notes:PvE - MW Range
 
 // -----
-// death adder - Solar 900 smg - Lightweight Frame (World)
+// death adder - Solar 900 SMG - Lightweight Frame (World)
 // PvE: feeding Frenzy + Rangefinder
 dimwishlist:item=-2742490609#notes:use borrowed time instead.
 
@@ -3334,7 +3323,7 @@ dimwishlist:item=2222560548&perks=3250034553,1140096971,1820235745,3708227201#no
 dimwishlist:item=2222560548&perks=1482024992,1140096971,1820235745,3708227201#notes:PvE - MW Range
 
 // -----
-// seventh seraph vy-7 - Arc 600 smg - Precision Frame (World)
+// seventh seraph vy-7 - Arc 600 SMG - Precision Frame (World)
 // PvE: assassin + Vorpal
 dimwishlist:item=766323545&perks=1467527085,106909392,2010801679,1546637391#notes:PvE - mw reload
 dimwishlist:item=766323545&perks=3250034553,106909392,2010801679,1546637391#notes:PvE - mw reload
@@ -3357,15 +3346,15 @@ dimwishlist:item=2272470786&perks=3250034553,679225683,2450788523,3592538738#not
 dimwishlist:item=2272470786&perks=1482024992,679225683,2450788523,3592538738#notes:PvE - MW Range
 
 // -----
-// shayura's wrath - Void 600 smg - Precision Frame (Trials of Osiris)
+// shayura's wrath - Void 600 SMG - Precision Frame (Trials of Osiris)
 dimwishlist:item=-3682803680#notes:farm every waking moment instead.
 
 // -----
-// shayura's wrath (adept) - Void 600 smg - Precision Frame (Trials of Osiris)
+// shayura's wrath (adept) - Void 600 SMG - Precision Frame (Trials of Osiris)
 dimwishlist:item=-4023807721#notes:farm every waking moment instead.
 
 // -----
-// every waking moment - Void 600 smg - Precision Frame (Moon)
+// every waking moment - Void 600 SMG - Precision Frame (Moon)
 // PvE: Rangefinder + Wellspring
 dimwishlist:item=4277547616&perks=1467527085,1968497646,2846385770,3592538738#notes:PvE - MW Range
 dimwishlist:item=4277547616&perks=202670084,1968497646,2846385770,3592538738#notes:PvE - MW Range
@@ -3401,7 +3390,7 @@ dimwishlist:item=4277547616&perks=3250034553,679225683,1820235745,2726471870#not
 dimwishlist:item=4277547616&perks=1482024992,679225683,1820235745,2726471870#notes:PvE - MW Any except Handling
 
 // -----
-// funnelweb - Void 900 smg - Lightweight Frame (World)
+// Funnelweb - Void 900 SMG - Lightweight Frame (World)
 // PvE: Subsistence + Frenzy
 dimwishlist:item=3341893443&perks=1467527085,3142289711,1820235745,4104185692#notes:PvE - MW Any except Handling
 dimwishlist:item=3341893443&perks=202670084,3142289711,1820235745,4104185692#notes:PvE - MW Any except Handling
@@ -3727,9 +3716,9 @@ dimwishlist:item=2233545123&perks=1482024992,2420895100,3300816228,1546637391#no
 // -----
 // father's sins - Void Sniper - Rapid-Fire Frame (Wellspring)
 // PvP: Arrowhead, accurized, under pressure, Snapshot
-dimwishlist:item=3865728990&perks=839105230,3142289711,1645158859,957782887#notes:PvP - MW Range (craftable)
+dimwishlist:item=3865728990&perks=839105230,3142289711,1645158859,957782887#notes:PvP - MW Range (Craftable)
 
-// PvE: Arrowhead, tactical, triple tap, focused fury
+// PvE: Arrowhead, Tactical, triple tap, focused fury
 dimwishlist:item=3865728990&perks=839105230,106909392,3400784728,2896038713#notes:PvE - MW Reload (Craftable)
 
 
@@ -3759,7 +3748,7 @@ dimwishlist:item=-1644160541#notes:already have negative space.
 
 // -----
 // sola's scar - Solar sword - caster frame (Trials of Osiris)
-// PvE: relentless + chain reaction
+// PvE: relentless + Chain Reaction
 dimwishlist:item=1313528549&perks=1261178282,52780822,1749209109,2396489472#notes:PvE - MW Impact
 dimwishlist:item=1313528549&perks=1261178282,3625355092,1749209109,2396489472#notes:PvE - MW Impact
 dimwishlist:item=1313528549&perks=1261178282,599007201,1749209109,2396489472#notes:PvE - MW Impact
@@ -3789,7 +3778,7 @@ dimwishlist:item=35794111&perks=1261178282,269888150,1749209109,1546637391#notes
 // PvE: duelist's trance + assassin's blade
 dimwishlist:item=2139640995&perks=3666208348,269888150,3705817207,354401740#notes:PvE - mw - impact
 
-// PvE: unrelenting + chain reaction
+// PvE: unrelenting + Chain Reaction
 dimwishlist:item=2139640995&perks=436053704,52780822,3108830275,2396489472#notes:PvE - mw - impact
 dimwishlist:item=2139640995&perks=1261178282,52780822,3108830275,2396489472#notes:PvE - mw - impact
 dimwishlist:item=2139640995&perks=938542991,52780822,3108830275,2396489472#notes:PvE - mw - impact
