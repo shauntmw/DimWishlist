@@ -2,7 +2,7 @@ title:~Zero's DIM Wishlist
 description:~Zero's DIM Wishlist. Sorted by gun types.
 
 // --------------------------------------------------------------------------
-// type - Auto Rifle
+// Type - Auto Rifle
 // --------------------------------------------------------------------------
 // false promises - Kinetic 360 Auto Rifle - High Impact Frame (World)
 // PvE: Subsistence + unrelenting
@@ -104,6 +104,22 @@ dimwishlist:item=602618796&perks=3661387068,3230963543,1820235745,3350417888#not
 dimwishlist:item=602618796&perks=1467527085,3230963543,1820235745,3350417888#notes:PvE - MW Any except Handling
 dimwishlist:item=602618796&perks=3250034553,3230963543,1820235745,3350417888#notes:PvE - MW Any except Handling
 dimwishlist:item=602618796&perks=1482024992,3230963543,1820235745,3350417888#notes:PvE - MW Any except Handling
+
+// -----
+// Duty Bound - Kinetic 600 Auto Rifle - Adaptive Frame (Nightfall)
+// PvE: Triple Tap + Frenzy
+dimwishlist:item=435216110&perks=,3142289711,3400784728,4104185692
+dimwishlist:item=435216110&perks=,1087426260,3400784728,4104185692
+dimwishlist:item=435216110&perks=,106909392,3400784728,4104185692
+dimwishlist:item=435216110&perks=,3230963543,3400784728,4104185692
+
+// -----
+// Duty Bound (Adept) - Kinetic 600 Auto Rifle - Adaptive Frame (Nightfall)
+// PvE: Triple Tap + Frenzy
+dimwishlist:item=1135050595&perks=,3142289711,3400784728,4104185692
+dimwishlist:item=1135050595&perks=,1087426260,3400784728,4104185692
+dimwishlist:item=1135050595&perks=,106909392,3400784728,4104185692
+dimwishlist:item=1135050595&perks=,3230963543,3400784728,4104185692
 
 // -----
 // the forward path - Kinetic 600 Auto Rifle - Adaptive Frame (Iron Banner)
@@ -427,7 +443,7 @@ dimwishlist:item=3385326721&perks=1482024992,679225683,1168162263,3523296417#not
 
 
 // --------------------------------------------------------------------------
-// type - bow
+// Bype - bow
 // --------------------------------------------------------------------------
 // Whispering Slab - Kinetic Bow - Lightweight Frame (World)
 // PvE: Archer Tempo + Vorpal
@@ -481,6 +497,19 @@ dimwishlist:item=-1621657423#notes: No good perks. Use Fel Taradiddle instead.
 // fel taradiddle - Kinetic Bow - Lightweight Frame (Wellspring)
 // PvE: elastic, compact, Shoot to Loot, Explosive Head
 dimwishlist:item=1399109800&perks=2801223209,16392701,3700496672,3365897133#notes:PvE - mw draw (Craftable)
+
+// -----
+// Lunulata-4b - Stasis Bow - Lightweight Frame (World)
+// PvE: Shoot to Loot + Headstone
+dimwishlist:item=2513965917&perks=2801223209,3429800428,3700496672,124408337#notes:PvE - MW Draw or Accuracy
+dimwishlist:item=2513965917&perks=4067834857,3429800428,3700496672,124408337#notes:PvE - MW Draw or Accuracy
+dimwishlist:item=2513965917&perks=852209214,3429800428,3700496672,124408337#notes:PvE - MW Draw or Accuracy
+dimwishlist:item=2513965917&perks=2801223209,3311977193,3700496672,124408337#notes:PvE - MW Draw or Accuracy
+dimwishlist:item=2513965917&perks=4067834857,3311977193,3700496672,124408337#notes:PvE - MW Draw or Accuracy
+dimwishlist:item=2513965917&perks=852209214,3311977193,3700496672,124408337#notes:PvE - MW Draw or Accuracy
+dimwishlist:item=2513965917&perks=2801223209,3827198035,3700496672,124408337#notes:PvE - MW Draw or Accuracy
+dimwishlist:item=2513965917&perks=4067834857,3827198035,3700496672,124408337#notes:PvE - MW Draw or Accuracy
+dimwishlist:item=2513965917&perks=852209214,3827198035,3700496672,124408337#notes:PvE - MW Draw or Accuracy
 
 // -----
 // Tyranny of Heaven - Solar Bow - Lightweight Frame (Last Wish)
@@ -586,6 +615,11 @@ dimwishlist:item=232928045&perks=2801223209,16392701,201365942,3365897133#notes:
 // Deliverance - Stasis Fusion Rifle - Precision Frame (Vow of the Disciple)
 // PvE: Arrowhead, Accelerated, Compulsive Reloader, Chill Clip
 dimwishlist:item=768621510&perks=839105230,689005463,671806388,2978966579#notes:PvE - MW Charge (Craftable)
+
+// -----
+// Riptide - Stasis Fusion Rifle - 500 Rapid-Fire Frame (Crucible)
+// PvE: Auto-Loading + Vorpal
+dimwishlist:item=2715240478&perks=,3300816228,1546637391#notes:PvE - MW Charge, Range or Reload
 
 // -----
 // cartesian coordinate - Solar Fusion Rifle - Rapid-Fire Frame (World)
@@ -694,16 +728,20 @@ dimwishlist:item=253196586&perks=2405638015,2969185026,3300816228,1015611457#not
 dimwishlist:item=253196586&perks=2405638014,2969185026,3300816228,1015611457#notes:PvE - MW Stability, Range or Reload
 
 // -----
-// null composure - Void Fusion Rifle - Rapid-Fire Frame (seasonal - splicer)
-dimwishlist:item=1644680957#notes: ritual weapon
+// Null Composure - Void Fusion Rifle - Rapid-Fire Frame (Ritual - Splicer)
+dimwishlist:item=1644680957#notes: Ritual Weapon
 
 // -----
 // likely suspect - Void Fusion Rifle - Rapid-Fire Frame (throne World)
 dimwishlist:item=-1994645182#notes: no good perks.
 
 // -----
-// snorri fr5 - Void Fusion Rifle - Precision Frame (World)
-// PvE: compulsive reloader + Reservoir Burst
+// The Epicurean - Void Fusion Rifle - Precision Frame (Season of Haunted - Leviathan)
+dimwishlist:item=-2263839058#notes: no good perks.
+
+// -----
+// Snorri FR5 - Void Fusion Rifle - Precision Frame (World)
+// PvE: Compulsive Reloader + Reservoir Burst
 dimwishlist:item=4114929480&perks=839105230,689005463,671806388,1427256713#notes:PvE - MW Any except Handling
 dimwishlist:item=4114929480&perks=3661387068,689005463,671806388,1427256713#notes:PvE - MW Any except Handling
 dimwishlist:item=4114929480&perks=1467527085,689005463,671806388,1427256713#notes:PvE - MW Any except Handling
@@ -765,19 +803,24 @@ dimwishlist:item=1030895163&perks=1482024992,2969185026,3161816588,1427256713#no
 
 
 // --------------------------------------------------------------------------
-// type - glaive
+// Type - glaive
 // --------------------------------------------------------------------------
 // Lubrae's Ruin - Solar Glaive - Adaptive Glaive (Vow of the Disciple)
 // PvE: Low Impedance, Light Mag, Immovable Object, Unstoppable Force
 dimwishlist:item=2534546147&perks=2713678205,679225683,3800201097,2224838837#notes:PvE - MW Reload (Craftable)
 
 // -----
+// Nezarec's Whisper - Arc Glaive - Adaptive Glaive (Season of Haunted - Leviathan)
+// PvE: Low Impedance, Light Mag, Impulse Amplifier, Unstoppable Force
+dimwishlist:item=254636484&perks=2713678205,679225683,951095735,2224838837#notes:PvE - MW Reload (Craftable)
+
+// -----
 // the enigma - Void glaive - adaptive glaive (quest)
-// PvE: low impedance, light mag, Impulse Amplifier, unstoppable force
+// PvE: Low Impedance, Light Mag, Impulse Amplifier, Unstoppable Force
 dimwishlist:item=2595497736&perks=2713678205,679225683,951095735,2224838837#notes:PvE - MW Reload (Craftable)
 
 // --------------------------------------------------------------------------
-// type - Hand Cannon
+// Type - Hand Cannon
 // --------------------------------------------------------------------------
 // true Prophecy - Kinetic 120 Hand Cannon - Aggressive Frame (World)
 dimwishlist:item=-2742838700#notes:hate 120 Hand Cannon.
@@ -840,6 +883,11 @@ dimwishlist:item=1476654960&perks=1926090092,3230963543,3523296417,1954620775#no
 dimwishlist:item=1476654960&perks=1926090093,3230963543,3523296417,1954620775#notes:PvE - MW Any except Handling
 dimwishlist:item=1476654960&perks=1926090090,3230963543,3523296417,1954620775#notes:PvE - MW Any except Handling
 dimwishlist:item=1476654960&perks=1926090091,3230963543,3523296417,1954620775#notes:PvE - MW Any except Handling
+
+// -----
+// Austringer - Kinetic 140 Hand Cannon - Adaptive Frame (Season of Haunted - Leviathan)
+// PvE: Hammer Forged, Light Map, Outlaw, Frenzy
+dimwishlist:item=3055790362&perks=3250034553,679225683,1168162263,4104185692#notes:PvE - MW Reload (Craftable)
 
 // -----
 // seventh seraph officer revolver - Kinetic 180 Hand Cannon - Precision Frame (World)
@@ -1990,18 +2038,23 @@ dimwishlist:item=1621558458&perks=3250034553,679225683,2450788523,2726471870#not
 dimwishlist:item=1621558458&perks=1482024992,679225683,2450788523,2726471870#notes:PvE - MW Any except Handling
 
 // --------------------------------------------------------------------------
-// type - Rocket launcher
+// Type - Rocket Launcher
 // --------------------------------------------------------------------------
-// palmyra-b - Stasis Rocket launcher - hakke Precision Frame (World)
+// Palmyra-B - Stasis Rocket Launcher - Hakke Precision Frame (World)
 // PvE: Quick Launch, Impact Casing, Auto Loading, Explosive Light
 dimwishlist:item=3489657138&perks=3525010810,3796465595,3300816228,3194351027#notes:PvE - MW Handling (Craftable)
 
 // -----
-// ascendancy - Solar Rocket launcher - Precision Frame (ritual)
+// Bump in the Night - Stasis Rocket Launcher - Aggressive Frame (Season of Haunted - Leviathan)
+// PvE: Quick Launch, Impact Casing, Auto Loading, Vorpal
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,1546637391#notes:PvE - MW Handling (Craftable)
+
+// -----
+// ascendancy - Solar Rocket Launcher - Precision Frame (ritual)
 dimwishlist:item=725408022#notes:ritual.
 
 // -----
-// apex predator - Solar Rocket launcher - Adaptive Frame (Last Wish)
+// apex predator - Solar Rocket Launcher - Adaptive Frame (Last Wish)
 // PvP: Tracking + Snapshot
 dimwishlist:item=2545083870&perks=981914802,2822142346,3977735242,957782887#notes:PvP - MW Velocity or blast radius
 dimwishlist:item=2545083870&perks=3525010810,2822142346,3977735242,957782887#notes:PvP - MW Velocity or blast radius
@@ -2013,7 +2066,7 @@ dimwishlist:item=2545083870&perks=1478423395,1996142143,3977735242,3300816228#no
 dimwishlist:item=2545083870&perks=1844523823,1996142143,3977735242,3300816228#notes:PvE - mw blast radius
 
 // -----
-// code duello - Solar Rocket launcher - High Impact Frame (season of chosen - battlegrounds)
+// code duello - Solar Rocket Launcher - High Impact Frame (season of chosen - battlegrounds)
 // PvE: Auto Loading + Frenzy
 dimwishlist:item=2496242052&perks=981914802,1996142143,3300816228,4104185692#notes:PvE - MW Velocity
 dimwishlist:item=2496242052&perks=1441682018,1996142143,3300816228,4104185692#notes:PvE - MW Velocity
@@ -2026,7 +2079,7 @@ dimwishlist:item=2496242052&perks=3525010810,2822142346,3300816228,4104185692#no
 // no need anymore. already has on hezen vengeance.
 
 // -----
-// hezen vengeance - Solar Rocket launcher - Aggressive Frame (Vault of Glass)
+// hezen vengeance - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=4050645223&perks=981914802,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=1441682018,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
@@ -2058,7 +2111,7 @@ dimwishlist:item=4050645223&perks=1441682018,3796465595,3977735242,3927722942#no
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 
 // -----
-// hezen vengeance (timelost) - Solar Rocket launcher - Aggressive Frame (Vault of Glass)
+// hezen vengeance (timelost) - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=1921159786&perks=981914802,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=1441682018,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
@@ -2090,7 +2143,7 @@ dimwishlist:item=1921159786&perks=1441682018,3796465595,3977735242,3927722942#no
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 
 // -----
-// hoosegow - Arc Rocket launcher - Adaptive Frame (World)
+// hoosegow - Arc Rocket Launcher - Adaptive Frame (World)
 // PvE: Auto Loading + cluster bomb
 dimwishlist:item=3669616453&perks=1478423395,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
 dimwishlist:item=3669616453&perks=1441682018,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
@@ -2116,7 +2169,7 @@ dimwishlist:item=3067821200&perks=1441682018,2822142346,951095735,3927722942#not
 dimwishlist:item=3067821200&perks=3525010810,2822142346,951095735,3927722942#notes:PvE - MW Blast or Velocity
 
 // -----
-// shining sphere - Arc Rocket launcher - Adaptive Frame (Iron Banner)
+// shining sphere - Arc Rocket Launcher - Adaptive Frame (Iron Banner)
 // PvP: Snapshot + Tracking
 dimwishlist:item=136525518&perks=3525010810,2822142346,957782887,3977735242#notes:PvP - MW Velocity or blast radius
 
@@ -2143,7 +2196,7 @@ dimwishlist:item=136525518&perks=1441682018,3492396210,3300816228,3977735242#not
 dimwishlist:item=136525518&perks=3525010810,3492396210,3300816228,3977735242#notes:PvE - MW Blast or Velocity
 
 // -----
-// The Hothead - Arc Rocket launcher - Adaptive Frame (Nightfall)
+// The Hothead - Arc Rocket Launcher - Adaptive Frame (Nightfall)
 // PvE: Tracking + Explosive Light
 dimwishlist:item=4255171531&perks=1478423395,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
 dimwishlist:item=4255171531&perks=981914802,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
@@ -2181,7 +2234,7 @@ dimwishlist:item=4255171531&perks=1441682018,3796465595,3977735242,1546637391#no
 dimwishlist:item=4255171531&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
 
 // -----
-// The Hothead (Adept) - Arc Rocket launcher - Adaptive Frame (Nightfall)
+// The Hothead (Adept) - Arc Rocket Launcher - Adaptive Frame (Nightfall)
 // PvE: Tracking + Explosive Light
 dimwishlist:item=1866778462&perks=1478423395,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
 dimwishlist:item=1866778462&perks=981914802,1996142143,3977735242,3194351027#notes:PvE - MW Blast or Velocity
@@ -2219,7 +2272,7 @@ dimwishlist:item=1866778462&perks=1441682018,3796465595,3977735242,1546637391#no
 dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,1546637391#notes:PvE - MW Blast or Velocity
 
 // -----
-// subzero salvo - Arc Rocket launcher - Precision Frame (Europa)
+// subzero salvo - Arc Rocket Launcher - Precision Frame (Europa)
 // PvP: Quickdraw + Snapshot
 dimwishlist:item=42351395&perks=3525010810,2822142346,706527188,957782887#notes:PvP - MW Velocity
 
@@ -2272,7 +2325,7 @@ dimwishlist:item=2448907086&perks=981914802,3796465595,3300816228,3927722942#not
 dimwishlist:item=2448907086&perks=3525010810,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
 
 // -----
-// bad omens - Void Rocket launcher - aggresive frame (World)
+// bad omens - Void Rocket Launcher - aggresive frame (World)
 // PvE: Auto Loading + cluster bomb
 dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
 dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,1275731761#notes:PvE - MW Blast or Velocity
@@ -2284,7 +2337,7 @@ dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761#not
 dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761#notes:PvE - MW Blast or Velocity
 
 // -----
-// tomorrow's answer - Void Rocket launcher - High Impact Frame (Trials of Osiris)
+// tomorrow's answer - Void Rocket Launcher - High Impact Frame (Trials of Osiris)
 // PvP: Tracking + Snapshot
 dimwishlist:item=958384347&perks=981914802,2822142346,3977735242,957782887#notes:PvP - MW Velocity
 dimwishlist:item=958384347&perks=1441682018,2822142346,3977735242,957782887#notes:PvP - MW Velocity
@@ -2520,6 +2573,20 @@ dimwishlist:item=690668916&perks=3250034553,679225683,3592538738,4104185692#note
 dimwishlist:item=690668916&perks=1482024992,679225683,3592538738,4104185692#notes:PvE - MW Any except Handling
 
 // -----
+// Staccato-46 - Solar 180 Scout Rifle - Precision Frame (World)
+// PvE: Shoot to Loot + Explosive Payload
+dimwishlist:item=4019668921&perks=,3142289711,3700496672,3038247973#notes:PvE - MW Range or Reload
+dimwishlist:item=4019668921&perks=,1087426260,3700496672,3038247973#notes:PvE - MW Range or Reload
+dimwishlist:item=4019668921&perks=,106909392,3700496672,3038247973#notes:PvE - MW Range or Reload
+dimwishlist:item=4019668921&perks=,3230963543,3700496672,3038247973#notes:PvE - MW Range or Reload
+
+// PvE: Outlaw + Dragonfly
+dimwishlist:item=4019668921&perks=,3142289711,1168162263,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=4019668921&perks=,1087426260,1168162263,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=4019668921&perks=,106909392,1168162263,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=4019668921&perks=,3230963543,1168162263,2848615171#notes:PvE - MW Range or Reload
+
+// -----
 // pleisdes corrector - Solar 200 Scout Rifle - Lightweight Frame (Season of Splicer)
 // PvE: Subsistence + Demolitionist
 dimwishlist:item=3556999246&perks=839105230,3230963543,1820235745,3523296417#notes:PvE - MW Range or Reload
@@ -2744,6 +2811,11 @@ dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,1546637391#not
 dimwishlist:item=1821724780&perks=1332244541,791862061,3300816228,1546637391#notes:PvE - MW Range
 
 // -----
+// Without Remorse - Solar Shotgun - Lightweight Frame (Season of Haunted - Leviathan)
+// PvE: Rifled Barrel, Assault Mag, Well-Rounded, Incandescent
+dimwishlist:item=1478986057&perks=1332244541,791862061,744594675,4293542123#notes:PvE - MW Range (Craftable)
+
+// -----
 // a sudden death - Arc Shotgun - Aggressive Frame (Prophecy)
 dimwishlist:item=-2855157553#notes:no good perks. use found verdict better.
 
@@ -2861,7 +2933,7 @@ dimwishlist:item=-2199171672#notes:No good perk. Use Spoiler Alert better.
 dimwishlist:item=-1723380073#notes:No good perk. Use Spoiler Alert better.
 
 // -----
-// farewell - Kinetic Sidearm - Lightweight Frame (Season of Splicer)
+// Farewell - Kinetic Sidearm - Lightweight Frame (Season of Splicer)
 // PvE: Subsistence + Frenzy
 dimwishlist:item=541188001&perks=1467527085,3142289711,1820235745,4104185692#notes:PvE - MW Range
 dimwishlist:item=541188001&perks=202670084,3142289711,1820235745,4104185692#notes:PvE - MW Range
@@ -2871,16 +2943,6 @@ dimwishlist:item=541188001&perks=1467527085,1087426260,1820235745,4104185692#not
 dimwishlist:item=541188001&perks=202670084,1087426260,1820235745,4104185692#notes:PvE - MW Range
 dimwishlist:item=541188001&perks=3250034553,1087426260,1820235745,4104185692#notes:PvE - MW Range
 dimwishlist:item=541188001&perks=1482024992,1087426260,1820235745,4104185692#notes:PvE - MW Range
-
-// PvE: Subsistence + Thresh
-dimwishlist:item=541188001&perks=1467527085,3142289711,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=541188001&perks=202670084,3142289711,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=541188001&perks=3250034553,3142289711,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=541188001&perks=1482024992,3142289711,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=541188001&perks=1467527085,1087426260,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=541188001&perks=202670084,1087426260,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=541188001&perks=3250034553,1087426260,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=541188001&perks=1482024992,1087426260,1820235745,2726471870#notes:PvE - MW Range
 
 // -----
 // Spoiler Alert - Kinetic Sidearm - Lightweight Frame (World)
@@ -2932,8 +2994,8 @@ dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,3523296417#note
 dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,3523296417#notes:PvE - MW Range
 
 // -----
-// empirical evidence - Kinetic Sidearm - aggressive burst (Campaign)
-// PvE: full bore, light mag, ensemble, Wellspring
+// Empirical Evidence - Kinetic Sidearm - Aggressive Burst (Campaign)
+// PvE: Full Bore, Light Mag, Ensemble, Wellspring
 dimwishlist:item=2607304614&perks=202670084,679225683,2621346526,3592538738#notes:PvE - MW Range (Craftable)
 
 // -----
@@ -3127,7 +3189,7 @@ dimwishlist:item=2108920981&perks=981914802,3032599245,2869569095,3300816228#not
 // --------------------------------------------------------------------------
 // Type - SMG
 // --------------------------------------------------------------------------
-// friction fire - Kinetic 600 SMG - Precision Frame (Season of Hunt)
+// Friction Fire - Kinetic 600 SMG - Precision Frame (Season of Hunt)
 // PvE: Threat Detector + Wellspring
 dimwishlist:item=1513993763&perks=4090651448,106909392,4071163871,3592538738#notes:PvE - MW Range
 dimwishlist:item=1513993763&perks=1467527085,106909392,4071163871,3592538738#notes:PvE - MW Range
@@ -3140,7 +3202,7 @@ dimwishlist:item=1513993763&perks=1840239774,3230963543,4071163871,3592538738#no
 dimwishlist:item=1513993763&perks=3250034553,3230963543,4071163871,3592538738#notes:PvE - MW Range
 dimwishlist:item=1513993763&perks=1482024992,3230963543,4071163871,3592538738#notes:PvE - MW Range
 
-// PvE: Subsistence + unrelenting
+// PvE: Subsistence + Unrelenting
 dimwishlist:item=1513993763&perks=4090651448,106909392,1820235745,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=1513993763&perks=1467527085,106909392,1820235745,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=1513993763&perks=1840239774,106909392,1820235745,3108830275#notes:PvE - MW Range or Reload
@@ -3151,6 +3213,10 @@ dimwishlist:item=1513993763&perks=1467527085,3230963543,1820235745,3108830275#no
 dimwishlist:item=1513993763&perks=1840239774,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=1513993763&perks=3250034553,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=1513993763&perks=1482024992,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
+
+// -----
+// Enyo-D - Kinetic 600 SMG - Precision Frame (World)
+dimwishlist:item=-1601177201#notes:Already have Friction Fire.
 
 // -----
 // extraordinary rendition - Kinetic 750 SMG - Aggressive Frame (season of chosen - battlegrounds)
@@ -3553,14 +3619,18 @@ dimwishlist:item=3326850591&perks=3661387068,1087426260,3643424744,4104185692#no
 dimwishlist:item=3326850591&perks=1467527085,1087426260,3643424744,4104185692#notes:PvE - MW Range or Reload
 
 // -----
-// adored - Arc Sniper - Adaptive Frame (seasonal - hunt)
+// Adored - Arc Sniper - Adaptive Frame (Ritual - Season of the Hunt)
 // PvE: Triple Tap + Vorpal
 // PvP: Killing Wind + Snapshot
-dimwishlist:item=4184808992#notes:seasonal reward
+dimwishlist:item=4184808992#notes:Ritual
+
+// -----
+// Gallu RR3 - Arc Sniper - Adaptive Frame (World)
+dimwishlist:item=-617501162#notes:No good perks. Use Adored or Occluded Finality instead.
 
 // -----
 // Apostate - Arc Sniper - Rapid-Fire Frame (Moon)
-dimwishlist:item=-2164448701#notes:No good perks. Use Adored or Occluded FInality instead.
+dimwishlist:item=-2164448701#notes:No good perks. Use Adored or Occluded Finality instead.
 
 // -----
 // occluded finality - Arc Sniper - Aggressive Frame (Iron Banner)
