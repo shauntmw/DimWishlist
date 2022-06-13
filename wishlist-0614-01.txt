@@ -5,7 +5,7 @@ description:~Zero's DIM Wishlist. Sorted by gun types.
 // Type - Auto Rifle
 // --------------------------------------------------------------------------
 // false promises - Kinetic 360 Auto Rifle - High Impact Frame (World)
-// PvE: Subsistence + unrelenting
+// PvE: Subsistence + Unrelenting
 dimwishlist:item=3143732432&perks=839105230,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=3143732432&perks=3661387068,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
 dimwishlist:item=3143732432&perks=1467527085,3230963543,1820235745,3108830275#notes:PvE - MW Range or Reload
@@ -447,7 +447,7 @@ dimwishlist:item=3385326721&perks=1482024992,679225683,1168162263,3523296417#not
 
 
 // --------------------------------------------------------------------------
-// Bype - bow
+// Type - bow
 // --------------------------------------------------------------------------
 // Whispering Slab - Kinetic Bow - Lightweight Frame (World)
 // PvE: Archer Tempo + Vorpal
@@ -524,6 +524,14 @@ dimwishlist:item=2721249463&perks=852209214,3311977193,201365942,3365897133#note
 dimwishlist:item=2721249463&perks=2801223209,3827198035,201365942,3365897133#notes:PvE - MW Draw or Accuracy
 dimwishlist:item=2721249463&perks=4067834857,3827198035,201365942,3365897133#notes:PvE - MW Draw or Accuracy
 dimwishlist:item=2721249463&perks=852209214,3827198035,201365942,3365897133#notes:PvE - MW Draw or Accuracy
+
+// -----
+// Strident Whistle - Solar Bow - Precision Frame (Strike)
+// PvE: Shoot to Loot + Explosive Head
+dimwishlist:item=2591241074&perks=2801223209,3700496672,3365897133#notes:PvE - MW Draw or Accuracy
+
+// PvE: Archer Tempo + Dragonfly
+dimwishlist:item=2591241074&perks=2801223209,201365942,2848615171
 
 // -----
 // Arsenic Bite - Arc Bow - Lightweight Frame (World)
@@ -1578,17 +1586,7 @@ dimwishlist:item=3325778512&perks=1392496348,1885400500,2869569095,4104185692#no
 dimwishlist:item=3325778512&perks=1482024992,1885400500,2869569095,4104185692#notes:PvE - MW Range or stability
 
 // -----
-// commemoration - Void 450 Machine Gun - Adaptive Frame (Deep Stone Crypt)
-// PvE: Reconstruction + unrelenting
-dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,3108830275#notes:PvE - MW Any except Handling
-dimwishlist:item=4230965989&perks=3661387068,1087426260,1523832109,3108830275#notes:PvE - MW Any except Handling
-dimwishlist:item=4230965989&perks=1392496348,1087426260,1523832109,3108830275#notes:PvE - MW Any except Handling
-dimwishlist:item=4230965989&perks=1482024992,1087426260,1523832109,3108830275#notes:PvE - MW Any except Handling
-dimwishlist:item=4230965989&perks=839105230,106909392,1523832109,3108830275#notes:PvE - MW Any except Handling
-dimwishlist:item=4230965989&perks=3661387068,106909392,1523832109,3108830275#notes:PvE - MW Any except Handling
-dimwishlist:item=4230965989&perks=1392496348,106909392,1523832109,3108830275#notes:PvE - MW Any except Handling
-dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3108830275#notes:PvE - MW Any except Handling
-
+// Commemoration - Void 450 Machine Gun - Adaptive Frame (Deep Stone Crypt)
 // PvE: Reconstruction + Dragonfly
 dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,2848615171#notes:PvE - MW Any except Handling
 dimwishlist:item=4230965989&perks=3661387068,1087426260,1523832109,2848615171#notes:PvE - MW Any except Handling
@@ -2296,7 +2294,7 @@ dimwishlist:item=42351395&perks=1441682018,2822142346,2010801679,2396489472#note
 dimwishlist:item=42351395&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE - MW Blast or Velocity
 
 // -----
-// sleepless - Arc Rocket - High Impact Frame (Dreaming City)
+// Sleepless - Arc Rocket - High Impact Frame (Dreaming City)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=3740842661&perks=1478423395,2822142346,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=3740842661&perks=981914802,1996142143,3300816228,1546637391#notes:PvE - MW Velocity
@@ -3137,7 +3135,7 @@ dimwishlist:item=1626503676&perks=445755710,1885400500,4071163871,3592538738#not
 dimwishlist:item=1626503676&perks=445755710,679225683,4071163871,3592538738#notes:PvE - MW Range
 
 // --------------------------------------------------------------------------
-// type - Special Grenade Launcher
+// Type - Special Grenade Launcher
 // --------------------------------------------------------------------------
 // ignition code - Kinetic Special Grenade Launcher - Lightweight Frame (Season of Splicer)
 // PvE: Blinding grenade + slideshot + Demolitionist
@@ -3159,6 +3157,12 @@ dimwishlist:item=3849810018&perks=981914802,3032599245,3300816228,3523296417#not
 dimwishlist:item=3849810018&perks=1441682018,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
 dimwishlist:item=3849810018&perks=3798852852,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
+
+// -----
+// Lingering Dread - Stasis Special Grenade Launcher - Lightweight Frame (Duality Dungeon)
+// PvE: Auto-Loading + Chill Clip
+dimwishlist:item=2026087437&perks=981914802,3032599245,3300816228,2978966579#notes:PvE - MW Velocity
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579#notes:PvE - MW Velocity
 
 // -----
 // empty vessel - Solar special grenade - Lightweight Frame (World)
@@ -3304,7 +3308,7 @@ dimwishlist:item=2490988246&perks=839105230,3142289711,588594999,1890422124#note
 dimwishlist:item=2490988246&perks=839105230,3142289711,3108830275,4293542123#notes:PvE - MW Reload (Craftable)
 
 // -----
-// borrowed time - Solar 750 SMG - Aggressive Frame (World)
+// Borrowed Time - Solar 750 SMG - Aggressive Frame (World)
 // PvE: Rangefinder + Frenzy
 dimwishlist:item=875848769&perks=1467527085,1968497646,2846385770,4104185692#notes:PvE - MW Range
 dimwishlist:item=875848769&perks=202670084,1968497646,2846385770,4104185692#notes:PvE - MW Range
@@ -3599,6 +3603,14 @@ dimwishlist:item=852228780&perks=3661387068,3230963543,3400784728,1546637391#not
 dimwishlist:item=852228780&perks=1392496348,3230963543,3400784728,1546637391#notes:PvE - mw reload
 
 // -----
+// Beloved - Solar Sniper - Adaptive Frame (Season of Haunted - Leviathan)
+// PvP: Arrowhead, Ricochet, Snapshot, Moving Target
+dimwishlist:item=3107853529&perks=839105230,1885400500,957782887,588594999#notes:PvP - MW Handling (Craftable)
+
+// PvE: Arrowhead, Appended, Fourth Time, Incandescent
+dimwishlist:item=3107853529&perks=839105230,1087426260,1354429876,4293542123#notes:PvE - MW Reload (Craftable)
+
+// -----
 // omniscient eye - Solar Sniper - Rapid-Fire Frame (Garden of Salvation)
 dimwishlist:item=-3454326177#notes:no good perk.
 
@@ -3817,7 +3829,7 @@ dimwishlist:item=35794111&perks=1261178282,269888150,1749209109,1546637391#notes
 // PvE: duelist's trance + assassin's blade
 dimwishlist:item=2139640995&perks=3666208348,269888150,3705817207,354401740#notes:PvE - mw - impact
 
-// PvE: unrelenting + Chain Reaction
+// PvE: Unrelenting + Chain Reaction
 dimwishlist:item=2139640995&perks=436053704,52780822,3108830275,2396489472#notes:PvE - mw - impact
 dimwishlist:item=2139640995&perks=1261178282,52780822,3108830275,2396489472#notes:PvE - mw - impact
 dimwishlist:item=2139640995&perks=938542991,52780822,3108830275,2396489472#notes:PvE - mw - impact
@@ -3839,8 +3851,8 @@ dimwishlist:item=2139640995&perks=938542991,269888150,3108830275,2396489472#note
 dimwishlist:item=-2276266837#notes:use bequest instead.
 
 // -----
-// bequest - Arc sword - Adaptive Frame (Deep Stone Crypt)
-// PvE: relentless + en garde
+// Bequest - Arc sword - Adaptive Frame (Deep Stone Crypt)
+// PvE: Relentless + En Garde
 dimwishlist:item=3366545721&perks=3666208348,52780822,1749209109,1685431615#notes:PvE - MW Impact
 dimwishlist:item=3366545721&perks=3666208348,3625355092,1749209109,1685431615#notes:PvE - MW Impact
 dimwishlist:item=3366545721&perks=3666208348,599007201,1749209109,1685431615#notes:PvE - MW Impact
