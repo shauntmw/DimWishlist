@@ -748,7 +748,7 @@ dimwishlist:item=1644680957#notes: Ritual Weapon
 dimwishlist:item=-1994645182#notes: no good perks.
 
 // -----
-// The Epicurean - Void Fusion Rifle - Precision Frame (Season of Haunted - Leviathan)
+// The Epicurean - Void Fusion Rifle - Precision Frame (Duality Dungeon)
 dimwishlist:item=-2263839058#notes: No good perks.
 
 // -----
@@ -940,6 +940,11 @@ dimwishlist:item=310708513&perks=1467527085,679225683,1820235745,4104185692#note
 dimwishlist:item=310708513&perks=202670084,679225683,1820235745,4104185692#notes:PvE - MW Range or Reload
 dimwishlist:item=310708513&perks=3250034553,679225683,1820235745,4104185692#notes:PvE - MW Range or Reload
 dimwishlist:item=310708513&perks=1482024992,679225683,1820235745,4104185692#notes:PvE - MW Range or Reload
+
+// -----
+// Something New - Stasis 120 Hand Cannon - Aggressive Frame (Season of Haunted - Solstice)
+// PvE: Stats for all + Headstone
+dimwishlist:item=1856262127&perks=,1583705720,124408337#notes:PvE - MW Reload
 
 // -----
 // eyasluna - Stasis 140 Hand Cannon - Adaptive Frame (grasp of avarice)
@@ -1449,7 +1454,7 @@ dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,124408337#note
 dimwishlist:item=1967303408&perks=,2420895100,3300816228,3425386926#notes:PvE - MW Range or Stability
 
 // -----
-// Fixed Odds - Solar 360 Machine Gun - High Impact Frame (Season of Haunted - Leviathan)
+// Fixed Odds - Solar 360 Machine Gun - High Impact Frame (Duality Dungeon)
 // PvE: Arrowhead, Appended, Field Prep, Incandescent
 dimwishlist:item=2194955522&perks=839105230,1087426260,2869569095,4293542123#notes:PvE - MW Reload (Craftable)
 
@@ -2429,7 +2434,7 @@ dimwishlist:item=681067419&perks=3250034553,3230963543,1820235745,3824105627#not
 dimwishlist:item=681067419&perks=1482024992,3230963543,1820235745,3824105627#notes:PvE - mw reload
 
 // -----
-// Tears of Contrition - Kinetic 180 Scout Rifle - Precision Frame (Season of Haunted)
+// Tears of Contrition - Kinetic 180 Scout Rifle - Precision Frame (Season of Haunted - Leviathan)
 // PvE: Arrowhead, Tactical, Compulsive Reloader, Explosive Payload
 dimwishlist:item=1366394399&perks=839105230,106909392,671806388,3038247973#notes:PvE - MW Reload (Craftable)
 
@@ -2808,9 +2813,12 @@ dimwishlist:item=3184681056&perks=1332244541,106909392,1556840489,438098033#note
 dimwishlist:item=3184681056&perks=1332244541,679225683,1556840489,438098033#notes:PvE - MW Range
 
 // -----
-// compass rose - Solar Shotgun - Precision Frame (solstice)
-/ PvP: Quickdraw + Vorpal
+// Compass Rose - Solar Shotgun - Precision Frame (solstice)
+// PvP: Quickdraw + Vorpal
 dimwishlist:item=2591111628&perks=1332244541,3142289711,706527188,1546637391#notes:PvP - MW Range
+
+// PvE: Lead from Gold + Incandescent
+dimwishlist:item=2591111628&perks=,1556840489,4293542123#notes:PvE - MW Reload
 
 // -----
 // Wishbringer - Solar Shotgun - Rapid-Fire Frame (World)
@@ -3493,6 +3501,14 @@ dimwishlist:item=3169616514&perks=839105230,3142289711,957782887,47981717#notes:
 dimwishlist:item=3169616514&perks=1840239774,3142289711,957782887,47981717#notes:PvP - MW Handling
 
 // -----
+// Silicon Neuroma (Adept) - Kinetic Sniper - Aggressive Frame (Nightfall)
+// PvP: Snapshot + Opening Shot
+dimwishlist:item=1387987271&perks=,957782887,47981717#notes:PvP - MW Handling
+
+// PvE: Triple Tap + Firing Line
+dimwishlist:item=1387987271&perks=,3400784728,1771339417#notes:PvE - MW Any
+
+// -----
 // Succession - Kinetic Sniper - Aggressive Frame (Deep Stone Crypt)
 // PvP: Moving Target + Snapshot
 dimwishlist:item=2990047042&perks=839105230,2420895100,588594999,957782887#notes:PvP - MW Handling
@@ -3726,7 +3742,7 @@ dimwishlist:item=852551895&perks=1392496348,1087426260,3300816228,1546637391#not
 dimwishlist:item=852551895&perks=1482024992,1087426260,3300816228,1546637391#notes:PvE - MW Range or stability
 
 // -----
-// frozen orbit - Void Sniper - Aggressive Frame (Crucible)
+// Frozen Orbit - Void Sniper - Aggressive Frame (Crucible)
 // PvP: Moving Target + Snapshot
 dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,957782887#notes:PvP - MW Any except reload
 dimwishlist:item=3473290087&perks=3661387068,3142289711,588594999,957782887#notes:PvP - MW Any except reload
@@ -4058,7 +4074,7 @@ dimwishlist:item=2323544076&perks=1482024992,2680121939,1556840489,557221067#not
 // Type - Random Roll Exotic
 // --------------------------------------------------------------------------
 // Hawkmoon
-// PvE: Rangefinder + combat grip
+// PvE: Rangefinder + Combat Grip
 dimwishlist:item=3856705927&perks=3250034553,1431678320,2846385770,3438534621#notes:PvE
 dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,3438534621#notes:PvE
 
