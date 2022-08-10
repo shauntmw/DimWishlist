@@ -192,27 +192,7 @@ dimwishlist:item=1788603939&perks=1482024992,679225683,3700496672,4104185692#not
 // -----
 // Krait - Stasis 720 Auto Rifle - Rapid-Fire Frame (World)
 // PvE: Overflow + One for All
-dimwishlist:item=2852052802&perks=839105230,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=3661387068,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=4090651448,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=1467527085,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=202670084,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=3250034553,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=1482024992,1087426260,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=839105230,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=3661387068,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=4090651448,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=1467527085,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=202670084,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=3250034553,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=1482024992,3230963543,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=839105230,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=3661387068,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=4090651448,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=1467527085,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=202670084,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=3250034553,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=2852052802&perks=1482024992,679225683,3643424744,4049631843#notes:PvE - MW Any except Handling
+dimwishlist:item=2852052802&perks=,3643424744,4049631843#notes:PvE - MW Any except Handling
 
 // -----
 // chrysura melo - Solar 360 Auto Rifle - High Impact Frame (Season of Lost)
@@ -1001,7 +981,7 @@ dimwishlist:item=48643186&perks=3250034553,106909392,1168162263,2848615171#notes
 dimwishlist:item=48643186&perks=1482024992,106909392,1168162263,2848615171#notes:PvE - MW Range or Reload
 
 // -----
-// annual skate - Solar 140 Hand Cannon - Adaptive Frame (World)
+// Annual Skate - Solar 140 Hand Cannon - Adaptive Frame (World)
 // PvE: Surplus + Timed Payload
 dimwishlist:item=6857689&perks=1926090092,106909392,3436462433,1954620775#notes:PvE - MW Range or Reload
 dimwishlist:item=6857689&perks=1926090093,106909392,3436462433,1954620775#notes:PvE - MW Range or Reload
@@ -1422,6 +1402,9 @@ dimwishlist:item=1967303408&perks=,2420895100,3300816228,3425386926#notes:PvE - 
 // Fixed Odds - Solar 360 Machine Gun - High Impact Frame (Duality Dungeon)
 // PvE: Arrowhead, Appended, Field Prep, Incandescent
 dimwishlist:item=2194955522&perks=839105230,1087426260,2869569095,4293542123#notes:PvE - MW Reload (Craftable)
+
+// PvE: Arrowhead, Appended, Field Prep, Killing Tally
+dimwishlist:item=2194955522&perks=839105230,1087426260,2869569095,557221067#notes:PvE - MW Reload (Craftable)
 
 // -----
 // avalanche - Solar 450 Machine Gun - Adaptive Frame (dawning)
@@ -2410,56 +2393,10 @@ dimwishlist:item=1107446438&perks=,3700496672,3592538738#notes:PvE - MW Reload
 // -----
 // Perses-D - Stasis 150 Scout Rifle - High Impact Frame (World)
 // PvE: Shoot to Loot + Explosive Payload
-dimwishlist:item=1019000888&perks=839105230,3142289711,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3661387068,3142289711,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1467527085,3142289711,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=202670084,3142289711,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3250034553,3142289711,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1482024992,3142289711,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=839105230,1087426260,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3661387068,1087426260,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1467527085,1087426260,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=202670084,1087426260,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3250034553,1087426260,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1482024992,1087426260,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=839105230,106909392,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3661387068,106909392,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1467527085,106909392,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=202670084,106909392,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3250034553,106909392,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1482024992,106909392,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=839105230,3230963543,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3661387068,3230963543,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1467527085,3230963543,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=202670084,3230963543,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3250034553,3230963543,3700496672,3038247973#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1482024992,3230963543,3700496672,3038247973#notes:PvE - MW Any except Handling
+dimwishlist:item=1019000888&perks=,3700496672,3038247973#notes:PvE - MW Any except Handling
 
 // PvE: Rapid Hit + Headstone
-dimwishlist:item=1019000888&perks=839105230,3142289711,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3661387068,3142289711,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1467527085,3142289711,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=202670084,3142289711,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3250034553,3142289711,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1482024992,3142289711,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=839105230,1087426260,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3661387068,1087426260,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1467527085,1087426260,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=202670084,1087426260,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3250034553,1087426260,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1482024992,1087426260,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=839105230,106909392,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3661387068,106909392,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1467527085,106909392,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=202670084,106909392,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3250034553,106909392,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1482024992,106909392,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=839105230,3230963543,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3661387068,3230963543,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1467527085,3230963543,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=202670084,3230963543,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=3250034553,3230963543,247725512,124408337#notes:PvE - MW Any except Handling
-dimwishlist:item=1019000888&perks=1482024992,3230963543,247725512,124408337#notes:PvE - MW Any except Handling
+dimwishlist:item=1019000888&perks=,247725512,124408337#notes:PvE - MW Any except Handling
 
 // -----
 // Vision of Confluence - Solar 180 Scout Rifle - Precision Frame (Vault of Glass)
