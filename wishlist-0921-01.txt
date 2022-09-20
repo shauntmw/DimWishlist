@@ -257,7 +257,7 @@ dimwishlist:item=-20935540#notes:No good perks. Use Chrysura Melo instead.
 
 // -----
 // come to pass - Arc 360 Auto Rifle - High Impact Frame (Wellspring)
-// PvE: hammer forged, Tactical, Shoot to Loot, Adaptive Munitions
+// PvE: Hammer Forged, Tactical, Shoot to Loot, Adaptive Munitions
 dimwishlist:item=927567426&perks=3250034553,106909392,3700496672,1048183818#notes:PvE - MW Range (Craftable)
 
 // -----
@@ -432,60 +432,23 @@ dimwishlist:item=3385326721&perks=1482024992,679225683,1168162263,3523296417#not
 
 
 // --------------------------------------------------------------------------
-// Type - bow
+// Type - Bow
 // --------------------------------------------------------------------------
 // Whispering Slab - Kinetic Bow - Lightweight Frame (World)
-// PvE: Archer Tempo + Vorpal
-dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,1546637391#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=4067834857,3429800428,201365942,1546637391#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=852209214,3429800428,201365942,1546637391#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=2801223209,3311977193,201365942,1546637391#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=4067834857,3311977193,201365942,1546637391#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=852209214,3311977193,201365942,1546637391#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=2801223209,3827198035,201365942,1546637391#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=4067834857,3827198035,201365942,1546637391#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=852209214,3827198035,201365942,1546637391#notes:PvE - MW Draw or Accuracy
-
-// PvE: Archer Tempo + Sympathetic Arsenal
-dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3350417888#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=4067834857,3429800428,201365942,3350417888#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=852209214,3429800428,201365942,3350417888#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=2801223209,3311977193,201365942,3350417888#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=4067834857,3311977193,201365942,3350417888#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=852209214,3311977193,201365942,3350417888#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=2801223209,3827198035,201365942,3350417888#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=4067834857,3827198035,201365942,3350417888#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=852209214,3827198035,201365942,3350417888#notes:PvE - MW Draw or Accuracy
-
-// PvE: Archer Tempo + Demolitionist
-dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3523296417#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=4067834857,3429800428,201365942,3523296417#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=852209214,3429800428,201365942,3523296417#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=2801223209,3311977193,201365942,3523296417#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=4067834857,3311977193,201365942,3523296417#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=852209214,3311977193,201365942,3523296417#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=2801223209,3827198035,201365942,3523296417#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=4067834857,3827198035,201365942,3523296417#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=211938782&perks=852209214,3827198035,201365942,3523296417#notes:PvE - MW Draw or Accuracy
+dimwishlist:item=-211938782#notes: Power Creep. Use Fel Taradiddle.
 
 // -----
 // Accrued Redemption - Kinetic Bow - Precision Frame (Garden of Salvation)
-// PvE: Archer Tempo + Explosive Head
-dimwishlist:item=4095896073&perks=2801223209,3311977193,201365942,3365897133#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=4095896073&perks=4067834857,3311977193,201365942,3365897133#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=4095896073&perks=852209214,3311977193,201365942,3365897133#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=4095896073&perks=4067834857,3827198035,201365942,3365897133#notes:PvE - MW Draw or Accuracy
-dimwishlist:item=4095896073&perks=852209214,3827198035,201365942,3365897133#notes:PvE - MW Draw or Accuracy
+dimwishlist:item=-4095896073#notes: Power Creep. Use Fel Taradiddle.
 
 // -----
 // Biting Winds - Kinetic Bow - Precision Frame (Europa)
-dimwishlist:item=-1621657423#notes: No good perks. Use Fel Taradiddle instead.
+dimwishlist:item=-1621657423#notes: Power Creep. Use Fel Taradiddle.
 
 // -----
 // Fel Taradiddle - Kinetic Bow - Lightweight Frame (Wellspring)
 // PvE: Elastic, Compact, Shoot to Loot, Explosive Head
-dimwishlist:item=1399109800&perks=2801223209,16392701,3700496672,3365897133#notes:PvE - mw draw (Craftable)
+dimwishlist:item=1399109800&perks=2801223209,16392701,3700496672,3365897133#notes:PvE - MW Draw (Craftable)
 
 // -----
 // Lunulata-4b - Stasis Bow - Lightweight Frame (World)
@@ -1645,6 +1608,11 @@ dimwishlist:item=3409645497&perks=1467527085,3230963543,3436462433,4104185692#no
 dimwishlist:item=3409645497&perks=3250034553,3230963543,3436462433,4104185692#notes:PvE - MW Any except Handling
 dimwishlist:item=3409645497&perks=1392496348,3230963543,3436462433,4104185692#notes:PvE - MW Any except Handling
 dimwishlist:item=3409645497&perks=1482024992,3230963543,3436462433,4104185692#notes:PvE - MW Any except Handling
+
+// -----
+// Smite of Merain - Kinetic 390 Pulse Rifle - Adaptive Frame (King's Fall Raid)
+// PvE: Arrowhead, Tactical Mag, Demolitionist, Firefly
+dimwishlist:item=2221264583&perks=839105230,106909392,3523296417,3824105627#notes:PvE - MW Range (Craftable)
 
 // -----
 // Hailing Confusion - Kinetic 390 Pulse Rifle - Adaptive Frame (Europa)
@@ -3001,6 +2969,14 @@ dimwishlist:item=409551876&perks=3250034553,679225683,4071163871,3592538738#note
 dimwishlist:item=409551876&perks=1482024992,679225683,4071163871,3592538738#notes:PvE - MW Range
 
 // -----
+// Brigand's Law - Arc 450 Sidearm - Rapid-Fire Frame (Season of Plunder)
+// PvE: Extended, Flared Magwell, Pugilist, Voltshot
+dimwishlist:item=1298815317&perks=1467527085,3230963543,691659142,2173046394#notes:PvE - MW Range (Craftable)
+
+// PvP: Hammer Forged, Accurized, Hip-Fire Grip, Rangefinder
+dimwishlist:item=1298815317&perks=3250034553,3142289711,1866048759,2846385770#notes:PvP - MW Range (Craftable)
+
+// -----
 // seventh seraph si-2 - Void Sidearm - Lightweight Frame (World)
 // PvE: Threat Detector + Surrounded
 dimwishlist:item=3937866388&perks=1467527085,106909392,4071163871,3708227201#notes:PvE - MW Range
@@ -3198,9 +3174,13 @@ dimwishlist:item=3717177717&perks=663495154,3230963543,1820235745,4049631843#not
 dimwishlist:item=3886416794&perks=3250034553,106909392,1820235745,4104185692#notes:PvE - MW Range (Craftable)
 
 // -----
-// forensic nightmare - Stasis 600 SMG - Precision Frame
-// PvE: hammer forged, light mag, grave robber, Kill Clip
+// Forensic Nightmare - Stasis 600 SMG - Precision Frame (Witch Queen Campaign)
+// PvE: Hammer Forged, Light Mag, Grave Robber, Kill Clip
 dimwishlist:item=1526296434&perks=3250034553,679225683,1631667848,1015611457#notes:PvE - MW Range (Craftable)
+
+// -----
+// Blood Feud - Stasis 750 SMG - Aggressive Frame (Season of Plunder)
+dimwishlist:item=-1509167284#notes: Ugly scope.
 
 // -----
 // CALUS Mini-Tool - Solar 900 SMG - MIDA (Season of Haunted - Leviathan)
@@ -3243,6 +3223,11 @@ dimwishlist:item=766323545&perks=1482024992,106909392,2010801679,1546637391#note
 dimwishlist:item=766323545&perks=1467527085,3230963543,2010801679,1546637391#notes:PvE - MW Reload
 dimwishlist:item=766323545&perks=3250034553,3230963543,2010801679,1546637391#notes:PvE - MW Reload
 dimwishlist:item=766323545&perks=1482024992,3230963543,2010801679,1546637391#notes:PvE - MW Reload
+
+// -----
+// Out of Bounds - Arc 900 SMG - Lightweight Frame (Crucible)
+// PvE: Demolitionist + Adrenaline
+dimwishlist:item=2988121501&perks=,3523296417,11612903#notes:PvE - MW Reload or Range
 
 // -----
 // Stochastic Variable - Arc 900 SMG - Lightweight Frame (Season of Splicer)
