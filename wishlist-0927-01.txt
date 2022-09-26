@@ -256,7 +256,7 @@ dimwishlist:item=1907698332&perks=1482024992,679225683,3643424744,2846385770#not
 dimwishlist:item=-20935540#notes:No good perks. Use Chrysura Melo instead.
 
 // -----
-// come to pass - Arc 360 Auto Rifle - High Impact Frame (Wellspring)
+// Come to Pass - Arc 360 Auto Rifle - High Impact Frame (Wellspring)
 // PvE: Hammer Forged, Tactical, Shoot to Loot, Adaptive Munitions
 dimwishlist:item=927567426&perks=3250034553,106909392,3700496672,1048183818#notes:PvE - MW Range (Craftable)
 
@@ -379,8 +379,8 @@ dimwishlist:item=2496875173&perks=1392496348,3230963543,1820235745,3592538738#no
 dimwishlist:item=2496875173&perks=1482024992,3230963543,1820235745,3592538738#notes:PvE - MW Any except Handling
 
 // -----
-// sweet sorrow - Arc 720 Auto Rifle - Rapid-Fire Frame (Season of Risen)
-// PvE: extended, Tactical, Triple Tap, One for All
+// Sweet Sorrow - Arc 720 Auto Rifle - Rapid-Fire Frame (Season of Risen)
+// PvE: Extended, Tactical, Triple Tap, One for All
 dimwishlist:item=1248372789&perks=1467527085,106909392,3400784728,4049631843#notes:PvE - MW Range
 
 // -----
@@ -616,6 +616,11 @@ dimwishlist:item=3258665412&perks=1482024992,2969185026,3300816228,1683379515#no
 // -----
 // iota draconis - Solar Fusion Rifle - High Impact Frame (Season of Lost)
 dimwishlist:item=-3044460004#notes:no good perk. other Solar fusions are all better.
+
+// -----
+// Midha's Reckoning - Arc 960 Fusion Rifle - High Impact Frame (King's Fall Raid)
+// PvE: Arrowhead, Accelerated, Cornered, Reservoir Burst
+dimwishlist:item=3969066556&perks=839105230,689005463,1799762209,1427256713#notes:PvE: Charge Time (Craftable)
 
 // -----
 // Exile's Curse - Arc Fusion Rifle - High Impact Frame (Trials of Osiris)
@@ -3134,44 +3139,17 @@ dimwishlist:item=1097616550&perks=3250034553,3230963543,1820235745,4104185692#no
 dimwishlist:item=1097616550&perks=1482024992,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
 
 // -----
-// cold front - Kinetic 750 SMG - Aggressive Frame (dawning)
-// PvE: Subsistence + Thresh
-dimwishlist:item=1506719573&perks=1467527085,3142289711,1820235745,2726471870#notes:PvE - MW Any except Handling
-dimwishlist:item=1506719573&perks=3250034553,3142289711,1820235745,2726471870#notes:PvE - MW Any except Handling
-dimwishlist:item=1506719573&perks=1482024992,3142289711,1820235745,2726471870#notes:PvE - MW Any except Handling
-dimwishlist:item=1506719573&perks=1467527085,106909392,1820235745,2726471870#notes:PvE - MW Any except Handling
-dimwishlist:item=1506719573&perks=3250034553,106909392,1820235745,2726471870#notes:PvE - MW Any except Handling
-dimwishlist:item=1506719573&perks=1482024992,106909392,1820235745,2726471870#notes:PvE - MW Any except Handling
-dimwishlist:item=1506719573&perks=1467527085,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
-dimwishlist:item=1506719573&perks=3250034553,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
-dimwishlist:item=1506719573&perks=1482024992,3230963543,1820235745,2726471870#notes:PvE - MW Any except Handling
-
-// -----
-// escape velocity - Kinetic 900 SMG - Lightweight Frame (World)
-dimwishlist:item=-1786797708&perks=#notes:no good perk. use extraordinary rendition instead.
-
-// -----
-// multimach ccx - Kinetic 900 SMG - Lightweight Frame (Iron Banner)
-// PvE: Threat Detector + One for All
-dimwishlist:item=3717177717&perks=2209280307,106909392,4071163871,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3717177717&perks=663495155,106909392,4071163871,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3717177717&perks=663495154,106909392,4071163871,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3717177717&perks=2209280307,3230963543,4071163871,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3717177717&perks=663495155,3230963543,4071163871,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3717177717&perks=663495154,3230963543,4071163871,4049631843#notes:PvE - MW Range or Reload
-
-// PvE: Subsistence + One for All
-dimwishlist:item=3717177717&perks=2209280307,106909392,1820235745,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3717177717&perks=663495155,106909392,1820235745,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3717177717&perks=663495154,106909392,1820235745,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3717177717&perks=2209280307,3230963543,1820235745,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3717177717&perks=663495155,3230963543,1820235745,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3717177717&perks=663495154,3230963543,1820235745,4049631843#notes:PvE - MW Range or Reload
+// Escape Velocity - Kinetic 900 SMG - Lightweight Frame (World)
+dimwishlist:item=-1786797708&perks=#notes:no good perk. Use Extraordinary Rendition instead.
 
 // -----
 // Submission - Kinetic 900 SMG - Lightweight Frame (Vow of the Disciple)
 // PvE: Hammer Forged, Tactical, Subsistence, Frenzy
 dimwishlist:item=3886416794&perks=3250034553,106909392,1820235745,4104185692#notes:PvE - MW Range (Craftable)
+
+// -----
+// Pizzicato-22 - Kinetic 900 SMG - Lightweight Frame (World)
+dimwishlist:item=-4100775158#notes:No good perks.
 
 // -----
 // Forensic Nightmare - Stasis 600 SMG - Precision Frame (Witch Queen Campaign)
@@ -3303,23 +3281,7 @@ dimwishlist:item=294129361&perks=1482024992,1087426260,1583705720,4049631843#not
 // -----
 // Funnelweb - Void 900 SMG - Lightweight Frame (World)
 // PvE: Subsistence + Frenzy
-dimwishlist:item=3341893443&perks=1467527085,3142289711,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=202670084,3142289711,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=3250034553,3142289711,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=1482024992,3142289711,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=1467527085,1087426260,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=202670084,1087426260,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=3250034553,1087426260,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=1482024992,1087426260,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=1467527085,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=202670084,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=3250034553,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=1482024992,106909392,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=1467527085,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=202670084,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=3250034553,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=3341893443&perks=1482024992,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
-
+dimwishlist:item=3341893443&perks=,1820235745,4104185692#notes:PvE - MW Any except Handling
 
 // --------------------------------------------------------------------------
 // Type - Sniper Rifle
