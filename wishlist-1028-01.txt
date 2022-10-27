@@ -759,7 +759,7 @@ dimwishlist:item=2534546147&perks=2713678205,679225683,3800201097,2224838837#not
 dimwishlist:item=254636484&perks=2713678205,679225683,951095735,2224838837#notes:PvE - MW Reload (Craftable)
 
 // -----
-// the enigma - Void glaive - adaptive glaive (quest)
+// The Enigma - Void Glaive - Adaptive Glaive (Quest)
 // PvE: Low Impedance, Light Mag, Impulse Amplifier, Unstoppable Force
 dimwishlist:item=2595497736&perks=2713678205,679225683,951095735,2224838837#notes:PvE - MW Reload (Craftable)
 
@@ -780,6 +780,16 @@ dimwishlist:item=-3924212056#notes:hate 120 Hand Cannon.
 // -----
 // Dire Promise - Kinetic 140 Hand Cannon - Adaptive Frame (World)
 dimwishlist:item=-2742838701#notes:Use Fatebringer better.
+
+// -----
+// D.F.A. - Kinetic 140 Hand Cannon - Adaptive Frame (Nightfall)
+// PvE: Appended, Triple Tap, Timed Payload
+dimwishlist:item=575830664&perks=,1087426260,3400784728,1954620775#notes:PvE - MW Any
+
+// -----
+// D.F.A. (Adept) - Kinetic 140 Hand Cannon - Adaptive Frame (Nightfall)
+// PvE: Appended, Triple Tap, Timed Payload
+dimwishlist:item=2006308129&perks=,1087426260,3400784728,1954620775#notes:PvE - MW Any
 
 // -----
 // fatebringer - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
@@ -1309,7 +1319,7 @@ dimwishlist:item=3652506829&perks=,2680121939,3300816228,1771339417#notes:PvE - 
 // -----
 // Sailspy Pitchglass - Arc 533 Linear Fusion Rifle (Season of Plunder)
 // PvE: Arrowhead, Enhanced, Clown Cartridge, Vorpal
-dimwishlist:item=1184309824&perks=839105230,2680121939,2284787283,1546637391#notes:PvE - MW Reload (Craftable)
+dimwishlist:item=1184309824&perks=839105230,2680121939,2284787283,1546637391#notes:PvE - MW Charge Time (Craftable)
 
 // -----
 // tarantula - Arc Linear Fusion Rifle - Precision Frame (World)
@@ -3514,7 +3524,18 @@ dimwishlist:item=-617501162#notes:No good perks. Use Adored or Occluded Finality
 dimwishlist:item=-2164448701#notes:No good perks. Use Adored or Occluded Finality instead.
 
 // -----
-// occluded finality - Arc Sniper - Aggressive Frame (Iron Banner)
+// Mechabre - Arc Sniper - Aggressive Frame (Halloween)
+// PvP: Snapshot + Opening Shot
+dimwishlist:item=1280894514&perks=,957782887,47981717#notes:PvP - MW Any
+
+// PvE: Triple Tap + Vorpal
+dimwishlist:item=1280894514&perks=,1087426260,3400784728,1546637391#notes:PvP - MW Any
+
+// PvE: Snapshot + Voltshot
+dimwishlist:item=1280894514&perks=,106909392,957782887,2173046394#notes:PvP - MW Reload
+
+// -----
+// Occluded Finality - Arc Sniper - Aggressive Frame (Iron Banner)
 // PvP: Snapshot + Opening Shot
 dimwishlist:item=852551895&perks=839105230,1885400500,957782887,47981717#notes:PvP - MW Any
 dimwishlist:item=852551895&perks=3661387068,1885400500,957782887,47981717#notes:PvP - MW Any
