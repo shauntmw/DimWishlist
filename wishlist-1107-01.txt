@@ -1780,57 +1780,12 @@ dimwishlist:item=2708806099&perks=3250034553,679225683,3523296417,2846385770#not
 dimwishlist:item=2708806099&perks=1482024992,679225683,3523296417,2846385770#notes:PvE - MW Range or Reload
 
 // -----
-// jurassic green - Solar 540 Pulse Rifle - Rapid-Fire Frame (Festival of the Lost)
-// PvE: Rangefinder + Wellspring
-dimwishlist:item=2261046232&perks=839105230,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3661387068,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1467527085,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3250034553,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1482024992,1087426260,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=839105230,3230963543,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3661387068,3230963543,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1467527085,3230963543,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3250034553,3230963543,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1482024992,3230963543,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=839105230,679225683,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3661387068,679225683,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1467527085,679225683,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3250034553,679225683,2846385770,3592538738#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1482024992,679225683,2846385770,3592538738#notes:PvE - MW Range or Reload
+// Jurassic Green - Solar 540 Pulse Rifle - Rapid-Fire Frame (Festival of the Lost)
+// PvE: Subsistence + Incandescent
+dimwishlist:item=2603335652&perks=,1820235745,4293542123#notes:PvE - MW Any
 
 // PvE: Rangefinder + Frenzy
-dimwishlist:item=2261046232&perks=839105230,1087426260,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3661387068,1087426260,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1467527085,1087426260,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3250034553,1087426260,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1482024992,1087426260,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=839105230,3230963543,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3661387068,3230963543,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1467527085,3230963543,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3250034553,3230963543,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1482024992,3230963543,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=839105230,679225683,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3661387068,679225683,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1467527085,679225683,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3250034553,679225683,2846385770,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1482024992,679225683,2846385770,4104185692#notes:PvE - MW Range or Reload
-
-// PvE: Subsistence + Dragonfly
-dimwishlist:item=2261046232&perks=839105230,1087426260,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3661387068,1087426260,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1467527085,1087426260,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3250034553,1087426260,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1482024992,1087426260,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=839105230,3230963543,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3661387068,3230963543,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1467527085,3230963543,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3250034553,3230963543,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1482024992,3230963543,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=839105230,679225683,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3661387068,679225683,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1467527085,679225683,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=3250034553,679225683,1820235745,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=2261046232&perks=1482024992,679225683,1820235745,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=2603335652&perks=,2846385770,4104185692#notes:PvE - MW Any
 
 // -----
 // jian 7 rifle - Arc 390 Pulse Rifle - Adaptive Frame (World)
@@ -3530,20 +3485,13 @@ dimwishlist:item=1280894514&perks=,957782887,47981717#notes:PvP - MW Any
 
 // PvE: Triple Tap + Vorpal
 dimwishlist:item=1280894514&perks=,1087426260,3400784728,1546637391#notes:PvP - MW Any
+dimwishlist:item=1280894514&perks=,106909392,3400784728,1546637391#notes:PvP - MW Any
 
 // PvE: Snapshot + Voltshot
 dimwishlist:item=1280894514&perks=,106909392,957782887,2173046394#notes:PvP - MW Reload
 
 // -----
 // Occluded Finality - Arc Sniper - Aggressive Frame (Iron Banner)
-// PvP: Snapshot + Opening Shot
-dimwishlist:item=852551895&perks=839105230,1885400500,957782887,47981717#notes:PvP - MW Any
-dimwishlist:item=852551895&perks=3661387068,1885400500,957782887,47981717#notes:PvP - MW Any
-dimwishlist:item=852551895&perks=4090651448,1885400500,957782887,47981717#notes:PvP - MW Any
-dimwishlist:item=852551895&perks=1840239774,1885400500,957782887,47981717#notes:PvP - MW Any
-dimwishlist:item=852551895&perks=1392496348,1885400500,957782887,47981717#notes:PvP - MW Any
-dimwishlist:item=852551895&perks=1482024992,1885400500,957782887,47981717#notes:PvP - MW Any
-
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1546637391#notes:PvE - MW Range or stability
 dimwishlist:item=852551895&perks=3661387068,2420895100,3300816228,1546637391#notes:PvE - MW Range or stability
