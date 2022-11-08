@@ -3671,20 +3671,12 @@ dimwishlist:item=3870811754&perks=3666208348,2349202967,1749209109,1546637391#no
 dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,1546637391#notes:PvE - MW Impact
 
 // -----
-// half-truths - Arc sword - Adaptive Frame (Dares of Eternity)
-// PvE: duelist's trance + eager edge
-dimwishlist:item=3257091166&perks=436053704,52780822,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=1261178282,52780822,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=2827049491,52780822,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=938542991,52780822,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=436053704,599007201,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=1261178282,599007201,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=2827049491,599007201,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=938542991,599007201,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=436053704,2349202967,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=1261178282,2349202967,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=2827049491,2349202967,3705817207,2077819806#notes:PvE - MW Impact
-dimwishlist:item=3257091166&perks=938542991,2349202967,3705817207,2077819806#notes:PvE - MW Impact
+// Half-Truths - Arc Sword - Adaptive Frame (Dares of Eternity)
+// PvE: Enduring, Balanced, Relentless, Eager Edge
+dimwishlist:item=3257091166&perks=1261178282,52780822,1749209109,2077819806#notes:PvE - MW Impact (Craftable)
+
+// PvE: Enduring, Balanced, Unrelenting, Chain Reaction
+dimwishlist:item=3257091166&perks=1261178282,52780822,3108830275,2396489472#notes:PvE - MW Impact (Craftable)
 
 // -----
 // falling guillotine - Void Sword - Vortex Frame (World)
