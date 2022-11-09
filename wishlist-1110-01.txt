@@ -1519,6 +1519,10 @@ dimwishlist:item=3325778512&perks=1392496348,1885400500,2869569095,4104185692#no
 dimwishlist:item=3325778512&perks=1482024992,1885400500,2869569095,4104185692#notes:PvE - MW Range or stability
 
 // -----
+// Planck's Stride - Arc 900 Machine Gun - Rapid-Fire Frame (Season of Plunder)
+dimwishlist:item=-820890091#notes:No good perks.
+
+// -----
 // Commemoration - Void 450 Machine Gun - Adaptive Frame (Deep Stone Crypt)
 // PvE: Reconstruction + Dragonfly
 dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,2848615171#notes:PvE - MW Any except Handling
@@ -3721,36 +3725,12 @@ dimwishlist:item=4230993599&perks=3666208348,2349202967,1749209109,3913600130#no
 dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130#notes:PvE - MW Impact
 
 // -----
-// the other half - Void Sword - Adaptive Frame (Dares of Eternity)
-// PvE: eager edge + Surrounded
-dimwishlist:item=3257091167&perks=436053704,52780822,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=1261178282,52780822,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=2827049491,52780822,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=3666208348,52780822,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=938542991,52780822,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=436053704,3625355092,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=1261178282,3625355092,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=2827049491,3625355092,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=3666208348,3625355092,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=938542991,3625355092,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=436053704,599007201,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=1261178282,599007201,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=2827049491,599007201,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=3666208348,599007201,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=938542991,599007201,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=436053704,2349202967,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=1261178282,2349202967,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=2827049491,2349202967,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=3666208348,2349202967,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=938542991,2349202967,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=436053704,269888150,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=1261178282,269888150,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=2827049491,269888150,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,3708227201#notes:PvE - MW Impact
-dimwishlist:item=3257091167&perks=938542991,269888150,2077819806,3708227201#notes:PvE - MW Impact
+// The Other Half - Void Sword - Adaptive Frame (Dares of Eternity)
+// PvE: Enduring, Balanced, Relentless, Whirlwind
+dimwishlist:item=3257091167&perks=1261178282,52780822,1749209109,3913600130#notes:PvE - MW Impact
 
-// PvE: duelist's trance + Vorpal
-dimwishlist:item=3257091167&perks=3666208348,269888150,3705817207,1546637391#notes:PvE - MW Impact
+// PvE: Eager Edge, Vorpal
+dimwishlist:item=3257091167&perks=1261178282,52780822,2077819806,1546637391#notes:PvE - MW Impact
 
 // -----
 // quickfang - Void hunter sword - Lightweight Frame (World)
