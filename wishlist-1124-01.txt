@@ -2996,36 +2996,35 @@ dimwishlist:item=1626503676&perks=445755710,679225683,4071163871,3592538738#note
 // --------------------------------------------------------------------------
 // Type - Special Grenade Launcher
 // --------------------------------------------------------------------------
-// ignition code - Kinetic Special Grenade Launcher - Lightweight Frame (Season of Splicer)
-// PvE: Blinding grenade + slideshot + Demolitionist
-dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,3523296417#notes:PvE - MW Velocity
-dimwishlist:item=304659313&perks=1441682018,3032599245,3161816588,3523296417#notes:PvE - MW Velocity
-dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,3523296417#notes:PvE - MW Velocity
-dimwishlist:item=304659313&perks=3798852852,3032599245,3161816588,3523296417#notes:PvE - MW Velocity
+// Ignition Code - Kinetic Special Grenade Launcher - Lightweight Frame (Season of Splicer)
+// PvE: Blinding + Slideshot
+dimwishlist:item=304659313&perks=,3032599245,3161816588#notes:PvE - MW Velocity or Handling
 
-// PvE: slideshot + Vorpal
-dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes:PvE - MW Velocity
-dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391#notes:PvE - MW Velocity
-dimwishlist:item=304659313&perks=981914802,2822142346,3161816588,1546637391#notes:PvE - MW Velocity
-dimwishlist:item=304659313&perks=3525010810,2822142346,3161816588,1546637391#notes:PvE - MW Velocity
+// PvE: Slideshot + Vorpal
+dimwishlist:item=304659313&perks=,3161816588,1546637391#notes:PvE - MW Velocity or Handling
 
 // -----
 // Pardon Our Dust - Kinetic Special Grenade Launcher - Lightweight Frame (Dares of Eternity)
-// PvE: Blinding + Auto Loading + Demolitionist
-dimwishlist:item=3849810018&perks=981914802,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
-dimwishlist:item=3849810018&perks=1441682018,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
-dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
-dimwishlist:item=3849810018&perks=3798852852,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
+// PvE: Quick Launch, Blinding, Auto Loading, Demolitionist
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,3523296417#notes:PvE - MW Handling (Craftable)
+
+// -----
+// The Militia's Birthright - Kinetic Special Grenade Launcher - Lightweight Frame (Nightfall)
+// PvE: Blinding + Slideways + Auto Loading
+dimwishlist:item=40394833&perks=,3032599245,2039302152,3300816228#notes:PvE - MW Velocity or Handling
+
+// -----
+// The Militia's Birthright (Adept) - Kinetic Special Grenade Launcher - Lightweight Frame (Nightfall)
+// PvE: Blinding + Slideways + Auto Loading
+dimwishlist:item=2378101424&perks=,3032599245,2039302152,3300816228#notes:PvE - MW Velocity or Handling
 
 // -----
 // Lingering Dread - Stasis Special Grenade Launcher - Lightweight Frame (Duality Dungeon)
 // PvE: Auto-Loading + Chill Clip
-dimwishlist:item=2026087437&perks=981914802,3032599245,3300816228,2978966579#notes:PvE - MW Velocity
-dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579#notes:PvE - MW Velocity
+dimwishlist:item=2026087437&perks=,3301904089,3300816228,2978966579#notes:PvE - MW Velocity
 
 // PvE: Blinding + Auto-Loading + Chill Clip
-dimwishlist:item=2026087437&perks=981914802,3032599245,3300816228,2978966579#notes:PvE - MW Velocity
-dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579#notes:PvE - MW Velocity
+dimwishlist:item=2026087437&perks=,3032599245,3300816228,2978966579#notes:PvE - MW Velocity
 
 // -----
 // empty vessel - Solar special grenade - Lightweight Frame (World)
@@ -3185,6 +3184,9 @@ dimwishlist:item=766323545&perks=1482024992,3230963543,2010801679,1546637391#not
 // Out of Bounds - Arc 900 SMG - Lightweight Frame (Crucible)
 // PvE: Demolitionist + Adrenaline
 dimwishlist:item=2988121501&perks=,3523296417,11612903#notes:PvE - MW Reload or Range
+
+// PvP: Moving Target + Rangefinder
+dimwishlist:item=2988121501&perks=839105230,679225683,588594999,2846385770#notes:PvP - MW Handling
 
 // -----
 // Stochastic Variable - Arc 900 SMG - Lightweight Frame (Season of Splicer)
@@ -3860,3 +3862,8 @@ dimwishlist:item=3654674561&perks=1482024992,679225683,1546637391,990298390#note
 // Osteo Striga
 // PvE: Full Bore, Tactical Mag, Short Action Stock
 dimwishlist:item=46524085&perks=202670084,106909392,4015745376,1067908860#notes:PvE: Craftable
+
+// -----
+// Edge of Intent
+// PvE: Lightweight, Light Mag, Short Action Stock
+dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860#notes:PvE: Craftable
