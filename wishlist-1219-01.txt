@@ -32,38 +32,12 @@ dimwishlist:item=640114618&perks=3250034553,679225683,1820235745,3523296417#note
 dimwishlist:item=640114618&perks=1482024992,679225683,1820235745,3523296417#notes:PvE - MW Any except Handling
 
 // PvE: Overflow + Frenzy
-dimwishlist:item=640114618&perks=839105230,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=3661387068,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=3661387068,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=1467527085,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=3250034553,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=1482024992,1087426260,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=839105230,3230963543,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=3661387068,3230963543,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=1467527085,3230963543,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=3250034553,3230963543,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=1482024992,3230963543,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=839105230,679225683,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=3661387068,679225683,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=1467527085,679225683,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=3250034553,679225683,3643424744,4104185692#notes:PvE - MW Any except Handling
-dimwishlist:item=640114618&perks=1482024992,679225683,3643424744,4104185692#notes:PvE - MW Any except Handling
+dimwishlist:item=640114618&perks=,3643424744,4104185692#notes:PvE - MW Any except Handling
 
 // -----
 // Seventh Seraph Carbine - Kinetic 450 Auto Rifle - Precision Frame (World)
-// PvE: Fourth Time the charm + Rangefinder
-dimwishlist:item=1561006927&perks=839105230,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=3661387068,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=1467527085,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=3250034553,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=1392496348,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=148202499672,3230963543,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=839105230,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=3661387068,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=1467527085,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=3250034553,9225683,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=1392496348,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
-dimwishlist:item=1561006927&perks=1482024992,679225683,1354429876,2846385770#notes:PvP - MW Range or Reload
+// PvE: Reconstruction + Frenzy
+dimwishlist:item=4070357005&perks=,1523832109,4104185692#notes:PvE - MW Any
 
 // -----
 // Braytech Werewolf - Kinetic 450 Auto Rifle - Precision Frame (Festival of the Lost)
@@ -96,18 +70,8 @@ dimwishlist:item=3829285960&perks=2405638014,3230963543,1820235745,3523296417#no
 dimwishlist:item=-2778013407#notes: No good perks.
 
 // -----
-// scathelocke - Kinetic 600 Auto Rifle - Adaptive Frame (Iron Banner)
-// PvE: Subsistence + Sympathetic Arsenal
-dimwishlist:item=602618796&perks=839105230,106909392,1820235745,3350417888#notes:PvE - MW Any except Handling
-dimwishlist:item=602618796&perks=3661387068,106909392,1820235745,3350417888#notes:PvE - MW Any except Handling
-dimwishlist:item=602618796&perks=1467527085,106909392,1820235745,3350417888#notes:PvE - MW Any except Handling
-dimwishlist:item=602618796&perks=3250034553,106909392,1820235745,3350417888#notes:PvE - MW Any except Handling
-dimwishlist:item=602618796&perks=1482024992,106909392,1820235745,3350417888#notes:PvE - MW Any except Handling
-dimwishlist:item=602618796&perks=839105230,3230963543,1820235745,3350417888#notes:PvE - MW Any except Handling
-dimwishlist:item=602618796&perks=3661387068,3230963543,1820235745,3350417888#notes:PvE - MW Any except Handling
-dimwishlist:item=602618796&perks=1467527085,3230963543,1820235745,3350417888#notes:PvE - MW Any except Handling
-dimwishlist:item=602618796&perks=3250034553,3230963543,1820235745,3350417888#notes:PvE - MW Any except Handling
-dimwishlist:item=602618796&perks=1482024992,3230963543,1820235745,3350417888#notes:PvE - MW Any except Handling
+// Scathelocke - Kinetic 600 Auto Rifle - Adaptive Frame (Iron Banner)
+dimwishlist:item=-602618796#notes: No good perks.
 
 // -----
 // Duty Bound - Kinetic 600 Auto Rifle - Adaptive Frame (Nightfall)
@@ -149,26 +113,9 @@ dimwishlist:item=507038823&perks=3250034553,679225683,3523296417,4104185692#note
 dimwishlist:item=507038823&perks=1482024992,679225683,3523296417,4104185692#notes:PvE - MW Any except Handling
 
 // -----
-// chroma rush - Kinetic 720 Auto Rifle - Rapid-Fire Frame (Season of Splicer)
-// PvE: Subsistence + Thresh
-dimwishlist:item=1119734784&perks=1467527085,106909392,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=202670084,106909392,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=3250034553,106909392,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=1482024992,106909392,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=1467527085,3230963543,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=202670084,3230963543,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=3250034553,3230963543,1820235745,2726471870#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=1482024992,3230963543,1820235745,2726471870#notes:PvE - MW Range
-
+// Chroma Rush - Kinetic 720 Auto Rifle - Rapid-Fire Frame (Season of Splicer)
 // PvE: Subsistence + Wellspring
-dimwishlist:item=1119734784&perks=1467527085,106909392,1820235745,3592538738#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=202670084,106909392,1820235745,3592538738#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=3250034553,106909392,1820235745,3592538738#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=1482024992,106909392,1820235745,3592538738#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=1467527085,3230963543,1820235745,3592538738#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=202670084,3230963543,1820235745,3592538738#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=3250034553,3230963543,1820235745,3592538738#notes:PvE - MW Range
-dimwishlist:item=1119734784&perks=1482024992,3230963543,1820235745,3592538738#notes:PvE - MW Range
+dimwishlist:item=1119734784&perks=,1820235745,3592538738#notes:PvE - MW Any except Handling
 
 // -----
 // Herod-C - Stasis 360 Auo Rifle - High Impact Frame (Gambit)
@@ -766,16 +713,20 @@ dimwishlist:item=2595497736&perks=2713678205,679225683,951095735,2224838837#note
 // --------------------------------------------------------------------------
 // Type - Hand Cannon
 // --------------------------------------------------------------------------
-// true Prophecy - Kinetic 120 Hand Cannon - Aggressive Frame (World)
+// True Prophecy - Kinetic 120 Hand Cannon - Aggressive Frame (World)
 dimwishlist:item=-2742838700#notes:hate 120 Hand Cannon.
 
 // -----
-// steady hand - Kinetic 120 Hand Cannon - Aggressive Frame (Iron Banner)
+// Steady Hand - Kinetic 120 Hand Cannon - Aggressive Frame (Iron Banner)
 dimwishlist:item=-2220884262#notes:hate 120 Hand Cannon.
 
 // -----
-// loud lullaby - Kinetic 120 Hand Cannon - Aggressive Frame (Moon)
+// Loud Lullaby - Kinetic 120 Hand Cannon - Aggressive Frame (Moon)
 dimwishlist:item=-3924212056#notes:hate 120 Hand Cannon.
+
+// -----
+// Pure Poetry - Kinetic 120 Hand Cannon - Aggressive Frame (Strike)
+dimwishlist:item=-2671639706#notes:hate 120 Hand Cannon.
 
 // -----
 // Dire Promise - Kinetic 140 Hand Cannon - Adaptive Frame (World)
@@ -840,8 +791,8 @@ dimwishlist:item=1476654960&perks=1926090091,3230963543,3523296417,1954620775#no
 
 // -----
 // Austringer - Kinetic 140 Hand Cannon - Adaptive Frame (Season of Haunted - Leviathan)
-// PvE: Hammer Forged, Light Map, Outlaw, Frenzy
-dimwishlist:item=3055790362&perks=3250034553,679225683,1168162263,4104185692#notes:PvE - MW Reload (Craftable)
+// PvE: Hammer Forged, Light Map, Triple Tap, Frenzy
+dimwishlist:item=3055790362&perks=3250034553,679225683,3400784728,4104185692#notes:PvE - MW Reload (Craftable)
 
 // -----
 // seventh seraph officer revolver - Kinetic 180 Hand Cannon - Precision Frame (World)
@@ -1602,8 +1553,8 @@ dimwishlist:item=2434225986&perks=1482024992,3230963543,3300816228,3425386926#no
 dimwishlist:item=-1216130969#notes:No good perks.
 
 // -----
-// the messenger - Kinetic 340 Pulse Rifle - High Impact Frame (Trials of Osiris)
-// PvE: Outlaw + desperado
+// The Messenger - Kinetic 340 Pulse Rifle - High Impact Frame (Trials of Osiris)
+// PvE: Outlaw + Desperado
 dimwishlist:item=3658188704&perks=839105230,3230963543,1168162263,3047969693#notes:PvE - MW Range or Reload
 dimwishlist:item=3658188704&perks=3661387068,3230963543,1168162263,3047969693#notes:PvE - MW Range or Reload
 dimwishlist:item=3658188704&perks=1467527085,3230963543,1168162263,3047969693#notes:PvE - MW Range or Reload
@@ -1940,8 +1891,8 @@ dimwishlist:item=3489657138&perks=3525010810,3796465595,3300816228,2978966579#no
 dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,1546637391#notes:PvE - MW Handling (Craftable)
 
 // -----
-// ascendancy - Solar Rocket Launcher - Precision Frame (ritual)
-dimwishlist:item=725408022#notes:ritual.
+// Ascendancy - Solar Rocket Launcher - Precision Frame (ritual)
+dimwishlist:item=725408022#notes:Ritual.
 
 // -----
 // apex predator - Solar Rocket Launcher - Adaptive Frame (Last Wish)
@@ -1956,7 +1907,7 @@ dimwishlist:item=2545083870&perks=1478423395,1996142143,3977735242,3300816228#no
 dimwishlist:item=2545083870&perks=1844523823,1996142143,3977735242,3300816228#notes:PvE - mw blast radius
 
 // -----
-// code duello - Solar Rocket Launcher - High Impact Frame (season of chosen - battlegrounds)
+// Code Duello - Solar Rocket Launcher - High Impact Frame (season of chosen - battlegrounds)
 // PvE: Auto Loading + Frenzy
 dimwishlist:item=2496242052&perks=981914802,1996142143,3300816228,4104185692#notes:PvE - MW Velocity
 dimwishlist:item=2496242052&perks=1441682018,1996142143,3300816228,4104185692#notes:PvE - MW Velocity
@@ -1967,6 +1918,11 @@ dimwishlist:item=2496242052&perks=3525010810,2822142346,3300816228,4104185692#no
 
 // PvE: Auto Loading + lasting impression
 // no need anymore. already has on hezen vengeance.
+
+// -----
+// Roar of the Bear - Solar Rocket Launcher - High Impact Frame (Iron Banner)
+// PvE: Tracking + Auto-Loading
+dimwishlist:item=4009352833&perks=,3977735242,3300816228#notes:PvE - MW Any
 
 // -----
 // hezen vengeance - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
@@ -2400,16 +2356,13 @@ dimwishlist:item=690668916&perks=1482024992,679225683,3592538738,4104185692#note
 // -----
 // Staccato-46 - Solar 180 Scout Rifle - Precision Frame (World)
 // PvE: Shoot to Loot + Explosive Payload
-dimwishlist:item=4019668921&perks=,3142289711,3700496672,3038247973#notes:PvE - MW Range or Reload
-dimwishlist:item=4019668921&perks=,1087426260,3700496672,3038247973#notes:PvE - MW Range or Reload
-dimwishlist:item=4019668921&perks=,106909392,3700496672,3038247973#notes:PvE - MW Range or Reload
-dimwishlist:item=4019668921&perks=,3230963543,3700496672,3038247973#notes:PvE - MW Range or Reload
+dimwishlist:item=4019668921&perks=,3700496672,3038247973#notes:PvE - MW Any except Handling
 
 // PvE: Outlaw + Dragonfly
-dimwishlist:item=4019668921&perks=,3142289711,1168162263,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=4019668921&perks=,1087426260,1168162263,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=4019668921&perks=,106909392,1168162263,2848615171#notes:PvE - MW Range or Reload
-dimwishlist:item=4019668921&perks=,3230963543,1168162263,2848615171#notes:PvE - MW Range or Reload
+dimwishlist:item=4019668921&perks=,1168162263,2848615171#notes:PvE - MW Any except Handling
+
+// PvE: Compulsive Reloader + Incandescent
+dimwishlist:item=4019668921&perks=,671806388,4293542123#notes:PvE - MW Any except Handling
 
 // -----
 // Pleisdes Corrector - Solar 200 Scout Rifle - Lightweight Frame (Season of Splicer)
@@ -2444,19 +2397,13 @@ dimwishlist:item=2218569744&perks=839105230,106909392,3700496672,3038247973#note
 dimwishlist:item=2218569744&perks=839105230,106909392,3523296417,2173046394#notes:PvE - MW Reload (Craftable)
 
 // -----
-// eternal blazon - Arc 200 Scout Rifle - Lightweight Frame (World)
+// Eternal Blazon - Arc 200 Scout Rifle - Lightweight Frame (World)
 // PvP: Quickdraw + Thresh
 dimwishlist:item=3514096004&perks=1628165637,1561002382,706527188,2726471870#notes:PvP - MW Any
 dimwishlist:item=3514096004&perks=1628165637,1885400500,706527188,2726471870#notes:PvP - MW Any
 
-// PvE: Overflow + One for All
-dimwishlist:item=3514096004&perks=194952923,3230963543,3643424744,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3514096004&perks=1628165637,3230963543,3643424744,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3514096004&perks=194952923,679225683,3643424744,4049631843#notes:PvE - MW Range or Reload
-dimwishlist:item=3514096004&perks=1628165637,679225683,3643424744,4049631843#notes:PvE - MW Range or Reload
-
 // -----
-// contingency plan - Arc 260 Scout Rifle - Rapid-Fire Frame (World)
+// Contingency Plan - Arc 260 Scout Rifle - Rapid-Fire Frame (World)
 // PvE: Surplus + Frenzy
 dimwishlist:item=577528837&perks=839105230,106909392,3436462433,4104185692#notes:PvE - MW Range or Reload
 dimwishlist:item=577528837&perks=1467527085,106909392,3436462433,4104185692#notes:PvE - MW Range or Reload
@@ -2464,14 +2411,6 @@ dimwishlist:item=577528837&perks=3250034553,106909392,3436462433,4104185692#note
 dimwishlist:item=577528837&perks=839105230,3230963543,3436462433,4104185692#notes:PvE - MW Range or Reload
 dimwishlist:item=577528837&perks=1467527085,3230963543,3436462433,4104185692#notes:PvE - MW Range or Reload
 dimwishlist:item=577528837&perks=3250034553,3230963543,3436462433,4104185692#notes:PvE - MW Range or Reload
-
-// PvE: Subsistence + Thresh
-dimwishlist:item=577528837&perks=839105230,106909392,1820235745,2726471870#notes:PvE - MW Range or Reload
-dimwishlist:item=577528837&perks=1467527085,106909392,1820235745,2726471870#notes:PvE - MW Range or Reload
-dimwishlist:item=577528837&perks=3250034553,106909392,1820235745,2726471870#notes:PvE - MW Range or Reload
-dimwishlist:item=577528837&perks=839105230,3230963543,1820235745,2726471870#notes:PvE - MW Range or Reload
-dimwishlist:item=577528837&perks=1467527085,3230963543,1820235745,2726471870#notes:PvE - MW Range or Reload
-dimwishlist:item=577528837&perks=3250034553,3230963543,1820235745,2726471870#notes:PvE - MW Range or Reload
 
 // -----
 // Pointed Inquiry - Void 150 Scout Rifle - High Impact Frame (throne World)
@@ -2812,14 +2751,18 @@ dimwishlist:item=2588048270&perks=445755710,1885400500,2450788523,3523296417#not
 dimwishlist:item=2588048270&perks=445755710,679225683,2450788523,3523296417#notes:PvE - MW Range
 
 // -----
-// high albedo - Kinetic 3-burst Sidearm - Adaptive Frame (Europa)
+// High Albedo - Kinetic 3-burst Sidearm - Adaptive Frame (Europa)
 // PvE: Threat Detector + Wellspring
 dimwishlist:item=1197486957&perks=1467527085,3142289711,4071163871,3592538738#notes:PvE - MW Range
 dimwishlist:item=1197486957&perks=202670084,3142289711,4071163871,3592538738#notes:PvE - MW Range
 dimwishlist:item=1197486957&perks=3250034553,3142289711,4071163871,3592538738#notes:PvE - MW Range
 
 // -----
-// peacebond - Stasis 3-burst Sidearm - Adaptive Frame (Iron Banner)
+// Allied Demand - Kinetic 300 Sidearm - Adaptive Frame (Iron Banner)
+dimwishlist:item=-1532276803#notes: Use Farewell instead.
+
+// -----
+// Peacebond - Stasis 3-Burst Sidearm - Adaptive Frame (Iron Banner)
 // PvE: Subsistence + Headstone
 dimwishlist:item=829330711&perks=1467527085,3142289711,1820235745,124408337#notes:PvE - MW Range
 dimwishlist:item=829330711&perks=202670084,3142289711,1820235745,124408337#notes:PvE - MW Range
@@ -3023,6 +2966,9 @@ dimwishlist:item=2378101424&perks=,3032599245,2039302152,3300816228#notes:PvE - 
 // PvE: Auto-Loading + Chill Clip
 dimwishlist:item=2026087437&perks=,3301904089,3300816228,2978966579#notes:PvE - MW Velocity
 
+// PvE: Spiked + Auto-Loading + Vorpal
+dimwishlist:item=2026087437&perks=,3301904089,3300816228,1546637391#notes:PvE - MW Velocity
+
 // PvE: Blinding + Auto-Loading + Chill Clip
 dimwishlist:item=2026087437&perks=,3032599245,3300816228,2978966579#notes:PvE - MW Velocity
 
@@ -3131,8 +3077,8 @@ dimwishlist:item=-4100775158#notes:No good perks.
 
 // -----
 // Forensic Nightmare - Stasis 600 SMG - Precision Frame (Witch Queen Campaign)
-// PvE: Hammer Forged, Light Mag, Grave Robber, Kill Clip
-dimwishlist:item=1526296434&perks=3250034553,679225683,1631667848,1015611457#notes:PvE - MW Range (Craftable)
+// PvE: Hammer Forged, Light Mag, Grave Robber, Swashbuckler
+dimwishlist:item=1526296434&perks=3250034553,679225683,1631667848,4082225868#notes:PvE - MW Range (Craftable)
 
 // -----
 // Blood Feud - Stasis 750 SMG - Aggressive Frame (Season of Plunder)
@@ -3200,6 +3146,10 @@ dimwishlist:item=2272470786&perks=1482024992,1885400500,2450788523,3592538738#no
 dimwishlist:item=2272470786&perks=1467527085,679225683,2450788523,3592538738#notes:PvE - MW Range
 dimwishlist:item=2272470786&perks=3250034553,679225683,2450788523,3592538738#notes:PvE - MW Range
 dimwishlist:item=2272470786&perks=1482024992,679225683,2450788523,3592538738#notes:PvE - MW Range
+
+// -----
+// The Hero's Burden - Void 900 SMG - Adaptive Frame (Iron Banner)
+dimwishlist:item=-2488587246#notes:No good perks.
 
 // -----
 // Unforgiven - Void 750 SMG - Agressive Frame (Duality Dungeon)
@@ -3696,26 +3646,7 @@ dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#note
 // -----
 // Razor's Edge - Void Sword - Vortex Frame (Iron Banner)
 // PvE: Relentless + Chain Reaction
-dimwishlist:item=1796949035&perks=436053704,52780822,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=1261178282,52780822,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=2827049491,52780822,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=938542991,52780822,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=436053704,3625355092,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=1261178282,3625355092,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=2827049491,3625355092,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=938542991,3625355092,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=436053704,599007201,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=1261178282,599007201,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=2827049491,599007201,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=938542991,599007201,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=436053704,2349202967,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=1261178282,2349202967,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=2827049491,2349202967,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=938542991,2349202967,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=436053704,269888150,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=1261178282,269888150,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=2827049491,269888150,1749209109,2396489472#notes:PvE - MW Impact
-dimwishlist:item=1796949035&perks=938542991,269888150,1749209109,2396489472#notes:PvE - MW Impact
+dimwishlist:item=1796949035&perks=,1749209109,2396489472#notes:PvE - MW Impact
 
 // -----
 // steel sybil z-14 - Void Sword - Adaptive Frame (Crucible)
