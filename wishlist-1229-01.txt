@@ -526,6 +526,11 @@ dimwishlist:item=768621510&perks=839105230,689005463,671806388,2978966579#notes:
 dimwishlist:item=2715240478&perks=,3300816228,1546637391#notes:PvE - MW Charge, Range or Reload
 
 // -----
+// Aurvandil FR6 - Stasis Fusion Rifle - 960 High Impact (World)
+// PvE: Reconstruction + Chill Clip
+dimwishlist:item=963710795&perks=,1523832109,2978966579#notes:PvE
+
+// -----
 // cartesian coordinate - Solar Fusion Rifle - Rapid-Fire Frame (World)
 // PvE: Lead from Gold + Vorpal
 dimwishlist:item=2481881293&perks=2405638015,2680121939,1556840489,1546637391#notes:PvE - MW Range or Reload
@@ -645,8 +650,8 @@ dimwishlist:item=253196586&perks=2405638014,2969185026,3300816228,1015611457#not
 dimwishlist:item=1644680957#notes: Ritual Weapon
 
 // -----
-// likely suspect - Void Fusion Rifle - Rapid-Fire Frame (throne World)
-dimwishlist:item=-1994645182#notes: no good perks.
+// Likely Suspect - Void Fusion Rifle - Rapid-Fire Frame (throne World)
+dimwishlist:item=-1994645182#notes: No good perks.
 
 // -----
 // The Epicurean - Void Fusion Rifle - Precision Frame (Duality Dungeon)
@@ -1706,7 +1711,8 @@ dimwishlist:item=-2812100428#notes:Nothing good. Use Syncopation instead.
 
 // -----
 // Disparity - Stasis 450 Pulse Rigle - Aggressive Frame (Season of Seraph)
-dimwishlist:item=-1751893422#notes:Use Syncopation instead.
+// PvE: Arrowhead, Tactical, Outlaw, Headstone
+dimwishlist:item=1751893422&perks=839105230,106909392,1168162263,124408337#notes:PvE - MW Stability (Craftable)
 
 // -----
 // Stars in Shadow - Solar 340 Pulse Rifle - High Impact Frame (Crucible)
@@ -1787,7 +1793,7 @@ dimwishlist:item=1162247618&perks=360593482,679225683,1683379515,2846385770#note
 dimwishlist:item=1162247618&perks=3151536501,679225683,1683379515,2846385770#notes:PvE - MW Any except Handling
 
 // -----
-// the third axiom - Arc 390 Pulse Rifle - Adaptive Frame (Strike)
+// The Third Axiom - Arc 390 Pulse Rifle - Adaptive Frame (Strike)
 // PvE: Rangefinder + One for All
 dimwishlist:item=4156253727&perks=839105230,3230963543,4049631843,4049631843#notes:PvE - MW Range or Reload
 dimwishlist:item=4156253727&perks=1467527085,3230963543,4049631843,4049631843#notes:PvE - MW Range or Reload
@@ -3356,7 +3362,7 @@ dimwishlist:item=893527433&perks=1392496348,106909392,3300816228,4104185692#note
 dimwishlist:item=893527433&perks=1482024992,106909392,3300816228,4104185692#notes:PvE - MW Range or stability
 
 // -----
-// uzume rr4 - Solar Sniper - Adaptive Frame (Nightfall)
+// Uzume RR4 - Solar Sniper - Adaptive Frame (Nightfall)
 // PvP: Snapshot + Vorpal
 dimwishlist:item=2065081837&perks=839105230,3142289711,957782887,1546637391#notes:PvP - MW Any except reload
 dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,1546637391#notes:PvP - MW Any except reload
