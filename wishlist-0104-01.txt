@@ -752,6 +752,10 @@ dimwishlist:item=-2671639706#notes:hate 120 Hand Cannon.
 dimwishlist:item=-2742838701#notes:Use Fatebringer better.
 
 // -----
+// Rose - Kinetic 140 Hand Cannon - Lightweight Frame (Crucible - Comp)
+dimwishlist:item=-882778888#notes: PvP Perks only. Use Fatebringer better for PvE.
+
+// -----
 // D.F.A. - Kinetic 140 Hand Cannon - Adaptive Frame (Nightfall)
 // PvE: Appended, Triple Tap, Timed Payload
 dimwishlist:item=575830664&perks=,1087426260,3400784728,1954620775#notes:PvE - MW Any
@@ -2342,6 +2346,10 @@ dimwishlist:item=1019000888&perks=,3700496672,3038247973#notes:PvE - MW Any exce
 dimwishlist:item=1019000888&perks=,247725512,124408337#notes:PvE - MW Any except Handling
 
 // -----
+// Jararaca-3sr - Stasis 260 Scout Rifle - Rapid Fire Frame (World)
+dimwishlist:item=-1851521408#notes: Use Perses-D better.
+
+// -----
 // Vision of Confluence - Solar 180 Scout Rifle - Precision Frame (Vault of Glass)
 // PvE: Wellspring + Firefly
 dimwishlist:item=3186018373&perks=839105230,3230963543,3592538738,3824105627#notes:PvE - MW Any except Handling
@@ -2963,6 +2971,10 @@ dimwishlist:item=3937866388&perks=202670084,3230963543,4071163871,3708227201#not
 dimwishlist:item=3937866388&perks=3250034553,3230963543,4071163871,3708227201#notes:PvE - MW Range
 
 // -----
+// Fioritura-59 - Void Sidearm - Rapid-Fire Frame (World)
+dimwishlist:item=-2566006935#notes: No good perks.
+
+// -----
 // brass attacks - Void Sidearm - Aggressive burst (season of chosen - battlegrounds)
 // PvE: Threat Detector + Frenzy
 dimwishlist:item=2121785039&perks=1467527085,1087426260,4071163871,4104185692#notes:PvE - MW Reload
@@ -3032,7 +3044,7 @@ dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,3523296417#no
 // -----
 // Explosive Personality - Solar Special Grenade Launcher - Wave Frame (Season of Risen)
 // PvE: Quick Launch, High Velocity, Auto Loading, Frenzy
-dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692#notes:PvE - MW Velocity (Craftable)
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692#notes:PvE - MW Handling (Craftable)
 
 // -----
 // salvager's salvo - Arc special grenade - Lightweight Frame (seasonal - chosen)
@@ -3117,7 +3129,7 @@ dimwishlist:item=1097616550&perks=3250034553,3230963543,1820235745,4104185692#no
 dimwishlist:item=1097616550&perks=1482024992,3230963543,1820235745,4104185692#notes:PvE - MW Any except Handling
 
 // -----
-// Cold Front - Kinetic 750 SMG - Aggressive Frame (Dawning)
+// Cold Front (2022) - Kinetic 750 SMG - Aggressive Frame (Dawning)
 // PvE: Subsistence + Frenzy
 dimwishlist:item=2814093983&perks=,1820235745,4104185692
 
