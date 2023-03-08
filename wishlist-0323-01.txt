@@ -99,6 +99,11 @@ dimwishlist:item=1788603939&perks=1482024992,679225683,3700496672,4104185692#not
 dimwishlist:item=2852052802&perks=,3643424744,4049631843#notes:PvE - MW Any except Handling
 
 // -----
+// Perpetualis - Strand 600 Auto Rifle - Adaptive Frame (Season of Defiant)
+// PvE: Arrowhead, Tactical, Envious Assassin, Threadling
+dimwishlist:item=392008588&perks=839105230,106909392,968510818,831391274#notes:PvE - MW Reload
+
+// -----
 // chrysura melo - Solar 360 Auto Rifle - High Impact Frame (Season of Lost)
 // PvE: Outlaw + Dragonfly
 dimwishlist:item=1337707096&perks=3661387068,106909392,1168162263,2848615171#notes:PvE - MW Any except Handling
@@ -246,6 +251,11 @@ dimwishlist:item=1399109800&perks=2801223209,16392701,3700496672,3365897133#note
 dimwishlist:item=2513965917&perks=2801223209,3700496672,124408337#notes:PvE - MW Draw or Accuracy
 
 // -----
+// Raconteur - Stasis Bow - Precision Frame (Season of Defiant)
+// PvE: Elastic, Compact, Shoot to Loot, Headstone
+dimwishlist:item=45643573&perks=2801223209,16392701,3700496672,124408337#notes:PvE - MW Draw (Craftable)
+
+// -----
 // Tyranny of Heaven - Solar Bow - Lightweight Frame (Last Wish)
 // PvE: Archer's tempo + Explosive Head
 dimwishlist:item=2721249463&perks=2801223209,3311977193,201365942,3365897133#notes:PvE - MW Draw or Accuracy
@@ -335,6 +345,11 @@ dimwishlist:item=963710795&perks=,1523832109,2978966579#notes:PvE
 // Cartesian Coordinate - Solar Fusion Rifle - Rapid-Fire Frame (World)
 // PvE: Lead from Gold + Vorpal
 dimwishlist:item=2481881293&perks=,1556840489,1546637391#notes: PvE
+
+// -----
+// Royal Executioner - Solar Fusion Rifle - 660 Adaptive Frame (Season of Defiant)
+// PvE: Arrowhead, Accelerated, Envious Assassin, Reservoir Burst
+dimwishlist:item=1720503118&perks=839105230,689005463,968510818,1427256713#notes: PvE - MW Charge (Craftable)
 
 // -----
 // dream breaker - Solar Fusion Rifle - Adaptive Frame (Moon)
@@ -816,7 +831,7 @@ dimwishlist:item=3568377122&perks=1441682018,3373736292,951095735,2978966579#not
 dimwishlist:item=3568377122&perks=3525010810,3373736292,951095735,2978966579#notes:PvE - MW Blast or Velocity
 
 // -----
-// canis major - Solar Heavy Grenade Launcher - Rapid-Fire Frame (Season of Lost)
+// Canis Major - Solar Heavy Grenade Launcher - Rapid-Fire Frame (Season of Lost)
 // PvE: spike grenade + Impulse Amplifier + Vorpal
 dimwishlist:item=2066434718&perks=981914802,3301904089,951095735,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=2066434718&perks=3525010810,3301904089,951095735,1546637391#notes:PvE - MW Velocity
@@ -869,6 +884,11 @@ dimwishlist:item=4146702548&perks=981914802,3301904089,3300816228,2010801679#not
 dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,2010801679#notes:PvE - MW Velocity
 
 // -----
+// Marsilion-C - Solar Heavy Grenade Launcher - Rapid-Fire Frame (World)
+// PvE: Volatile, High-Explosive, Envious Assassin, Incandescent
+dimwishlist:item=867154247&perks=1478423395,1380253176,968510818,4293542123#notes: PvE - MW Blast (Craftable)
+
+// -----
 // Interference IV - Arc Heavy Grenade Launcher - Adaptive Frame (World)
 // PvE: spike grenade + Auto Loading + full court
 dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110#notes:PvE - MW Velocity
@@ -904,21 +924,21 @@ dimwishlist:item=555148853&perks=,3301904089,2869569095,2888557110
 dimwishlist:item=2721157927&perks=1478423395,1380253176,2869569095,2396489472#notes:PvE - MW Blast (Craftable)
 
 // -----
-// berenger's memory - Void Heavy Grenade Launcher - Rapid-Fire Frame (World)
+// Berenger's Memory - Void Heavy Grenade Launcher - Rapid-Fire Frame (World)
 // PvE: spike grenade + Field Prep + Auto Loading
 dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3300816228#notes:PvE - MW Blast or Velocity
 dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3300816228#notes:PvE - MW Blast or Velocity
 
 // -----
-// swarm of the raven - Void heavy grenade - Rapid-Fire Frame (Iron Banner)
+// Swarm of the Raven - Void Heavy Grenade Launcher - Rapid-Fire Frame (Iron Banner)
 dimwishlist:item=-1972985595#notes:use memory interdict instead.
 
 // -----
-// crowd pleaser - Void heavy grenade - Adaptive Frame (Gambit)
+// Crowd Pleaser - Void Heavy Grenade Launcher - Adaptive Frame (Gambit)
 dimwishlist:item=-3565520715#notes:use memory interdict instead.
 
 // -----
-// memory interdict - Void heavy grenade - Adaptive Frame (Season of Splicer)
+// Memory Interdict - Void Heavy Grenade Launcher - Adaptive Frame (Season of Splicer)
 // PvE: Auto Loading + Chain Reaction
 dimwishlist:item=3165547384&perks=1478423395,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
 dimwishlist:item=3165547384&perks=981914802,3301904089,3300816228,2396489472#notes:PvE - MW Blast or Velocity
@@ -932,6 +952,11 @@ dimwishlist:item=3165547384&perks=1478423395,2822142346,3300816228,2396489472#no
 dimwishlist:item=3165547384&perks=981914802,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
 dimwishlist:item=3165547384&perks=1441682018,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
 dimwishlist:item=3165547384&perks=3525010810,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
+
+// -----
+// Regnant - Void Heavy Grenade Launcher - Adaptive Frame (Season of Defiant)
+// PvE: Volatile, High-Explosive, Auto-Loading, Destabilizing Rounds
+dimwishlist:item=268260372&perks=1478423395,1380253176,3300816228,2048641572#notes: PvE - MW Blast (Craftable)
 
 // --------------------------------------------------------------------------
 // Type - Linear Fusion Rifle
@@ -1381,6 +1406,11 @@ dimwishlist:item=2603335652&perks=,1820235745,4293542123#notes:PvE - MW Any
 
 // PvE: Rangefinder + Frenzy
 dimwishlist:item=2603335652&perks=,2846385770,4104185692#notes:PvE - MW Any
+
+// -----
+// Phyllotactic Spiral - Arc 340 Pulse Rifle - High Impact Frame (Neomuna)
+// PvE: Arrowhead, Light Mag, Compulsive Reloader, Voltshot
+dimwishlist:item=3635821806&perks=839105230,679225683,671806388,2173046394#notes: PvE - MW Reload (Craftable)
 
 // -----
 // Jian 7 rifle - Arc 390 Pulse Rifle - Adaptive Frame (World)
@@ -1910,8 +1940,8 @@ dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007#notes
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007#notes:PvP - MW Range
 
 // -----
-// wastelander m5 - Kinetic Shotgun - Lightweight Frame (Dares of Eternity)
-dimwishlist:item=-1679868061#notes:no good perks.
+// Wastelander M5 - Kinetic Shotgun - Lightweight Frame (Dares of Eternity)
+dimwishlist:item=-1679868061#notes:No good perks.
 
 // -----
 // Fractethyst - Stasis shotgun - Precision Frame (Season of Lost)
@@ -2019,12 +2049,12 @@ dimwishlist:item=-1028582252#notes:No good perks.
 dimwishlist:item=-2443900757#notes:No good perks.
 
 // -----
-// retold tale - Void shotgun - Precision Frame (Dreaming City)
+// Retold Tale - Void shotgun - Precision Frame (Dreaming City)
 // PvP: Quickdraw + Vorpal
 dimwishlist:item=346136302&perks=1332244541,3142289711,706527188,1546637391#notes:PvP - MW Range
 
 // -----
-// the deicide - Void shotgun - Rapid-Fire Frame (Season of Splicer)
+// The Deicide - Void shotgun - Rapid-Fire Frame (Season of Splicer)
 // PvE: Lead from Gold + Vorpal
 dimwishlist:item=217140611&perks=1332244541,1087426260,1556840489,1546637391#notes:PvE - MW Range or Reload
 dimwishlist:item=217140611&perks=1482024992,1087426260,1556840489,1546637391#notes:PvE - MW Range or Reload
@@ -2036,7 +2066,12 @@ dimwishlist:item=217140611&perks=1332244541,679225683,1556840489,1546637391#note
 dimwishlist:item=217140611&perks=1482024992,679225683,1556840489,1546637391#notes:PvE - MW Range or Reload
 
 // -----
-// retrofuturist - Void shotgun - Lightweight Frame (World)
+// Basso Ostinato - Void Shotgun - Rapid-Fire Frame (Neomuna)
+// PvE: Envious Assassin + Destabilizing Rounds
+dimwishlist:item=2573900604&perks=,968510818,2048641572#notes: PvE
+
+// -----
+// Retrofuturist - Void shotgun - Lightweight Frame (World)
 dimwishlist:item=-1402766122#notes:no good perk. use retold tale instead.
 
 // --------------------------------------------------------------------------
@@ -2233,7 +2268,7 @@ dimwishlist:item=-2345794502#notes: No good perk.
 dimwishlist:item=-2009277538#notes:use the keening instead.
 
 // -----
-// the vision - Arc Sidearm - Adaptive Frame (Season of Splicer)
+// The Vision - Arc Sidearm - Adaptive Frame (Season of Splicer)
 // PvE: Surplus + One for All
 dimwishlist:item=2414141462&perks=445755711,3142289711,3436462433,4049631843#notes:PvE - MW Range
 dimwishlist:item=2414141462&perks=445755710,3142289711,3436462433,4049631843#notes:PvE - MW Range
@@ -2336,11 +2371,16 @@ dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,3523296417#no
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692#notes:PvE - MW Handling (Craftable)
 
 // -----
-// salvager's salvo - Arc special grenade - Lightweight Frame (seasonal - chosen)
+// Salvager's Salvo - Arc Special Grenade Launcher - Lightweight Frame (Ritual - Season of Chosen)
 dimwishlist:item=2060863616#notes:seasonal reward.
 
 // -----
-// forbearance - Arc special grenade - wave frame (Vow of the Disciple)
+// Prodigal Return - Arc Special Grenade Launcher - Lightweight Frame (Season of Defiant)
+// PvE: Quick Launch, Blinding, Envious Assassin, Distruption Break
+dimwishlist:item=268260373&perks=3525010810,3032599245,968510818,1683379515#notes:PvE - MW Handling (Craftable)
+
+// -----
+// Forbearance - Arc Special Grenade Launcher - Wave Frame (Vow of the Disciple)
 // PvE: Quick Launch, High Velocity, Assassin, Chain Reaction
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE - MW Reload (Craftable)
 
@@ -2732,7 +2772,7 @@ dimwishlist:item=3865728990&perks=839105230,106909392,3400784728,2896038713#note
 dimwishlist:item=396910433&perks=,1749209109,3650930298
 
 // -----
-// negative space - Solar sword - Adaptive Frame (World)
+// Negative Space - Solar Sword - Adaptive Frame (World)
 // PvE: relentless + whirlwind
 dimwishlist:item=3629968765&perks=3666208348,52780822,1749209109,3913600130#notes:PvE - MW Impact
 dimwishlist:item=3629968765&perks=3666208348,3625355092,1749209109,3913600130#notes:PvE - MW Impact
@@ -2741,11 +2781,16 @@ dimwishlist:item=3629968765&perks=3666208348,2349202967,1749209109,3913600130#no
 dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130#notes:PvE - MW Impact
 
 // -----
-// abide the return - Solar sword - Adaptive Frame (Dreaming City)
+// Abide the Return - Solar Sword - Adaptive Frame (Dreaming City)
 dimwishlist:item=-1644160541#notes:already have negative space.
 
 // -----
-// sola's scar - Solar sword - caster frame (Trials of Osiris)
+// Caretaker - Solar Sword - Adaptive Frame (Season of Defiant)
+// PvE: Enduring, Balanced, Relentless, Incandescent
+dimwishlist:item=2508948099&perks=1261178282,52780822,1749209109,4293542123#notes: PvE
+
+// -----
+// Sola's Scar - Solar Sword - Caster Frame (Trials of Osiris)
 // PvE: relentless + Chain Reaction
 dimwishlist:item=1313528549&perks=1261178282,52780822,1749209109,2396489472#notes:PvE - MW Impact
 dimwishlist:item=1313528549&perks=1261178282,3625355092,1749209109,2396489472#notes:PvE - MW Impact
@@ -2754,7 +2799,7 @@ dimwishlist:item=1313528549&perks=1261178282,2349202967,1749209109,2396489472#no
 dimwishlist:item=1313528549&perks=1261178282,269888150,1749209109,2396489472#notes:PvE - MW Impact
 
 // -----
-// eternity's edge - Solar warlock sword - Vortex Frame (World)
+// Eternity's Edge - Solar Warlock Sword - Vortex Frame (World)
 // PvE: relentless + flash counter
 dimwishlist:item=2782325301&perks=436053704,2363751990,1749209109,2244851822#notes:PvE - MW Impact
 dimwishlist:item=2782325301&perks=1261178282,2363751990,1749209109,2244851822#notes:PvE - MW Impact
