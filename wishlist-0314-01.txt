@@ -386,6 +386,11 @@ dimwishlist:item=3258665412&perks=1482024992,2969185026,3300816228,1683379515#no
 dimwishlist:item=-3044460004#notes:no good perk. other Solar fusions are all better.
 
 // -----
+// Iterative Loop - Arc 500 Fusion Rifle - Rapid-Fire Frame (Neomuna)
+// PvE: Arrowhead, Accelerated, Compulsive Reloader, Voltshot
+dimwishlist:item=1289796511&perks=839105230,689005463,671806388,2173046394#notes: PvE - MW Charge (Craftable)
+
+// -----
 // Midha's Reckoning - Arc 960 Fusion Rifle - High Impact Frame (King's Fall Raid)
 // PvE: Arrowhead, Accelerated, Cornered, Reservoir Burst
 dimwishlist:item=3969066556&perks=839105230,689005463,1799762209,1427256713#notes:PvE: Charge Time (Craftable)
@@ -664,6 +669,11 @@ dimwishlist:item=1622998472&perks=,3700496672,3038247973#notes: PvE
 dimwishlist:item=1622998472&perks=,1168162263,124408337:#notes: PvE
 
 // -----
+// Round Robin - Strand 120 Hand Cannon - Aggressive Frame (Neomuna)
+// PvE: Smallbore, Flared Magwell, Subsistence, Hatchling
+dimwishlist:item=2034215657&perks=1482024992,3230963543,1820235745,831391274#notes: PvE - MW Reload (Craftable)
+
+// -----
 // igneous hammer - Solar 120 Hand Cannon - Aggressive Frame (Trials of Osiris)
 dimwishlist:item=-2351180975#notes:hate 120. use annual skate instead.
 
@@ -829,6 +839,11 @@ dimwishlist:item=3568377122&perks=3525010810,2822142346,951095735,2978966579#not
 dimwishlist:item=3568377122&perks=981914802,3373736292,951095735,2978966579#notes:PvE - MW Blast or Velocity
 dimwishlist:item=3568377122&perks=1441682018,3373736292,951095735,2978966579#notes:PvE - MW Blast or Velocity
 dimwishlist:item=3568377122&perks=3525010810,3373736292,951095735,2978966579#notes:PvE - MW Blast or Velocity
+
+// -----
+// Dimensional Hypotrochoid - Stasis Heavy Grenade Launcher - Wave frame (Neomuna)
+// PvE: Volatile, High Velocity, Unrelenting, Chain Reaction
+dimwishlist:item=1311684613&perks=1478423395,2822142346,3108830275,2396489472#notes: PvE - MW Blast (Craftable)
 
 // -----
 // Canis Major - Solar Heavy Grenade Launcher - Rapid-Fire Frame (Season of Lost)
@@ -1053,7 +1068,12 @@ dimwishlist:item=1321506184&perks=839105230,106909392,2621346526,124408337#notes
 // PvE: Smallbore, Tactical, Subsistence, Headstone
 dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,124408337#notes:PvE - MW Reload (Craftable)
 
-//-----
+// -----
+// Circular Logic - Strand 450 Machine Gun - Adaptive Frame (Neomuna)
+// PvE: Feeding Frenzy + Hatchling
+dimwishlist:item=2187717691&perks=,2779035018,831391274#notes: PvE
+
+// -----
 // Archon's Thunder - Solar 360 Machine Gun - High Impact Frame (Iron Banner)
 dimwishlist:item=-1967303408#notes: No good perk.
 
@@ -2452,6 +2472,11 @@ dimwishlist:item=2349907931&perks=3250034553,1968497646,2450788523,4104185692#no
 dimwishlist:item=-1509167284#notes: Ugly scope.
 
 // -----
+// Synchronic Roulette - Strand 600 SMG - Precision Frame (Neomuna)
+// PvE: Envious Assassin + Hatchling
+dimwishlist:item=811403305&perks=,968510818,831391274#notes: PvE
+
+// -----
 // CALUS Mini-Tool - Solar 900 SMG - MIDA (Season of Haunted - Leviathan)
 // PvP: Arrowhead, Accurized, Moving Target, Tap the Trigger
 dimwishlist:item=2490988246&perks=839105230,3142289711,588594999,1890422124#notes:PvE - MW Range (Craftable)
@@ -2607,6 +2632,11 @@ dimwishlist:item=-686951703#notes:just use succession.
 // Thoughtless - Stasis Sniper - Adaptive Frame (Season of Risen)
 // PvE: Arrowhead, Tactical Mag, Overflow, Firing Line
 dimwishlist:item=4067556514&perks=839105230,106909392,3643424744,1771339417#notes:PvE - MW Reload (Craftable)
+
+// -----
+// Volta Bracket - Strand 72 Sniper - Aggressive Frame (Neomuna)
+// PvE: Arrowhead, Tactical Mag, Triple Tap, Firing Line
+dimwishlist:item=3920310144&perks=839105230,106909392,3400784728,1771339417#notes: PvE - MW Reload (Craftable)
 
 // -----
 // far future - Solar Sniper - Adaptive Frame (season of chosen - battlegrounds)
