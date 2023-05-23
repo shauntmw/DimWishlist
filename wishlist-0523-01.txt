@@ -100,13 +100,15 @@ dimwishlist:item=2852052802&perks=,3643424744,4049631843#notes:PvE - MW Any exce
 
 // -----
 // Perpetualis - Strand 600 Auto Rifle - Adaptive Frame (Season of Defiant)
-// PvE: Arrowhead, Tactical, Envious Assassin, Hatchling
-dimwishlist:item=392008588&perks=839105230,106909392,968510818,831391274#notes:PvE - MW Reload (Craftable)
+dimwishlist:item=-392008588:notes: Use Rufus Fury better.
 
 // -----
 // Rufus's Fury - Strand 720 Auto Rifle - Rapid-Fire Frame (Root of Nightmares Raid)
 // PvE: Arrowhead, Light Mag, Demolitionist, Hatchling
 dimwishlist:item=484515708&perks=839105230,679225683,3523296417,831391274#notes:PvE - MW Reload (Craftable)
+
+// PvE: Arrowhead, Appended, Rewind Rounds, Target Lock
+dimwishlist:item=484515708&perks=839105230,1087426260,3418782618,365154968#notes: PvE - MW Reload (Craftable)
 
 // -----
 // chrysura melo - Solar 360 Auto Rifle - High Impact Frame (Season of Lost)
@@ -778,22 +780,9 @@ dimwishlist:item=1835747805&perks=1926090092,3230963543,1820235745,2848615171#no
 dimwishlist:item=1835747805&perks=1926090093,3230963543,1820235745,2848615171#notes:PvE - MW Any except Handling
 
 // -----
-// posterity - Arc 180 Hand Cannon - Precision Frame (Deep Stone Crypt)
-// PvE: Reconstruction + Demolitionist
-dimwishlist:item=3281285075&perks=202670084,1087426260,1523832109,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=3281285075&perks=3250034553,1087426260,1523832109,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=3281285075&perks=1482024992,1087426260,1523832109,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=3281285075&perks=202670084,106909392,1523832109,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=3281285075&perks=3250034553,106909392,1523832109,3523296417#notes:PvE - MW Any except Handling
-dimwishlist:item=3281285075&perks=1482024992,106909392,1523832109,3523296417#notes:PvE - MW Any except Handling
-
-// PvE: Reconstruction + One for All
-dimwishlist:item=3281285075&perks=202670084,1087426260,1523832109,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=3281285075&perks=3250034553,1087426260,1523832109,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=3281285075&perks=1482024992,1087426260,1523832109,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=3281285075&perks=202670084,106909392,1523832109,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=3281285075&perks=3250034553,106909392,1523832109,4049631843#notes:PvE - MW Any except Handling
-dimwishlist:item=3281285075&perks=1482024992,106909392,1523832109,4049631843#notes:PvE - MW Any except Handling
+// Posterity - Arc 180 Hand Cannon - Precision Frame (Deep Stone Crypt)
+// PvE: Smallbore, Tactical Mag, Voltshot, Frenzy
+dimwishlist:item=3281285075&perks=1482024992,106909392,2173046394,4104185692#notes: PvE - MW Reload (Craftable)
 
 // -----
 // Bottom Dollar - Void 120 Hand Cannon - Aggressive Frame (Gambit)
@@ -1084,8 +1073,8 @@ dimwishlist:item=3075224551&perks=1482024992,2969185026,3300816228,1546637391#no
 // Type - Machine Gun
 // --------------------------------------------------------------------------
 // Qullim's Terminus - Stasis 360 Machine Gun - High Impact Frame (King's Fall Raid)
-// PvE: Arrowhead, Tactical Mag, Ensemble, Headstone
-dimwishlist:item=1321506184&perks=839105230,106909392,2621346526,124408337#notes:PvE - MW Reload (Craftable)
+// PvE: Arrowhead, Tactical Mag, Stats for all, Headstone
+dimwishlist:item=1321506184&perks=839105230,106909392,1583705720,124408337#notes:PvE - MW Reload (Craftable)
 
 // -----
 // Recurrent Impact - Stasis 900 Machine Gun - Rapid-Fire Frame (Season of Risen)
@@ -1918,6 +1907,11 @@ dimwishlist:item=-3556999246#notes:Use Staccato better,
 dimwishlist:item=1392919471&perks=839105230,3142289711,2387244414,47981717#notes:PvP - MW Any
 
 // -----
+// Trustee - Solar 260 Scout Rifle - Rapid-Fire Frame (Deep Stone Crypt)
+// PvE: Arrowhead, Tactical Mag, Reconstruction, Incandescent
+dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,4293542123#notes: PvE - MW Reload
+
+// -----
 // Long Arm - Arc 120 Scout Rifle - Aggressive Frame (Spire of Watcher Dungeon)
 dimwishlist:item=-8293111#notes: Bad archetype. Use Tarnished Mettle instead.
 
@@ -2143,11 +2137,9 @@ dimwishlist:item=-1402766122#notes:no good perk. use retold tale instead.
 // --------------------------------------------------------------------------
 // Type - Shotgun (Slug)
 // --------------------------------------------------------------------------
-// heritage - Kinetic Slug Shotgun - Precision Frame (Deep Stone Crypt)
-// PvE: Reconstruction + recombination
-dimwishlist:item=4248569242&perks=1467527085,106909392,1523832109,469285294#notes:PvE - MW Range
-dimwishlist:item=4248569242&perks=202670084,106909392,1523832109,469285294#notes:PvE - MW Range
-dimwishlist:item=4248569242&perks=3250034553,106909392,1523832109,469285294#notes:PvE - MW Range
+// Heritage - Kinetic Slug Shotgun - Precision Frame (Deep Stone Crypt)
+// PvE: Full Bore, Assault Mag, Reconstruction, Recombination
+dimwishlist:item=4248569242&perks=202670084,791862061,1523832109,469285294#notes:PvE - MW Range (Craftable)
 
 // -----
 // blasphermer - Kinetic Slug Shotgun - Precision Frame (Moon)
@@ -2950,12 +2942,11 @@ dimwishlist:item=-2857348871#notes:use bequest instead.
 
 // -----
 // Bequest - Arc sword - Adaptive Frame (Deep Stone Crypt)
-// PvE: Relentless + En Garde
-dimwishlist:item=3366545721&perks=3666208348,52780822,1749209109,1685431615#notes:PvE - MW Impact
-dimwishlist:item=3366545721&perks=3666208348,3625355092,1749209109,1685431615#notes:PvE - MW Impact
-dimwishlist:item=3366545721&perks=3666208348,599007201,1749209109,1685431615#notes:PvE - MW Impact
-dimwishlist:item=3366545721&perks=3666208348,2349202967,1749209109,1685431615#notes:PvE - MW Impact
-dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,1685431615#notes:PvE - MW Impact
+// PvE: Enduring, Balanced, Unrelenting, Chain Reaction
+dimwishlist:item=3366545721&perks=1261178282,52780822,3108830275,2396489472#notes: PvE - MW Impact (Craftable)
+
+// PvE: Jagged, Swordmaster, Relentless, Vorpal
+dimwishlist:item=3366545721&perks=3666208348,52780822,1749209109,1546637391#notes: PvE - MW Impact (Craftable)
 
 // -----
 // night terror - Arc sword - Adaptive Frame (Moon)
@@ -2975,7 +2966,7 @@ dimwishlist:item=3257091166&perks=1261178282,52780822,1749209109,2077819806#note
 dimwishlist:item=3257091166&perks=1261178282,52780822,3108830275,2396489472#notes:PvE - MW Impact (Craftable)
 
 // -----
-// falling guillotine - Void Sword - Vortex Frame (World)
+// Falling Guillotine - Void Sword - Vortex Frame (World)
 // PvE: relentless + whirlwind
 dimwishlist:item=614426548&perks=3666208348,52780822,1749209109,3913600130#notes:PvE - MW Impact
 dimwishlist:item=614426548&perks=3666208348,3625355092,1749209109,3913600130#notes:PvE - MW Impact
@@ -2984,9 +2975,14 @@ dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,3913600130#not
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:PvE - MW Impact
 
 // -----
-// Razor's Edge - Void Sword - Vortex Frame (Iron Banner)
+// Razor's Edge - Void Warlock Sword - Vortex Frame (Iron Banner)
 // PvE: Relentless + Chain Reaction
 dimwishlist:item=1796949035&perks=,1749209109,2396489472#notes:PvE - MW Impact
+
+// -----
+// Death's Razor - Void Sword - Vortex Frame (Season of Defiant)
+// PvE: Jagged, Relentless, Whirlwind
+dimwishlist:item=3371413056&perks=3666208348,2363751990,1749209109,3913600130#PvE - MW Impact
 
 // -----
 // steel sybil z-14 - Void Sword - Adaptive Frame (Crucible)
@@ -2999,8 +2995,8 @@ dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130#not
 
 // -----
 // The Other Half - Void Sword - Adaptive Frame (Dares of Eternity)
-// PvE: Enduring, Balanced, Relentless, Whirlwind
-dimwishlist:item=3257091167&perks=1261178282,52780822,1749209109,3913600130#notes:PvE - MW Impact
+// PvE: Jagged, Swordmaster, Relentless, Whirlwind
+dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,3913600130#notes:PvE - MW Impact (Craftable)
 
 // PvE: Enduring, Balanced, Eager Edge, Vorpal
 dimwishlist:item=3257091167&perks=1261178282,52780822,2077819806,1546637391#notes:PvE - MW Impact (Craftable)
