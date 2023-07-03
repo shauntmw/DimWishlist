@@ -439,6 +439,12 @@ dimwishlist:item=253196586&perks=2405638015,2969185026,3300816228,1015611457#not
 dimwishlist:item=253196586&perks=2405638014,2969185026,3300816228,1015611457#notes:PvE - MW Stability, Range or Reload
 
 // -----
+// Loaded Question - Arc 960 Fusion Rifle - High-Impact Frame (Nightfall)
+// PvE: Overflow + Reservoir Burst
+dimwishlist:item=3125454907&perks=,3643424744,1427256713#notes: PvE
+dimwishlist:item=2914913838&perks=,3643424744,1427256713#notes: PvE (Adept)
+
+// -----
 // Null Composure - Void Fusion Rifle - Rapid-Fire Frame (Ritual - Splicer)
 dimwishlist:item=1644680957#notes: Ritual Weapon
 
@@ -608,6 +614,11 @@ dimwishlist:item=-1476654960#notes: No good perk.
 dimwishlist:item=3055790362&perks=3250034553,679225683,3400784728,4104185692#notes:PvE - MW Reload (Craftable)
 
 // -----
+// Spare Rations - Kinetic 140 Hand Cannon - Adaptive Frame (World)
+// PvE: Rapid Hit + Kinetic Tremors
+dimwishlist:item=3236112986&perks=,247725512,3891536761#notes: PvE
+
+// -----
 // Seventh Seraph Officer Revolver - Kinetic 180 Hand Cannon - Precision Frame (World)
 // PvE: Threat Detector + Timed Payload
 dimwishlist:item=3037520408&perks=4090651448,106909392,4071163871,1954620775#notes:PvE - MW Range or Reload
@@ -696,6 +707,10 @@ dimwishlist:item=-1141547457#notes: No good perks.
 // Trust - Solar 180 Hand Cannon - Precision Frame (Gambit)
 // PvE: Frenzy
 dimwishlist:item=2850664015&perks=,4104185692#notes: Perk pool too big.
+
+// -----
+// Combined Action - Arc 120 Hand Cannon - Aggressive Frame (World)
+dimwishlist:item=-1331824604#notes: Hate 120.
 
 // -----
 // Finite Impactor - Arc 140 Hand Cannon - Adaptive Frame (Iron Banner)
@@ -966,6 +981,11 @@ dimwishlist:item=1399243961&perks=3250034553,2680121939,3400784728,1771339417#no
 // Fire and Forget - Stasis Linear Fusion Rifle - Aggressive Frame (Season of Seraph)
 // PvE: Arrowhead, Accelerated, Field Prep, Chill Clip
 dimwishlist:item=2272041093&perks=839105230,689005463,2869569095,2978966579#notes:PvE - MW Stability (Craftable)
+
+// -----
+// Laser Painter - Strand 533 Linear Fusion Rifle - Precision Frame (Gambit)
+// PvE: Auto-Loading + Vorpal
+dimwishlist:item=3221722018&perks=,3300816228,1546637391#notes: PvE
 
 // -----
 // Cataclysmic - Solar Linear Fusion Rifle - Precision Frame (Vow of the Disciple)
@@ -1357,6 +1377,11 @@ dimwishlist:item=2603335652&perks=,1820235745,4293542123#notes:PvE - MW Any
 
 // PvE: Rangefinder + Frenzy
 dimwishlist:item=2603335652&perks=,2846385770,4104185692#notes:PvE - MW Any
+
+// -----
+// Outlast - Solar 540 Pulse Rifle - Rapid-Fire Frame (World)
+// PvE: Rangefinder + Demolitionist
+dimwishlist:item=1678205741&perks=,2846385770,3523296417#notes: PvE
 
 // -----
 // Phyllotactic Spiral - Arc 340 Pulse Rifle - High Impact Frame (Neomuna)
@@ -1793,6 +1818,18 @@ dimwishlist:item=1019000888&perks=,247725512,124408337#notes:PvE - MW Any except
 // -----
 // Jararaca-3sr - Stasis 260 Scout Rifle - Rapid Fire Frame (World)
 dimwishlist:item=-1851521408#notes: Use Perses-D better.
+
+// -----
+// Glissando-47 - Strand 180 Scout Rifle - Precision Frame (World)
+dimwishlist:item=-222606050#notes: Use Taraxippos instead.
+
+// -----
+// Taraxippos - Strand 200 Scout Rifle - Lightweight Frame (Dawning 2022)
+// PvE: Outlaw + Hatchling
+dimwishlist:item=1389546626&perks=,1168162263,831391274#notes: PvE
+
+// PvE: Fourth Time + Explosive Payload
+dimwishlist:item=1389546626&perks=,1354429876,3038247973#notes: PvE
 
 // -----
 // Vision of Confluence - Solar 180 Scout Rifle - Precision Frame (Vault of Glass)
@@ -2364,7 +2401,7 @@ dimwishlist:item=2026087437&perks=,3032599245,3300816228,2978966579#notes:PvE - 
 dimwishlist:item=1125217994&perks=,3523296417,691659142#notes:PvE
 
 // -----
-// empty vessel - Solar special grenade - Lightweight Frame (World)
+// Empty Vessel - Solar special grenade - Lightweight Frame (World)
 // PvE: Blinding + Auto Loading + Demolitionist
 dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
 dimwishlist:item=4255586669&perks=1441682018,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
@@ -2404,6 +2441,11 @@ dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,1683379515#not
 // Deafening Whisper - Void Special Grenade Launcher - Wave frame (Season of Hunt)
 // PvE: Lead from Gold + Auto Loading
 dimwishlist:item=981718087&perks=,1556840489,3300816228#notes: PvE
+
+// -----
+// Harsh Language - Void Special Grenade Launcher - Wave Frame (World)
+// PvE: Stats for all + Destabilizing Rounds
+dimwishlist:item=1606497639&perks=,1583705720,2048641572#notes: PvE
 
 // -----
 // Orewing's Maul - Void special grenade - Lightweight Frame (Iron Banner)
@@ -2490,6 +2532,10 @@ dimwishlist:item=2490988246&perks=839105230,3142289711,588594999,1890422124#note
 
 // PvE: Arrowhead, Accurized, Unrelenting, Incandescent
 dimwishlist:item=2490988246&perks=839105230,3142289711,3108830275,4293542123#notes:PvE - MW Reload (Craftable)
+
+// -----
+// Bug-Out Bag - Solar 900 SMG - Adaptive Frame (World)
+dimwishlist:item=-2832639510#notes: Use Calus Mini Tool instead.
 
 // -----
 // IKELOS SMG - Arc 750 SMG - Aggressive Frame
@@ -2734,6 +2780,10 @@ dimwishlist:item=3326850591&perks=1467527085,1087426260,3643424744,4104185692#no
 // PvE: Triple Tap + Vorpal
 // PvP: Killing Wind + Snapshot
 dimwishlist:item=4184808992#notes:Ritual
+
+// -----
+// Sole Survivor - Arc 90 Sniper - Adaptive Frame (World)
+dimwishlist:item=-1150492185#notes: Useless. Use Mechabre instead.
 
 // -----
 // Albruna-D - Arc Sniper - Aggressive Frame (Gambit)
@@ -2993,8 +3043,8 @@ dimwishlist:item=548958835&perks=1482024992,732557052,3700496672,3523296417#note
 
 // -----
 // Acasia's Dejection - Solar Trace Rifle - Adaptive Frame (Root of Nightmares Raid)
-// PvE: Smallbore, Enhanced Battery, Rewind Rounds, Incandescent
-dimwishlist:item=1471212226&perks=1482024992,2680121939,3418782618,4293542123#notes:PvE - MW Reload (Craftable)
+// PvE: Smallbore, Enhanced Battery, Reconstruction, Incandescent
+dimwishlist:item=1471212226&perks=1482024992,2680121939,1523832109,4293542123#notes:PvE - MW Stability (Craftable)
 
 // -----
 // Path of Least Resistance - Arc Trace Rifle - Adaptive Frame (Season of Seraph)
