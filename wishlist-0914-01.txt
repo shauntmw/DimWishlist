@@ -102,6 +102,10 @@ dimwishlist:item=2852052802&perks=,3643424744,4049631843#notes:PvE - MW Any exce
 dimwishlist:item=-392008588:notes: Use Rufus Fury better.
 
 // -----
+// Old Sterling - Strand 600 Auto Rifle - Adaptive Frame (World)
+dimwishlist:item=-3678653083#notes: Use Rufus Fury better.
+
+// -----
 // Rufus's Fury - Strand 720 Auto Rifle - Rapid-Fire Frame (Root of Nightmares Raid)
 // PvE: Arrowhead, Light Mag, Demolitionist, Hatchling
 dimwishlist:item=484515708&perks=839105230,679225683,3523296417,831391274#notes:PvE - MW Reload (Craftable)
@@ -325,6 +329,11 @@ dimwishlist:item=-933455006#notes: No good perk
 dimwishlist:item=963710795&perks=,1523832109,2978966579#notes:PvE
 
 // -----
+// Pressurized Precision - Strand Fusion Rifle - 660 Adaptive Frame (Iron Banner)
+// PvE: Auto-Loading + Vorpal
+dimwishlist:item=1084190509&perks=,3300816228,1546637391#notes: PvE
+
+// -----
 // Cartesian Coordinate - Solar Fusion Rifle - Rapid-Fire Frame (World)
 // PvE: Lead from Gold + Vorpal
 dimwishlist:item=2481881293&perks=,1556840489,1546637391#notes: PvE
@@ -365,8 +374,13 @@ dimwishlist:item=3258665412&perks=3250034553,2969185026,3300816228,1683379515#no
 dimwishlist:item=3258665412&perks=1482024992,2969185026,3300816228,1683379515#notes:PvE - MW Range
 
 // -----
-// iota draconis - Solar Fusion Rifle - High Impact Frame (Season of Lost)
+// Iota Draconis - Solar Fusion Rifle - 960 High Impact Frame (Season of Lost)
 dimwishlist:item=-3044460004#notes:no good perk. other Solar fusions are all better.
+
+// -----
+// The Eremite - Solar Fusion Rifle - 960 High Impact Frame (Season of Witch)
+// PvE: Arrowhead, Accelerated, Compulsive Reloader, Reservoir Burst
+dimwishlist:item=3347946548&perks=839105230,689005463,671806388,1427256713#notes: PvE - MW Charge Time (Craftable)
 
 // -----
 // Iterative Loop - Arc 500 Fusion Rifle - Rapid-Fire Frame (Neomuna)
@@ -676,6 +690,10 @@ dimwishlist:item=1622998472&perks=,1168162263,124408337:#notes: PvE
 // Round Robin - Strand 120 Hand Cannon - Aggressive Frame (Neomuna)
 // PvE: Smallbore, Flared Magwell, Subsistence, Hatchling
 dimwishlist:item=2034215657&perks=1482024992,3230963543,1820235745,831391274#notes: PvE - MW Reload (Craftable)
+
+// -----
+// Kept Confidence - Strand 140 Hand Cannon - Adaptive Frame (Season of Witch)
+dimwishlist:item=-1875512595#notes: No good perks.
 
 // -----
 // igneous hammer - Solar 120 Hand Cannon - Aggressive Frame (Trials of Osiris)
@@ -1062,7 +1080,7 @@ dimwishlist:item=-1967303408#notes: No good perk.
 
 // -----
 // Fixed Odds - Solar 360 Machine Gun - High Impact Frame (Duality Dungeon)
-dimwishlist:item=2194955522#notes: No good perk.
+dimwishlist:item=-2194955522#notes: No good perk.
 
 // -----
 // Avalanche (2022) - Solar 450 Machine Gun - Adaptive Frame (Dawning)
@@ -1183,6 +1201,10 @@ dimwishlist:item=3325778512&perks=1482024992,1885400500,2869569095,4104185692#no
 // -----
 // Planck's Stride - Arc 900 Machine Gun - Rapid-Fire Frame (Season of Plunder)
 dimwishlist:item=-820890091#notes:No good perks.
+
+// -----
+// Eleatic Principle - Arc 900 Machine Gun - Rapid-Fire Frame (Season of Witch)
+dimwishlist:item=-105306149#notes: No good perks.
 
 // -----
 // Commemoration - Void 450 Machine Gun - Adaptive Frame (Deep Stone Crypt)
@@ -1472,6 +1494,19 @@ dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,1546637391#no
 
 // PvE: Volatile, Impact Casing, Field Prep, Chill Clip
 dimwishlist:item=1959650777&perks=1478423395,3796465595,2869569095,2978966579#notes:PvE - MW Reload (Craftable)
+
+// -----
+// Crowning Duologue - Strand Rocket Launcher - Precision Frame (Season of Deep - Solstice)
+// PvE: Impulse Amplifier + Envious Assassin
+dimwishlist:item=3256453690&perks=,951095735,968510818
+
+// -----
+// Semiotician - Strand Rocket Launcher - High Impact Frame (Season of Witch)
+// PvE: Quick Launch, Alloy Casing, Field Prep, Bipod
+dimwishlist:item=2922749929&perks=3525010810,2985827016,2869569095,1439600632#notes: PvE - MW Reload (Craftable)
+
+// PvE: Quick Launch, Impact Casing, Field Prep, Explosive Light
+dimwishlist:item=2922749929&perks=3525010810,3796465595,2869569095,3194351027#notes: PvE - MW Reload (Craftable)
 
 // -----
 // Ascendancy - Solar Rocket Launcher - Precision Frame (ritual)
@@ -1907,6 +1942,11 @@ dimwishlist:item=1937552980&perks=839105230,106909392,3038247973,4104185692#note
 dimwishlist:item=1937552980&perks=839105230,106909392,3824105627,2848615171#notes:PvE - MW Handling (Craftable)
 
 // -----
+// Brya's Love - Void 180 Scout Rifle - Precision Frame (Season of Witch)
+// PvE: Arrowhead, Tactical, Shoot to Loot, Destabilizing Rounds
+dimwishlist:item=2779821308&perks=839105230,106909392,3700496672,2048641572#notes: PvE - MW Reload Craftable)
+
+// -----
 // Vouchsafe - Void 200 Scout Rifle - Lightweight Frame (Dreaming City)
 dimwishlist:item=-3242168339#notes: Use Doom of Chelchis.
 
@@ -2326,7 +2366,7 @@ dimwishlist:item=409551876&perks=1482024992,679225683,4071163871,4049631843#note
 // -----
 // Brigand's Law - Arc 450 Sidearm - Rapid-Fire Frame (Season of Plunder)
 // PvE: Extended, Flared Magwell, Pugilist, Voltshot
-dimwishlist:item=1298815317&perks=1467527085,3230963543,691659142,2173046394#notes:PvE - MW Range (Craftable)
+dimwishlist:item=1298815317&perks=1467527085,3230963543,691659142,2173046394#notes:PvE - MW Reload (Craftable)
 
 // PvP: Hammer Forged, Accurized, Hip-Fire Grip, Rangefinder
 dimwishlist:item=1298815317&perks=3250034553,3142289711,1866048759,2846385770#notes:PvP - MW Range (Craftable)
@@ -2489,6 +2529,11 @@ dimwishlist:item=-4100775158#notes:No good perks.
 // Forensic Nightmare - Stasis 600 SMG - Precision Frame (Witch Queen Campaign)
 // PvE: Hammer Forged, Light Mag, Grave Robber, Swashbuckler
 dimwishlist:item=1526296434&perks=3250034553,679225683,1631667848,4082225868#notes:PvE - MW Range (Craftable)
+
+// -----
+// Unending Tempest - Stasis 600 SMG - Precision Frame (Crucible)
+// PvE: Demolitionist + Frenzy
+dimwishlist:item=2510526114&perks=,3523296417,4104185692#notes:PvE
 
 // -----
 // Rapacious Appetite - Stasis 750 SMG - Aggressive Frame (Season of Deep)
@@ -2676,9 +2721,14 @@ dimwishlist:item=2884596447&perks=1840239774,1885400500,957782887,47981717#notes
 dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,1354429876#notes: PvE - MW Reload (Craftable)
 
 // -----
-// Thoughtless - Stasis Sniper - Adaptive Frame (Season of Risen)
+// Thoughtless - Stasis 90 Sniper - Adaptive Frame (Season of Risen)
 // PvE: Arrowhead, Tactical Mag, Overflow, Firing Line
 dimwishlist:item=4067556514&perks=839105230,106909392,3643424744,1771339417#notes:PvE - MW Reload (Craftable)
+
+// -----
+// Locus Locutus - Stasis 90 Sniper - Adaptive Frame (Season of Witch)
+// PvE: Arrowhead, Tactical Mag, Overflow, Firing Line
+dimwishlist:item=4132072834&perks=839105230,106909392,3643424744,1771339417#notes:PvE - MW Reload (Craftable)
 
 // -----
 // Irukandji - Stasis 140 Sniper - Rapid-Fire Frame (World)
@@ -2885,6 +2935,10 @@ dimwishlist:item=-1644160541#notes:already have negative space.
 dimwishlist:item=2508948099&perks=1261178282,52780822,1749209109,4293542123#notes: PvE
 
 // -----
+// Just in Case - Solar Sword - Adaptive Frame (World)
+dimwishlist:item=-1139727256#notes: Useless. Use Caretaker.
+
+// -----
 // Sola's Scar - Solar Sword - Caster Frame (Trials of Osiris)
 // PvE: relentless + Chain Reaction
 dimwishlist:item=1313528549&perks=1261178282,52780822,1749209109,2396489472#notes:PvE - MW Impact
@@ -2901,6 +2955,10 @@ dimwishlist:item=2782325301&perks=1261178282,2363751990,1749209109,2244851822#no
 dimwishlist:item=2782325301&perks=2827049491,2363751990,1749209109,2244851822#notes:PvE - MW Impact
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,2244851822#notes:PvE - MW Impact
 dimwishlist:item=2782325301&perks=938542991,2363751990,1749209109,2244851822#notes:PvE - MW Impact
+
+// -----
+// Throne-Cleaver - Titan Solar Sword - Aggressive Frame (Season of Defiant)
+dimwishlist:item=-3371413059#notes: No good perk.
 
 // -----
 // Temptation's Hook - Arc Sword - Caster Fframe (World)
@@ -2950,6 +3008,11 @@ dimwishlist:item=3257091166&perks=1261178282,52780822,1749209109,2077819806#note
 dimwishlist:item=3257091166&perks=1261178282,52780822,3108830275,2396489472#notes:PvE - MW Impact (Craftable)
 
 // -----
+// Goldtusk - Arc Hunter Sword - Lightweight Frame (Season of Defiant)
+// PvE: Enduring, Relentless, Chain Reaction
+dimwishlist:item=3371413057&perks=1261178282,1749209109,2396489472#notes: PvE
+
+// -----
 // Falling Guillotine - Void Sword - Vortex Frame (World)
 // PvE: relentless + whirlwind
 dimwishlist:item=614426548&perks=3666208348,52780822,1749209109,3913600130#notes:PvE - MW Impact
@@ -2986,14 +3049,14 @@ dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,3913600130#not
 dimwishlist:item=3257091167&perks=1261178282,52780822,2077819806,1546637391#notes:PvE - MW Impact (Craftable)
 
 // -----
-// quickfang - Void hunter sword - Lightweight Frame (World)
+// Quickfang - Void Hunter Sword - Lightweight Frame (World)
 // PvE: relentless + assassin blade
 dimwishlist:item=2782325300&perks=436053704,269888150,1749209109,354401740#notes:PvE - MW Impact
 dimwishlist:item=2782325300&perks=1261178282,269888150,1749209109,354401740#notes:PvE - MW Impact
 dimwishlist:item=2782325300&perks=938542991,269888150,1749209109,354401740#notes:PvE - MW Impact
 
 // -----
-// crown-splitter - Void titan sword - Aggressive Frame (World)
+// Crown-Splitter - Void titan sword - Aggressive Frame (World)
 // PvE: relentless + Vorpal
 dimwishlist:item=2782325302&perks=436053704,2349202967,1749209109,1546637391#notes:PvE - MW Impact
 dimwishlist:item=2782325302&perks=1261178282,2349202967,1749209109,1546637391#notes:PvE - MW Impact
@@ -3065,59 +3128,7 @@ dimwishlist:item=3856705927&perks=,2846385770,3438534621#notes:PvE
 
 // -----
 // Dead Man's Tale
-// PvP: Arrowhead, Accurized, Subsistence, Any except Fitted
-dimwishlist:item=3654674561&perks=839105230,3142289711,1820235745,3465198467#notes:PvP
-dimwishlist:item=3654674561&perks=839105230,3142289711,1820235745,990298390#notes:PvP
-dimwishlist:item=3654674561&perks=839105230,3142289711,1820235745,1067908860#notes:PvP
-
-// PvP: Arrowhead, Accurized, Vorpal, Any except Fitted
-dimwishlist:item=3654674561&perks=839105230,3142289711,1546637391,3465198467#notes:PvP
-dimwishlist:item=3654674561&perks=839105230,3142289711,1546637391,990298390#notes:PvP
-dimwishlist:item=3654674561&perks=839105230,3142289711,1546637391,1067908860#notes:PvP
-
-// PvE: Outlaw
-dimwishlist:item=3654674561&perks=202670084,3230963543,1168162263,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=3250034553,3230963543,1168162263,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=1392496348,3230963543,1168162263,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=1482024992,3230963543,1168162263,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=202670084,679225683,1168162263,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=3250034553,679225683,1168162263,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=1392496348,679225683,1168162263,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=1482024992,679225683,1168162263,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=3661387068,3230963543,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1467527085,3230963543,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=202670084,3230963543,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=3250034553,3230963543,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1392496348,3230963543,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1482024992,3230963543,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=3661387068,679225683,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1467527085,679225683,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=202670084,679225683,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=3250034553,679225683,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1392496348,679225683,1168162263,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1482024992,679225683,1168162263,990298390#notes:PvE
-
-// PvE: Vorpal
-dimwishlist:item=3654674561&perks=202670084,3230963543,1546637391,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=3250034553,3230963543,1546637391,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=1392496348,3230963543,1546637391,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=1482024992,3230963543,1546637391,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=202670084,679225683,1546637391,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=3250034553,679225683,1546637391,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=1392496348,679225683,1546637391,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=1482024992,679225683,1546637391,4259401308#notes:PvE
-dimwishlist:item=3654674561&perks=3661387068,3230963543,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1467527085,3230963543,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=202670084,3230963543,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=3250034553,3230963543,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1392496348,3230963543,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1482024992,3230963543,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=3661387068,679225683,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1467527085,679225683,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=202670084,679225683,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=3250034553,679225683,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1392496348,679225683,1546637391,990298390#notes:PvE
-dimwishlist:item=3654674561&perks=1482024992,679225683,1546637391,990298390#notes:PvE
+dimwishlist:item=-2188764214#notes: Useless Exotic.
 
 // -----
 // Osteo Striga
