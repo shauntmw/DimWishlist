@@ -68,6 +68,14 @@ dimwishlist:item=1788603939&perks=,3700496672,4104185692#notes: PvE
 dimwishlist:item=1788603939&perks=,3700496672,3523296417#notes: PvE
 
 // -----
+// Horror Story - Stasis 450 Auto Rifle - Precision Frame (Halloween 2023)
+// PvE: Demolitionist + Headstone
+dimwishlist:item=177568179&perks=,3523296417,124408337#notes: PvE
+
+// PvE: Demolitionist + Frenzy
+dimwishlist:item=177568179&perks=,3523296417,4104185692#notes: PvE
+
+// -----
 // Krait - Stasis 720 Auto Rifle - Rapid-Fire Frame (World)
 // PvE: Overflow + One for All
 dimwishlist:item=2852052802&perks=,3643424744,4049631843#notes:PvE
@@ -874,11 +882,11 @@ dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3300816228#not
 
 // -----
 // Swarm of the Raven - Void Heavy Grenade Launcher - Rapid-Fire Frame (Iron Banner)
-dimwishlist:item=-1972985595#notes:use memory interdict instead.
+dimwishlist:item=-1972985595#notes: Use Memory Interdict instead.
 
 // -----
 // Crowd Pleaser - Void Heavy Grenade Launcher - Adaptive Frame (Gambit)
-dimwishlist:item=-3565520715#notes:use memory interdict instead.
+dimwishlist:item=-3565520715#notes: Use Memory Interdict instead.
 
 // -----
 // Memory Interdict - Void Heavy Grenade Launcher - Adaptive Frame (Season of Splicer)
@@ -900,6 +908,10 @@ dimwishlist:item=3165547384&perks=3525010810,2822142346,3300816228,2396489472#no
 // Regnant - Void Heavy Grenade Launcher - Adaptive Frame (Season of Defiant)
 // PvE: Volatile, High-Explosive, Auto-Loading, Destabilizing Rounds
 dimwishlist:item=268260372&perks=1478423395,1380253176,3300816228,2048641572#notes: PvE - MW Blast (Craftable)
+
+// -----
+// Acosmic - Void 150 Heavy Grenade Launcher - Rapid-Fire Frame (Halloween 2023)
+dimwishlist:item=-413901114#notes: No good perks.
 
 // --------------------------------------------------------------------------
 // Type - Linear Fusion Rifle
@@ -1331,12 +1343,20 @@ dimwishlist:item=-2342054803#notes: No good perk.
 dimwishlist:item=2708806099&perks=839105230,679225683,3523296417,4293542123#notes: PvE - MW Reload (Craftable)
 
 // -----
-// Jurassic Green - Solar 540 Pulse Rifle - Rapid-Fire Frame (Festival of the Lost)
+// Jurassic Green - Solar 540 Pulse Rifle - Rapid-Fire Frame (Halloween 2022)
 // PvE: Subsistence + Incandescent
 dimwishlist:item=2603335652&perks=,1820235745,4293542123#notes:PvE - MW Any
 
 // PvE: Rangefinder + Frenzy
 dimwishlist:item=2603335652&perks=,2846385770,4104185692#notes:PvE - MW Any
+
+// -----
+// Jurassic Green - Solar 540 Pulse Rifle - Rapid-Fire Frame (Halloween 2023)
+// PvE: Heal Clip + Incandescent
+dimwishlist:item=3103255595&perks=,3017780555,4293542123#notes: PvE
+
+// PvE: Rangefinder + Frenzy
+dimwishlist:item=3103255595&perks=,2846385770,4104185692#notes: PvE
 
 // -----
 // Outlast - Solar 540 Pulse Rifle - Rapid-Fire Frame (World)
@@ -2718,7 +2738,7 @@ dimwishlist:item=-617501162#notes:No good perks. Use Adored or Occluded Finality
 dimwishlist:item=-2164448701#notes:No good perks. Use Adored or Occluded Finality instead.
 
 // -----
-// Mechabre - Arc Sniper - Aggressive Frame (Halloween)
+// Mechabre - Arc 72 Sniper - Aggressive Frame (Halloween 2022)
 // PvP: Snapshot + Opening Shot
 dimwishlist:item=1280894514&perks=,957782887,47981717#notes:PvP - MW Any
 
@@ -2728,6 +2748,18 @@ dimwishlist:item=1280894514&perks=,106909392,3400784728,1546637391#notes:PvP - M
 
 // PvE: Snapshot + Voltshot
 dimwishlist:item=1280894514&perks=,106909392,957782887,2173046394#notes:PvP - MW Reload
+
+// -----
+// Mechabre - Arc 72 Sniper - Aggreesive Frame (Halloween 2023)
+// PvE: Snapshot + Opening Shot
+dimwishlist:item=3871226707&perks=,957782887,47981717#notes: PvP
+
+// PvE: Triple Tap + Vorpal
+dimwishlist:item=3871226707&perks=,1087426260,3400784728,1546637391#notes: PvE
+dimwishlist:item=3871226707&perks=,106909392,3400784728,1546637391#notes: PvE
+
+// PvE: Demolitionist + Voltshot
+dimwishlist:item=3871226707&perks=,3523296417,2173046394#notes: PvE
 
 // -----
 // Occluded Finality - Arc Sniper - Aggressive Frame (Iron Banner)
