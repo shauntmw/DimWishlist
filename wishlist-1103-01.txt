@@ -1910,8 +1910,12 @@ dimwishlist:item=-2957367743#notes:Use other better ones.
 dimwishlist:item=4225322581&perks=1332244541,791862061,3300816228,4104185692#notes:PvE - MW Range (Craftable)
 
 // -----
-// astral horizon - Kinetic Shotgun - Aggressive Frame (Trials of Osiris)
-dimwishlist:item=-1697682876#notes:use toil and trouble instead.
+// Astral Horizon - Kinetic Shotgun - Aggressive Frame (Trials of Osiris)
+dimwishlist:item=-1697682876#notes: No good perks.
+
+// -----
+// Astral Horizon (2023) - Kinetic 55 Shotgun - Aggressive Frame (Trials)
+dimwishlist:item=-2653171213#notes: No good perks.
 
 // -----
 // Imperial Decree - Kinetic Shotgun - Aggressive Frame (Season of Defiant)
@@ -2633,7 +2637,15 @@ dimwishlist:item=-1769847435#notes: No good perks.
 dimwishlist:item=3920310144&perks=839105230,106909392,3400784728,1771339417#notes: PvE - MW Reload (Craftable)
 
 // -----
-// far future - Solar Sniper - Adaptive Frame (season of chosen - battlegrounds)
+// Last Foray - Solar 72 Sniper - Aggressive Frame (World)
+dimwishlist:item=-1106635211#notes: No good perks.
+
+// -----
+// Luna Regolith III - Solar 72 Sniper - Aggressive Frame (Strike)
+dimwishlist:item=-1948035256#notes: No good perks.
+
+// -----
+// Far Future - Solar Sniper - Adaptive Frame (Season of Chosen - Battlegrounds)
 // PvE: Auto Loading + Frenzy
 dimwishlist:item=893527433&perks=839105230,106909392,3300816228,4104185692#notes:PvE - MW Range or stability
 dimwishlist:item=893527433&perks=3661387068,106909392,3300816228,4104185692#notes:PvE - MW Range or stability
@@ -2744,9 +2756,6 @@ dimwishlist:item=1280894514&perks=,957782887,47981717#notes:PvP - MW Any
 dimwishlist:item=1280894514&perks=,1087426260,3400784728,1546637391#notes:PvP - MW Any
 dimwishlist:item=1280894514&perks=,106909392,3400784728,1546637391#notes:PvP - MW Any
 
-// PvE: Snapshot + Voltshot
-dimwishlist:item=1280894514&perks=,106909392,957782887,2173046394#notes:PvP - MW Reload
-
 // -----
 // Mechabre - Arc 72 Sniper - Aggreesive Frame (Halloween 2023)
 // PvE: Snapshot + Opening Shot
@@ -2776,6 +2785,11 @@ dimwishlist:item=852551895&perks=1392496348,1087426260,3300816228,1546637391#not
 dimwishlist:item=852551895&perks=1482024992,1087426260,3300816228,1546637391#notes:PvE - MW Range or stability
 
 // -----
+// Mercurial Overreach - Arc 90 Sniper - Adaptive Frame (World)
+// PvP: Snapshot + Opening Shot
+dimwishlist:item=2073794990&perks=,957782887,47981717#notes: PvP
+
+// -----
 // Frozen Orbit - Void Sniper - Aggressive Frame (Crucible)
 // PvP: Moving Target + Snapshot
 dimwishlist:item=3473290087&perks=,588594999,957782887#notes:PvP
@@ -2794,6 +2808,10 @@ dimwishlist:item=4164201232&perks=1482024992,3142289711,706527188,957782887#note
 // Fugue-55 - Void Sniper - Adaptive Frame (World)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=2233545123&perks=,3300816228,1546637391#notes:PvE
+
+// -----
+// Persuader - Void 140 Sniper - Rapid-Fire Frame (Strike)
+dimwishlist:item=-781498181#notes: No good perks.
 
 // -----
 // Father's Sins - Void Sniper - Rapid-Fire Frame (Wellspring)
