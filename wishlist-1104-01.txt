@@ -2003,11 +2003,11 @@ dimwishlist:item=1821724780&perks=,791862061,3300816228,1546637391#notes:PvP - M
 dimwishlist:item=-1478986057#notes: No good perks.
 
 // -----
-// A Sudden Death - Arc Shotgun - Aggressive Frame (Prophecy)
-dimwishlist:item=-2855157553#notes:no good perks. use found verdict better.
+// A Sudden Death - Arc 55 Shotgun - Aggressive Frame (Prophecy)
+dimwishlist:item=-2855157553#notes: No good perks. Use Found Verdict better.
 
 // -----
-// Found Verdict - Arc Shotgun - Aggressive Frame (Vault of Glass)
+// Found Verdict - Arc 55 Shotgun - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=3197270240&perks=1332244541,791862061,3300816228,1546637391#notes:PvE - MW Range
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3300816228,1546637391#notes:PvE - MW Range
@@ -2031,8 +2031,12 @@ dimwishlist:item=631439337&perks=1332244541,3142289711,3418782618,3523296417#not
 dimwishlist:item=-664109750#notes: No good perks.
 
 // -----
+// Deadpan Delivery - Arc 55 Shotgun - Aggressive Frame (World)
+dimwishlist:item=-1296429091#notes: No good perks.
+
+// -----
 // prophet of doom - Arc Shotgun - Precision Frame (Garden of Salvation)
-dimwishlist:item=-4020742303#notes:no good perk.
+dimwishlist:item=-4020742303#notes: No good perks.
 
 // -----
 // matador 64 - Arc Shotgun - Precision Frame (Grasp of Avarice)
@@ -2418,6 +2422,11 @@ dimwishlist:item=3886416794&perks=3250034553,106909392,3643424744,4104185692#not
 // -----
 // Pizzicato-22 - Kinetic 900 SMG - Lightweight Frame (World)
 dimwishlist:item=-4100775158#notes:No good perks.
+
+// -----
+// The Showrunner - Kinetic 9000 SMG - Lightweight Frame (World)
+// PvE: Overflow + Kinetic Tremors
+dimwishlist:item=1999754402&perks=,3643424744,3891536761#notes: PvE
 
 // -----
 // Forensic Nightmare - Stasis 600 SMG - Precision Frame (Witch Queen Campaign)
