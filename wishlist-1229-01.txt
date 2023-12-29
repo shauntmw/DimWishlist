@@ -470,45 +470,31 @@ dimwishlist:item=4114929480&perks=,689005463,671806388,1427256713#notes:PvE - MW
 dimwishlist:item=-3512349612#notes:just use null composure.
 
 // -----
-// Glacioclasm - Void Fusion Rifle - High Impact Frame (dawning)
+// Glacioclasm (2021) - Void Fusion Rifle - High Impact Frame (Dawning 2021)
 // PvE: Subsistence + Reservoir Burst
-dimwishlist:item=1030895163&perks=839105230,689005463,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1467527085,689005463,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=202670084,689005463,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=3250034553,689005463,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1482024992,689005463,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=839105230,1687452232,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1467527085,1687452232,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=202670084,1687452232,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=3250034553,1687452232,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1482024992,1687452232,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=839105230,2969185026,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1467527085,2969185026,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=202670084,2969185026,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=3250034553,2969185026,1820235745,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1482024992,2969185026,1820235745,1427256713#notes:PvE - MW Reload
+dimwishlist:item=1030895163&perks=,1820235745,1427256713#notes: PvE
 
 // PvE: Slideshot + Reservoir Burst
-dimwishlist:item=1030895163&perks=839105230,689005463,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1467527085,689005463,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=202670084,689005463,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=3250034553,689005463,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1482024992,689005463,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=839105230,1687452232,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1467527085,1687452232,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=202670084,1687452232,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=3250034553,1687452232,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1482024992,1687452232,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=839105230,2969185026,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1467527085,2969185026,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=202670084,2969185026,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=3250034553,2969185026,3161816588,1427256713#notes:PvE - MW Reload
-dimwishlist:item=1030895163&perks=1482024992,2969185026,3161816588,1427256713#notes:PvE - MW Reload
+dimwishlist:item=1030895163&perks=,3161816588,1427256713#notes: PvE
 
 // -----
-// Glacioclasm (2022) - Void Fusion Rifle - 960 High Impact Frame (Dawning)
+// Glacioclasm (2022) - Void Fusion Rifle - 960 High Impact Frame (Dawning 2022)
 // PvE: Subsistence + Reservoir Burst
-dimwishlist:item=3573686365&perks=,689005463,1820235745,1427256713
+dimwishlist:item=3573686365&perks=,1820235745,1427256713#notes: PvE
+
+// PvE: Slideshot + Reservoir Burst
+dimwishlist:item=3573686365&perks=,3161816588,1427256713#notes: PvE
+
+// -----
+// Glacioclasm (2023) - Void Fusion Rifle - 960 High Impact Frame (Dawning 2023)
+// PvE: Subsistence + Reservoir Burst
+dimwishlist:item=2728851518&perks=,1820235745,1427256713#notes: PvE
+
+// PvE: Slideshot + Reservoir Burst
+dimwishlist:item=2728851518&perks=,3161816588,1427256713#notes: PvE
+
+// PvE: Overflow + Reservoir Burst
+dimwishlist:item=2728851518&perks=,3643424744,1427256713#notes: PvE
 
 // --------------------------------------------------------------------------
 // Type - Glaive
@@ -526,6 +512,11 @@ dimwishlist:item=2978226043&perks=594346985,679225683,3643424744,951095735#notes
 // Greasy Luck - Solar 80 Glaive - Rapid-Fire Frame (Ghosts of the Deep Dungeon)
 // PvE: Impulse Amplifier + Incandescent
 dimwishlist:item=1757202961&perks=,951095735,4293542123#notes: PvE
+
+// -----
+// Albedo Wing - Arc Glaive - Aggressive Glaive (Dawning 2023)
+// PvE: Beacon Rounds + Lead From Gold
+dimwishlist:item=2680976411&perks=,2859149211,1556840489#notes: PvE
 
 // -----
 // Nezarec's Whisper - Arc Glaive - Adaptive Glaive (Season of Haunted - Leviathan)
@@ -1060,9 +1051,14 @@ dimwishlist:item=-1967303408#notes: No good perk.
 dimwishlist:item=-2194955522#notes: No good perk.
 
 // -----
-// Avalanche (2022) - Solar 450 Machine Gun - Adaptive Frame (Dawning)
+// Avalanche (2021) - Solar 450 Machine Gun - Adaptive Frame (Dawning 2021)
 // PvE: Auto-Loading + Incandescent
-dimwishlist:item=495940989&perks=,3300816228,4293542123
+dimwishlist:item=495940989&perks=,3300816228,4293542123#notes: PvE
+
+// -----
+// Avalanche (2023) - Solar 450 Machine Gun - Adaptive Frame (Dawning 2023)
+// PvE: Auto-Loading + Incandescent
+dimwishlist:item=4220529694&perks=,3300816228,4293542123#notes: PvE
 
 // -----
 // Unwavering Duty (2023) - Solar 450 Machine Gun - Adaptive Frame (Trials)
@@ -1249,8 +1245,12 @@ dimwishlist:item=1780464822&perks=,2779035018,3047969693#notes:PvE - MW Reload
 dimwishlist:item=2856514843&perks=839105230,1087426260,1168162263,124408337#notes:PvE - MW Range (Craftable)
 
 // -----
-// Stay Frosty - Stasis 450 Pulse Rifle - Lightweight Frame (Dawning)
-dimwishlist:item=-2812100428#notes:Nothing good. Use Syncopation instead.
+// Stay Frosty - Stasis 450 Pulse Rifle - Lightweight Frame (Dawning 2022)
+dimwishlist:item=-2812100428#notes: Nothing good. Use Syncopation instead.
+
+// -----
+// Stay Frosty - Stasis 450 Pulse Rifle - Lightweight Frame (Dawning 2023)
+dimwishlist:item=-1891321753#notes: Use Disparity instead.
 
 // -----
 // Disparity - Stasis 450 Pulse Rifle - Aggressive Frame (Season of Seraph)
@@ -2398,9 +2398,14 @@ dimwishlist:item=-1601177201#notes:Already have Friction Fire.
 dimwishlist:item=1097616550&perks=,3643424744,4104185692#notes: PvE
 
 // -----
-// Cold Front (2022) - Kinetic 750 SMG - Aggressive Frame (Dawning)
+// Cold Front (2022) - Kinetic 750 SMG - Aggressive Frame (Dawning 2022)
 // PvE: Subsistence + Frenzy
 dimwishlist:item=2814093983&perks=,1820235745,4104185692#notes: PvE
+
+// -----
+// Cold Front (2023) - Kinetic 750 SMG - Aggressive Frame (Dawning 2023)
+// PvE: Subsistence + Frenzy
+dimwishlist:item=3206190066&perks=,1820235745,4104185692#notes: PvE
 
 // -----
 // Escape Velocity - Kinetic 900 SMG - Lightweight Frame (World)
@@ -2833,9 +2838,17 @@ dimwishlist:item=3865728990&perks=839105230,106909392,3400784728,2896038713#note
 // --------------------------------------------------------------------------
 // Type - Sword
 // --------------------------------------------------------------------------
-// Zephyr (2022) - Stasis Sword - Adaptive Frame (Dawning)
+// Zephyr (2022) - Stasis Sword - Adaptive Frame (Dawning 2022)
 // PvE: Relentless + Cold Steel
 dimwishlist:item=396910433&perks=,1749209109,3650930298
+
+// -----
+// Zephyr (2023) - Stasis Sword - Adaptive Frame (Dawning 2023)
+// PvE: Relentless + Cold Steel
+dimwishlist:item=1911078836&perks=,1749209109,3650930298#notes: PvE
+
+// PvE: Relentless + Chain Reaction
+dimwishlist:item=1911078836&perks=,1749209109,2396489472#notes: PvE
 
 // -----
 // Dragoncult Sickle - Strand Sword - Caster Frame (Warlord's Ruin)
