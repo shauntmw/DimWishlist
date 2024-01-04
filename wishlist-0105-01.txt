@@ -154,7 +154,7 @@ dimwishlist:item=-2147010335#note: No good perks.
 
 // -----
 // The Number - Arc 450 Auto Rifle - Precision Frame (Season of Splicer)
-dimwishlist:item=-2492081469#notes:use shadow price instead.
+dimwishlist:item=-2492081469#notes: Use Shadow Price instead.
 
 // -----
 // Arc logic - Arc 600 Auto Rifle - Adaptive Frame (Moon)
@@ -1038,6 +1038,11 @@ dimwishlist:item=1321506184&perks=839105230,106909392,1583705720,124408337#notes
 dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,124408337#notes:PvE - MW Reload (Craftable)
 
 // -----
+// Marcato-45 - Strand 450 Machine Gun - Adaptive Frame (World)
+// PvE: Slice + Hatchling
+dimwishlist:item=4233375372&perks=,923806249,831391274#notes: PvE
+
+// -----
 // Circular Logic - Strand 450 Machine Gun - Adaptive Frame (Neomuna)
 // PvE: Feeding Frenzy + Hatchling
 dimwishlist:item=2187717691&perks=,2779035018,831391274#notes: PvE
@@ -1507,6 +1512,14 @@ dimwishlist:item=-3669616453#notes: No good perk.
 dimwishlist:item=-1903182562#notes: No good perks.
 
 // -----
+// Crux Termination IV - Arc Rocket - Aggressive Frame (World)
+// PvE: Slideshow + Tracking
+dimwishlist:item=1719687748&perks=,3161816588,3977735242#notes: PvE
+
+// PvE: Reconstruction + Tracking
+dimwishlist:item=1719687748&perks=,1523832109,3977735242#notes: PvE
+
+// -----
 // heretic - Arc Rocket - Aggressive Frame (Moon)
 // PvE: Impulse Amplifier + lasting impression
 dimwishlist:item=3067821200&perks=1478423395,2985827016,951095735,3927722942#notes:PvE - MW Blast or Velocity
@@ -1866,7 +1879,7 @@ dimwishlist:item=1937552980&perks=839105230,106909392,3824105627,2848615171#note
 // -----
 // Brya's Love - Void 180 Scout Rifle - Precision Frame (Season of Witch)
 // PvE: Arrowhead, Tactical, Shoot to Loot, Destabilizing Rounds
-dimwishlist:item=2779821308&perks=839105230,106909392,3700496672,2048641572#notes: PvE - MW Reload Craftable)
+dimwishlist:item=2779821308&perks=839105230,106909392,3700496672,2048641572#notes: PvE - MW Reload (Craftable)
 
 // -----
 // Vouchsafe - Void 200 Scout Rifle - Lightweight Frame (Dreaming City)
@@ -2938,13 +2951,8 @@ dimwishlist:item=3366545721&perks=1261178282,52780822,3108830275,2396489472#note
 dimwishlist:item=3366545721&perks=3666208348,52780822,1749209109,1546637391#notes: PvE - MW Impact (Craftable)
 
 // -----
-// night terror - Arc sword - Adaptive Frame (Moon)
-// PvE: relentless + Vorpal
-dimwishlist:item=3870811754&perks=3666208348,52780822,1749209109,1546637391#notes:PvE - MW Impact
-dimwishlist:item=3870811754&perks=3666208348,3625355092,1749209109,1546637391#notes:PvE - MW Impact
-dimwishlist:item=3870811754&perks=3666208348,599007201,1749209109,1546637391#notes:PvE - MW Impact
-dimwishlist:item=3870811754&perks=3666208348,2349202967,1749209109,1546637391#notes:PvE - MW Impact
-dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,1546637391#notes:PvE - MW Impact
+// Night Terror - Arc sword - Adaptive Frame (Moon)
+dimwishlist:item=-3870811754#notes: Powercrept by Bequest.
 
 // -----
 // Half-Truths - Arc Sword - Adaptive Frame (Dares of Eternity)
