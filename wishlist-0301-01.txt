@@ -195,6 +195,11 @@ dimwishlist:item=491078457&perks=,2010801679,2048641572#notes: PvE
 dimwishlist:item=821154603&perks=,1820235745,3523296417#notes: PvE
 
 // -----
+// Ros Arago IV - Void 600 Auto Rifle - Adaptive Frame (World)
+// PvE: Rewind Rounds + Attrition Orbs
+dimwishlist:item=3583275737&perks=,3418782618,243981275#notes: PvE
+
+// -----
 // Reckless Oracle - Void 720 Auto Rifle - Rapid-Fire Frame (Garden of Salvation)
 // PvE: Outlaw + Demolitionist
 dimwishlist:item=3385326721&perks=,1168162263,3523296417#notes: PvE
@@ -2371,6 +2376,13 @@ dimwishlist:item=268260373&perks=3525010810,3032599245,968510818,2173046394#note
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE - MW Reload (Craftable)
 
 // -----
+// Undercurrent - Arc Special Grenade Launcher - Wave Frame (Nightfall)
+dimwishlist:item=-1151688091#notes: Use Forbearance better.
+
+// (Adept)
+dimwishlist:item=-672957262#notes: Use Forbearance better.
+
+// -----
 // Wilderflight - Void Special Grenade Launcher - Double Fire (Spire of Watcher Dungeon)
 // PvE: Blinding + Auto-Loading + Lead from Gold
 dimwishlist:item=2306182339&perks=,3032599245,3300816228,1556840489#notes: PvE
@@ -2492,6 +2504,10 @@ dimwishlist:item=2490988246&perks=839105230,3142289711,3108830275,4293542123#not
 // -----
 // Bug-Out Bag - Solar 900 SMG - Adaptive Frame (World)
 dimwishlist:item=-2832639510#notes: Use Calus Mini Tool instead.
+
+// -----
+// Parabellum - Solar 900 SMG - Adaptive Frame (World)
+dimwishlist:item=-3926811686#notes: Use Calus Mini Tool instead.
 
 // -----
 // IKELOS SMG - Arc 750 SMG - Aggressive Frame
@@ -3098,24 +3114,30 @@ dimwishlist:item=-2188764214#notes: Useless Exotic.
 // -----
 // Osteo Striga
 // PvE: Full Bore, Tactical Mag, Short Action Stock
-dimwishlist:item=46524085&perks=202670084,106909392,4015745376,1067908860#notes:PvE: Craftable
+dimwishlist:item=46524085&perks=202670084,106909392,4015745376,1067908860#notes: PvE - Craftable
 
 // -----
 // Edge of Intent
 // PvE: Lightweight, Light Mag, Short Action Stock
-dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860#notes:PvE: Craftable
+dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860#notes: PvE - Craftable
 
 // -----
 // Edge of Action
 // PvE: Lightweight, Light Mag, Short Action Stock
-dimwishlist:item=2535142413&perks=594346985,679225683,2379536009,1067908860#notes:PvE: Craftable
+dimwishlist:item=2535142413&perks=594346985,679225683,2379536009,1067908860#notes: PvE - Craftable
 
 // -----
 // Revision Zero
 // PvE: Arrowhead, Light Mag, Vorpal, Short-Action
-dimwishlist:item=1473821207&perks=839105230,679225683,1546637391,1067908860#notes:PvE: Craftable
+dimwishlist:item=1473821207&perks=839105230,679225683,1546637391,1067908860#notes: PvE: Craftable
 
 // -----
 // Vexcalibur
 // PvE: Low Impedence, Light Mag, Short Action Stock
 dimwishlist:item=3118061005&perks=2713678205,679225683,2171805903,1067908860
+
+// -----
+// Wish-Keeper
+// PvE: Elastic, Compact, Polymer
+dimwishlist:item=2910326942&perks=2801223209,16392701,862848869#notes: PvE - Craftable
+
