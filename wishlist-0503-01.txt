@@ -375,15 +375,7 @@ dimwishlist:item=-3055192515#notes: No good perk.
 
 // -----
 // Trinary System - Solar Fusion Rifle - Adaptive Frame (Gambit)
-// PvE: Auto Loading + Disruption Break
-dimwishlist:item=3258665412&perks=1467527085,2680121939,3300816228,1683379515#notes:PvE - MW Range
-dimwishlist:item=3258665412&perks=202670084,2680121939,3300816228,1683379515#notes:PvE - MW Range
-dimwishlist:item=3258665412&perks=3250034553,2680121939,3300816228,1683379515#notes:PvE - MW Range
-dimwishlist:item=3258665412&perks=1482024992,2680121939,3300816228,1683379515#notes:PvE - MW Range
-dimwishlist:item=3258665412&perks=1467527085,2969185026,3300816228,1683379515#notes:PvE - MW Range
-dimwishlist:item=3258665412&perks=202670084,2969185026,3300816228,1683379515#notes:PvE - MW Range
-dimwishlist:item=3258665412&perks=3250034553,2969185026,3300816228,1683379515#notes:PvE - MW Range
-dimwishlist:item=3258665412&perks=1482024992,2969185026,3300816228,1683379515#notes:PvE - MW Range
+dimwishlist:item=-3258665412#notes: Powercrept.
 
 // -----
 // Iota Draconis - Solar Fusion Rifle - 960 High Impact Frame (Season of Lost)
@@ -532,6 +524,11 @@ dimwishlist:item=2680976411&perks=,2859149211,1556840489#notes: PvE
 // Nezarec's Whisper - Arc Glaive - Adaptive Glaive (Season of Haunted - Leviathan)
 // PvE: Low Impedance, Light Mag, Impulse Amplifier, Unstoppable Force
 dimwishlist:item=254636484&perks=2713678205,679225683,951095735,2224838837#notes:PvE - MW Reload (Craftable)
+
+// -----
+// Unexpected Resurgence - Arc Glaive - Adaptive Glaive (Trials of Osiris)
+// PvE: Auto-Loading + Rampage
+dimwishlist:item=4005780578&perks=,3300816228,3425386926#notes: PvE
 
 // -----
 // The Enigma - Void Glaive - Adaptive Glaive (Quest)
@@ -726,8 +723,7 @@ dimwishlist:item=-2888266564#notes: No good perks.
 
 // -----
 // Nature of the Beast - Arc 180 Hand Cannon - Precision Frame (Crucible)
-// PvE: Subsistence + Dragonfly
-dimwishlist:item=1835747805&perks=,1820235745,2848615171#notes: PvE
+dimwishlist:item=-1835747805#notes: Powercrept.
 
 // -----
 // Posterity - Arc 180 Hand Cannon - Precision Frame (Deep Stone Crypt)
@@ -1208,6 +1204,11 @@ dimwishlist:item=-3409645497#notes: Powercrept.
 // Smite of Merain - Kinetic 390 Pulse Rifle - Adaptive Frame (King's Fall Raid)
 // PvE: Arrowhead, Tactical Mag, Demolitionist, Firefly
 dimwishlist:item=2221264583&perks=839105230,106909392,3523296417,3824105627#notes:PvE - MW Range (Craftable)
+
+// -----
+// Smite of Merain (Hallowed) - Kinetic 390 Pulse Rifle - Adaptive Frame (King's Fall Raid)
+// PvE: Demolitionist, Firefly
+dimwishlist:item=3407395594&perks=,3523296417,3824105627#notes:PvE
 
 // -----
 // Hailing Confusion - Kinetic 390 Pulse Rifle - Adaptive Frame (Europa)
@@ -1766,8 +1767,7 @@ dimwishlist:item=3504336176&perks=,247725512,3038247973#notes: PvE
 
 // -----
 // Servant Leader - Kinetic 260 Scout Rifle - Rapid-Fire Frame (Gambit)
-// PvE: Shoot to Loot + Frenzy
-dimwishlist:item=1107446438&perks=,3700496672,4104185692#notes:PvE - MW Reload
+dimwishlist:item=-1107446438#notes: Powercrept.
 
 // -----
 // Perses-D - Stasis 150 Scout Rifle - High Impact Frame (World)
@@ -2161,18 +2161,7 @@ dimwishlist:item=-1723380073#notes:No good perk. Use Spoiler Alert better.
 
 // -----
 // Boudica-C - Kinetic Sidearm - Precision Frame
-// PvE: Pugilist + Frenzy
-dimwishlist:item=1916287826&perks=,691659142,4104185692#notes:PvE - MW Any Except Handling
-
-// -----
-// Farewell - Kinetic Sidearm - Lightweight Frame (Season of Splicer)
-// PvE: Subsistence + Frenzy
-dimwishlist:item=541188001&perks=,1820235745,4104185692#notes:PvE
-
-// -----
-// Spoiler Alert - Kinetic Sidearm - Lightweight Frame (World)
-// PvE: Killing Wind + Demolitionist
-dimwishlist:item=2588048270&perks=,2450788523,3523296417#notes:PvE
+dimwishlist:item=-1916287826#notes: Powercrept.
 
 // -----
 // High Albedo - Kinetic 3-burst Sidearm - Adaptive Frame (Europa)
@@ -2196,6 +2185,15 @@ dimwishlist:item=213264394&perks=,3643424744,3891536761#notes: PvE
 // Buzzard (Adept) - Kinetic 300 Sidearm - Adaptive Frame (Nightfall)
 // PvE: Overflow + Kinetic Tremors
 dimwishlist:item=927835311&perks=,3643424744,3891536761#notes: PvE
+
+// -----
+// Farewell - Kinetic 360 Sidearm - Lightweight Frame (Season of Splicer)
+// PvE: Subsistence + Frenzy
+dimwishlist:item=541188001&perks=,1820235745,4104185692#notes:PvE
+
+// -----
+// Spoiler Alert - Kinetic 360 Sidearm - Lightweight Frame (World)
+dimwishlist:item=-2588048270#notes: Powercrept.
 
 // -----
 // Empirical Evidence - Kinetic Sidearm - Aggressive Burst (Campaign)
@@ -2252,8 +2250,7 @@ dimwishlist:item=3998080529&perks=,3017780555,4293542123#notes: PvE
 
 // -----
 // Punching Out - Solar Sidearm - Suros Rapid-Fire (Strike)
-// PvE: Rangefinder + Frenzy
-dimwishlist:item=378498222&perks=,2846385770,4104185692#notes:PvE
+dimwishlist:item=-378498222#notes: Powercrept.
 
 // -----
 // Indebted Kindness - Arc 100 Special Sidearm - Rocket-Assisted Frame (Warlord Ruin)
@@ -2307,9 +2304,6 @@ dimwishlist:item=-1626503676#notes: No good perk.
 // Ignition Code - Kinetic Special Grenade Launcher - Lightweight Frame (Season of Splicer)
 // PvE: Blinding + Slideshot
 dimwishlist:item=304659313&perks=,3032599245,3161816588#notes:PvE - MW Velocity or Handling
-
-// PvE: Slideshot + Vorpal
-dimwishlist:item=304659313&perks=,3161816588,1546637391#notes:PvE - MW Velocity or Handling
 
 // -----
 // Pardon Our Dust - Kinetic Special Grenade Launcher - Lightweight Frame (Dares of Eternity)
@@ -2420,6 +2414,11 @@ dimwishlist:item=-1513993763#notes: No good perks.
 // -----
 // Enyo-D - Kinetic 600 SMG - Precision Frame (World)
 dimwishlist:item=-1601177201#notes:Already have Friction Fire.
+
+// -----
+// Adjudicator - Kinetic 600 SMG - Precision Frame (Prophecy Dungeon)
+// PvE: Subsistence + Frenzy
+dimwishlist:item=1013434963&perks=,1820235745,4104185692#notes: PvE
 
 // -----
 // Extraordinary Rendition - Kinetic 750 SMG - Aggressive Frame (season of chosen - battlegrounds)
@@ -2545,11 +2544,7 @@ dimwishlist:item=-2488587246#notes: No good perks.
 
 // -----
 // The Hero's Burden (2023) - Void 900 SMG - Adaptive Frame (Iron Banner)
-// PvE: Feeding Frenzy + Destabilizing Rounds
-dimwishlist:item=1028124540&perks=,2779035018,2048641572#notes: PvE.
-
-// PvP: Moving Target + Dynamic Sway Reduction
-dimwishlist:item=1028124540&perks=,588594999,1359896290#notes: PvP.
+dimwishlist:item=-1028124540#notes: Powercrept.
 
 // -----
 // Unforgiven - Void 750 SMG - Agressive Frame (Duality Dungeon)
@@ -2579,12 +2574,13 @@ dimwishlist:item=294129361&perks=,1359896290,588594999#notes: PvP
 dimwishlist:item=3559361670&perks=,1359896290,2846385770#notes: PvP
 
 // -----
-// Funnelweb - Void 900 SMG - Lightweight Frame (World)
-// PvP: Pulse Monitor + Rangefinder
-dimwishlist:item=3341893443&perks=,972757866,2846385770#notes: PvP
+// The Title - Void 750 SMG - Aggressive Frame (Guardian Games 2024)
+// PvE: Repulsor Brace + Destabilizing Rounds
+dimwishlist:item=655712834&perks=,776531651,2048641572#notes: PvE
 
-// PvE: Subsistence + Frenzy
-dimwishlist:item=3341893443&perks=,1820235745,4104185692#notes:PvE - MW Any except Handling
+// -----
+// Funnelweb - Void 900 SMG - Lightweight Frame (World)
+dimwishlist:item=-3341893443#notes: Powercrept.
 
 // -----
 // The Recluse - Void 900 SMG - Lightweight Frame (Onslaught)
