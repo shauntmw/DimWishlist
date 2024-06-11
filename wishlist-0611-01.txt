@@ -3074,7 +3074,7 @@ dimwishlist:item=2827764482&perks=3250034553,2749775325,3400784728,2173046394#no
 dimwishlist:item=2323544076&perks=1482024992,732557052,1556840489,3108830275#notes:PvE - MW Reload (Craftable)
 
 // --------------------------------------------------------------------------
-// Type - Random Roll Exotic
+// Type - Exotic
 // --------------------------------------------------------------------------
 // Hawkmoon
 // PvE: Rangefinder + Combat Grip
@@ -3114,3 +3114,7 @@ dimwishlist:item=3118061005&perks=2713678205,679225683,2171805903,1067908860
 // PvE: Elastic, Compact, Polymer
 dimwishlist:item=2910326942&perks=2801223209,16392701,862848869#notes: PvE - Craftable
 
+// -----
+// Whisper of the Worm
+// PvE: Arrowhead, Flared Magwell, Field Prep, Hand-Laid Stock
+dimwishlist:item=1983149589&perks=839105230,3230963543,777589559,990298390#notes: PvE - Craftable
