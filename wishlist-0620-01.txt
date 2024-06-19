@@ -141,6 +141,11 @@ dimwishlist:item=355382946&perks=,3436462433,4293542123#notes: PvE
 dimwishlist:item=1907698332&perks=,3643424744,2846385770#notes: PvE
 
 // -----
+// No Hesitation - Solar 600 Auto Rifle - Support Frame (Pale Heart)
+// PvE: Arrowhead, Tactical, Physic, Incandescent
+dimwishlist:item=1801007332&perks=839105230,106909392,2980589453,4293542123#notes: PvE - MW Reload (Craftable)
+
+// -----
 // Arctic Haze - Solar 720 Auto Rifle - Rapid-Fire Frame (Europa)
 dimwishlist:item=-20935540#notes: No good perks. Use Chrysura Melo instead.
 
@@ -337,26 +342,26 @@ dimwishlist:item=963710795&perks=,1523832109,2978966579#notes:PvE
 dimwishlist:item=2558925366&perks=839105230,2680121939,923806249,243981275#notes: PvE - MW Range (Craftable)
 
 // -----
-// Pressurized Precision - Strand Fusion Rifle - 660 Adaptive Frame (Iron Banner)
+// Pressurized Precision - Strand 660 Fusion Rifle - Adaptive Frame (Iron Banner)
 // PvE: Auto-Loading + Vorpal
 dimwishlist:item=1084190509&perks=,3300816228,1546637391#notes: PvE
 
 // -----
-// Nox Perennial V - Strand Fusion Rifle - 960 High Impact (World)
+// Nox Perennial V - Strand 960 Fusion Rifle - High Impact (World)
 dimwishlist:item=-2767393525#notes: No good perks.
 
 // -----
-// Cartesian Coordinate - Solar Fusion Rifle - 500 Rapid-Fire Frame (World)
+// Cartesian Coordinate - Solar 500 Fusion Rifle - Rapid-Fire Frame (World)
 // PvE: Lead from Gold + Vorpal
 dimwishlist:item=2481881293&perks=,1556840489,1546637391#notes: PvE
 
 // -----
-// Royal Executioner - Solar Fusion Rifle - 660 Adaptive Frame (Season of Defiant)
+// Royal Executioner - Solar 660 Fusion Rifle - Adaptive Frame (Season of Defiant)
 // PvE: Arrowhead, Accelerated, Envious Assassin, Reservoir Burst
 dimwishlist:item=1720503118&perks=839105230,689005463,968510818,1427256713#notes: PvE - MW Charge (Craftable)
 
 // -----
-// Dream Breaker - Solar Fusion Rifle - Adaptive Frame (Moon)
+// Dream Breaker - Solar 660 Fusion Rifle - Adaptive Frame (Moon)
 // PvE: Lead from Gold - Frenzy
 dimwishlist:item=2931957300&perks=839105230,2680121939,1556840489,4104185692#notes:PvE - MW Any except Handling
 dimwishlist:item=2931957300&perks=3661387068,2680121939,1556840489,4104185692#notes:PvE - MW Any except Handling
@@ -370,12 +375,17 @@ dimwishlist:item=2931957300&perks=3250034553,2969185026,1556840489,4104185692#no
 dimwishlist:item=2931957300&perks=1482024992,2969185026,1556840489,4104185692#notes:PvE - MW Any except Handling
 
 // -----
-// Timeline's Vertex - Solar Fusion Rifle - Adaptive Frame (World)
+// Timeline's Vertex - Solar 660 Fusion Rifle - Adaptive Frame (World)
 dimwishlist:item=-3055192515#notes: No good perk.
 
 // -----
-// Trinary System - Solar Fusion Rifle - Adaptive Frame (Gambit)
+// Trinary System - Solar 660 Fusion Rifle - Adaptive Frame (Gambit)
 dimwishlist:item=-3258665412#notes: Powercrept.
+
+// -----
+// Axial Lacuna - Solar 780 Fusion Rifle - Precision Frame (Pale Heart)
+// PvE: Arrowhead, Accelerated, Reconstruction, Incandescent
+dimwishlist:item=3867373351&perks=839105230,689005463,1523832109,4293542123#notes: PvE - MW Charge (Craftable)
 
 // -----
 // Iota Draconis - Solar Fusion Rifle - 960 High Impact Frame (Season of Lost)
@@ -661,6 +671,11 @@ dimwishlist:item=1622998472&perks=,3700496672,3038247973#notes: PvE
 
 // PvE: Outlaw + Headstone
 dimwishlist:item=1622998472&perks=,1168162263,124408337:#notes: PvE
+
+// -----
+// Bold Endings - Stasis 257 Hand Cannon - Heavy Burst (Pale Heart)
+// PvE: Fluted, Tactical, Headstone, Dragonfly
+dimwishlist:item=496728945&perks=1840239774,106909392,124408337,2848615171#notes: PvE - MW Reload (Craftable)
 
 // -----
 // Round Robin - Strand 120 Hand Cannon - Aggressive Frame (Neomuna)
@@ -1064,16 +1079,6 @@ dimwishlist:item=3075224551&perks=1482024992,2969185026,3300816228,1546637391#no
 // --------------------------------------------------------------------------
 // Type - Machine Gun
 // --------------------------------------------------------------------------
-// Qullim's Terminus - Stasis 360 Machine Gun - High Impact Frame (King's Fall Raid)
-// PvE: Arrowhead, Tactical Mag, Stats for all, Headstone
-dimwishlist:item=1321506184&perks=839105230,106909392,1583705720,124408337#notes:PvE - MW Reload (Craftable)
-
-// -----
-// Recurrent Impact - Stasis 900 Machine Gun - Rapid-Fire Frame (Season of Risen)
-// PvE: Smallbore, Tactical, Subsistence, Headstone
-dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,124408337#notes:PvE - MW Reload (Craftable)
-
-// -----
 // Marcato-45 - Strand 450 Machine Gun - Adaptive Frame (World)
 // PvE: Slice + Hatchling
 dimwishlist:item=4233375372&perks=,923806249,831391274#notes: PvE
@@ -1082,6 +1087,21 @@ dimwishlist:item=4233375372&perks=,923806249,831391274#notes: PvE
 // Circular Logic - Strand 450 Machine Gun - Adaptive Frame (Neomuna)
 // PvE: Feeding Frenzy + Hatchling
 dimwishlist:item=2187717691&perks=,2779035018,831391274#notes: PvE
+
+// -----
+// Pro Memoria - Strand 600 Machine Gun - Aggressive Frame (Pale Heart)
+// PvE: Arrowhead, Appended, Reconstruction, Dragonfly
+dimwishlist:item=3605603507&perks=839105230,1087426260,1523832109,2848615171#notes: PvE - MW Range (Craftable)
+
+// -----
+// Qullim's Terminus - Stasis 360 Machine Gun - High Impact Frame (King's Fall Raid)
+// PvE: Arrowhead, Tactical Mag, Stats for all, Headstone
+dimwishlist:item=1321506184&perks=839105230,106909392,1583705720,124408337#notes:PvE - MW Reload (Craftable)
+
+// -----
+// Recurrent Impact - Stasis 900 Machine Gun - Rapid-Fire Frame (Season of Risen)
+// PvE: Smallbore, Tactical, Subsistence, Headstone
+dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,124408337#notes:PvE - MW Reload (Craftable)
 
 // -----
 // Archon's Thunder - Solar 360 Machine Gun - High Impact Frame (Iron Banner)
@@ -1893,16 +1913,16 @@ dimwishlist:item=-2638190703#notes:No good perks.
 // --------------------------------------------------------------------------
 // Type - Shotgun (Pellet)
 // --------------------------------------------------------------------------
-// Toil and Trouble - Kinetic Shotgun - Aggressive Frame (World)
+// Toil and Trouble - Kinetic 55 Shotgun - Aggressive Frame (World)
 dimwishlist:item=-2957367743#notes:Use other better ones.
 
 // -----
-// ragnhild-d - Kinetic Shotgun - Aggressive Frame (World)
+// Ragnhild-D - Kinetic 55 Shotgun - Aggressive Frame (World)
 // PvE: rifled barrel, assault mag, Auto Loading, Frenzy
 dimwishlist:item=4225322581&perks=1332244541,791862061,3300816228,4104185692#notes:PvE - MW Range (Craftable)
 
 // -----
-// Astral Horizon - Kinetic Shotgun - Aggressive Frame (Trials of Osiris)
+// Astral Horizon - Kinetic 55 Shotgun - Aggressive Frame (Trials of Osiris)
 dimwishlist:item=-1697682876#notes: No good perks.
 
 // -----
@@ -1910,24 +1930,28 @@ dimwishlist:item=-1697682876#notes: No good perks.
 dimwishlist:item=-2653171213#notes: No good perks.
 
 // -----
-// Imperial Decree - Kinetic Shotgun - Aggressive Frame (Season of Defiant)
+// Imperial Decree - Kinetic 55 Shotgun - Aggressive Frame (Season of Defiant)
 // PvE: Rifled Barrel, Assault Mag, Auto-Loading, Trench Barrel
 dimwishlist:item=318443586&perks=1332244541,791862061,3300816228,2360754333#notes:PvE - MW Range (Craftable)
 
 // -----
-// One Small Step - Kinetic Shotgun - Rapid-Fire Frame (Moon)
-dimwishlist:item=-1016668089#notes:Use other better ones.
+// Someday - Kinetic 65 Shotgun - Precision Frame (Pale Heart)
+dimwishlist:item=-3232203524#notes: No good perks.
 
 // -----
-// Riiswalker - Kinetic Shotgun - Lightweight Frame (Iron Banner)
+// Riiswalker - Kinetic 80 Shotgun - Lightweight Frame (Iron Banner)
 // PvP: Quickdraw + Iron Reach
 dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007#notes:PvP - MW Range
 dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007#notes:PvP - MW Range
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007#notes:PvP - MW Range
 
 // -----
-// Wastelander M5 - Kinetic Shotgun - Lightweight Frame (Dares of Eternity)
+// Wastelander M5 - Kinetic 80 Shotgun - Lightweight Frame (Dares of Eternity)
 dimwishlist:item=-1679868061#notes:No good perks.
+
+// -----
+// One Small Step - Kinetic 140 Shotgun - Rapid-Fire Frame (Moon)
+dimwishlist:item=-1016668089#notes:Use other better ones.
 
 // -----
 // Fractethyst - Stasis shotgun - Precision Frame (Season of Lost)
@@ -2197,6 +2221,11 @@ dimwishlist:item=829330711&perks=,1820235745,124408337#notes:PvE
 
 // PvE: Subsistence + Demolitionist
 dimwishlist:item=829330711&perks=,1820235745,3523296417#notes:PvE
+
+// -----
+// The Call - Strand 100 Sidearm - Rocket-Assisted Frame (Pale Heart)
+// PvE: Quick Launch, Tactical, Demolitionist, Desperate Measures
+dimwishlist:item=3947966653&perks=3525010810,106909392,3523296417,2109543898#notes:PvE - MW Velocity (Craftable)
 
 // -----
 // Mykel's Reverence - Strand 450 Sidearm - Rapid-Fire Frame (Root of Nightmares)
@@ -2839,17 +2868,22 @@ dimwishlist:item=852551895&perks=1482024992,1087426260,3300816228,1546637391#not
 dimwishlist:item=2073794990&perks=,957782887,47981717#notes: PvP
 
 // -----
-// Frozen Orbit - Void Sniper - Aggressive Frame (Crucible)
+// Frozen Orbit - Void 72 Sniper - Aggressive Frame (Crucible)
 // PvP: Moving Target + Snapshot
 dimwishlist:item=3473290087&perks=,588594999,957782887#notes:PvP
 
 // -----
-// 1000 Yard Stare - Void Sniper - Adaptive Frame (Grasp of Avarice)
+// 1000 Yard Stare - Void 90 Sniper - Adaptive Frame (Grasp of Avarice)
 // PvP: Quickdraw + Snapshot
 dimwishlist:item=4164201232&perks=,706527188,957782887#notes:PvP
 
 // -----
-// Fugue-55 - Void Sniper - Adaptive Frame (World)
+// Embraced Identity - Void 90 Sniper - Adaptive Frame (Pale Heart)
+// PvE: Arrowhead, Appended, Rewind Rounds, Fourth Time
+dimwishlist:item=2821677368&perks=839105230,1087426260,3418782618,1354429876#notes: PvE - MW Stability (Craftable)
+
+// -----
+// Fugue-55 - Void 90 Sniper - Adaptive Frame (World)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=2233545123&perks=,3300816228,1546637391#notes:PvE
 
@@ -2858,7 +2892,7 @@ dimwishlist:item=2233545123&perks=,3300816228,1546637391#notes:PvE
 dimwishlist:item=-781498181#notes: No good perks.
 
 // -----
-// Father's Sins - Void Sniper - Rapid-Fire Frame (Wellspring)
+// Father's Sins - Void 140 Sniper - Rapid-Fire Frame (Wellspring)
 // PvE: Arrowhead, Tactical, Triple Tap, Focused Fury
 dimwishlist:item=3865728990&perks=839105230,106909392,3400784728,2896038713#notes:PvE - MW Reload (Craftable)
 
@@ -2921,6 +2955,14 @@ dimwishlist:item=1313528549&perks=1261178282,3625355092,1749209109,2396489472#no
 dimwishlist:item=1313528549&perks=1261178282,599007201,1749209109,2396489472#notes:PvE - MW Impact
 dimwishlist:item=1313528549&perks=1261178282,2349202967,1749209109,2396489472#notes:PvE - MW Impact
 dimwishlist:item=1313528549&perks=1261178282,269888150,1749209109,2396489472#notes:PvE - MW Impact
+
+// -----
+// False Idols - Solar Sword - Vortex Frame (Pale Heart)
+// PvE: Jagged, Swordmaster, Relentless, Bait and Switch
+dimwishlist:item=4207120603&perks=3666208348,269888150,1749209109,3078487919#notes: PvE - MW Impact
+
+// PvE: Enduring, Swordmaster, Relentless, Chain Reaction
+dimwishlist:item=4207120603&perks=1261178282,269888150,1749209109,2396489472#notes: PvE - MW Impact
 
 // -----
 // Eternity's Edge - Solar Warlock Sword - Vortex Frame (World)
@@ -3118,3 +3160,8 @@ dimwishlist:item=2910326942&perks=2801223209,16392701,862848869#notes: PvE - Cra
 // Whisper of the Worm
 // PvE: Arrowhead, Flared Magwell, Field Prep, Hand-Laid Stock
 dimwishlist:item=1983149589&perks=839105230,3230963543,777589559,990298390#notes: PvE - Craftable
+
+// -----
+// Outbreak Perfected
+// PvE: Arrowhead, Tactical, Rewind Rounds, Hand-Laid Stock
+dimwishlist:item=3824673936&perks=839105230,106909392,2578928832#notes: PvE - Craftable
