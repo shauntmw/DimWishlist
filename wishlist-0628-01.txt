@@ -89,6 +89,11 @@ dimwishlist:item=177568179&perks=,3523296417,4104185692#notes: PvE
 dimwishlist:item=2852052802&perks=,3643424744,4049631843#notes:PvE
 
 // -----
+// Veiled Threat - Stasis 720 Auto Rifle - Rapid-Fire Frame (Episode Echo)
+// PvE: Arrowhead, Tactical Mag, Attrition Orbs, Headstone
+dimwishlist:item=3685470415&perks=839105230,106909392,243981275,124408337#notes: PvE - MW Range (Craftable)
+
+// -----
 // Lethal Abundance - Strand 360 Auto Rifle - High-Impact Frame (Iron Banner)
 // PvE: Slice + Hatchling
 dimwishlist:item=2189073092&perks=,923806249,831391274#notes: PvE
@@ -759,6 +764,10 @@ dimwishlist:item=-1835747805#notes: Powercrept.
 // Posterity - Arc 180 Hand Cannon - Precision Frame (Deep Stone Crypt)
 // PvE: Smallbore, Tactical Mag, Voltshot, Frenzy
 dimwishlist:item=3281285075&perks=1482024992,106909392,2173046394,4104185692#notes: PvE - MW Reload (Craftable)
+
+// -----
+// Sightline Survey - Arc 180 Hand Cannon - Precision Frame (Episode Echo)
+dimwishlist:item=-2350330520#notes: Many other better.
 
 // -----
 // Bottom Dollar - Void 120 Hand Cannon - Aggressive Frame (Gambit)
@@ -1644,22 +1653,6 @@ dimwishlist:item=3740842661&perks=,3977735242,1546637391#notes: PvE
 dimwishlist:item=2140635451&perks=,3300816228,1439600632#notes: PvE
 
 // -----
-// BrayTech Osprey - Void 15 Rocket - High Impact Frame (Nightfall)
-// PvE: Auto-Loading + Bipod
-dimwishlist:item=3667553455&perks=,3300816228,1439600632#notes:PvE
-
-// PvE: Cluster Bomb + Chain Reaction
-dimwishlist:item=3667553455&perks=,1275731761,2396489472#notes:PvE
-
-// -----
-// BrayTech Osprey (Adept) - Void 15 Rocket - High Impact Frame (Nightfall)
-// PvE: Auto-Loading + Bipod
-dimwishlist:item=1064132738&perks=,3300816228,1439600632#notes:PvE
-
-// PvE: Cluster Bomb + Chain Reaction
-dimwishlist:item=1064132738&perks=,1275731761,2396489472#notes:PvE
-
-// -----
 // Red Herring - Void Rocket - Adaptive Frame (Campaign)
 // PvP: Quick Launch, High Velocity, Tracking, Snapshot
 dimwishlist:item=3175851496&perks=3525010810,2822142346,3977735242,957782887#notes:PvP - MW Velocity (Craftable)
@@ -1668,19 +1661,37 @@ dimwishlist:item=3175851496&perks=3525010810,2822142346,3977735242,957782887#not
 dimwishlist:item=3175851496&perks=981914802,3796465595,3977735242,4104185692#notes:PvE - MW Velocity (Craftable)
 
 // -----
-// royal entry - Void Rocket - Precision Frame (Nightfall)
+// Bad Omens - Void Rocket Launcher - Aggresive Frame (World)
+dimwishlist:item=-991314988#notes: No good perk.
+
+// -----
+// BrayTech Osprey - Void Rocket - High Impact Frame (Nightfall)
+// PvE: Cluster Bomb + Chain Reaction
+dimwishlist:item=3667553455&perks=,1275731761,2396489472#notes:PvE
+
+// -----
+// BrayTech Osprey (Adept) - Void Rocket - High Impact Frame (Nightfall)
+// PvE: Cluster Bomb + Chain Reaction
+dimwishlist:item=1064132738&perks=,1275731761,2396489472#notes:PvE
+
+// -----
+// Tomorrow's Answer - Void Rocket Launcher - High Impact Frame (Trials of Osiris)
+dimwishlist:item=-958384347#notes: No good perk.
+
+// -----
+// Royal Entry - Void Rocket - Precision Frame (Nightfall)
 // PvE: Impulse Amplifier + Clown Cartridge
 dimwishlist:item=2448907086&perks=981914802,2822142346,951095735,2284787283#notes:PvE - MW Blast or Velocity
 dimwishlist:item=2448907086&perks=1441682018,2822142346,951095735,2284787283#notes:PvE - MW Blast or Velocity
 dimwishlist:item=2448907086&perks=3525010810,2822142346,951095735,2284787283#notes:PvE - MW Blast or Velocity
 
 // -----
-// Bad Omens - Void Rocket Launcher - Aggresive Frame (World)
-dimwishlist:item=-991314988#notes: No good perk.
+// Faith-Keeper - Void Rocket - Precision Frame (Episode Echo)
+// PvE: Quick Launch, Alloy Casing, Field Prep, Bipod
+dimwishlist:item=4195186942&perks=3525010810,2985827016,2869569095,1439600632#notes: PvE - MW Handling (Craftable)
 
-// -----
-// Tomorrow's Answer - Void Rocket Launcher - High Impact Frame (Trials of Osiris)
-dimwishlist:item=-958384347#notes: No good perk.
+// PvE: Quick Launch, Impact Casing, Auto-Loading, Explosive Light
+dimwishlist:item=4195186942&perks=3525010810,3796465595,3300816228,3194351027#notes: PvE - MW Handling (Craftable)
 
 // --------------------------------------------------------------------------
 // Type - Scout Rifle
@@ -1784,6 +1795,10 @@ dimwishlist:item=3504336176&perks=,957782887,3038247973#notes: PvP
 dimwishlist:item=3504336176&perks=,247725512,3038247973#notes: PvE
 
 // -----
+// Patron of Lost Causes - Kinetic 200 Scout Rifle - Lightweight Frame (Episode Echo)
+dimwishlist:item=-2249996761#notes: Use Hung Jury better.
+
+// -----
 // Servant Leader - Kinetic 260 Scout Rifle - Rapid-Fire Frame (Gambit)
 dimwishlist:item=-1107446438#notes: Powercrept.
 
@@ -1820,6 +1835,10 @@ dimwishlist:item=1389546626&perks=,1354429876,3038247973#notes: PvE
 // Fang of Ir Yut - Strand 260 Scout Rifle - Rapid-Fire Frame (Crota's End)
 // PvE: Arrowhead, Light Mag, Shoot to Loot, Hatchling
 dimwishlist:item=1432682459&perks=839105230,679225683,3700496672,831391274#notes: PvE - MW Reload (Craftable)
+
+// -----
+// Timeworn Wayfarer - Solar 120 Scout Rifle - Aggressive Frame (Episode Echo)
+dimwishlist:item=-1058098236#notes: Don't like this archetype.
 
 // -----
 // Vision of Confluence - Solar 180 Scout Rifle - Precision Frame (Vault of Glass)
@@ -2228,6 +2247,11 @@ dimwishlist:item=829330711&perks=,1820235745,3523296417#notes:PvE
 dimwishlist:item=3947966653&perks=3525010810,106909392,3523296417,2109543898#notes:PvE - MW Velocity (Craftable)
 
 // -----
+// Breachlight - Strand 32 Sidearm - Heavy Burst Frame (Episode Echo)
+// PvE: Full Bore, Accurized, Demolitionist, Hatchling
+dimwishlist:item=2328923181&perks=202670084,3142289711,3523296417,831391274#notes: PvE - MW Range (Craftable)
+
+// -----
 // Mykel's Reverence - Strand 450 Sidearm - Rapid-Fire Frame (Root of Nightmares)
 // PvE: Full Bore, Light Mag, Pugilist, Hatchling
 dimwishlist:item=231031173&perks=202670084,679225683,691659142,831391274#notes:PvE - MW Range (Craftable)
@@ -2360,6 +2384,10 @@ dimwishlist:item=1125217994&perks=,3523296417,691659142#notes:PvE
 // Tusk of the Boar - Strand Special Grenade Launcher - Wave Frame (Iron Banner)
 // PvE: Slideways + Chain Reaction
 dimwishlist:item=1218113510&perks=,2039302152,2396489472#notes: PvE
+
+// -----
+// Lost Signal - Stasis Special Grenade Launcher - Area Denial Frame (Episode Echos)
+// PvE: Quick Launch, High Velocity Round, Auto-Loading, Reverberation#notes: PvE - MW Blast Radius (Craftable)
 
 // -----
 // Empty Vessel - Solar special grenade - Lightweight Frame (World)
@@ -2900,6 +2928,11 @@ dimwishlist:item=3865728990&perks=839105230,106909392,3400784728,2896038713#note
 // --------------------------------------------------------------------------
 // Type - Sword
 // --------------------------------------------------------------------------
+// Dragoncult Sickle - Strand Sword - Caster Frame (Warlord's Ruin)
+// PvE: Unrelenting, Chain Reaction
+dimwishlist:item=3668817296&perks=,3108830275,2396489472#notes: PvE
+
+// -----
 // Zephyr (2022) - Stasis Sword - Adaptive Frame (Dawning 2022)
 // PvE: Relentless + Cold Steel
 dimwishlist:item=396910433&perks=,1749209109,3650930298
@@ -2913,9 +2946,9 @@ dimwishlist:item=1911078836&perks=,1749209109,3650930298#notes: PvE
 dimwishlist:item=1911078836&perks=,1749209109,2396489472#notes: PvE
 
 // -----
-// Dragoncult Sickle - Strand Sword - Caster Frame (Warlord's Ruin)
-// PvE: Unrelenting, Chain Reaction
-dimwishlist:item=3668817296&perks=,3108830275,2396489472#notes: PvE
+// Ill Omen - Stasis Sword - Caster Frame (Episode Echo)
+// PvE: Enduring, Swordmaster, Relentless, Cold Steel
+dimwishlist:item=3794274730&perks=1261178282,269888150,2590710093,3650930298#notes: PvE - MW Impact (Craftable)
 
 // -----
 // Thin Precipice - Strand Sword - Vortex Frame (Season of Deep)
