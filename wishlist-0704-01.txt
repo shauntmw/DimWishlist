@@ -3038,7 +3038,7 @@ dimwishlist:item=-2857348871#notes:use bequest instead.
 dimwishlist:item=3366545721&perks=1261178282,52780822,3108830275,2396489472#notes: PvE - MW Impact (Craftable)
 
 // PvE: Jagged, Swordmaster, Relentless, Vorpal
-dimwishlist:item=3366545721&perks=3666208348,52780822,1749209109,1546637391#notes: PvE - MW Impact (Craftable)
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,1546637391#notes: PvE - MW Impact (Craftable)
 
 // -----
 // Night Terror - Arc sword - Adaptive Frame (Moon)
