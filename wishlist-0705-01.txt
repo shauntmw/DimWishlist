@@ -811,6 +811,11 @@ dimwishlist:item=120706239&perks=3250034553,106909392,2848615171,2048641572#note
 // Optative - Void 180 Hand Cannon - Precision Frame (Season of Wish)
 dimwishlist:item=-2817683783#notes: No good perks.
 
+// -----
+// Maahes HC4 - Void 257 Hand Cannon - Heavy Burst (World)
+// PvE: Repulsor Brace + Destabilizing Rounds
+dimwishlist:item=1246793994&perks=,776531651,2048641572#notes: PvE
+
 // --------------------------------------------------------------------------
 // Type - Heavy Grenade Launcher
 // --------------------------------------------------------------------------
@@ -998,43 +1003,46 @@ dimwishlist:item=433905699&perks=,3301904089,2869569095,2888557110#notes: PvE DP
 // --------------------------------------------------------------------------
 // Type - Linear Fusion Rifle
 // --------------------------------------------------------------------------
-// Reed's Regret - Stasis Linear Fusion Rifle - Precision Frame (Trials of Osiris)
-// PvE: Clown Cartridge + Vorpal
-dimwishlist:item=1399243961&perks=1467527085,2680121939,2284787283,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=202670084,2680121939,2284787283,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=3250034553,2680121939,2284787283,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=1467527085,1687452232,2284787283,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=202670084,1687452232,2284787283,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=3250034553,1687452232,2284787283,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=1467527085,2969185026,2284787283,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=202670084,2969185026,2284787283,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=3250034553,2969185026,2284787283,1546637391#notes:PvE - MW Range or Reload
-
-// PvE: Triple Tap + Vorpal
-dimwishlist:item=1399243961&perks=1467527085,2680121939,3400784728,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=202670084,2680121939,3400784728,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=3250034553,2680121939,3400784728,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=1467527085,1687452232,3400784728,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=202670084,1687452232,3400784728,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=3250034553,1687452232,3400784728,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=1467527085,2969185026,3400784728,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=202670084,2969185026,3400784728,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=3250034553,2969185026,3400784728,1546637391#notes:PvE - MW Range or Reload
-
-// PvE: Triple Tap + Firing Line
-dimwishlist:item=1399243961&perks=1467527085,2680121939,3400784728,1771339417#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=202670084,2680121939,3400784728,1771339417#notes:PvE - MW Range or Reload
-dimwishlist:item=1399243961&perks=3250034553,2680121939,3400784728,1771339417#notes:PvE - MW Range or Reload
-
-// -----
-// Fire and Forget - Stasis Linear Fusion Rifle - Aggressive Frame (Season of Seraph)
+// Fire and Forget - Stasis 533 Linear Fusion Rifle - Adaptive Burst (Season of Seraph)
 // PvE: Arrowhead, Accelerated, Field Prep, Chill Clip
 dimwishlist:item=2272041093&perks=839105230,689005463,2869569095,2978966579#notes:PvE - MW Stability (Craftable)
+
+// -----
+// Reed's Regret - Stasis 533 Linear Fusion Rifle - Precision Frame (Trials of Osiris)
+// PvE: Clown Cartridge + Vorpal
+dimwishlist:item=1399243961&perks=,2284787283,1546637391#notes:PvE
+
+// PvE: Triple Tap + Vorpal
+dimwishlist:item=1399243961&perks=,3400784728,1546637391#notes:PvE
+
+// PvE: Triple Tap + Firing Line
+dimwishlist:item=1399243961&perks=,3400784728,1771339417#notes:PvE
+
+// -----
+// Suspectum-4fr - Stasis 533 Linear Fusion Rifle - Precision Frame (World)
+// PvE: Envious Assassin + Firing Line
+dimwishlist:item=3615421669&perks=,968510818,1771339417#notes:PvE
 
 // -----
 // Laser Painter - Strand 533 Linear Fusion Rifle - Precision Frame (Gambit)
 // PvE: Auto-Loading + Vorpal
 dimwishlist:item=3221722018&perks=,3300816228,1546637391#notes: PvE
+
+// -----
+// Scintillation (Adept) - Strand 533 Linear Fusion Rifle - Precision Frame (Nightfall)
+// PvE: Rewind Rounds + Firing Line
+dimwishlist:item=1492522228&perks=,3418782618,1771339417#notes: PvE
+
+// PvE: Envious Assassin + Reservoir Burst
+dimwishlist:item=1492522228&perks=,968510818,1427256713#notes: PvE
+
+// -----
+// Scintillation - Strand 533 Linear Fusion Rifle - Precision Frame (Nightfall)
+// PvE: Rewind Rounds + Firing Line
+dimwishlist:item=2591257541&perks=,3418782618,1771339417#notes: PvE
+
+// PvE: Envious Assassin + Reservoir Burst
+dimwishlist:item=2591257541&perks=,968510818,1427256713#notes: PvE
 
 // -----
 // Cataclysmic - Solar Linear Fusion Rifle - Precision Frame (Vow of the Disciple)
@@ -1056,13 +1064,18 @@ dimwishlist:item=1491665733&perks=839105230,689005463,1523832109,4104185692#note
 dimwishlist:item=3652506829&perks=,2680121939,3300816228,1771339417#notes:PvE - MW Any Except Reload
 
 // -----
-// Sailspy Pitchglass - Arc 533 Linear Fusion Rifle (Season of Plunder)
+// Sailspy Pitchglass - Arc 533 Linear Fusion Rifle - Precision Frame (Season of Plunder)
 // PvE: Arrowhead, Enhanced, Clown Cartridge, Vorpal
 dimwishlist:item=1184309824&perks=839105230,2680121939,2284787283,1546637391#notes:PvE - MW Charge Time (Craftable)
 
 // -----
-// Tarantula - Arc Linear Fusion Rifle - Precision Frame (World)
+// Tarantula - Arc 533 Linear Fusion Rifle - Precision Frame (World)
 dimwishlist:item=-3335343363#notes: No good perk.
+
+// -----
+// Line in the Sand - Arc 533 Linear Fusion Rifle - Precision Frame (Episode Echo)
+// PvE: Clown Cartridge + Firing Line
+dimwishlist:item=2450049485&perks=,2284787283,1771339417#notes: PvE
 
 // -----
 // Doomed Petitioner - Void Linear Fusion Rifle - Aggressive Frame (Season of Wish)
@@ -1878,6 +1891,10 @@ dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,4293542123#note
 dimwishlist:item=-8293111#notes: Bad archetype. Use Tarnished Mettle instead.
 
 // -----
+// Adverse Possession IX - Arc 180 Scout Rifle - Precision Frame (World)
+dimwishlist:item=-1890332078&perks=,3007133316#notes: Use Tarnished Mettle better.
+
+// -----
 // Tarnished Mettle - Arc 200 Scout Rifle - Lightweight Frame (Season of Plunder)
 // PvP: Arrowhead, Tactical Mag, Moving Target, Explosive Payload
 dimwishlist:item=2218569744&perks=839105230,106909392,588594999,3038247973#notes:PvP - MW Handling (Craftable)
@@ -2211,6 +2228,10 @@ dimwishlist:item=213264394&perks=,3643424744,3891536761#notes: PvE
 dimwishlist:item=927835311&perks=,3643424744,3891536761#notes: PvE
 
 // -----
+// Controlling Vision - Kinetic 300 Sidearm - Adaptive Frame (World)
+dimwishlist:item=-423343404#notes: No good perks.
+
+// -----
 // Farewell - Kinetic 360 Sidearm - Lightweight Frame (Season of Splicer)
 // PvE: Subsistence + Frenzy
 dimwishlist:item=541188001&perks=,1820235745,4104185692#notes:PvE
@@ -2248,8 +2269,8 @@ dimwishlist:item=3947966653&perks=3525010810,106909392,3523296417,2109543898#not
 
 // -----
 // Breachlight - Strand 32 Sidearm - Heavy Burst Frame (Episode Echo)
-// PvE: Full Bore, Accurized, Demolitionist, Hatchling
-dimwishlist:item=2328923181&perks=202670084,3142289711,3523296417,831391274#notes: PvE - MW Range (Craftable)
+// PvE: Demolitionist + Hatchling
+dimwishlist:item=2328923181&perks=,3523296417,831391274#notes: PvE
 
 // -----
 // Mykel's Reverence - Strand 450 Sidearm - Rapid-Fire Frame (Root of Nightmares)
@@ -2520,12 +2541,16 @@ dimwishlist:item=2510526114&perks=,3523296417,4104185692#notes:PvE
 dimwishlist:item=1081724548&perks=1482024992,679225683,1354429876,4104185692#notes: PvE - MW Range (Craftable)
 
 // -----
+// Blood Feud - Stasis 750 SMG - Aggressive Frame (Season of Plunder)
+dimwishlist:item=-1509167284#notes: Ugly scope.
+
+// -----
 // Prolonged Engagement - Stasis 900 SMG - Lightweight Frame (Strike)
 dimwishlist:item=-2349907931#notes: Got other better options.
 
 // -----
-// Blood Feud - Stasis 750 SMG - Aggressive Frame (Season of Plunder)
-dimwishlist:item=-1509167284#notes: Ugly scope.
+// Yarovit MG4 - Stasis 900 SMG - Lightweight Frame (World)
+dimwishlist:item=-3959549446#notes: Got other better options.
 
 // -----
 // Synchronic Roulette - Strand 600 SMG - Precision Frame (Neomuna)
@@ -3055,6 +3080,28 @@ dimwishlist:item=3257091166&perks=1261178282,52780822,1749209109,2077819806#note
 dimwishlist:item=3371413057&perks=1261178282,1749209109,2396489472#notes: PvE
 
 // -----
+// Steel Sybil Z-14 - Void Sword - Adaptive Frame (Crucible)
+dimwishlist:item=-4230993599#notes: Use Falling Guillotine.
+
+// -----
+// The Other Half - Void Sword - Adaptive Frame (Dares of Eternity)
+// PvE: Enduring, Balanced, Eager Edge, Vorpal
+dimwishlist:item=3257091167&perks=1261178282,52780822,2077819806,1546637391#notes:PvE - MW Impact (Craftable)
+
+// -----
+// Geodetic HSm - Void Sword - Adaptive Frame (World)
+dimwishlist:item=-3637669759#notes: Use Chivalric Fire instead.
+
+// -----
+// Double-Edged Answer - Void Sword - Adaptive Frame (Strike)
+dimwishlist:item=-105164264#notes: Use Chivalric Fire instead.
+
+// -----
+// Chivalric Fire - Void Sword - Caster Frame (Ritual)
+// PvE: Repulsor Brace + Destabilizing Rounds
+dimwishlist:item=3438139008#notes: PvE
+
+// -----
 // Falling Guillotine - Void Sword - Vortex Frame (World)
 dimwishlist:item=-614426548#notes: Reprised as Brave.
 
@@ -3078,32 +3125,14 @@ dimwishlist:item=243425374&perks=,1546637391,3078487919#notes: PvE - DPS
 dimwishlist:item=243425374&perks=,2396489472,2077819806#notes: PvE - Utility
 
 // -----
-// Razor's Edge - Void Warlock Sword - Vortex Frame (Iron Banner)
-// PvE: Relentless + Chain Reaction
-dimwishlist:item=1796949035&perks=,1749209109,2396489472#notes:PvE - MW Impact
-
-// -----
 // Death's Razor - Void Sword - Vortex Frame (Season of Defiant)
 // PvE: Jagged, Relentless, Whirlwind
 dimwishlist:item=3371413056&perks=3666208348,2363751990,1749209109,3913600130#PvE - MW Impact
 
 // -----
-// Steel Sybil Z-14 - Void Sword - Adaptive Frame (Crucible)
-dimwishlist:item=-4230993599#notes: Use Falling Guillotine.
-
-// -----
-// The Other Half - Void Sword - Adaptive Frame (Dares of Eternity)
-// PvE: Enduring, Balanced, Eager Edge, Vorpal
-dimwishlist:item=3257091167&perks=1261178282,52780822,2077819806,1546637391#notes:PvE - MW Impact (Craftable)
-
-// -----
-// Geodetic HSm - Void Sword - Adaptive Frame (World)
-dimwishlist:item=-3637669759#notes: Use Chivalric Fire instead.
-
-// -----
-// Chivalric Fire - Void Sword - Caster Frame (Ritual)
-// PvE: Repulsor Brace + Destabilizing Rounds
-dimwishlist:item=3438139008#notes: PvE
+// Razor's Edge - Void Warlock Sword - Vortex Frame (Iron Banner)
+// PvE: Relentless + Chain Reaction
+dimwishlist:item=1796949035&perks=,1749209109,2396489472#notes:PvE - MW Impact
 
 // -----
 // Quickfang - Void Hunter Sword - Lightweight Frame (World)
@@ -3113,7 +3142,7 @@ dimwishlist:item=2782325300&perks=1261178282,269888150,1749209109,354401740#note
 dimwishlist:item=2782325300&perks=938542991,269888150,1749209109,354401740#notes:PvE - MW Impact
 
 // -----
-// Crown-Splitter - Void titan sword - Aggressive Frame (World)
+// Crown-Splitter - Void Titan sword - Aggressive Frame (World)
 // PvE: relentless + Vorpal
 dimwishlist:item=2782325302&perks=436053704,2349202967,1749209109,1546637391#notes:PvE - MW Impact
 dimwishlist:item=2782325302&perks=1261178282,2349202967,1749209109,1546637391#notes:PvE - MW Impact
