@@ -278,12 +278,12 @@ dimwishlist:item=192784503&perks=,3700496672,4293542123#notes: PvE
 dimwishlist:item=496556698&perks=,3700496672,4293542123#notes: PvE
 
 // -----
-// Arsenic Bite - Arc Bow - Lightweight Frame (World)
+// Arsenic Bite - Arc 580 Bow - Lightweight Frame (World)
 // PvE: Dragonfly + Archer Tempo
 dimwishlist:item=720351795&perks=2801223209,2848615171,201365942#notes: PvE
 
 // -----
-// Tripwire Canary - Arc Bow - Lightweight Frame (Season of Seraph)
+// Tripwire Canary - Arc 580 Bow - Lightweight Frame (Season of Seraph)
 // PvE: Elastic, Straight, Archer Tempo, Explosive Head
 dimwishlist:item=3849444474&perks=2801223209,3827198035,201365942,3365897133#notes:PvE - MW Draw (Craftable)
 
@@ -302,6 +302,11 @@ dimwishlist:item=3472875143&perks=,201365942,2848615171#notes: PvE
 // Point of the Stag - Arc 684 Bow - Precision Frame (Iron Banner)
 // PvE: Archer's Tempo + Dragonfly
 dimwishlist:item=888872889&perks=,201365942,2848615171#notes: PvE
+
+// -----
+// Non-Denouement - Arc 684 Bow - Precision Frame (Salvation Edge)
+// PvE: Elastic, Straight, Dragonfly, Voltshot
+dimwishlist:item=1770490683&perks=2801223209,3827198035,2848615171,2173046394#notes: PvE - MW Draw Time
 
 // -----
 // Imperial Needle - Void bow - Lightweight Frame (Season of Chosen - Battlegrounds)
@@ -343,8 +348,8 @@ dimwishlist:item=963710795&perks=,1523832109,2978966579#notes:PvE
 
 // -----
 // Scatter Signal - Strand Fusion Rifle - 500 Rapid-Fire Frame (Season of Wish)
-// PvE: Arrowhead, Enhanced, Slice, Attrition Orbs
-dimwishlist:item=2558925366&perks=839105230,2680121939,923806249,243981275#notes: PvE - MW Range (Craftable)
+// PvE: Arrowhead, Accelerated, Slice, Attrition Orbs
+dimwishlist:item=2558925366&perks=839105230,689005463,923806249,243981275#notes: PvE - MW Charge (Craftable)
 
 // -----
 // Pressurized Precision - Strand 660 Fusion Rifle - Adaptive Frame (Iron Banner)
@@ -554,6 +559,11 @@ dimwishlist:item=2595497736&perks=2713678205,679225683,951095735,2224838837#note
 // Ecliptic Distaff - Void Glaive - Adaptive Glaive (Ritual)
 // PvE: Replenishing Aegis + Destabilizing Rounds
 dimwishlist:item=3001205424&perks=,1966281507,2048641572
+
+// -----
+// Forthcoming Deviance - Void Glaive - Rapid Fire Glaive (Salvation Edge)
+// PvE: Tempered, Appended, Reconstruction, Chain Reaction
+dimwishlist:item=535198113&perks=5699512,1087426260,1523832109,2396489472#notes: PvE - MW Handling (Craftable)
 
 
 // --------------------------------------------------------------------------
@@ -1378,6 +1388,10 @@ dimwishlist:item=2993554824&perks=839105230,3230963543,3700496672,4293542123#not
 
 // PvE: Arrowhead, Flared Magwell, Heal Clip, Incandescent
 dimwishlist:item=2993554824&perks=839105230,3230963543,3017780555,4293542123#notes: PvE - MW Reload (Craftable)
+
+// -----
+// Nullify - Solar 395 Pulse Rifle - Heavy Burst (Salvation Edge)
+dimwishlist:item=-859869931#notes: Use Adhortative better.
 
 // -----
 // Ogma PR6 - Solar 450 Pulse Rifle - Lightweight Frame (World)
@@ -2558,6 +2572,11 @@ dimwishlist:item=-3959549446#notes: Got other better options.
 dimwishlist:item=811403305&perks=,968510818,831391274#notes: PvE
 
 // -----
+// Imminence - Strand 900 SMG - Lightweight Frame (Salvation Edge)
+// PvE: Hammer Forged, Light Mag, Slice, Hatchling
+dimwishlist:item=1258168956&perks=3250034553,3230963543,923806249,831391274#notes: PvE - MW Reload (Craftable)
+
+// -----
 // Borrowed Time - Solar 750 SMG - Aggressive Frame (World)
 // PvE: Rangefinder + Frenzy
 dimwishlist:item=875848769&perks=,2846385770,4104185692#notes:PvE - MW Range
@@ -2744,6 +2763,11 @@ dimwishlist:item=2884596447&perks=1840239774,1885400500,957782887,47981717#notes
 
 // PvE: Arrowhead, Appended, Rewind Rounds, Fourth Time
 dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,1354429876#notes: PvE - MW Reload (Craftable)
+
+// -----
+// Critical Anomaly - Stasis 72 Sniper - Aggressive Frame (Salvation Edge)
+// PvE: Arrowhead, Tactical, Rewind Rounds, Triple Tap
+dimwishlist:item=445197843&perks=839105230,106909392,3418782618,3400784728#notes: PvE - MW Reload (Craftable)
 
 // -----
 // Thoughtless - Stasis 90 Sniper - Adaptive Frame (Season of Risen)
@@ -3036,7 +3060,7 @@ dimwishlist:item=2782325301&perks=938542991,2363751990,1749209109,2244851822#not
 dimwishlist:item=-3371413059#notes: No good perk.
 
 // -----
-// Temptation's Hook - Arc Sword - Caster Fframe (World)
+// Temptation's Hook - Arc Sword - Caster Frame (World)
 // PvE: relentless + Vorpal
 dimwishlist:item=35794111&perks=1261178282,52780822,1749209109,1546637391#notes:PvE - mw - impact
 dimwishlist:item=35794111&perks=1261178282,3625355092,1749209109,1546637391#notes:PvE - mw - impact
@@ -3073,6 +3097,11 @@ dimwishlist:item=-3870811754#notes: Powercrept by Bequest.
 // Half-Truths - Arc Sword - Adaptive Frame (Dares of Eternity)
 // PvE: Enduring, Balanced, Relentless, Eager Edge
 dimwishlist:item=3257091166&perks=1261178282,52780822,1749209109,2077819806#notes:PvE - MW Impact (Craftable)
+
+// -----
+// Summum Bonum - Arc Sword - Wave Sword Frame (Salvation Edge)
+// PvE: Enduring, Swordmaster, Tireless, Chain Reaction
+dimwishlist:item=3569407878&perks=1261178282,269888150,2590710093,2396489472#notes: PvE - MW Impact (Craftable)
 
 // -----
 // Goldtusk - Arc Hunter Sword - Lightweight Frame (Season of Defiant)
