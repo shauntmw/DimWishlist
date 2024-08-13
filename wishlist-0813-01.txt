@@ -318,6 +318,11 @@ dimwishlist:item=3460122497&perks=2801223209,201365942,4104185692#notes: PvE
 dimwishlist:item=-3710082365#notes: No good perks.
 
 // -----
+// Fortunate Star - Void Bow - Lightweight Frame (Solstice 2024)
+// PvE: Repulsor Brace + Destabilizing Rounds
+dimwishlist:item=2326578623&perks=,776531651,2048641572#notes: PvE
+
+// -----
 // Under Your Skin - Void bow - Precision Frame (Season of Risen)
 // PvE: Elastic, Compact, Archer Tempo, Explosive Head
 dimwishlist:item=232928045&perks=2801223209,16392701,201365942,3365897133#notes:PvE - MW Draw (Craftable)
@@ -673,6 +678,9 @@ dimwishlist:item=1856262127&perks=,3592538738,124408337#notes:PvE - MW Reload
 
 // PvE: Wellspring + Demolitionist
 dimwishlist:item=1856262127&perks=,3592538738,3523296417#notes:PvE - MW Reload
+
+// Solstice 2024, no good perks.
+dimwishlist:item=-3240434620#notes: No good perks.
 
 // -----
 // Eyasluna - Stasis 140 Hand Cannon - Adaptive Frame (Grasp of Avarice)
@@ -1494,6 +1502,11 @@ dimwishlist:item=1959650777&perks=1478423395,3796465595,2869569095,2978966579#no
 dimwishlist:item=-3256453690#notes: No good perks. Use Semiotican.
 
 // -----
+// Crowning Duologue - Strand Rocket Launcher - Precision Frame (Solstice 2024)
+// PvE: Reconstruction + Bipod
+dimwishlist:item=4106757302&perks=,1523832109,1439600632#notes: PvE
+
+// -----
 // Semiotician - Strand Rocket Launcher - High Impact Frame (Season of Witch)
 // PvE: Quick Launch, Alloy Casing, Field Prep, Bipod
 dimwishlist:item=2922749929&perks=3525010810,2985827016,2869569095,1439600632#notes: PvE - MW Reload (Craftable)
@@ -2029,9 +2042,14 @@ dimwishlist:item=1094005544&perks=,3300816228,4293542123
 dimwishlist:item=912150785&perks=,3300816228,4293542123
 
 // -----
-// Compass Rose - Solar Shotgun - Precision Frame (solstice)
+// Compass Rose - Solar Shotgun - Precision Frame (Solstice - old)
 // PvP: Quickdraw + Vorpal
 dimwishlist:item=233896077&perks=,706527188,1546637391#notes:PvP
+
+// -----
+// Compass Rose - Solar Shotgun - Precision Frame (Solstice 2024)
+// PvP: Slickdraw + Opening Shot
+dimwishlist:item=4169225313&perks=,1821614984,47981717#notes: PvP
 
 // -----
 // Wishbringer - Solar Shotgun - Rapid-Fire Frame (World)
@@ -3209,13 +3227,38 @@ dimwishlist:item=2323544076&perks=1482024992,732557052,1556840489,3108830275#not
 // --------------------------------------------------------------------------
 // Type - Exotic
 // --------------------------------------------------------------------------
+// Dead Man's Tale
+dimwishlist:item=-2188764214#notes: Useless Exotic.
+
+// -----
+// Dead Messenger
+// PvE: Quick Launch, High Velocity, Short-Action, Demolitionist
+dimwishlist:item=46125926&perks=3525010810,2822142346,1067908860,3523296417#notes: PvE - Craftable
+
+// -----
+// Edge of Action
+// PvE: Lightweight, Light Mag, Short Action Stock
+dimwishlist:item=2535142413&perks=594346985,679225683,1067908860#notes: PvE - Craftable
+
+// -----
+// Edge of Concurrence
+// PvE: Lightweight, Light Mag, Short Action Stock
+dimwishlist:item=542203595&perks=594346985,679225683,1067908860#notes: PvE - Craftable
+
+// -----
+// Edge of Intent
+// PvE: Lightweight, Light Mag, Short Action Stock
+dimwishlist:item=14194600&perks=594346985,679225683,1067908860#notes: PvE - Craftable
+
+// -----
+// Ergo Sum
+// PvE: Wolfpack, Caster
+dimwishlist:item=1681583613&perks=519046634,1959135343#notes: PvE
+
+// -----
 // Hawkmoon
 // PvE: Rangefinder + Combat Grip
 dimwishlist:item=3856705927&perks=,2846385770,3438534621#notes:PvE
-
-// -----
-// Dead Man's Tale
-dimwishlist:item=-2188764214#notes: Useless Exotic.
 
 // -----
 // Osteo Striga
@@ -3223,14 +3266,9 @@ dimwishlist:item=-2188764214#notes: Useless Exotic.
 dimwishlist:item=46524085&perks=202670084,106909392,4015745376,1067908860#notes: PvE - Craftable
 
 // -----
-// Edge of Intent
-// PvE: Lightweight, Light Mag, Short Action Stock
-dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860#notes: PvE - Craftable
-
-// -----
-// Edge of Action
-// PvE: Lightweight, Light Mag, Short Action Stock
-dimwishlist:item=2535142413&perks=594346985,679225683,2379536009,1067908860#notes: PvE - Craftable
+// Outbreak Perfected
+// PvE: Arrowhead, Tactical, Rewind Rounds, Hand-Laid Stock
+dimwishlist:item=3824673936&perks=839105230,106909392,2578928832#notes: PvE - Craftable
 
 // -----
 // Revision Zero
@@ -3238,21 +3276,27 @@ dimwishlist:item=2535142413&perks=594346985,679225683,2379536009,1067908860#note
 dimwishlist:item=1473821207&perks=839105230,679225683,1546637391,1067908860#notes: PvE: Craftable
 
 // -----
+// Solipsism
+// PvE: Osmiomancy + Verity
+dimwishlist:item=2273643087&perks=183430253,1476923957#notes: PvE - Grenade Build
+
+// PvE: Assassin + Synthoceps
+dimwishlist:item=2273643087&perks=1476923952,1476923956#notes: PvE - Melee Build
+
+// PvE: Inmost light + Verity
+dimwishlist:item=2273643087&perks=1476923953,1476923957#notes: PvE - Grenade Build
+
+// -----
 // Vexcalibur
 // PvE: Low Impedence, Light Mag, Short Action Stock
-dimwishlist:item=3118061005&perks=2713678205,679225683,2171805903,1067908860
+dimwishlist:item=3118061005&perks=2713678205,679225683,2171805903,1067908860#notes: PvE - Craftable
 
 // -----
 // Wish-Keeper
-// PvE: Elastic, Compact, Polymer
-dimwishlist:item=2910326942&perks=2801223209,16392701,862848869#notes: PvE - Craftable
+// PvE: Elastic, Compact, Polymer, Hatchling
+dimwishlist:item=2910326942&perks=2801223209,16392701,862848869,372672211#notes: PvE - Craftable
 
 // -----
 // Whisper of the Worm
 // PvE: Arrowhead, Flared Magwell, Field Prep, Hand-Laid Stock
 dimwishlist:item=1983149589&perks=839105230,3230963543,777589559,990298390#notes: PvE - Craftable
-
-// -----
-// Outbreak Perfected
-// PvE: Arrowhead, Tactical, Rewind Rounds, Hand-Laid Stock
-dimwishlist:item=3824673936&perks=839105230,106909392,2578928832#notes: PvE - Craftable
