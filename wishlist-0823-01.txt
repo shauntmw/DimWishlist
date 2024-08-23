@@ -1415,6 +1415,11 @@ dimwishlist:item=2708806099&perks=839105230,679225683,3523296417,4293542123#note
 dimwishlist:item=-1678205741#notes: Use Battler.
 
 // -----
+// Corrasion - Arc 300 Pulse Rifle - Heavt-Burst (Episode Echo)
+// PvE: Arrowhead, Tactical Mag, Enlightened Action, Voltshot
+dimwishlist:item=2126178511&perks=839105230,106909392,3828510309,2173046394#notes: PvE - MW Reload (Craftable)
+
+// -----
 // Phyllotactic Spiral - Arc 340 Pulse Rifle - High Impact Frame (Neomuna)
 // PvE: Arrowhead, Light Mag, Compulsive Reloader, Voltshot
 dimwishlist:item=3635821806&perks=839105230,679225683,671806388,2173046394#notes: PvE - MW Reload (Craftable)
@@ -2310,7 +2315,12 @@ dimwishlist:item=2328923181&perks=,3523296417,831391274#notes: PvE
 dimwishlist:item=231031173&perks=202670084,679225683,691659142,831391274#notes:PvE - MW Range (Craftable)
 
 // -----
-// Drang - Solar Sidearm - Adaptive Frame (Special)
+// Aberrant Action - Solar Special Sidearm - Rocket-Assisted Frame (Episode Echo)
+// PvE: Quick Launch, Tactical Mag, Beacon Rounds, Incandescent
+dimwishlist:item=2198166292&perks=3525010810,106909392,2859149211,4293542123#notes:PvE - MW Velocity (Craftable)
+
+// -----
+// Drang - Solar 300 Sidearm - Adaptive Frame (Special)
 // PvP: Rampage + Moving Target
 dimwishlist:item=2362471600#notes:PvP
 
@@ -3015,7 +3025,7 @@ dimwishlist:item=1911078836&perks=,1749209109,2396489472#notes: PvE
 // -----
 // Ill Omen - Stasis Sword - Caster Frame (Episode Echo)
 // PvE: Enduring, Swordmaster, Relentless, Cold Steel
-dimwishlist:item=3794274730&perks=1261178282,269888150,2590710093,3650930298#notes: PvE - MW Impact (Craftable)
+dimwishlist:item=3794274730&perks=1261178282,269888150,1749209109,3650930298#notes: PvE - MW Impact (Craftable)
 
 // -----
 // Thin Precipice - Strand Sword - Vortex Frame (Season of Deep)
