@@ -1171,6 +1171,10 @@ dimwishlist:item=3624844116&perks=,2869569095,1771339417
 dimwishlist:item=-1766088024#notes: No good perk.
 
 // -----
+// Speleologist - Solar 900 Machine Gun - Rapid-Fire Frame (Episode Echo)
+dimwishlist:item=-412251536#notes: Avalanche better.
+
+// -----
 // Terminus Horizon - Arc 360 Machine Gun - High Impact Frame (Spire of Watcher Dungeon)
 dimwishlist:item=-487205709#notes: Use Swarm instead.
 
@@ -3222,17 +3226,22 @@ dimwishlist:item=548958835&perks=3250034553,2749775325,1820235745,4293542123#not
 // -----
 // Acasia's Dejection - Solar Trace Rifle - Adaptive Frame (Root of Nightmares Raid)
 // PvE: Smallbore, Enhanced Battery, Reconstruction, Incandescent
-dimwishlist:item=1471212226&perks=1482024992,2680121939,1523832109,4293542123#notes:PvE - MW Stability (Craftable)
+dimwishlist:item=1471212226&perks=1482024992,2680121939,1523832109,4293542123#notes: PvE - MW Stability (Craftable)
 
 // -----
 // Path of Least Resistance - Arc Trace Rifle - Adaptive Frame (Season of Seraph)
 // PvE: Hammer Forged, Light Battery, Triple Tap, Voltshot
-dimwishlist:item=2827764482&perks=3250034553,2749775325,3400784728,2173046394#notes:PvE - MW Reload (Craftable)
+dimwishlist:item=2827764482&perks=3250034553,2749775325,3400784728,2173046394#notes: PvE - MW Reload (Craftable)
 
 // -----
 // Hollow Denial - Void Trace Rifle - Adaptive Frame (Season of Haunted - Leviathan)
 // PvE: Smallbore, Tactical Battery, Lead from Gold, Unrelenting
-dimwishlist:item=2323544076&perks=1482024992,732557052,1556840489,3108830275#notes:PvE - MW Reload (Craftable)
+dimwishlist:item=2323544076&perks=1482024992,732557052,1556840489,3108830275#notes: PvE - MW Reload (Craftable)
+
+// -----
+// Chronophage - Void Trace Rifle - Adaptive Frame (Episode Echo)
+// PvE: Polygonal, Light Battery, Repulsor Brace, Destabilizing Rounds
+dimwishlist:item=1886840007&perks=1392496348,2749775325,776531651,2048641572#notes: PvE - MW Reload (Craftable)
 
 // --------------------------------------------------------------------------
 // Type - Exotic
