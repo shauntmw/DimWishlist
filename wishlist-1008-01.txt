@@ -2454,7 +2454,8 @@ dimwishlist:item=1218113510&perks=,2039302152,2396489472#notes: PvE
 
 // -----
 // Lost Signal - Stasis Special Grenade Launcher - Area Denial Frame (Episode Echos)
-// PvE: Quick Launch, High Velocity Round, Auto-Loading, Reverberation#notes: PvE - MW Blast Radius (Craftable)
+// PvE: Quick Launch, High Velocity Round, Auto-Loading, Reverberation
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,563069569#notes: PvE - MW Blast Radius (Craftable)
 
 // -----
 // Empty Vessel - Solar special grenade - Lightweight Frame (World)
@@ -3080,7 +3081,7 @@ dimwishlist:item=4207120603&perks=1261178282,269888150,1749209109,2396489472#not
 
 // -----
 // Eternity's Edge - Solar Warlock Sword - Vortex Frame (World)
-// PvE: relentless + flash counter
+// PvE: Relentless + Flash Counter
 dimwishlist:item=2782325301&perks=436053704,2363751990,1749209109,2244851822#notes:PvE - MW Impact
 dimwishlist:item=2782325301&perks=1261178282,2363751990,1749209109,2244851822#notes:PvE - MW Impact
 dimwishlist:item=2782325301&perks=2827049491,2363751990,1749209109,2244851822#notes:PvE - MW Impact
@@ -3246,6 +3247,11 @@ dimwishlist:item=1886840007&perks=1392496348,2749775325,776531651,2048641572#not
 // --------------------------------------------------------------------------
 // Type - Exotic
 // --------------------------------------------------------------------------
+// Choir of One
+// PvE: Arrowhead, Light Mag, Short-Action, Destabilizing Rounds
+dimwishlist:item=3698448090&perks=839105230,679225683,1067908860,1931951169#notes: PvE - Craftable
+
+// -----
 // Dead Man's Tale
 dimwishlist:item=-2188764214#notes: Useless Exotic.
 
@@ -3273,6 +3279,12 @@ dimwishlist:item=14194600&perks=594346985,679225683,1067908860#notes: PvE - Craf
 // Ergo Sum
 // PvE: Wolfpack, Caster
 dimwishlist:item=1681583613&perks=519046634,1959135343#notes: PvE
+
+// PvE: Arc Conductor, Lightweight
+dimwishlist:item=1681583613&perks=3949068808,2753228730#notes: PvE
+
+// PvE: Perfect Fifth, Vortex
+dimwishlist:item=1681583613&perks=1522566605,2557881346#notes: PvE
 
 // -----
 // Hawkmoon
