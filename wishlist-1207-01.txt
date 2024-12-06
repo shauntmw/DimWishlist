@@ -518,6 +518,11 @@ dimwishlist:item=-2263839058#notes: No good perks.
 dimwishlist:item=4114929480&perks=,689005463,671806388,1427256713#notes:PvE - MW Any except Handling
 
 // -----
+// VS Gravitic Arrest - Void 660 Fusion Rifle - Adaptive Frame (Vesper Dungeon)
+// PvE: Demolitionist + Chain Reaction
+dimwishlist:item=93061497&perks=,3523296417,2396489472#notes:PvE
+
+// -----
 // coriolis force - Void Fusion Rifle - Aggressive Frame (Europa)
 dimwishlist:item=-3512349612#notes:just use null composure.
 
@@ -551,6 +556,16 @@ dimwishlist:item=2728851518&perks=,3643424744,1427256713#notes: PvE
 // --------------------------------------------------------------------------
 // Type - Glaive
 // --------------------------------------------------------------------------
+// Rake Angle - Stasis 45 Glaive - Aggressive Glaive (Nightfall)
+// PvE: Overflow + Close to Melee
+dimwishlist:item=2298039571&perks=,3643424744,1782407750#notes:PvE
+
+// -----
+// Rake Angle (Adept) - Stasis 45 Glaive - Aggressive Glaive (Nightfall)
+// PvE: Overflow + Close to Melee
+dimwishlist:item=3997086838&perks=,3643424744,1782407750
+
+// -----
 // Lubrae's Ruin - Solar Glaive - Adaptive Glaive (Vow of the Disciple)
 // PvE: Low Impedance, Light Mag, Immovable Object, Unstoppable Force
 dimwishlist:item=2534546147&perks=2713678205,679225683,3800201097,2224838837#notes:PvE - MW Reload (Craftable)
@@ -1913,12 +1928,21 @@ dimwishlist:item=-2249996761#notes: Use Hung Jury better.
 dimwishlist:item=-1107446438#notes: Powercrept.
 
 // -----
+// Randy's Throwing Knife - Kinetic 260 Scout Rifle - Rapid-Fire Frame
+dimwishlist:item=-3292795429#notes: No good perks.
+
+// -----
 // Perses-D - Stasis 150 Scout Rifle - High Impact Frame (World)
 // PvE: Shoot to Loot + Explosive Payload
 dimwishlist:item=1019000888&perks=,3700496672,3038247973#notes:PvE - MW Any except Handling
 
 // PvE: Rapid Hit + Headstone
 dimwishlist:item=1019000888&perks=,247725512,124408337#notes:PvE - MW Any except Handling
+
+// -----
+// Live Fire - Stasis 180 Scout Rifle - Precision Frame
+// PvE: Rimestealer + Headstone
+dimwishlist:item=3612142623&perks=,1955165503,124408337#notes: PvE
 
 // -----
 // Jararaca-3sr - Stasis 260 Scout Rifle - Rapid Fire Frame (World)
@@ -2457,8 +2481,13 @@ dimwishlist:item=-2566006935#notes: No good perks.
 dimwishlist:item=2121785039&perks=,4071163871,4104185692#notes: PvE
 
 // -----
-// A Swift Verdict - Void Sidearm - Precision Frame (Prophecy)
+// A Swift Verdict - Void 260 Sidearm - Precision Frame (Prophecy)
 dimwishlist:item=-1626503676#notes: No good perk.
+
+// -----
+// Insurmountable - Void 260 Sidearm - Precision Frame (Episode Revenant)
+// PvE: Repulsor Brace + Destabilizing Rounds
+dimwishlist:item=414045521&perks=,776531651,2048641572#notes: PvE
 
 // --------------------------------------------------------------------------
 // Type - Special Grenade Launcher
@@ -2469,8 +2498,7 @@ dimwishlist:item=304659313&perks=,3032599245,3161816588#notes:PvE - MW Velocity 
 
 // -----
 // Pardon Our Dust - Kinetic Special Grenade Launcher - Lightweight Frame (Dares of Eternity)
-// PvE: Quick Launch, Blinding, Auto Loading, Demolitionist
-dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,3523296417#notes:PvE - MW Handling (Craftable)
+dimwishlist:item=-3849810018#notes: Use Militia Birthright.
 
 // -----
 // The Militia's Birthright - Kinetic Special Grenade Launcher - Lightweight Frame (Nightfall)
@@ -2494,14 +2522,12 @@ dimwishlist:item=4043921923&perks=,3300816228,469285294#notes: PvE
 
 // -----
 // Lingering Dread - Stasis Special Grenade Launcher - Lightweight Frame (Duality Dungeon)
-// PvE: Auto-Loading + Chill Clip
-dimwishlist:item=2026087437&perks=,3301904089,3300816228,2978966579#notes:PvE - MW Velocity
-
-// PvE: Spiked + Auto-Loading + Vorpal
-dimwishlist:item=2026087437&perks=,3301904089,3300816228,1546637391#notes:PvE - MW Velocity
-
 // PvE: Blinding + Auto-Loading + Chill Clip
 dimwishlist:item=2026087437&perks=,3032599245,3300816228,2978966579#notes:PvE - MW Velocity
+
+// -----
+// Liturgy - Stasis Special Grenade Launcher - Double Fire Frame (Episode Revenant)
+dimwishlist:item=-2599338624#notes: No good perks.
 
 // -----
 // New Pacific Epitaph - Stasis Special Grenade Launcher - Wave Frame (Ghosts of the Deep Dungeon)
@@ -2527,13 +2553,22 @@ dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,3523296417#no
 dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,3523296417#notes:PvE - MW Velocity
 
 // -----
+// Wild Style - Solar Special Grenade Launcher - Double Fire Frame (Nightfall)
+dimwishlist:item=-1332123064#notes: No good perks.
+
+// -----
 // Explosive Personality - Solar Special Grenade Launcher - Wave Frame (Season of Risen)
 // PvE: Quick Launch, High Velocity, Auto Loading, Frenzy
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692#notes:PvE - MW Handling (Craftable)
 
 // -----
+// Martyr's Retribution - Solar Special Grenade Launcher - Wave Frame (Episode Echo)
+// PvE: Auto-Loading + Incandescent
+dimwishlist:item=2584830733&perks=,3300816228,4293542123#notes: PvE
+
+// -----
 // Salvager's Salvo - Arc Special Grenade Launcher - Lightweight Frame (Ritual - Season of Chosen)
-dimwishlist:item=2060863616#notes:seasonal reward.
+dimwishlist:item=-2060863616#notes: Use Forbearance.
 
 // -----
 // Prodigal Return - Arc Special Grenade Launcher - Lightweight Frame (Season of Defiant)
@@ -2555,11 +2590,23 @@ dimwishlist:item=568611921&perks=,3523296417,2396489472#notes: PvE
 dimwishlist:item=2480074702&perks=,3523296417,2396489472#notes: PvE
 
 // -----
-// Undercurrent - Arc Special Grenade Launcher - Wave Frame (Nightfall)
+// Undercurrent (Q1 2024) - Arc Special Grenade Launcher - Wave Frame (Nightfall)
 dimwishlist:item=-1151688091#notes: Use Forbearance better.
 
 // (Adept)
 dimwishlist:item=-672957262#notes: Use Forbearance better.
+
+// -----
+// Undercurrent (Q4 2024) - Arc Special Grenade Launcher - Wave Frame (Nightfall)
+dimwishlist:item=-3686538757#notes: Use Forbearance better.
+
+// (Adept)
+dimwishlist:item=-817909300#notes: Use Forbearance better.
+
+// -----
+// VS Velocity Baton - Void Special Grenade Launcher - Area Denial Frame (Vesper Dungeon)
+// PvE: Demolitionist + Attrition Orbs
+dimwishlist:item=1762785663&perks=,3523296417,243981275#notes: PvE
 
 // -----
 // Wilderflight - Void Special Grenade Launcher - Double Fire (Spire of Watcher Dungeon)
@@ -2631,8 +2678,12 @@ dimwishlist:item=-4100775158#notes:No good perks.
 
 // -----
 // The Showrunner - Kinetic 900 SMG - Lightweight Frame (World)
-// PvE: Overflow + Kinetic Tremors
-dimwishlist:item=1999754402&perks=,3643424744,3891536761#notes: PvE
+dimwishlist:item=-1999754402#notes: Use Multimach.
+
+// -----
+// Multimach CCX - Kinetic 900 SMG - Lightweight Frame (Iron Banner)
+// PvE: Attrition Orbs + Kinetic Tremors
+dimwishlist:item=3211624072&perks=,243981275,3891536761#notes: PvE
 
 // -----
 // Forensic Nightmare - Stasis 600 SMG - Precision Frame (Witch Queen Campaign)
@@ -2671,12 +2722,13 @@ dimwishlist:item=811403305&perks=,968510818,831391274#notes: PvE
 dimwishlist:item=1258168956&perks=3250034553,3230963543,923806249,831391274#notes: PvE - MW Reload (Craftable)
 
 // -----
-// Borrowed Time - Solar 750 SMG - Aggressive Frame (World)
-// PvE: Rangefinder + Frenzy
-dimwishlist:item=875848769&perks=,2846385770,4104185692#notes:PvE - MW Range
+// Perfect Pitch - Solar 600 SMG - Precision Frame (Ritual)
+// PvE: Subsistence + Incandescent
+dimwishlist:item=3276304504#notes: PvE
 
-// PvE: Threat Detector + Demolitionist
-dimwishlist:item=875848769&perks=,4071163871,3523296417#notes:PvE - MW Range
+// -----
+// Borrowed Time - Solar 750 SMG - Aggressive Frame (World)
+dimwishlist:item=-875848769#notes: Powercrept.
 
 // -----
 // No Survivors - Solar 750 SMG - Aggressive Frame (Ghosts of the Deep Dungeon)
@@ -2701,6 +2753,11 @@ dimwishlist:item=-2832639510#notes: Use Calus Mini Tool instead.
 // -----
 // Parabellum - Solar 900 SMG - Adaptive Frame (World)
 dimwishlist:item=-3926811686#notes: Use Calus Mini Tool instead.
+
+// -----
+// Noxious Vetiver - Arc 600 SMG - Precision Frame (Episode Revenant)
+// PvE: Attrition Orbs + Jolting Feedback
+dimwishlist:item=825495813&perks=,243981275,3966416502#notes: PvE
 
 // -----
 // IKELOS SMG - Arc 750 SMG - Aggressive Frame
@@ -2738,8 +2795,7 @@ dimwishlist:item=-1028124540#notes: Powercrept.
 
 // -----
 // Unforgiven - Void 750 SMG - Agressive Frame (Duality Dungeon)
-// PvE: Demolitionist + Frenzy
-dimwishlist:item=3000847393&perks=,3523296417,4104185692#notes:PvE - MW Range
+dimwishlist:item=-3000847393#notes: Powercrept.
 
 // -----
 // shayura's wrath - Void 600 SMG - Precision Frame (Trials of Osiris)
