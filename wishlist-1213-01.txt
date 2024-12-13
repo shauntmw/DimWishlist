@@ -553,6 +553,11 @@ dimwishlist:item=2728851518&perks=,3161816588,1427256713#notes: PvE
 // PvE: Overflow + Reservoir Burst
 dimwishlist:item=2728851518&perks=,3643424744,1427256713#notes: PvE
 
+// -----
+// Glacioclasm (2024) - Void Fusion Rifle - 960 High Impact Frame (Dawning 2024)
+// PvE: Overflow + Reservoir Burst
+dimwishlist:item=1183116657&perks=,3643424744,1427256713#notes: PvE
+
 // --------------------------------------------------------------------------
 // Type - Glaive
 // --------------------------------------------------------------------------
@@ -583,7 +588,12 @@ dimwishlist:item=1757202961&perks=,951095735,4293542123#notes: PvE
 // -----
 // Albedo Wing - Arc Glaive - Aggressive Glaive (Dawning 2023)
 // PvE: Beacon Rounds + Lead From Gold
-dimwishlist:item=2680976411&perks=,2859149211,1556840489#notes: PvE
+dimwishlist:item=-2680976411#notes: Powercrept.
+
+// -----
+// Albedo Wing - Arc 45 Glaive - Aggressive Glaive (Dawning 2024)
+// PvE: Air Trigger + Voltshot
+dimwishlist:item=1845372864&perks=,1421772400,2173046394#notes: PvE
 
 // -----
 // Nezarec's Whisper - Arc Glaive - Adaptive Glaive (Season of Haunted - Leviathan)
@@ -1151,6 +1161,11 @@ dimwishlist:item=-3335343363#notes: No good perk.
 dimwishlist:item=2450049485&perks=,2284787283,1771339417#notes: PvE
 
 // -----
+// Mistral Lift - Void 533 Linear Fusion Rifle - Adaptive Burst (Dawning 2024)
+// PvE: Envious Arsenal + Bait and Switch
+dimwishlist:item=3483485727&perks=,3987942396,3078487919#notes: PvE
+
+// -----
 // Doomed Petitioner - Void Linear Fusion Rifle - Aggressive Frame (Season of Wish)
 // PvE: Arrowhead, Enhanced, Recontruction, Precision Instrument
 dimwishlist:item=1501688142&perks=839105230,2680121939,1523832109,555281244#notes: PvE - MW Reload (Craftable)
@@ -1215,6 +1230,11 @@ dimwishlist:item=495940989&perks=,3300816228,4293542123#notes: PvE
 // Avalanche (2023) - Solar 450 Machine Gun - Adaptive Frame (Dawning 2023)
 // PvE: Auto-Loading + Incandescent
 dimwishlist:item=4220529694&perks=,3300816228,4293542123#notes: PvE
+
+// -----
+// Avalanche (2024) - Solar 450 Machine Gun - Adaptive Frame (Dawning 2024)
+// PvE: Dragonfly + Incandescent
+dimwishlist:item=1845978721&perks=,2848615171,4293542123#notes: PvE
 
 // -----
 // Unwavering Duty (2023) - Solar 450 Machine Gun - Adaptive Frame (Trials)
@@ -1426,6 +1446,11 @@ dimwishlist:item=-2812100428#notes: Nothing good. Use Syncopation instead.
 // -----
 // Stay Frosty - Stasis 450 Pulse Rifle - Lightweight Frame (Dawning 2023)
 dimwishlist:item=-1891321753#notes: Use Disparity instead.
+
+// -----
+// Stay Frosty - Stasis 450 Pulse Rifle - Lightweight Frame (Dawning 2024)
+// PvE: Rimestealer + Headstone
+dimwishlist:item=1123433952&perks=,1955165503,124408337#notes: PvE
 
 // -----
 // Disparity - Stasis 450 Pulse Rifle - Aggressive Frame (Season of Seraph)
@@ -2092,6 +2117,10 @@ dimwishlist:item=-2653171213#notes: No good perks.
 dimwishlist:item=318443586&perks=1332244541,791862061,3300816228,2360754333#notes:PvE - MW Range (Craftable)
 
 // -----
+// Perfect Paradox - Kinetic Shotgun - 61 Rapid-Fire Frame (Episode Echo)
+dimwishlist:item=-1298672084#notes: No good perks.
+
+// -----
 // Someday - Kinetic 65 Shotgun - Precision Frame (Pale Heart)
 dimwishlist:item=-3232203524#notes: No good perks.
 
@@ -2136,9 +2165,9 @@ dimwishlist:item=1094005544&perks=,3300816228,4293542123
 dimwishlist:item=912150785&perks=,3300816228,4293542123
 
 // -----
-// Compass Rose - Solar Shotgun - Precision Frame (Solstice - old)
+// Compass Rose - Solar Shotgun - Precision Frame (Solstice 2022)
 // PvP: Quickdraw + Vorpal
-dimwishlist:item=233896077&perks=,706527188,1546637391#notes:PvP
+dimwishlist:item=2591111628&perks=,706527188,1546637391#notes:PvP
 
 // -----
 // Compass Rose - Solar Shotgun - Precision Frame (Solstice 2024)
@@ -2214,7 +2243,21 @@ dimwishlist:item=3738678140&perks=1332244541,3142289711,3300816228,2360754333#no
 
 // -----
 // Xenoclast IV - Arc Shotgun - Lightweight Frame (World)
-dimwishlist:item=-2891672170#notes:use Found Verdict instead.
+dimwishlist:item=-2891672170#notes: Use Found Verdict instead.
+
+// -----
+// Arcane Embrace - Arc Shotgun - 62 Heavy Burst Frame (World)
+dimwishlist:item=-3649985571#notes: No good perks.
+
+// -----
+// Prophet of Doom - Arc Shotgun - 65 Precision Frame (Garden of Salvation Raid)
+// PvE: Barrel Shroud, Assault Mag, Reconstruction, Trench Barrel
+dimwishlist:item=2145441168&perks=1300023272,791862061,1523832109,2360754333#notes: PvE - MW Range
+
+// -----
+// Ded Gramarye IV - Arc Shotgun - 80 Lightweight Frame (World)
+// PvE: Threat Detector + Chain Reaction
+dimwishlist:item=499245245&perks=,4071163871,598607952#notes: PvE
 
 // -----
 // The Comedian - Void Shotgun - Aggressive Frame (Nightfall)
@@ -2249,6 +2292,11 @@ dimwishlist:item=2573900604&perks=,968510818,2048641572#notes: PvE
 // Retrofuturist - Void shotgun - Lightweight Frame (World)
 // PvE: Auto-Loading + Vorpal
 dimwishlist:item=1612781792&perks=,3300816228,1546637391#notes: PvE
+
+// -----
+// Scavenger's Fate - Void Shotgun - 65 Precision Frame (Episode Revenant)
+// PvE: Feeding Frenzy + Destabilizing Rounds
+dimwishlist:item=2913577176&perks=,2779035018,2048641572#notes: PvE
 
 // --------------------------------------------------------------------------
 // Type - Shotgun (Slug)
@@ -3143,6 +3191,14 @@ dimwishlist:item=1911078836&perks=,1749209109,3650930298#notes: PvE
 
 // PvE: Relentless + Chain Reaction
 dimwishlist:item=1911078836&perks=,1749209109,2396489472#notes: PvE
+
+// -----
+// Zephyr (2024) - Stasis Sword - Adaptive Frame (Dawning 2024)
+// PvE: Relentless + Cold Steel
+dimwishlist:item=601948197&perks=,1749209109,3650930298
+
+// PvE: Relentless + Chain Reaction
+dimwishlist:item=601948197&perks=,1749209109,2396489472#notes: PvE
 
 // -----
 // Ill Omen - Stasis Sword - Caster Frame (Episode Echo)
