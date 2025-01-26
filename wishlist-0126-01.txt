@@ -2126,10 +2126,8 @@ dimwishlist:item=-3232203524#notes: No good perks.
 
 // -----
 // Riiswalker - Kinetic 80 Shotgun - Lightweight Frame (Iron Banner)
-// PvP: Quickdraw + Iron Reach
-dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007#notes:PvP - MW Range
-dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007#notes:PvP - MW Range
-dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007#notes:PvP - MW Range
+// PvP: Slickdraw + Iron Reach
+dimwishlist:item=557165046&perks=1821614984,591790007#notes: PvP
 
 // -----
 // Wastelander M5 - Kinetic 80 Shotgun - Lightweight Frame (Dares of Eternity)
@@ -2171,8 +2169,7 @@ dimwishlist:item=2591111628&perks=,706527188,1546637391#notes:PvP
 
 // -----
 // Compass Rose - Solar Shotgun - Precision Frame (Solstice 2024)
-// PvP: Slickdraw + Opening Shot
-dimwishlist:item=4169225313&perks=,1821614984,47981717#notes: PvP
+dimwishlist:item=-4169225313#notes: Old godroll better.
 
 // -----
 // Wishbringer - Solar Shotgun - Rapid-Fire Frame (World)
@@ -2330,10 +2327,14 @@ dimwishlist:item=599895591&perks=202670084,791862061,3300816228,4104185692#notes
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,4104185692#notes:PvE - MW Range
 
 // -----
-// First In Last Out - Arc Slug Shotgun - Precision Frame (World)
+// Legato-11 - Solar Slug Shotgun - Pinpoint Slug Frame (World)
+// PvE: Heal Clip + Incandescent
+dimwishlist:item=3753063346&perks=,3017780555,4293542123#notes:PvE
+
+// -----
+// First In, Last Out - Arc Slug Shotgun - Precision Frame (World)
 // PvE: Auto Loading + Vorpal
-dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391#notes:PvE - MW Range
-dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391#notes:PvE - MW Range
+dimwishlist:item=3616586446&perks=,3300816228,1546637391#notes:PvE
 
 // -----
 // Gunnora's Axe - Arc Slug Shotgun - Precision Frame (Iron Banner)
@@ -2894,9 +2895,6 @@ dimwishlist:item=-1403800851#notes: No good perks.
 
 // -----
 // Silicon Neuroma (Adept) - Kinetic Sniper - Aggressive Frame (Nightfall)
-// PvP: Snapshot + Opening Shot
-dimwishlist:item=1387987271&perks=,957782887,47981717#notes:PvP - MW Handling
-
 // PvE: Triple Tap + Firing Line
 dimwishlist:item=1387987271&perks=,3400784728,1771339417#notes:PvE - MW Any
 
@@ -2916,15 +2914,12 @@ dimwishlist:item=570866107&perks=839105230,106909392,1523832109,1546637391#notes
 
 // -----
 // Defiance of Yasmin - Kinetic Sniper - Adaptive Frame (King's Fall Raid)
-// PvP: Arrowhead, Accurized, Snapshot, Opening Shot
-dimwishlist:item=3228096719&perks=839105230,3142289711,957782887,47981717#notes:PvP - Handling
-
-// PvE: Arrowhead, Tactical Mag, Ensemble, Firing Line
-dimwishlist:item=3228096719&perks=839105230,106909392,2621346526,1771339417#notes:PvE - Reload
+dimwishlist:item=-3228096719#notes: Use Supremacy.
 
 // -----
 // Eye of Sol - Kinetic Sniper - Adaptive Frame (Trials of Osiris)
 dimwishlist:item=-3164743584#notes: No good perks.
+dimwishlist:item=-627188188#notes: No good perks.
 
 // -----
 // Long Shadow - Kinetic Sniper - Adaptive Frame (Strike)
@@ -2939,20 +2934,13 @@ dimwishlist:item=-3743729616#notes: No good perks.
 dimwishlist:item=-1645386487#notes: No good perks. For PvP use Long Shadow, PvE use Succession.
 
 // -----
-// praedyth's revenge - Kinetic Sniper - Rapid-Fire Frame (Vault of Glass)
+// Praedyth's Revenge - Kinetic Sniper - Rapid-Fire Frame (Vault of Glass)
 // PvE: Rewind Rounds + High Impact Reserve
 dimwishlist:item=3653573172&perks=839105230,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
 dimwishlist:item=3653573172&perks=3661387068,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
 dimwishlist:item=3653573172&perks=1467527085,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
 dimwishlist:item=3653573172&perks=3250034553,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
 dimwishlist:item=3653573172&perks=1482024992,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
-
-// PvE: Rewind Rounds + Frenzy
-dimwishlist:item=3653573172&perks=839105230,106909392,3418782618,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=3653573172&perks=3661387068,106909392,3418782618,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=3653573172&perks=1467527085,106909392,3418782618,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=3653573172&perks=3250034553,106909392,3418782618,4104185692#notes:PvE - MW Range or Reload
-dimwishlist:item=3653573172&perks=1482024992,106909392,3418782618,4104185692#notes:PvE - MW Range or Reload
 
 // -----
 // The Supremacy - Kinetic 140 Sniper - Rapid-Fire Frame (Last Wish)
@@ -3003,7 +2991,7 @@ dimwishlist:item=-1106635211#notes: No good perks.
 dimwishlist:item=-1948035256#notes: No good perks.
 
 // -----
-// Far Future - Solar Sniper - Adaptive Frame (Season of Chosen - Battlegrounds)
+// Far Future - Solar 90 Sniper - Adaptive Frame (Season of Chosen - Battlegrounds)
 // PvE: Auto Loading + Frenzy
 dimwishlist:item=893527433&perks=839105230,106909392,3300816228,4104185692#notes:PvE - MW Range or stability
 dimwishlist:item=893527433&perks=3661387068,106909392,3300816228,4104185692#notes:PvE - MW Range or stability
@@ -3014,12 +3002,12 @@ dimwishlist:item=893527433&perks=1392496348,106909392,3300816228,4104185692#note
 dimwishlist:item=893527433&perks=1482024992,106909392,3300816228,4104185692#notes:PvE - MW Range or stability
 
 // -----
-// Uzume RR4 - Solar Sniper - Adaptive Frame (Nightfall)
+// Uzume RR4 - Solar 90 Sniper - Adaptive Frame (Nightfall)
 // PvE: Triple Tap + Vorpal
 dimwishlist:item=2065081837&perks=,3400784728,1546637391#notes: PvE
 
 // -----
-// Uzume RR4 (Adept) - Solar Sniper - Adaptive Frame (Nightfall)
+// Uzume RR4 (Adept) - Solar 90 Sniper - Adaptive Frame (Nightfall)
 // PvE: Clown Cartridge + Vorpal
 dimwishlist:item=852228780&perks=,2284787283,1546637391#notes: PvE
 
@@ -3027,15 +3015,16 @@ dimwishlist:item=852228780&perks=,2284787283,1546637391#notes: PvE
 dimwishlist:item=852228780&perks=,3400784728,1546637391#notes: PvE
 
 // -----
-// Beloved - Solar Sniper - Adaptive Frame (Season of Haunted - Leviathan)
+// Beloved - Solar 90 Sniper - Adaptive Frame (Season of Haunted - Leviathan)
 // PvP: Arrowhead, Ricochet, Snapshot, Moving Target
 dimwishlist:item=3107853529&perks=839105230,1885400500,957782887,588594999#notes:PvP - MW Handling (Craftable)
 
-// PvE: Arrowhead, Appended, Fourth Time, Incandescent
-dimwishlist:item=3107853529&perks=839105230,1087426260,1354429876,4293542123#notes:PvE - MW Reload (Craftable)
+// -----
+// The Domino - Solar 90 Sniper - Adaptive Frame (World)
+dimwishlist:item=-2800870005#notes: No good perks.
 
 // -----
-// omniscient eye - Solar Sniper - Rapid-Fire Frame (Garden of Salvation)
+// Omniscient Eye - Solar Sniper - Rapid-Fire Frame (Garden of Salvation)
 dimwishlist:item=-3454326177#notes:no good perk.
 
 // -----
@@ -3122,6 +3111,17 @@ dimwishlist:item=3871226707&perks=,106909392,3400784728,1546637391#notes: PvE
 dimwishlist:item=3871226707&perks=,3523296417,2173046394#notes: PvE
 
 // -----
+// Mechabre - Arc 72 Sniper - Aggreesive Frame (Halloween 2024)
+// PvE: Snapshot + Opening Shot
+dimwishlist:item=2477980485&perks=,957782887,47981717#notes: PvP
+
+// PvE: Triple Tap + Vorpal
+dimwishlist:item=2477980485&perks=,3400784728,1546637391#notes: PvE
+
+// PvE: Demolitionist + Voltshot
+dimwishlist:item=2477980485&perks=,3523296417,2173046394#notes: PvE
+
+// -----
 // Occluded Finality - Arc Sniper - Aggressive Frame (Iron Banner)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1546637391#notes:PvE - MW Range or stability
@@ -3144,8 +3144,11 @@ dimwishlist:item=2073794990&perks=,957782887,47981717#notes: PvP
 
 // -----
 // Frozen Orbit - Void 72 Sniper - Aggressive Frame (Crucible)
-// PvP: Moving Target + Snapshot
-dimwishlist:item=3473290087&perks=,588594999,957782887#notes:PvP
+dimwishlist:item=-3473290087#notes: Powercrept.
+
+// -----
+// Veleda-F - Void 72 Sniper - Aggressive Frame (World)
+dimwishlist:item=-4200122994#notes: No good perks.
 
 // -----
 // 1000 Yard Stare - Void 90 Sniper - Adaptive Frame (Grasp of Avarice)
@@ -3161,6 +3164,11 @@ dimwishlist:item=2821677368&perks=839105230,1087426260,3418782618,1354429876#not
 // Fugue-55 - Void 90 Sniper - Adaptive Frame (World)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=2233545123&perks=,3300816228,1546637391#notes:PvE
+
+// -----
+// Sovereignty - Void 90 Sniper - Adaptive Frame (Episode Revenant)
+// PvE: Enlightened Action + Withering Gaze
+dimwishlist:item=3818198556&perks=,3828510309,2904194311#notes:PvE
 
 // -----
 // Persuader - Void 140 Sniper - Rapid-Fire Frame (Strike)
@@ -3388,6 +3396,11 @@ dimwishlist:item=2782325302&perks=938542991,2349202967,1749209109,1546637391#not
 // -----------------------------------------------------------------------------
 // Type - Trace Rifle
 // -----------------------------------------------------------------------------
+// Incisor - Strand Trace Rifle - Adaptive Frame (Trials)
+// PvE: Slice + Hatchling
+dimwishlist:item=1711056134&perks=,923806249,831391274#notes: PvE
+
+// -----
 // Appetence - Stasis Trace Rifle - Adaptive Frame (Season of Wish)
 // PvE: Arrowhead, Light, Demolitionist, Headstone
 dimwishlist:item=4153087276&perks=839105230,2749775325,3523296417,124408337#notes: PvE - MW Reload (Craftable)
@@ -3481,14 +3494,11 @@ dimwishlist:item=1473821207&perks=839105230,679225683,1546637391,1067908860#note
 
 // -----
 // Solipsism
-// PvE: Osmiomancy + Verity
-dimwishlist:item=2273643087&perks=183430253,1476923957#notes: PvE - Grenade Build
+// PvE: Osmiomancy + Star-Eater
+dimwishlist:item=2273643087&perks=183430253,1476923955#notes: PvE - Grenade Super DPS Build
 
 // PvE: Assassin + Synthoceps
 dimwishlist:item=2273643087&perks=1476923952,1476923956#notes: PvE - Melee Build
-
-// PvE: Inmost light + Verity
-dimwishlist:item=2273643087&perks=1476923953,1476923957#notes: PvE - Grenade Build
 
 // -----
 // Vexcalibur
