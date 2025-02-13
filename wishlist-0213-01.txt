@@ -89,6 +89,11 @@ dimwishlist:item=1788603939&perks=,3700496672,4104185692#notes: PvE
 dimwishlist:item=1788603939&perks=,3700496672,3523296417#notes: PvE
 
 // -----
+// False Promises - Stasis 360 Auto Rifle - High Impact Frame (Episode Heresy)
+// PvE: Enlightened Action + Headstone
+dimwishlist:item=1390080550&perks=3828510309,124408337#notes: PvE
+
+// -----
 // Horror Story - Stasis 450 Auto Rifle - Precision Frame (Halloween 2023)
 // PvE: Demolitionist + Headstone
 dimwishlist:item=177568179&perks=,3523296417,124408337#notes: PvE
@@ -248,8 +253,12 @@ dimwishlist:item=-3385326721#notes: Powercrept.
 // --------------------------------------------------------------------------
 // Type - Bow
 // --------------------------------------------------------------------------
-// Whispering Slab - Kinetic Bow - Lightweight Frame (World)
+// Whispering Slab - Kinetic 612 Bow - Lightweight Frame (World)
 dimwishlist:item=-211938782#notes: Power Creep. Use Fel Taradiddle.
+
+// -----
+// Whispering Slab - Kinetic 612 Bow - Lightweight Frame (Episode Heresy)
+dimwishlist:item=-690341468#notes: No good perks.
 
 // -----
 // Accrued Redemption - Kinetic Bow - Precision Frame (Garden of Salvation)
@@ -445,6 +454,10 @@ dimwishlist:item=3347946548&perks=839105230,689005463,671806388,1427256713#notes
 // Iterative Loop - Arc 500 Fusion Rifle - Rapid-Fire Frame (Neomuna)
 // PvE: Arrowhead, Accelerated, Compulsive Reloader, Voltshot
 dimwishlist:item=1289796511&perks=839105230,689005463,671806388,2173046394#notes: PvE - MW Charge (Craftable)
+
+// -----
+// Hollow Words - Arc 780 Fusion Rifle - Precision Frame (Episode Heresy)
+dimwishlist:item=-342027677#notes: No good perks.
 
 // -----
 // Midha's Reckoning - Arc 960 Fusion Rifle - High Impact Frame (King's Fall Raid)
@@ -1387,7 +1400,11 @@ dimwishlist:item=2434225986&perks=1482024992,3230963543,3300816228,3425386926#no
 // Type - Pulse Rifle
 // --------------------------------------------------------------------------
 // Cold Denial - Kinetic 340 Pulse Rifle - High Impact Frame (World)
-dimwishlist:item=-1216130969#notes:No good perks.
+dimwishlist:item=-1216130969#notes: No good perks.
+
+// -----
+// Cold Denial - Kinetic 340 Pulse Rifle - High Impact Frame (Episode Heresy)
+dimwishlist:item=-558794124#notes: No good perks.
 
 // -----
 // The Messenger - Kinetic 340 Pulse Rifle - High Impact Frame (Trials of Osiris)
@@ -3297,11 +3314,16 @@ dimwishlist:item=-3371413059#notes: No good perk.
 // -----
 // Temptation's Hook - Arc Sword - Caster Frame (World)
 // PvE: relentless + Vorpal
-dimwishlist:item=35794111&perks=1261178282,52780822,1749209109,1546637391#notes:PvE - mw - impact
-dimwishlist:item=35794111&perks=1261178282,3625355092,1749209109,1546637391#notes:PvE - mw - impact
-dimwishlist:item=35794111&perks=1261178282,599007201,1749209109,1546637391#notes:PvE - mw - impact
-dimwishlist:item=35794111&perks=1261178282,2349202967,1749209109,1546637391#notes:PvE - mw - impact
-dimwishlist:item=35794111&perks=1261178282,269888150,1749209109,1546637391#notes:PvE - mw - impact
+dimwishlist:item=35794111&perks=1261178282,52780822,1749209109,1546637391#notes:PvE
+dimwishlist:item=35794111&perks=1261178282,3625355092,1749209109,1546637391#notes:PvE
+dimwishlist:item=35794111&perks=1261178282,599007201,1749209109,1546637391#notes:PvE
+dimwishlist:item=35794111&perks=1261178282,2349202967,1749209109,1546637391#notes:PvE
+dimwishlist:item=35794111&perks=1261178282,269888150,1749209109,1546637391#notes:PvE
+
+// -----
+// Temptation's Hook - Arc Sword - Caster Frame (Episode Heresy)
+// PvE: Attrition Orbs + Chain Reaction
+dimwishlist:item=1587953057&perks=243981275,2396489472#notes:PvE
 
 // -----
 // Hero of Ages - Arc sword - Vortex Frame (Grasp of Avarice)
