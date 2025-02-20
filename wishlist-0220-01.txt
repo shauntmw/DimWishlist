@@ -133,6 +133,14 @@ dimwishlist:item=3229982889&perks=692399809,243981275#notes: PvE
 dimwishlist:item=601574723&perks=692399809,243981275#notes: PvE
 dimwishlist:item=3485029080&perks=692399809,243981275#notes: PvE
 
+// PvE: Slice + Hatchling
+dimwishlist:item=2987244302&perks=923806249,831391274#notes: PvE
+dimwishlist:item=3229982889&perks=923806249,831391274#notes: PvE
+
+// (Adept)
+dimwishlist:item=601574723&perks=923806249,831391274#notes: PvE
+dimwishlist:item=3485029080&perks=923806249,831391274#notes: PvE
+
 // -----
 // Rufus's Fury - Strand 720 Auto Rifle - Rapid-Fire Frame (Root of Nightmares Raid)
 // PvE: Arrowhead, Light Mag, Demolitionist, Hatchling
@@ -1263,6 +1271,11 @@ dimwishlist:item=3605603507&perks=839105230,1087426260,1523832109,2848615171#not
 dimwishlist:item=1321506184&perks=839105230,106909392,1583705720,124408337#notes:PvE - MW Reload (Craftable)
 
 // -----
+// Qua Furor V - Stasis 600 Machine Gun - Aggressive Frame (World)
+// PvE: Triple Tap + Dragonfly
+dimwishlist:item=751880654&perks=3400784728,2848615171#notes: PvE
+
+// -----
 // Recurrent Impact - Stasis 900 Machine Gun - Rapid-Fire Frame (Season of Risen)
 // PvE: Smallbore, Tactical, Subsistence, Headstone
 dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,124408337#notes:PvE - MW Reload (Craftable)
@@ -1660,6 +1673,11 @@ dimwishlist:item=1505862304&perks=,776531651,2048641572#notes: PvE
 dimwishlist:item=-839786290#notes: Use Bump in the Night instead.
 
 // -----
+// Heretic's Fervor - Stasis 25 Rocket Launcher - Aggressive Frame (Episode Revenant)
+// PvE: Auto-Loading + Bipod
+dimwishlist:item=4224667951&perks=3300816228,1439600632#notes:PvE
+
+// -----
 // Palmyra-B - Stasis Rocket Launcher - Hakke Precision Frame (World)
 // PvE: Quick Launch, Impact Casing, Auto Loading, Explosive Light
 dimwishlist:item=3489657138&perks=3525010810,3796465595,3300816228,3194351027#notes:PvE - MW Handling (Craftable)
@@ -1678,6 +1696,7 @@ dimwishlist:item=1959650777&perks=1478423395,3796465595,2869569095,2978966579#no
 // -----
 // Crowning Duologue - Strand Rocket Launcher - Precision Frame (Season of Deep - Solstice)
 dimwishlist:item=-3256453690#notes: No good perks. Use Semiotican.
+dimwishlist:item=-4106757302#notes: No good perks. Use Semiotican.
 
 // -----
 // Crowning Duologue - Strand Rocket Launcher - Precision Frame (Solstice 2024)
@@ -1714,58 +1733,28 @@ dimwishlist:item=-2496242052#notes: Use Apex.
 dimwishlist:item=4009352833&perks=,3977735242,3300816228#notes:PvE - MW Any
 
 // -----
-// hezen vengeance - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
+// Hezen Vengeance - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=4050645223&perks=981914802,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=1441682018,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
-
-// PvE: Auto Loading + lasting impression
-dimwishlist:item=4050645223&perks=981914802,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=4050645223&perks=1441682018,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
 
 // PvE: Overflow + Vorpal
 dimwishlist:item=4050645223&perks=981914802,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=1441682018,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
 
-// PvE: Overflow + lasting impression
-dimwishlist:item=4050645223&perks=981914802,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=4050645223&perks=1441682018,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
-
-// PvE: Tracking + lasting impression
-dimwishlist:item=4050645223&perks=981914802,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=4050645223&perks=1441682018,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=4050645223&perks=3525010810,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
-
 // -----
-// hezen vengeance (timelost) - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
+// Hezen Vengeance (Timelost) - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=1921159786&perks=981914802,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=1441682018,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
 
-// PvE: Auto Loading + lasting impression
-dimwishlist:item=1921159786&perks=981914802,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=1921159786&perks=1441682018,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3927722942#notes:PvE - MW Velocity
-
 // PvE: Overflow + Vorpal
 dimwishlist:item=1921159786&perks=981914802,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=1441682018,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
-
-// PvE: Overflow + lasting impression
-dimwishlist:item=1921159786&perks=981914802,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=1921159786&perks=1441682018,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3927722942#notes:PvE - MW Velocity
-
-// PvE: Tracking + lasting impression
-dimwishlist:item=1921159786&perks=981914802,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=1921159786&perks=1441682018,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
-dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,3927722942#notes:PvE - MW Velocity
 
 // -----
 // Hoosegow - Arc Rocket Launcher - Adaptive Frame (World)
@@ -1785,6 +1774,9 @@ dimwishlist:item=1719687748&perks=,1523832109,3977735242#notes: PvE
 
 // PvE: Reconstruction + Explosive Light
 dimwishlist:item=1719687748&perks=,1523832109,3194351027#notes: PvE
+
+// PvE: Reconstruction + Bipod
+dimwishlist:item=1719687748&perks=1523832109,1439600632#notes: PvE
 
 // -----
 // Heretic - Arc Rocket - Aggressive Frame (Moon)
@@ -2486,6 +2478,11 @@ dimwishlist:item=-2588048270#notes: Powercrept.
 // -----
 // Empirical Evidence - Kinetic Sidearm - Aggressive Burst (Campaign)
 dimwishlist:item=-2607304614#notes: No good perks.
+
+// -----
+// Tinasha's Mastery - Stasis Rocket Sidearm - Rocket-Assisted Frame (Iron Banner)
+// PvE: Impulse Amplifier + Chill Clip
+dimwishlist:item=480368036&perks=951095735,2978966579#notes: PvE
 
 // -----
 // Liminal Vigil - Stasis Sidearm - Aggressive Burst (Spire of Watcher Dungeon)
@@ -3302,18 +3299,34 @@ dimwishlist:item=601948197&perks=,1749209109,2396489472#notes: PvE
 dimwishlist:item=3794274730&perks=1261178282,269888150,1749209109,3650930298#notes: PvE - MW Impact (Craftable)
 
 // -----
+// The Slammer - Stasis Sword - Vortex Frame (Onslaught)
+// PvE: Chain Reaction + Demolitionist
+dimwishlist:item=2889501828&perks=2396489472,3523296417#notes: PvE
+
+// PvE: Relentless + Bait and Switch
+dimwishlist:item=2889501828&perks=1749209109,3078487919#notes: PvE
+
+// PvE: Eager Edge + Cold Steel
+dimwishlist:item=2889501828&perks=2077819806,3650930298#notes: PvE
+
+// (Adept)
+// PvE: Chain Reaction + Demolitionist
+dimwishlist:item=1354727549&perks=2396489472,3523296417#notes: PvE
+
+// PvE: Relentless + Bait and Switch
+dimwishlist:item=1354727549&perks=1749209109,3078487919#notes: PvE
+
+// PvE: Eager Edge + Cold Steel
+dimwishlist:item=1354727549&perks=2077819806,3650930298#notes: PvE
+
+// -----
 // Thin Precipice - Strand Sword - Vortex Frame (Season of Deep)
 // PvE: Enduring, Balanced, Unrelenting, Chain Reaction
 dimwishlist:item=4066778670&perks=1261178282,52780822,3108830275,2396489472#notes: PvE - MW Impact (Craftable)
 
 // -----
 // Negative Space - Solar Sword - Adaptive Frame (World)
-// PvE: relentless + whirlwind
-dimwishlist:item=3629968765&perks=3666208348,52780822,1749209109,3913600130#notes:PvE - MW Impact
-dimwishlist:item=3629968765&perks=3666208348,3625355092,1749209109,3913600130#notes:PvE - MW Impact
-dimwishlist:item=3629968765&perks=3666208348,599007201,1749209109,3913600130#notes:PvE - MW Impact
-dimwishlist:item=3629968765&perks=3666208348,2349202967,1749209109,3913600130#notes:PvE - MW Impact
-dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130#notes:PvE - MW Impact
+dimwishlist:item=-3629968765#notes: Powercrept.
 
 // -----
 // Abide the Return - Solar Sword - Adaptive Frame (Dreaming City)
