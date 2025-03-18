@@ -31,16 +31,14 @@ dimwishlist:item=640114618&perks=,3643424744,4104185692#notes:PvE
 // PvE: Overflow + Frenzy
 dimwishlist:item=2465372924&perks=,3643424744,4104185692#notes:PvE
 
-// PvE: Overflow + Kinetic Tremors
-dimwishlist:item=2465372924&perks=,3643424744,3891536761
-
 // -----
 // Seventh Seraph Carbine (2022) - Kinetic 450 Auto Rifle - Precision Frame (World)
 dimwishlist:item=-4070357005#notes: Use Tigerspite better.
 
 // -----
 // Braytech Werewolf - Kinetic 450 Auto Rifle - Precision Frame (Festival of the Lost)
-dimwishlist:item=-528834068#notes:no good perk.
+dimwishlist:item=-528834068#notes: No good perk.
+dimwishlist:item=-3558681245#notes: No good perk.
 
 // -----
 // Horror Story - Kinetic 450 Auto Rifle - Precision Frame (Festival of the Lost)
@@ -73,12 +71,15 @@ dimwishlist:item=-1690783811#notes:pvp only perks.
 
 // -----
 // The Last Breath - Kinetic 600 Auto Rifle - Adaptive Frame (Prophecy)
-// PvE: Demolitionist + Frenzy
-dimwishlist:item=507038823&perks=,3523296417,4104185692#notes: PvE
+dimwishlist:item=-507038823#notes: Powercrept.
 
 // -----
-// Chroma Rush - Kinetic 720 Auto Rifle - Rapid-Fire Frame (Season of Splicer)
+// Chroma Rush (Legacy) - Kinetic 720 Auto Rifle - Rapid-Fire Frame (Season of Splicer)
 dimwishlist:item=-1119734784#notes: Powercrept.
+
+// -----
+// Chroma Rush (Reprised) - Kinetic 720 Auto Rifle - Rapid-Fire Frame (Onslaught)
+dimwishlist:item=-2598420927#notes: No good perks.
 
 // -----
 // Herod-C - Stasis 360 Auo Rifle - High Impact Frame (Gambit)
@@ -100,6 +101,11 @@ dimwishlist:item=177568179&perks=,3523296417,124408337#notes: PvE
 
 // PvE: Demolitionist + Frenzy
 dimwishlist:item=177568179&perks=,3523296417,4104185692#notes: PvE
+
+// -----
+// Fair Judgment - Stasis 450 Auto Rifle - Precision Frame (Ritual)
+// PvE: Rimestealer + Headstone
+dimwishlist:item=4176873718#notes: PvE
 
 // -----
 // Krait - Stasis 720 Auto Rifle - Rapid-Fire Frame (World)
@@ -146,19 +152,10 @@ dimwishlist:item=3485029080&perks=923806249,831391274#notes: PvE
 // PvE: Arrowhead, Light Mag, Demolitionist, Hatchling
 dimwishlist:item=484515708&perks=839105230,679225683,3523296417,831391274#notes:PvE - MW Reload (Craftable)
 
-// PvE: Arrowhead, Appended, Rewind Rounds, Target Lock
-dimwishlist:item=484515708&perks=839105230,1087426260,3418782618,365154968#notes: PvE - MW Reload (Craftable)
-
 // -----
 // Chrysura Melo - Solar 360 Auto Rifle - High Impact Frame (Season of Lost)
 // PvE: Outlaw + Dragonfly
 dimwishlist:item=1337707096&perks=,1168162263,2848615171#notes: PvE
-
-// PvE: Ensemble + Demolitionist
-dimwishlist:item=1337707096&perks=,2621346526,3523296417#notes: PvE
-
-// PvE: Ensemble + Frenzy
-dimwishlist:item=1337707096&perks=,2621346526,4104185692#notes: PvE
 
 // -----
 // Abyss Defiant - Solar 30 Auto Rifle - High Impact Frame (Crota's End)
@@ -167,18 +164,15 @@ dimwishlist:item=833898322&perks=839105230,679225683,3017780555,4293542123#notes
 
 // -----
 // Ammit AR2 - Solar 450 Auto Rifle - Precision Frame (World)
-// PvE: Arrowhead, Light Mag, Ambitious Assassin, Incandescent
-dimwishlist:item=2119346509&perks=839105230,679225683,2010801679,4293542123#notes:PvE - MW Reload (Craftable)
+dimwishlist:item=-2119346509#notes: Use Abyss Defiant.
 
 // -----
 // Coronach-22 - Solar 600 Auto Rifle - Adaptive Frame (World)
-// PvE: Surplus + Incandescent
-dimwishlist:item=355382946&perks=,3436462433,4293542123#notes: PvE
+dimwishlist:item=-355382946#notes: Use Abyss Defiant.
 
 // -----
 // The Summoner - Solar 600 Auto Rifle - Adaptive Frame (Trials of Osiris)
-// PvE: Overflow + Rangefinder
-dimwishlist:item=1907698332&perks=,3643424744,2846385770#notes: PvE
+dimwishlist:item=-1907698332#notes: Powercrept.
 
 // -----
 // No Hesitation - Solar 600 Auto Rifle - Support Frame (Pale Heart)
@@ -241,8 +235,7 @@ dimwishlist:item=1248372789&perks=839105230,1087426260,3400784728,3523296417#not
 
 // -----
 // Dark Decider - Arc 720 Auto Rifle - Rapid-Fire Frame (Iron Banner)
-// PvE: Subsistence + Voltshot
-dimwishlist:item=540880995&perks=,1820235745,2173046394#notes: PvE
+dimwishlist:item=-540880995#notes: No good perks.
 
 // -----
 // Age-old Bond - Void 360 Auto Rifle - High Impact Frame (Last Wish)
@@ -279,8 +272,13 @@ dimwishlist:item=-211938782#notes: Power Creep. Use Fel Taradiddle.
 dimwishlist:item=-690341468#notes: No good perks.
 
 // -----
-// Accrued Redemption - Kinetic Bow - Precision Frame (Garden of Salvation)
+// Accrued Redemption (Legacy) - Kinetic 684 Bow - Precision Frame (Garden of Salvation)
 dimwishlist:item=-4095896073#notes: Power Creep. Use Fel Taradiddle.
+
+// -----
+// Accrued Redemption - Kinetic 684 Bow - Precision Frame (Garden of Salvation)
+// PvE: Elastic, Compact Arrow, Archer Tempo, Firefly
+dimwishlist:item=3621336854&perks=2801223209,16392701,201365942,3824105627#notes: PvE - MW Draw (Craftable)
 
 // -----
 // Biting Winds - Kinetic Bow - Precision Frame (Europa)
@@ -336,16 +334,12 @@ dimwishlist:item=496556698&perks=,3700496672,4293542123#notes: PvE
 
 // -----
 // Arsenic Bite - Arc 580 Bow - Lightweight Frame (World)
-// PvE: Dragonfly + Archer Tempo
-dimwishlist:item=720351795&perks=2801223209,2848615171,201365942#notes: PvE
+dimwishlist:item=#720351795#notes: Powercrept.
 
 // -----
 // Tripwire Canary - Arc 580 Bow - Lightweight Frame (Season of Seraph)
 // PvE: Elastic, Straight, Archer Tempo, Explosive Head
 dimwishlist:item=3849444474&perks=2801223209,3827198035,201365942,3365897133#notes:PvE - MW Draw (Craftable)
-
-// PvE: Elastic, Straight, Dragonfly, Successful Warmup
-dimwishlist:item=3849444474&perks=2801223209,3827198035,2848615171,2652708987#notes:PvE - MW Draw (Craftable)
 
 // -----
 // Wolftone Draw - Arc 684 Bow - Precision Frame (Season of Lost - Awoken)
@@ -366,18 +360,23 @@ dimwishlist:item=888872889&perks=,201365942,2848615171#notes: PvE
 dimwishlist:item=1770490683&perks=2801223209,3827198035,2848615171,2173046394#notes: PvE - MW Draw Time
 
 // -----
-// Imperial Needle - Void bow - Lightweight Frame (Season of Chosen - Battlegrounds)
+// Imperial Needle - Void 580 bow - Lightweight Frame (Season of Chosen - Battlegrounds)
 // PvE: Archer's tempo + Frenzy
 dimwishlist:item=3460122497&perks=2801223209,201365942,4104185692#notes: PvE
 
 // -----
-// Lethophobia - Void Bow - Lightweight Frame (Season of Wish)
+// Lethophobia - Void 580 Bow - Lightweight Frame (Season of Wish)
 dimwishlist:item=-3710082365#notes: No good perks.
 
 // -----
-// Fortunate Star - Void Bow - Lightweight Frame (Solstice 2024)
+// Fortunate Star - Void 580 Bow - Lightweight Frame (Solstice 2024)
 // PvE: Repulsor Brace + Destabilizing Rounds
 dimwishlist:item=2326578623&perks=,776531651,2048641572#notes: PvE
+
+// -----
+// Anamnesis - Void 580 Bow - Lightweight Frame (Episode Heresy)
+// PvE: Dragonfly + Demoralize
+dimwishlist:item=2291392465&perks=2801223209,16392701,2848615171,1464081238#notes: PvE
 
 // -----
 // Under Your Skin - Void bow - Precision Frame (Season of Risen)
