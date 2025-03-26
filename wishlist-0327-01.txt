@@ -714,7 +714,7 @@ dimwishlist:item=2006308129&perks=,1087426260,3400784728,1954620775#notes:PvE - 
 
 // -----
 // Fatebringer - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
-dimwishlist:item=-2171478765#notes:have all the godrolls from timelost.
+dimwishlist:item=-2171478765#notes: Have all the godrolls from timelost.
 
 // -----
 // Fatebringer (Timelost) - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
@@ -723,6 +723,11 @@ dimwishlist:item=1216319404&perks=,3418782618,3824105627#notes: PvE
 
 // PvE: Explosive Payload + Frenzy
 dimwishlist:item=1216319404&perks=,3038247973,4104185692#notes: PvE
+
+// -----
+// Fatebringer - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
+// PvE: Arrowhead, Tactical, Rewind Rounds, Firefly
+dimwishlist:item=4184168210&perks=839105230,106909392,3418782618,3824105627#notes: PvE
 
 // -----
 // Judgment - Kinetic 140 Hand Cannon - Adaptive Frame (Prophecy)
@@ -751,18 +756,16 @@ dimwishlist:item=-310708513#notes: Use Fatebringer better.
 
 // -----
 // Warden's Law - Kinetic 257 Hand Cannon - Heavy Burst (Nightfall)
-// PvE: Fourth Time + Frenzy
-dimwishlist:item=1821529912&perks=,1354429876,4104185692#notes: PvE
+dimwishlist:item=-1821529912#notes: No good perks.
 
 // -----
 // Warden's Law (Adept) - Kinetic 257 Hand Cannon - Heavy Burst (Nightfall)
 // PvE: Fourth Time + Frenzy
-dimwishlist:item=267089201&perks=,1354429876,4104185692#notes: PvE
+dimwishlist:item=-267089201#notes: No good perks.
 
 // -----
 // Something New - Stasis 120 Hand Cannon - Aggressive Frame (Season of Haunted - Solstice)
-// PvE: Wellspring + Headstone
-dimwishlist:item=1856262127&perks=,3592538738,124408337#notes:PvE - MW Reload
+dimwishlist:item=-1856262127#notes: Powercrept.
 
 // Solstice 2024, no good perks.
 dimwishlist:item=-3240434620#notes: No good perks.
@@ -808,9 +811,17 @@ dimwishlist:item=4152016199&perks=,923806249,831391274#notes: PvE
 dimwishlist:item=-1875512595#notes: No good perks.
 
 // -----
+// Unloved - Strand 257 Hand Cannon - Heavy Burst (Sundered Doctrine)
+// PvE: Hatchling + Tear
+dimwishlist:item=2485881870&perks=831391274,960997401#notes: PvE
+
+// -----
 // Igneous Hammer - Solar 120 Hand Cannon - Aggressive Frame (Trials of Osiris)
 dimwishlist:item=-2351180975#notes: Hate 120. Use Annual Skate instead.
 dimwishlist:item=-1973107014#notes: Hate 120. Use Zaoli's Bane.
+
+// (Adept)
+dimwishlist:item=-2314610827#notes: Hate 120. Use Zaoli's Bane.
 
 // -----
 // Luna's Howl - Solar 140 Hand Cannon - Adaptive Frame (Onslaught)
@@ -855,9 +866,6 @@ dimwishlist:item=-334171687#notes: Posterity or Nature of Beast better.
 
 // -----
 // Waking Vigil (Reprised) - Arc 140 Hand Cannon - Adaptive Frame (Dreaming City)
-// PvE: Outlaw + Dragonfly
-dimwishlist:item=3723679465&perks=,1168162263,2848615171#notes: PvE
-
 // PvE: Shoot to Loot + Voltshot
 dimwishlist:item=3723679465&perks=,3700496672,2173046394#notes: PvE
 
@@ -876,13 +884,20 @@ dimwishlist:item=372697604&perks=,247725512,1954620775#notes: PvE
 dimwishlist:item=-2888266564#notes: No good perks.
 
 // -----
+// The Palindrome - Arc 140 Hand Cannon - Adaptive Frame (Nightfall)
+// PvE: Explosive Payload + Rolling Storm
+dimwishlist:item=2876244791&perks=3038247973,3218042543#notes: PvE
+
+// (Adept)
+dimwishlist:item=4077588826&perks=3038247973,3218042543#notes: PvE
+
+// -----
 // Nature of the Beast - Arc 180 Hand Cannon - Precision Frame (Crucible)
 dimwishlist:item=-1835747805#notes: Powercrept.
 
 // -----
 // Posterity - Arc 180 Hand Cannon - Precision Frame (Deep Stone Crypt)
-// PvE: Smallbore, Tactical Mag, Voltshot, Frenzy
-dimwishlist:item=3281285075&perks=1482024992,106909392,2173046394,4104185692#notes: PvE - MW Reload (Craftable)
+dimwishlist:item=-3281285075#notes: Powercrept.
 
 // -----
 // Sightline Survey - Arc 180 Hand Cannon - Precision Frame (Episode Echo)
@@ -917,8 +932,7 @@ dimwishlist:item=548809020&perks=,4104185692#notes: PvE
 
 // -----
 // IKELOS Hand Cannon (2023) - Void 180 Hand Cannon - Precision Frame (Season of Seraph)
-// PvE: Hammerforged, Seraph Rounds, Triple Tap, Frenzy
-dimwishlist:item=1731355324&perks=3250034553,1140096971,3400784728,4104185692#notes:PvE - MW Reload (Craftable)
+dimwishlist:item=-1731355324#notes: Powercrept.
 
 // -----
 // Word of Crota - Void 180 Hand Cannon - Precision Frame (Crota's End)
@@ -3524,6 +3538,17 @@ dimwishlist:item=1471212226&perks=1482024992,2680121939,1523832109,4293542123#no
 // Path of Least Resistance - Arc Trace Rifle - Adaptive Frame (Season of Seraph)
 // PvE: Hammer Forged, Light Battery, Triple Tap, Voltshot
 dimwishlist:item=2827764482&perks=3250034553,2749775325,3400784728,2173046394#notes: PvE - MW Reload (Craftable)
+
+// -----
+// Keraunios - Arc Trace Rifle - Adaptive Frame (Guardian Games 2025)
+// PvE: Triple Tap + Detonator Beam
+dimwishlist:item=2029899814&perks=3400784728,4198902903#notes: PvE
+
+// PvE: Triple Tap + Jolting Feedback
+dimwishlist:item=2029899814&perks=3400784728,3966416502#notes: PvE
+
+// PvE: Recycled Energy + Rolling Storm
+dimwishlist:item=2029899814&perks=3713215006,3218042543#notes: PvE
 
 // -----
 // Hollow Denial - Void Trace Rifle - Adaptive Frame (Season of Haunted - Leviathan)
