@@ -591,18 +591,28 @@ dimwishlist:item=1183116657&perks=,3643424744,1427256713#notes: PvE
 // Type - Glaive
 // --------------------------------------------------------------------------
 // Rake Angle - Stasis 45 Glaive - Aggressive Glaive (Nightfall)
-// PvE: Overflow + Close to Melee
-dimwishlist:item=2298039571&perks=,3643424744,1782407750#notes:PvE
+// PvE: Overflow + Chill Clip
+dimwishlist:item=2298039571&perks=3643424744,2978966579#notes:PvE
 
 // -----
 // Rake Angle (Adept) - Stasis 45 Glaive - Aggressive Glaive (Nightfall)
-// PvE: Overflow + Close to Melee
-dimwishlist:item=3997086838&perks=,3643424744,1782407750
+// PvE: Overflow + Chill Clip
+dimwishlist:item=3997086838&perks=3643424744,2978966579#notes:PvE
+
+// -----
+// Refusal of the Call - Strand 55 Glaive - Adaptive Glaive (Episode Heresy)
+// PvE: Discord + Beacon Rounds
+dimwishlist:item=2671849376&perks=3978468247,2859149211#notes:PvE
+dimwishlist:item=3269398063&perks=3978468247,2859149211#notes:PvE
+
+// (Adept)
+// PvE: Discord + Beacon Rounds
+dimwishlist:item=25228802&perks=3978468247,2859149211#notes:PvE
+dimwishlist:item=2755584425&perks=3978468247,2859149211#notes:PvE
 
 // -----
 // Lubrae's Ruin - Solar Glaive - Adaptive Glaive (Vow of the Disciple)
-// PvE: Low Impedance, Light Mag, Immovable Object, Unstoppable Force
-dimwishlist:item=2534546147&perks=2713678205,679225683,3800201097,2224838837#notes:PvE - MW Reload (Craftable)
+dimwishlist:item=-2534546147#notes: Powercrept.
 
 // -----
 // Judgment of Kelgorath - Solar Glaive - Aggressive Frame (Season of Seraph)
@@ -622,22 +632,24 @@ dimwishlist:item=-2680976411#notes: Powercrept.
 // -----
 // Albedo Wing - Arc 45 Glaive - Aggressive Glaive (Dawning 2024)
 // PvE: Air Trigger + Voltshot
-dimwishlist:item=1845372864&perks=,1421772400,2173046394#notes: PvE
+dimwishlist:item=-1845372864#notes: Powercrept.
 
 // -----
 // Nezarec's Whisper - Arc Glaive - Adaptive Glaive (Season of Haunted - Leviathan)
-// PvE: Low Impedance, Light Mag, Impulse Amplifier, Unstoppable Force
-dimwishlist:item=254636484&perks=2713678205,679225683,951095735,2224838837#notes:PvE - MW Reload (Craftable)
+dimwishlist:item=-254636484#notes: Powercrept.
 
 // -----
 // Unexpected Resurgence - Arc Glaive - Adaptive Glaive (Trials of Osiris)
-// PvE: Auto-Loading + Rampage
-dimwishlist:item=4005780578&perks=,3300816228,3425386926#notes: PvE
+dimwishlist:item=-4005780578#notes: No good perks.
+
+// -----
+// Backfang - Arc 80 Glaive - Rapid-Fire Glaive (Gambit)
+// PvE: Impulse Amplifier + Voltshot
+dimwishlist:item=267672635&perks=951095735,2173046394#notes: PvE
 
 // -----
 // The Enigma - Void Glaive - Adaptive Glaive (Quest)
-// PvE: Low Impedance, Light Mag, Impulse Amplifier, Unstoppable Force
-dimwishlist:item=2595497736&perks=2713678205,679225683,951095735,2224838837#notes:PvE - MW Reload (Craftable)
+dimwishlist:item=-2595497736#notes: Powercrept.
 
 // -----
 // Ecliptic Distaff - Void Glaive - Adaptive Glaive (Ritual)
@@ -645,7 +657,7 @@ dimwishlist:item=2595497736&perks=2713678205,679225683,951095735,2224838837#note
 dimwishlist:item=3001205424&perks=,1966281507,2048641572
 
 // -----
-// Forthcoming Deviance - Void Glaive - Rapid Fire Glaive (Salvation Edge)
+// Forthcoming Deviance - Void 80 Glaive - Rapid Fire Glaive (Salvation Edge)
 // PvE: Tempered, Appended, Reconstruction, Chain Reaction
 dimwishlist:item=535198113&perks=5699512,1087426260,1523832109,2396489472#notes: PvE - MW Handling (Craftable)
 
@@ -2265,6 +2277,11 @@ dimwishlist:item=-1016668089#notes:Use other better ones.
 dimwishlist:item=3184681056&perks=,706527188,47981717#notes:PvP - MW Range
 
 // -----
+// Deadlock - Stasis 65 Shotgun - Precision Frame (Crucible)
+// PvE: Slideshow + Trench Barrel
+dimwishlist:item=2035738085&perks=3161816588,2360754333
+
+// -----
 // Swordbreaker - Strand 80 Shotgun - Lightweight Frame (Crota's End)
 // PvE: Corkscrew, Tactical Mag, Slideshot, Hatchling
 dimwishlist:item=3163900678&perks=4090651448,106909392,3161816588,831391274#notes: PvE - MW Reload
@@ -2447,6 +2464,11 @@ dimwishlist:item=92459755&perks=3250034553,3142289711,1523832109,831391274#notes
 dimwishlist:item=599895591&perks=1467527085,791862061,3300816228,4104185692#notes:PvE - MW Range
 dimwishlist:item=599895591&perks=202670084,791862061,3300816228,4104185692#notes:PvE - MW Range
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,4104185692#notes:PvE - MW Range
+
+// -----
+// Sojourner's Tale (Reprised) - Solar 65 Slug Shotgun - Pinpoing Slug Frame (Episode Revenant)
+// PvE: Heal Clip + Incandescent
+dimwishlist:item=2130875369&perks=3017780555,4293542123#notes:PvE
 
 // -----
 // Legato-11 - Solar Slug Shotgun - Pinpoint Slug Frame (World)
@@ -2739,6 +2761,9 @@ dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,3523296417#no
 // Wild Style - Solar Special Grenade Launcher - Double Fire Frame (Nightfall)
 dimwishlist:item=-1332123064#notes: No good perks.
 
+// (Adept)
+dimwishlist:item=-959037361#notes: No good perks.
+
 // -----
 // Explosive Personality - Solar Special Grenade Launcher - Wave Frame (Season of Risen)
 // PvE: Quick Launch, High Velocity, Auto Loading, Frenzy
@@ -2914,8 +2939,8 @@ dimwishlist:item=811403305&perks=,968510818,831391274#notes: PvE
 
 // -----
 // Imminence - Strand 900 SMG - Lightweight Frame (Salvation Edge)
-// PvE: Hammer Forged, Light Mag, Slice, Hatchling
-dimwishlist:item=1258168956&perks=3250034553,3230963543,923806249,831391274#notes: PvE - MW Reload (Craftable)
+// PvE: Hammer Forged, Tactical Mag, Slice, Hatchling
+dimwishlist:item=1258168956&perks=3250034553,106909392,923806249,831391274#notes: PvE - MW Reload (Craftable)
 
 // -----
 // Perfect Pitch - Solar 600 SMG - Precision Frame (Ritual)
@@ -3046,16 +3071,16 @@ dimwishlist:item=-1403800851#notes: No good perks.
 dimwishlist:item=1387987271&perks=,3400784728,1771339417#notes:PvE - MW Any
 
 // -----
-// Succession - Kinetic Sniper - Aggressive Frame (Deep Stone Crypt)
+// Succession - Kinetic 72 Sniper - Aggressive Frame (Deep Stone Crypt)
 // PvE: Arrowhead, Tactical Mag, Reconstruction, Vorpal
 dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,1546637391#notes:PvE - MW Handling (Craftable)
 
 // -----
-// Succession (Brave) - Kinetic Sniper - Aggressive Frame (Onslaught)
+// Succession (Brave) - Kinetic 72 Sniper - Aggressive Frame (Onslaught)
 dimwishlist:item=-3612338554#notes: Use the DSC crafted.
 
 // -----
-// Succession (Brave Shiny) - Kinetic Sniper - Aggressive Frame (Onslaught)
+// Succession (Brave Shiny) - Kinetic 72 Sniper - Aggressive Frame (Onslaught)
 // PvE: Arrowhead, Tactical Mag, Reconstruction, Vorpal
 dimwishlist:item=570866107&perks=839105230,106909392,1523832109,1546637391#notes: PvE - Rare God Roll
 
@@ -3081,13 +3106,8 @@ dimwishlist:item=-3743729616#notes: No good perks.
 dimwishlist:item=-1645386487#notes: No good perks. For PvP use Long Shadow, PvE use Succession.
 
 // -----
-// Praedyth's Revenge - Kinetic Sniper - Rapid-Fire Frame (Vault of Glass)
-// PvE: Rewind Rounds + High Impact Reserve
-dimwishlist:item=3653573172&perks=839105230,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=3653573172&perks=3661387068,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=3653573172&perks=1467527085,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=3653573172&perks=3250034553,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
-dimwishlist:item=3653573172&perks=1482024992,106909392,3418782618,2213355989#notes:PvE - MW Range or Reload
+// Praedyth's Revenge - Kinetic 140 Sniper - Rapid-Fire Frame (Vault of Glass)
+dimwishlist:item=-3653573172#note: Reprised.
 
 // -----
 // The Supremacy - Kinetic 140 Sniper - Rapid-Fire Frame (Last Wish)
@@ -3574,19 +3594,23 @@ dimwishlist:item=2782325302&perks=938542991,2349202967,1749209109,1546637391#not
 // -----------------------------------------------------------------------------
 // Type - Trace Rifle
 // -----------------------------------------------------------------------------
-// Incisor - Strand Trace Rifle - Adaptive Frame (Trials)
-// PvE: Slice + Hatchling
-dimwishlist:item=1711056134&perks=,923806249,831391274#notes: PvE
-
-// -----
 // Appetence - Stasis Trace Rifle - Adaptive Frame (Season of Wish)
 // PvE: Arrowhead, Light, Demolitionist, Headstone
 dimwishlist:item=4153087276&perks=839105230,2749775325,3523296417,124408337#notes: PvE - MW Reload (Craftable)
 
 // -----
+// Incisor - Strand Trace Rifle - Adaptive Frame (Trials)
+// PvE: Slice + Hatchling
+dimwishlist:item=1711056134&perks=,923806249,831391274#notes: PvE
+
+// -----
+// Unsworn - Strand Trace Rifle - Adaptive Frame (Sundered Doctrine)
+// PvE: Tear + Hatchling
+dimwishlist:item=1303313141&perks=960997401,831391274#notes: PvE
+
+// -----
 // Retraced Path - Solar Trace Rifle - Adaptive Frame (Dares of Eternity)
-// PvE: Hammer-Forged, Light, Subsistence, Incandescent
-dimwishlist:item=548958835&perks=3250034553,2749775325,1820235745,4293542123#notes: PvE - MW Reload (Craftable)
+dimwishlist:item=-548958835#notes: Use Acacia.
 
 // -----
 // Acasia's Dejection - Solar Trace Rifle - Adaptive Frame (Root of Nightmares Raid)
@@ -3610,9 +3634,12 @@ dimwishlist:item=2029899814&perks=3400784728,3966416502#notes: PvE
 dimwishlist:item=2029899814&perks=3713215006,3218042543#notes: PvE
 
 // -----
+// Warlord's Spear - Arc Trace Rifle - Adaptive Frame (Iron Banner)
+dimwishlist:item=-1968711238#notes: Keraunios better.
+
+// -----
 // Hollow Denial - Void Trace Rifle - Adaptive Frame (Season of Haunted - Leviathan)
-// PvE: Smallbore, Tactical Battery, Lead from Gold, Unrelenting
-dimwishlist:item=2323544076&perks=1482024992,732557052,1556840489,3108830275#notes: PvE - MW Reload (Craftable)
+dimwishlist:item=-2323544076#notes: Powercrept.
 
 // -----
 // Chronophage - Void Trace Rifle - Adaptive Frame (Episode Echo)
@@ -3628,7 +3655,7 @@ dimwishlist:item=3698448090&perks=839105230,679225683,1067908860,1931951169#note
 
 // -----
 // Dead Man's Tale
-dimwishlist:item=-2188764214#notes: Useless Exotic.
+dimwishlist:item=2188764214&perks=839105230,1561002382,1546637391,990298390#notes: PvP
 
 // -----
 // Dead Messenger
