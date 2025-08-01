@@ -23,13 +23,11 @@ dimwishlist:item=2826850739&perks=,243981275,3891536761#notes: PvE
 
 // -----
 // Tigerspite - Kinetic 450 Auto Rifle - Precision Frame (Dreaming City)
-// PvE: Overflow + Frenzy
-dimwishlist:item=640114618&perks=,3643424744,4104185692#notes:PvE
+dimwishlist:item=-640114618#notes: Powercrept.
 
 // -----
 // Tigerspite (Reprised) - Kinetic 450 Auto Rifle - Precision Frame (Dreaming City)
-// PvE: Overflow + Frenzy
-dimwishlist:item=2465372924&perks=,3643424744,4104185692#notes:PvE
+dimwishlist:item=-2465372924#notes: Powercrept.
 
 // -----
 // Seventh Seraph Carbine (2022) - Kinetic 450 Auto Rifle - Precision Frame (World)
@@ -42,8 +40,7 @@ dimwishlist:item=-3558681245#notes: No good perk.
 
 // -----
 // Horror Story - Kinetic 450 Auto Rifle - Precision Frame (Festival of the Lost)
-// PvE: Subsistence + Demolitionist
-dimwishlist:item=3829285960&perks=,1820235745,3523296417#notes: PvE
+dimwishlist:item=-3829285960#notes: Powercrept.
 
 // -----
 // Firefright - Kinetic 450 Auto Rifle - Precision Frame (Season of the Haunted)
@@ -51,7 +48,7 @@ dimwishlist:item=-2778013407#notes: No good perks.
 
 // -----
 // Khvostov 7G-02 - Kinetic 600 Auto Rifle - Adaptive Frame (Static)
-dimwishlist:item=4209476803#notes: PvE
+dimwishlist:item=-4209476803#notes: Powercrept.
 
 // -----
 // Scathelocke - Kinetic 600 Auto Rifle - Adaptive Frame (Iron Banner)
@@ -78,8 +75,12 @@ dimwishlist:item=-507038823#notes: Powercrept.
 dimwishlist:item=-1119734784#notes: Powercrept.
 
 // -----
-// Chroma Rush (Reprised) - Kinetic 720 Auto Rifle - Rapid-Fire Frame (Onslaught)
+// Chroma Rush - Kinetic 720 Auto Rifle - Rapid-Fire Frame (Episode Revenant)
 dimwishlist:item=-2598420927#notes: No good perks.
+
+// -----
+// Giver's Blessing - Kinetic 720 Auto Rifle - Rapid-Fire Frame (Kepler)
+dimwishlist:item=-970034755#notes: No good perks.
 
 // -----
 // Herod-C - Stasis 360 Auo Rifle - High Impact Frame (Gambit)
@@ -154,8 +155,7 @@ dimwishlist:item=484515708&perks=839105230,679225683,3523296417,831391274#notes:
 
 // -----
 // Chrysura Melo - Solar 360 Auto Rifle - High Impact Frame (Season of Lost)
-// PvE: Outlaw + Dragonfly
-dimwishlist:item=1337707096&perks=,1168162263,2848615171#notes: PvE
+dimwishlist:item=-1337707096#notes: Powercrept.
 
 // -----
 // Abyss Defiant - Solar 30 Auto Rifle - High Impact Frame (Crota's End)
@@ -184,9 +184,12 @@ dimwishlist:item=1801007332&perks=839105230,106909392,2980589453,4293542123#note
 dimwishlist:item=-20935540#notes: No good perks. Use Chrysura Melo instead.
 
 // -----
+// Ahab Char - Solar 720 Auto Rifle - Rapid-Fire Frame (Edge of Fate)
+dimwishlist:item=-1411560894#notes: No good perks.
+
+// -----
 // Come to Pass - Arc 360 Auto Rifle - High Impact Frame (Wellspring)
-// PvE: Hammer Forged, Tactical, Shoot to Loot, Adaptive Munitions
-dimwishlist:item=927567426&perks=3250034553,106909392,3700496672,1048183818#notes:PvE - MW Range (Craftable)
+dimwishlist:item=-927567426#notes: Powercrept.
 
 // -----
 // Shadow Price (Adept) - Arc 450 Auto Rifle - Precision Frame (Nightfall - 2024)
@@ -211,6 +214,19 @@ dimwishlist:item=-2147010335#note: No good perks.
 dimwishlist:item=-2492081469#notes: Use Shadow Price instead.
 
 // -----
+// Prosecutor - Arc 450 Auto Rifle - Precision Frame (Prophecy Dungeon)
+// PvE: Dragonfly + Voltshot
+dimwishlist:item=3483591058&perks=2848615171,2173046394#notes: PvE
+
+// (Rite of Nine)
+// PvE: Dragonfly + Voltshot
+dimwishlist:item=2129814338&perks=2848615171,2173046394#notes: PvE
+
+// (Adept)
+// PvE: Dragonfly + Voltshot
+dimwishlist:item=4025177550&perks=2848615171,2173046394#notes: PvE
+
+// -----
 // Arc logic - Arc 600 Auto Rifle - Adaptive Frame (Moon)
 // PvE: Overflow + Frenzy
 dimwishlist:item=2723909519&perks=,3643424744,4104185692#notes: PvE
@@ -230,8 +246,7 @@ dimwishlist:item=4232480042&perks=243981275,3966416502#notes: PvE
 
 // -----
 // Sweet Sorrow - Arc 720 Auto Rifle - Rapid-Fire Frame (Season of Risen)
-// PvE: Arrowhead, Appended, Triple Tap, Demolitionist
-dimwishlist:item=1248372789&perks=839105230,1087426260,3400784728,3523296417#notes: PvE - MW Reload
+dimwishlist:item=-1248372789#notes: Powercrept.
 
 // -----
 // Dark Decider - Arc 720 Auto Rifle - Rapid-Fire Frame (Iron Banner)
@@ -253,8 +268,7 @@ dimwishlist:item=821154603&perks=,1820235745,3523296417#notes: PvE
 
 // -----
 // Ros Arago IV - Void 600 Auto Rifle - Adaptive Frame (World)
-// PvE: Rewind Rounds + Attrition Orbs
-dimwishlist:item=3583275737&perks=,3418782618,243981275#notes: PvE
+dimwishlist:item=-3583275737#notes: No good perks.
 
 // -----
 // Reckless Oracle - Void 720 Auto Rifle - Rapid-Fire Frame (Garden of Salvation)
@@ -272,6 +286,11 @@ dimwishlist:item=-211938782#notes: Power Creep. Use Fel Taradiddle.
 dimwishlist:item=-690341468#notes: No good perks.
 
 // -----
+// Fel Taradiddle - Kinetic 612 Bow - Lightweight Frame (Wellspring)
+// PvE: Elastic, Compact, Shoot to Loot, Explosive Head
+dimwishlist:item=1399109800&perks=2801223209,16392701,3700496672,3365897133#notes:PvE - MW Draw (Craftable)
+
+// -----
 // Accrued Redemption (Legacy) - Kinetic 684 Bow - Precision Frame (Garden of Salvation)
 dimwishlist:item=-4095896073#notes: Power Creep. Use Fel Taradiddle.
 
@@ -281,13 +300,12 @@ dimwishlist:item=-4095896073#notes: Power Creep. Use Fel Taradiddle.
 dimwishlist:item=3621336854&perks=2801223209,16392701,201365942,3824105627#notes: PvE - MW Draw (Craftable)
 
 // -----
-// Biting Winds - Kinetic Bow - Precision Frame (Europa)
+// Biting Winds - Kinetic 684 Bow - Precision Frame (Europa)
 dimwishlist:item=-1621657423#notes: Power Creep. Use Fel Taradiddle.
 
 // -----
-// Fel Taradiddle - Kinetic Bow - Lightweight Frame (Wellspring)
-// PvE: Elastic, Compact, Shoot to Loot, Explosive Head
-dimwishlist:item=1399109800&perks=2801223209,16392701,3700496672,3365897133#notes:PvE - MW Draw (Craftable)
+// Mercury-A  - Kinetic 792 Bow - High-Impact Bow (Edge of Fate)
+dimwishlist:item=-2838279629#notes: Very slow draw time.
 
 // -----
 // Lunulata-4b - Stasis Bow - Lightweight Frame (World)
@@ -361,8 +379,7 @@ dimwishlist:item=1770490683&perks=2801223209,3827198035,2848615171,2173046394#no
 
 // -----
 // Imperial Needle - Void 580 bow - Lightweight Frame (Season of Chosen - Battlegrounds)
-// PvE: Archer's tempo + Frenzy
-dimwishlist:item=3460122497&perks=2801223209,201365942,4104185692#notes: PvE
+dimwishlist:item=-3460122497#notes: Powercrept.
 
 // -----
 // Lethophobia - Void 580 Bow - Lightweight Frame (Season of Wish)
@@ -370,13 +387,21 @@ dimwishlist:item=-3710082365#notes: No good perks.
 
 // -----
 // Fortunate Star - Void 580 Bow - Lightweight Frame (Solstice 2024)
-// PvE: Repulsor Brace + Destabilizing Rounds
-dimwishlist:item=2326578623&perks=,776531651,2048641572#notes: PvE
+dimwishlist:item=-2326578623#notes: Powercrept by Anamnesis.
 
 // -----
 // Anamnesis - Void 580 Bow - Lightweight Frame (Episode Heresy)
 // PvE: Dragonfly + Demoralize
 dimwishlist:item=2291392465&perks=2801223209,16392701,2848615171,1464081238#notes: PvE
+
+// PvE: Repulsor Brace + Destabilizing Rounds
+dimwishlist:item=2291392465&perks=776531651,2048641572#notes: PvE
+dimwishlist:item=3417731926&perks=776531651,2048641572#notes: PvE
+
+// (Adpet)
+// PvE: Repulsor Brace + Destabilizing Rounds
+dimwishlist:item=1536325168&perks=776531651,2048641572#notes: PvE
+dimwishlist:item=3949253499&perks=776531651,2048641572#notes: PvE
 
 // -----
 // Under Your Skin - Void bow - Precision Frame (Season of Risen)
@@ -416,6 +441,11 @@ dimwishlist:item=2558925366&perks=839105230,689005463,923806249,243981275#notes:
 // Pressurized Precision - Strand 660 Fusion Rifle - Adaptive Frame (Iron Banner)
 // PvE: Auto-Loading + Vorpal
 dimwishlist:item=1084190509&perks=,3300816228,1546637391#notes: PvE
+
+// -----
+// Resounding - Strand 660 Fusion Rifle - Aggressive Frame (Ritual)
+// PvE: Subsistence + Reservoir Burst
+dimwishlist:item=1824586582#notes: PvE
 
 // -----
 // Nox Perennial V - Strand 960 Fusion Rifle - High Impact (World)
@@ -489,16 +519,20 @@ dimwishlist:item=-2290416#notes: Charge time too slow. Use Iterative Loop instea
 
 // -----
 // Techeun Force - Arc 660 Fusion Rifle - Adaptive Frame (Last Wish)
-// PvE: Arrowhead, Accelerated, Reconstruction, Controlled Burst
-dimwishlist:item=3591141932&perks=839105230,689005463,1523832109,2594592626#notes: PvE - MW Charge (Craftable)
+dimwishlist:item=-3591141932#notes: Powercrept.
 
 // -----
-// Plug One.1 - Arc Fusion Rifle - Precision Frame (Nightfall)
+// Plug One.1 (Legacy) - Arc Fusion Rifle - Precision Frame (Nightfall)
 dimwishlist:item=-1289000550#notes: No good perks.
 
 // -----
-// Plug One.1 (Adept) - Arc Fusion Rifle - Precision Frame (Nightfall)
+// Plug One.1 (Adept)(Legacy) - Arc Fusion Rifle - Precision Frame (Nightfall)
 dimwishlist:item=-534775659#notes: No good perks.
+
+// -----
+// PLUG ONE.1 - Arc 780 Fusion Rifle - Precision Frame (Nightfall)
+// PvE: Reconstruction + Reservoir Burst
+dimwishlist:item=3293524502&perks=1523832109,1427256713#notes: PvE
 
 // -----
 // Hollow Words - Arc Fusion Rifle - Precision Frame (World)
@@ -710,20 +744,20 @@ dimwishlist:item=-882778888#notes: PvP Perks only. Use Fatebringer better for Pv
 
 // -----
 // D.F.A. - Kinetic 140 Hand Cannon - Adaptive Frame (Nightfall)
-// PvE: Appended, Triple Tap, Timed Payload
-dimwishlist:item=575830664&perks=,1087426260,3400784728,1954620775#notes:PvE - MW Any
+// PvE: Triple Tap, Timed Payload
+dimwishlist:item=575830664&perks=,3400784728,1954620775#notes: PvE
 
 // -----
 // D.F.A. (Adept) - Kinetic 140 Hand Cannon - Adaptive Frame (Nightfall)
-// PvE: Appended, Triple Tap, Timed Payload
-dimwishlist:item=2006308129&perks=,1087426260,3400784728,1954620775#notes:PvE - MW Any
+// PvE: Triple Tap, Timed Payload
+dimwishlist:item=2006308129&perks=,3400784728,1954620775#notes: PvE
 
 // -----
-// Fatebringer - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
+// Fatebringer (Legacy) - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
 dimwishlist:item=-2171478765#notes: Have all the godrolls from timelost.
 
 // -----
-// Fatebringer (Timelost) - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
+// Fatebringer (Timelost) (Legacy) - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
 // PvE: Rewind Rounds + Firefly
 dimwishlist:item=1216319404&perks=,3418782618,3824105627#notes: PvE
 
@@ -733,7 +767,7 @@ dimwishlist:item=1216319404&perks=,3038247973,4104185692#notes: PvE
 // -----
 // Fatebringer - Kinetic 140 Hand Cannon - Adaptive Frame (Vault of Glass)
 // PvE: Arrowhead, Tactical, Rewind Rounds, Firefly
-dimwishlist:item=4184168210&perks=839105230,106909392,3418782618,3824105627#notes: PvE
+dimwishlist:item=4184168210&perks=839105230,106909392,3418782618,3824105627#notes: PvE - MW Range (Craftable)
 
 // -----
 // Judgment - Kinetic 140 Hand Cannon - Adaptive Frame (Prophecy)
@@ -787,12 +821,22 @@ dimwishlist:item=2823644677&perks=,1955165503,124408337#notes: PvE
 dimwishlist:item=235827225&perks=,1168162263,124408337#notes: PvE
 
 // -----
+// Judgment - Stasis 140 Hand Cannon - Adaptive Frame (Rite of Nine)
+// PvE: Headstone + Rimestealer
+dimwishlist:item=1773934241&perks=124408337,1955165503#notes: PvE
+
+// PvE: Demolitionist + Timed Payload
+dimwishlist:item=1773934241&perks=3523296417,1954620775#notes: PvE
+dimwishlist:item=2226572694&perks=3523296417,1954620775#notes: PvE
+
+// (Adept)
+dimwishlist:item=1987644603&perks=3523296417,1954620775#notes: PvE
+dimwishlist:item=3329218848&perks=3523296417,1954620775#notes: PvE
+
+// -----
 // Vulpecula - Stasis 180 Hand Cannon - Precision Frame (Season of Lost - awoken)
 // PvE: Shoot to Loot + Explosive Payload
 dimwishlist:item=1622998472&perks=,3700496672,3038247973#notes: PvE
-
-// PvE: Outlaw + Headstone
-dimwishlist:item=1622998472&perks=,1168162263,124408337:#notes: PvE
 
 // -----
 // Bold Endings - Stasis 257 Hand Cannon - Heavy Burst (Pale Heart)
@@ -859,6 +903,11 @@ dimwishlist:item=-1141547457#notes: No good perks.
 dimwishlist:item=-2850664015#notes: Use Zaoli's Bane better.
 
 // -----
+// Agape - Solar 257 Hand Cannon - Heavy Burst (Kepler)
+// PvE: Heal Clip + Firefly
+dimwishlist:item=4124362340&perks=3017780555,3824105627#notes: PvE
+
+// -----
 // Combined Action - Arc 120 Hand Cannon - Aggressive Frame (World)
 dimwishlist:item=-1331824604#notes: Hate 120.
 
@@ -910,6 +959,11 @@ dimwishlist:item=-3281285075#notes: Powercrept.
 dimwishlist:item=-2350330520#notes: Many other better.
 
 // -----
+// Yesterday's Question - Arc 257 Hand Cannon - Heavy Burst (Trials of Osiris)
+// PvE: Dragonfly + Voltshot
+dimwishlist:item=2300143112&perks=2848615171,2173046394#notes: PvE
+
+// -----
 // Bottom Dollar - Void 120 Hand Cannon - Aggressive Frame (Gambit)
 dimwishlist:item=-1046651176#notes: Hate 120.
 
@@ -932,9 +986,8 @@ dimwishlist:item=963574173&perks=3250034553,106909392,2048641572,3038247973notes
 dimwishlist:item=1481892490&perks=,3643424744,4049631843#notes: PvE
 
 // -----
-// Exalted Truth - Void 140 Hand Cannon - Adaptive Frame (Trials of Osiris)
-// PvE: Frenzy
-dimwishlist:item=548809020&perks=,4104185692#notes: PvE
+// Exalted Truth (Legacy) - Void 140 Hand Cannon - Adaptive Frame (Trials of Osiris)
+dimwishlist:item=-548809020#notes: Powercrept.
 
 // -----
 // IKELOS Hand Cannon (2023) - Void 180 Hand Cannon - Precision Frame (Season of Seraph)
@@ -1067,8 +1120,7 @@ dimwishlist:item=657927352&perks=,3300816228,2396489472#notes: PvE
 
 // -----
 // Interference IV - Arc 120 Heavy Grenade Launcher - Adaptive Frame (World)
-// PvE: Spike Grenade + Field Prep + Full Court
-dimwishlist:item=2257180473&perks=,3301904089,2869569095,2888557110#notes:PvE DPS
+dimwishlist:item=-2257180473#notes: Powercrept.
 
 // -----
 // Blast Battue - Arc 120 Heavy Grenade Launcher - Adaptive Frame (Season of Hunt)
@@ -1080,16 +1132,10 @@ dimwishlist:item=-2453357042#notes: Use Tarnation.
 // PvE: Spike + Auto Loading + Explosive Light
 dimwishlist:item=3183283212&perks=,3301904089,3300816228,3194351027
 
-// PvE: Spike + Field Prep + Full Court
-dimwishlist:item=3183283212&perks=,3301904089,2869569095,2888557110
-
 // -----
 // Wendigo GL3 (Adept) - Arc 120 Heavy Grenade Launcher - Adaptive Frame (Nightfall)
 // PvE: Spike + Auto Loading + Explosive Light
 dimwishlist:item=555148853&perks=,3301904089,3300816228,3194351027
-
-// PvE: Spike + Field Prep + Full Court
-dimwishlist:item=555148853&perks=,3301904089,2869569095,2888557110
 
 // -----
 // Bitter/Sweet - Arc 120 Heavy Grenade Launcher - Adaptive Frame (Episode Revenant)
@@ -1213,7 +1259,15 @@ dimwishlist:item=-2714022207#notes: Powercrept.
 dimwishlist:item=1491665733&perks=839105230,689005463,1523832109,4104185692#notes:PvE - MW Charge (Craftable)
 
 // -----
-// Stormchaser - Arc Linear Fusion Rifle - Aggressive Frame (Duality Dungeon)
+// Boomslang-4fr - Arc 533 Linear Fusion Rifle - Adaptive Burst (Edge of Fate)
+// PvE: Field Prep + Precision Instrument
+dimwishlist:item=3926153598&perks=2869569095,555281244#notes: PvE - DPS
+
+// PvE: Envious Arsenal + Reservoir Burst
+dimwishlist:item=3926153598&perks=3987942396,1427256713#notes: PvE - General
+
+// -----
+// Stormchaser - Arc 533 Linear Fusion Rifle - Adaptive Burst (Duality Dungeon)
 // PvE: Auto-Loading + Firing Line
 dimwishlist:item=3652506829&perks=,2680121939,3300816228,1771339417#notes:PvE - MW Any Except Reload
 
@@ -1290,9 +1344,19 @@ dimwishlist:item=3605603507&perks=839105230,1087426260,1523832109,2848615171#not
 dimwishlist:item=1321506184&perks=839105230,106909392,1583705720,124408337#notes:PvE - MW Reload (Craftable)
 
 // -----
+// Archon's Thunder - Stasis 360 Machine Gun - High Impact Frame (Iron Banner)
+// PvE: Rimestealer + Headstone
+dimwishlist:item=2896109856&perks=1955165503,124408337#notes:PvE
+
+// -----
 // Qua Furor V - Stasis 600 Machine Gun - Aggressive Frame (World)
 // PvE: Triple Tap + Dragonfly
 dimwishlist:item=751880654&perks=3400784728,2848615171#notes: PvE
+
+// -----
+// Ulterior Observation - Stasis 600 Machine Gun - Aggressive Frame (Kepler)
+// PvE: Headstone + Dragonfly
+dimwishlist:item=1079872540&perks=124408337,2848615171#notes: PvE
 
 // -----
 // Recurrent Impact - Stasis 900 Machine Gun - Rapid-Fire Frame (Season of Risen)
@@ -1340,6 +1404,21 @@ dimwishlist:item=-412251536#notes: Avalanche better.
 dimwishlist:item=-487205709#notes: Use Swarm instead.
 
 // -----
+// Terminus Horizon - Arc 360 Machine Gun - High Impact Frame (Spire of Watcher - Rite of Nine)
+// PvE: Dragonfly + Rolling Storm
+dimwishlist:item=3984556130&perks=2848615171,3218042543#notes: PvE
+
+// PvE: Reconstruction + Jolting Feedback
+dimwishlist:item=3984556130&perks=1523832109,3966416502#notes: PvE
+
+// (Adept)
+// PvE: Dragonfly + Rolling Storm
+dimwishlist:item=2210806903&perks=2848615171,3218042543#notes: PvE
+
+// PvE: Reconstruction + Jolting Feedback
+dimwishlist:item=2210806903&perks=1523832109,3966416502#notes: PvE
+
+// -----
 // Seventh Seraph SAW - Arc 360 Machine Gun - High Impact Frame (World)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391#notes:PvE - MW Any except reload
@@ -1360,42 +1439,22 @@ dimwishlist:item=2582755344&perks=1482024992,1087426260,3300816228,1546637391#no
 dimwishlist:item=-47772649#notes:Not used. Use Seventh Seraph SAW instead.
 
 // -----
-// The Swarm (Adept) - Arc 360 Machine Gun - High Impact Frame (Nightfall)
-// PvE: Surplus + Dragonfly
-dimwishlist:item=3836861464&perks=,3436462433,2848615171#notes:PvE
-
-// ---- 
-// The Swarm (2023) - Arc 360 Machine Gun - High Impact Frame (Nightfall)
-// PvE: Feeding Frenzy + Dragonfly
-dimwishlist:item=2759590322&perks=,2779035018,2848615171#notes: PvE
-
-// -----
-// The Swarm (Adept) (2023) - Arc 360 Machine Gun - High Impact Frame (Nightfall)
-// PvE: Feeding Frenzy + Dragonfly
-dimwishlist:item=566740455&perks=,2779035018,2848615171#notes: PvE
-
-// -----
 // A Fine Memorial - Arc 450 Machine Gun - Adaptive Frame (Moon)
-// PvE: Auto Loading + Demolitionist
-dimwishlist:item=3325778512&perks=,3300816228,3523296417#notes:PvE
+dimwishlist:item=-3325778512#notes: No good perks.
 
 // -----
 // Song of Ir Yut - Arc 450 Machine Gun - Adaptive Frame (Crota's End)
-// PvE: Arrowhead, Appended, Rewind Rounds, Bait and Switch
-dimwishlist:item=2828278545&perks=839105230,1087426260,3418782618,3078487919#notes: PvE - MW Reload (Craftable)
-
 // PvE: Arrowhead, Appended, Rewind Rounds, Target Lock
 dimwishlist:item=2828278545&perks=839105230,1087426260,3418782618,365154968#notes: PvE - MW Reload (Craftable)
 
 // -----
 // Watchful Eye - Arc 600 Machine Gun - Aggressive Frame (Episode Heresy)
-// PvE: Field Prep + Jolting Feedback
-dimwishlist:item=768610585&perks=2869569095,3966416502#notes: PvE
-dimwishlist:item=1757177186&perks=2869569095,3966416502#notes: PvE
+dimwishlist:item=-768610585#notes: Use Terminus Horizon instead.
+dimwishlist:item=-1757177186#notes: Use Terminus Horizon instead.
 
 // (Adept)
-dimwishlist:item=737409399&perks=2869569095,3966416502#notes: PvE
-dimwishlist:item=2856225832&perks=2869569095,3966416502#notes: PvE
+dimwishlist:item=-737409399#notes: Use Terminus Horizon instead.
+dimwishlist:item=-2856225832#notes: Use Terminus Horizon instead.
 
 // -----
 // Planck's Stride - Arc 900 Machine Gun - Rapid-Fire Frame (Season of Plunder)
@@ -1427,14 +1486,19 @@ dimwishlist:item=211732170&perks=,2048641572,2109543898#notes: PvE - Ads Clear
 dimwishlist:item=4230965989&perks=839105230,1087426260,1820235745,3108830275#notes:PvE - MW Stability (Craftable)
 
 // -----
-// Corrective Measure - Void 450 Machine Gun - Adaptive Frame (Vault of Glass)
+// Corrective Measure (Legacy) - Void 450 Machine Gun - Adaptive Frame (Vault of Glass)
 // PvE: Subsistence + Firefly
 dimwishlist:item=471518543&perks=,1820235745,3824105627#notes:PvE
 
 // -----
-// Corrective Measure (Timelost) - Void 450 Machine Gun - Adaptive Frame (Vault of Glass)
+// Corrective Measure (Timelost)(Legacy) - Void 450 Machine Gun - Adaptive Frame (Vault of Glass)
 // PvE: Subsistence + Firefly
 dimwishlist:item=3796510434&perks=,1820235745,3824105627#notes:PvE
+
+// -----
+// Corrective Measure - Void 600 Machine Gun - Aggressive Frame (Vault of Glass)
+// PvE: Arrowhead, Appended, Destabilizing Rounds, Killing Tally
+dimwishlist:item=3654744298&perks=839105230,1087426260,2048641572,557221067#notes: PvE - MW Reload
 
 // -----
 // Retrofit Escapade - Void 900 Machine Gun - Rapid-Fire Frame (Season of Seraph)
@@ -1567,6 +1631,11 @@ dimwishlist:item=1751893422&perks=839105230,106909392,1168162263,124408337#notes
 dimwishlist:item=435821041&perks=,923806249,831391274#notes: PvE
 
 // -----
+// Last Thursday - Strand 390 Pulse Rifle - Adaptive Frame (Kepler)
+// PvE: Demolitionist + Hatchling
+dimwishlist:item=3813721211&perks=3523296417,831391274#notes: PvE
+
+// -----
 // Nightshade - Strand 450 Pulse Rifle - Lightweight Frame (World)
 // PvE: Outlaw + Hatchling
 dimwishlist:item=1974641289&perks=,1168162263,831391274#notes: PvE
@@ -1619,9 +1688,17 @@ dimwishlist:item=-1678205741#notes: Use Battler.
 dimwishlist:item=2126178511&perks=839105230,106909392,3828510309,2173046394#notes: PvE - MW Reload (Craftable)
 
 // -----
+// Cruel Mercy - Arc 324 Pulse Rifle - Heavy Burst (Nightfall)
+// PvE: Dragonfly + Rolling Storm
+dimwishlist:item=233635202&perks=2848615171,3218042543#notes: PvE
+
+// (Adept)
+// PvE: Dragonfly + Rolling Storm
+dimwishlist:item=2347178967&perks=2848615171,3218042543#notes: PvE
+
+// -----
 // Phyllotactic Spiral - Arc 340 Pulse Rifle - High Impact Frame (Neomuna)
-// PvE: Arrowhead, Light Mag, Compulsive Reloader, Voltshot
-dimwishlist:item=3635821806&perks=839105230,679225683,671806388,2173046394#notes: PvE - MW Reload (Craftable)
+dimwishlist:item=3635821806#notes: Powercrept.
 
 // -----
 // Jian 7 rifle - Arc 390 Pulse Rifle - Adaptive Frame (World)
@@ -1638,13 +1715,11 @@ dimwishlist:item=3830941962&perks=,1583705720,3966416502#notes: PvE
 
 // -----
 // Insidious - Arc 450 Pulse Rifle - Aggressive Burst (Vow of the Disciple)
-// PvE: Arrowhead, Tactical, Demolitionist, Adaptive Munitions
-dimwishlist:item=3428521585&perks=839105230,106909392,3523296417,1048183818#notes: PvE - MW Reload (Craftable)
+dimwishlist:item=3428521585#notes: Powercrept.
 
 // -----
 // Oversoul Edict - Arc 540 Pulse Rifle - Rapid-Fire Frame (Crota's End)
-// PvE: Arrowhead, Light Mag, Enlightened Action, Voltshot
-dimwishlist:item=1098171824&perks=839105230,679225683,3828510309,2173046394#notes: PvE - MW Reload (Craftable)
+dimwishlist:item=-1098171824#notes: Powercrept.
 
 // -----
 // Darkest Before - Arc 540 Pulse Rifle - Rapid-Fire Frame (Prophecy)
@@ -1737,6 +1812,11 @@ dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,1546637391#no
 dimwishlist:item=1959650777&perks=1478423395,3796465595,2869569095,2978966579#notes:PvE - MW Reload (Craftable)
 
 // -----
+// Cynosure - Strand 20 Rocket Launcher - Adaptive Frame (Strike)
+// PvE: Reconstruction + Explosive Light
+dimwishlist:item=694275488&perks=1523832109,3194351027#notes: PvE
+
+// -----
 // Crowning Duologue - Strand Rocket Launcher - Precision Frame (Season of Deep - Solstice)
 dimwishlist:item=-3256453690#notes: No good perks. Use Semiotican.
 dimwishlist:item=-4106757302#notes: No good perks. Use Semiotican.
@@ -1759,6 +1839,11 @@ dimwishlist:item=2922749929&perks=3525010810,3796465595,2869569095,3194351027#no
 dimwishlist:item=725408022#notes:Ritual.
 
 // -----
+// Apex Predator (legacy) - Solar 20 Rocket Launcher - Adaptive Frame (Last Wish - Legacy)
+// PvE: Tracking + Auto-Loading
+dimwishlist:item=2545083870&perks=3977735242,3300816228#notes: PvE
+
+// -----
 // Apex Predator - Solar Rocket Launcher - Adaptive Frame (Last Wish)
 // PvE: Volatile, Impact Casing, Reconstruction, Bait and Switch
 dimwishlist:item=1851777734&perks=1478423395,3796465595,1523832109,3078487919#notes: PvE - MW Reload (Craftable)
@@ -1776,7 +1861,7 @@ dimwishlist:item=-2496242052#notes: Use Apex.
 dimwishlist:item=4009352833&perks=,3977735242,3300816228#notes:PvE - MW Any
 
 // -----
-// Hezen Vengeance - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
+// Hezen Vengeance (Legacy) - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=4050645223&perks=981914802,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
 dimwishlist:item=4050645223&perks=1441682018,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
@@ -1788,16 +1873,20 @@ dimwishlist:item=4050645223&perks=1441682018,3796465595,3643424744,1546637391#no
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
 
 // -----
-// Hezen Vengeance (Timelost) - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
+// Hezen Vengeance (Timelost)(Legacy) - Solar Rocket Launcher - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
-dimwishlist:item=1921159786&perks=981914802,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
-dimwishlist:item=1921159786&perks=1441682018,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
-dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=3300816228,1546637391#notes:PvE
 
 // PvE: Overflow + Vorpal
-dimwishlist:item=1921159786&perks=981914802,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
-dimwishlist:item=1921159786&perks=1441682018,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
-dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1546637391#notes:PvE - MW Velocity
+dimwishlist:item=1921159786&perks=3643424744,1546637391#notes:PvE
+
+// -----
+// Hezen Vengeance - Solar 25 Rocket Launcher - Aggressive Frame (Vault of Glass)
+// PvE: Quick Launch, Impact Casing, Auto-Loading, Explosive Light
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3300816228,3194351027#notes: PvE - MW Velocity (Craftable)
+
+// PvE: Quick Launch, Impact Casing, Overflow, Bipod
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3643424744,1439600632#notes: PvE - MW Velocity (Craftable)
 
 // -----
 // Hoosegow - Arc Rocket Launcher - Adaptive Frame (World)
@@ -1919,8 +2008,7 @@ dimwishlist:item=-991314988#notes: No good perk.
 
 // -----
 // BrayTech Osprey - Void Rocket - High Impact Frame (Nightfall)
-// PvE: Cluster Bomb + Chain Reaction
-dimwishlist:item=3667553455&perks=,1275731761,2396489472#notes:PvE
+dimwishlist:item=-3667553455#notes: No good perks.
 
 // -----
 // BrayTech Osprey (Adept) - Void Rocket - High Impact Frame (Nightfall)
@@ -1966,28 +2054,15 @@ dimwishlist:item=-1982711279#notes:no good perk.
 
 // -----
 // Imperative - Kinetic 150 Scout Rifle - High Impact Frame (Season of Wish)
-// PvE: Arrowhead, Tactical, Demolitionist, Explosive Payload
-dimwishlist:item=2045811635&perks=839105230,106909392,3523296417,3038247973#notes: PvE - MW Reload (Craftable)
+dimwishlist:item=-2045811635#notes: Use Hung Jury.
 
 // -----
-// Hung Jury SR4 - Kinetic 180 Scout Rifle - Precision Frame (Nightfall)
-// PvE: Subsistence + Firefly
-dimwishlist:item=4281371574&perks=1467527085,106909392,1820235745,3824105627#notes:PvE - MW Reload
-dimwishlist:item=4281371574&perks=3250034553,106909392,1820235745,3824105627#notes:PvE - MW Reload
-dimwishlist:item=4281371574&perks=1482024992,106909392,1820235745,3824105627#notes:PvE - MW Reload
-dimwishlist:item=4281371574&perks=1467527085,3230963543,1820235745,3824105627#notes:PvE - MW Reload
-dimwishlist:item=4281371574&perks=3250034553,3230963543,1820235745,3824105627#notes:PvE - MW Reload
-dimwishlist:item=4281371574&perks=1482024992,3230963543,1820235745,3824105627#notes:PvE - MW Reload
+// Hung Jury SR4 (Legacy) - Kinetic 180 Scout Rifle - Precision Frame (Nightfall)
+dimwishlist:item=-4281371574#notes: Powercrept.
 
 // -----
-// Hung Jury SR4 (Adept) - Kinetic 180 Scout Rifle - Precision Frame (Nightfall)
-// PvE: Subsistence + Firefly
-dimwishlist:item=681067419&perks=1467527085,106909392,1820235745,3824105627#notes:PvE - MW Reload
-dimwishlist:item=681067419&perks=3250034553,106909392,1820235745,3824105627#notes:PvE - MW Reload
-dimwishlist:item=681067419&perks=1482024992,106909392,1820235745,3824105627#notes:PvE - MW Reload
-dimwishlist:item=681067419&perks=1467527085,3230963543,1820235745,3824105627#notes:PvE - MW Reload
-dimwishlist:item=681067419&perks=3250034553,3230963543,1820235745,3824105627#notes:PvE - MW Reload
-dimwishlist:item=681067419&perks=1482024992,3230963543,1820235745,3824105627#notes:PvE - MW Reload
+// Hung Jury SR4 (Adept)(Legacy) - Kinetic 180 Scout Rifle - Precision Frame (Nightfall)
+dimwishlist:item=-681067419#notes: Powercrept.
 
 // -----
 // Hung Jury SR4 (2023) - Kinetic 180 Scout Rifle - Precision Frame (Nightfall)
@@ -2044,9 +2119,6 @@ dimwishlist:item=-996109059#notes: Use Hung Jury better.
 // PvP: Snapshot + Explosive Payload
 dimwishlist:item=3504336176&perks=,957782887,3038247973#notes: PvP
 
-// PvE: Rapid Hit + Explosive Payload
-dimwishlist:item=3504336176&perks=,247725512,3038247973#notes: PvE
-
 // -----
 // Patron of Lost Causes - Kinetic 200 Scout Rifle - Lightweight Frame (Episode Echo)
 dimwishlist:item=-2249996761#notes: Use Hung Jury better.
@@ -2064,8 +2136,10 @@ dimwishlist:item=-3292795429#notes: No good perks.
 // PvE: Shoot to Loot + Explosive Payload
 dimwishlist:item=1019000888&perks=,3700496672,3038247973#notes:PvE - MW Any except Handling
 
-// PvE: Rapid Hit + Headstone
-dimwishlist:item=1019000888&perks=,247725512,124408337#notes:PvE - MW Any except Handling
+// -----
+// Jurisprudent - Stasis 150 Scout Rifle - High Impact Frame (Edge of Fate)
+// PvE: Recycled Energy + Headstone
+dimwishlist:item=4090134063&perks=3713215006,124408337#notes:PvE
 
 // -----
 // Live Fire - Stasis 180 Scout Rifle - Precision Frame
@@ -2113,11 +2187,11 @@ dimwishlist:item=1432682459&perks=839105230,679225683,3700496672,831391274#notes
 dimwishlist:item=-1058098236#notes: Don't like this archetype.
 
 // -----
-// Vision of Confluence - Solar 180 Scout Rifle - Precision Frame (Vault of Glass)
+// Vision of Confluence (Legacy) - Solar 180 Scout Rifle - Precision Frame (Vault of Glass)
 dimwishlist:item=-3186018373#notes: Use Staccato.
 
 // -----
-// Vision of Confluence (Timelost) - Solar 180 Scout Rifle - Precision Frame (Vault of Glass)
+// Vision of Confluence (Timelost)(Legacy) - Solar 180 Scout Rifle - Precision Frame (Vault of Glass)
 dimwishlist:item=-690668916#notes: Use Staccato.
 
 // -----
@@ -2144,18 +2218,30 @@ dimwishlist:item=4019668921&perks=,1168162263,2848615171#notes: PvE
 dimwishlist:item=-3556999246#notes:Use Staccato better,
 
 // -----
+// Nature Reclaimed - Solar 200 Scout Rifle - Lightweight Frame (Iron Banner)
+// PvE: Heal Clip + Incandescent
+dimwishlist:item=2639921391&perks=3017780555,4293542123#notes: PvE
+
+// -----
 // Trustee - Solar 260 Scout Rifle - Rapid-Fire Frame (Deep Stone Crypt)
 // PvP: Zen Moment + Opening Shot
 dimwishlist:item=1392919471&perks=839105230,3142289711,2387244414,47981717#notes:PvP - MW Any
 
 // -----
 // Trustee - Solar 260 Scout Rifle - Rapid-Fire Frame (Deep Stone Crypt)
-// PvE: Arrowhead, Tactical Mag, Reconstruction, Incandescent
-dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,4293542123#notes: PvE - MW Reload
+dimwishlist:item=-1392919471#notes: No good perks.
 
 // -----
 // Long Arm - Arc 120 Scout Rifle - Aggressive Frame (Spire of Watcher Dungeon)
 dimwishlist:item=-8293111#notes: Bad archetype. Use Tarnished Mettle instead.
+
+// -----
+// Sublimation - Arc 150 Scout Rifle - High Impact Frame (Kepler)
+// PvE: Demolitionist + Voltshot
+dimwishlist:item=1674692344&perks=3523296417,2173046394#notes: PvE
+
+// PvE: Shoot to Loot + Explosive Payload
+dimwishlist:item=1674692344&perks=3700496672,3038247973#notes: PvE
 
 // -----
 // Adverse Possession IX - Arc 180 Scout Rifle - Precision Frame (World)
@@ -2337,7 +2423,7 @@ dimwishlist:item=-1478986057#notes: No good perks.
 dimwishlist:item=-2855157553#notes: No good perks. Use Found Verdict better.
 
 // -----
-// Found Verdict - Arc 55 Shotgun - Aggressive Frame (Vault of Glass)
+// Found Verdict (Legacy) - Arc 55 Shotgun - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=3197270240&perks=1332244541,791862061,3300816228,1546637391#notes:PvE - MW Range
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3300816228,1546637391#notes:PvE - MW Range
@@ -2347,14 +2433,18 @@ dimwishlist:item=3197270240&perks=1332244541,791862061,3418782618,3523296417#not
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3418782618,3523296417#notes:PvE - MW Range
 
 // -----
-// Found Verdict (Time Lost) - Arc Shotgun - Aggressive Frame (Vault of Glass)
+// Found Verdict (Time Lost) (Legacy) - Arc Shotgun - Aggressive Frame (Vault of Glass)
 // PvE: Auto Loading + Vorpal
 dimwishlist:item=631439337&perks=1332244541,791862061,3300816228,1546637391#notes:PvE - MW Range
 dimwishlist:item=631439337&perks=1332244541,3142289711,3300816228,1546637391#notes:PvE - MW Range
 
-// PvE: Rewind Rounds + Demolitionist
-dimwishlist:item=631439337&perks=1332244541,791862061,3418782618,3523296417#notes:PvE - MW Range
-dimwishlist:item=631439337&perks=1332244541,3142289711,3418782618,3523296417#notes:PvE - MW Range
+// -----
+// Found Verdict - Arc 55 Shotgun - Aggressive Frame (Vault of Glass)
+// PvE: Smallbore, Assault Mag, Rewind Rounds, Trench Barrel
+dimwishlist:item=694500607&perks=1482024992,791862061,3418782618,2360754333#notes:PvE - MW Range
+
+// PvE: Smallbore, Tactical Mag, Slideshot, Rolling Storm
+dimwishlist:item=694500607&perks=1482024992,106909392,3161816588,3218042543#notes:PvE - MW Range
 
 // -----
 // Hand in Hand - Arc 55 Arc Shotgun - Aggressive Frame (World)
@@ -2403,21 +2493,18 @@ dimwishlist:item=-1028582252#notes:No good perks.
 dimwishlist:item=-2443900757#notes:No good perks.
 
 // -----
-// Retold Tale (Reprised) - Void shotgun - Precision Frame (Dreaming City)
+// Retold Tale (Reprised) - Void 65 shotgun - Precision Frame (Dreaming City)
 // PvP: Quickdraw + Snapshot
 dimwishlist:item=871900124&perks=1047830412,3142289711,706527188,957782887#notes: PvP
 
 // -----
+// Precipial - Void 65 Shotgun - Precision Frame (Kepler)
+// PvE: Reconstruction + Discord
+dimwishlist:item=367772693&perks=1523832109,3978468247#notes: PvE
+
+// -----
 // The Deicide - Void shotgun - Rapid-Fire Frame (Season of Splicer)
-// PvE: Lead from Gold + Vorpal
-dimwishlist:item=217140611&perks=1332244541,1087426260,1556840489,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=217140611&perks=1482024992,1087426260,1556840489,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=217140611&perks=1332244541,106909392,1556840489,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=217140611&perks=1482024992,106909392,1556840489,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=217140611&perks=1332244541,3142289711,1556840489,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=217140611&perks=1482024992,3142289711,1556840489,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=217140611&perks=1332244541,679225683,1556840489,1546637391#notes:PvE - MW Range or Reload
-dimwishlist:item=217140611&perks=1482024992,679225683,1556840489,1546637391#notes:PvE - MW Range or Reload
+dimwishlist:item=-217140611#notes: Powercrept.
 
 // -----
 // Basso Ostinato - Void Shotgun - Rapid-Fire Frame (Neomuna)
@@ -2472,8 +2559,7 @@ dimwishlist:item=2130875369&perks=3017780555,4293542123#notes:PvE
 
 // -----
 // Legato-11 - Solar Slug Shotgun - Pinpoint Slug Frame (World)
-// PvE: Heal Clip + Incandescent
-dimwishlist:item=3753063346&perks=,3017780555,4293542123#notes:PvE
+dimwishlist:item=-3753063346#notes: Powercrept.
 
 // -----
 // First In, Last Out - Arc Slug Shotgun - Precision Frame (World)
@@ -2570,6 +2656,20 @@ dimwishlist:item=480368036&perks=951095735,2978966579#notes: PvE
 // Liminal Vigil - Stasis 325 Sidearm - Aggressive Burst (Spire of Watcher Dungeon)
 // PvE: Headstone + Rangefinder
 dimwishlist:item=3138208275&perks=,124408337,2846385770#notes: PvE
+
+// (Rite of Nine)
+// PvE: Headstone + Rimestealer
+dimwishlist:item=1460079227&perks=124408337,1955165503#notes: PvE
+dimwishlist:item=2575844666&perks=124408337,1955165503#notes: PvE
+
+// (Adapt)
+// PvE: Headstone + Rimestealer
+dimwishlist:item=1905934655&perks=124408337,1955165503#notes: PvE
+dimwishlist:item=3421639790&perks=124408337,1955165503#notes: PvE
+
+// -----
+// Faustus Decline - Stasis 360 Sidearm - Lightweight Frame (Edge of Fate)
+dimwishlist:item=-1663482635#notes: No good perks.
 
 // -----
 // Senuna SI6 - Stasis 491 3-Burst Sidearm - Adaptive Burst (World)
@@ -2697,9 +2797,14 @@ dimwishlist:item=414045521&perks=,776531651,2048641572#notes: PvE
 // --------------------------------------------------------------------------
 // Type - Special Grenade Launcher
 // --------------------------------------------------------------------------
-// Ignition Code - Kinetic Special Grenade Launcher - Lightweight Frame (Season of Splicer)
+// Ignition Code (Legacy) - Kinetic 90 Special Grenade Launcher - Lightweight Frame (Season of Splicer)
 // PvE: Blinding + Slideshot
 dimwishlist:item=304659313&perks=,3032599245,3161816588#notes:PvE - MW Velocity or Handling
+
+// -----
+// Ignition Code - Kinetic 90 Special Grenade Launcher - Lightweight Frame (Episode Revenant)
+// PvE: Blinding + Slideshot
+dimwishlist:item=2761869150&perks=3032599245,3161816588#notes:PvE - MW Velocity or Handling
 
 // -----
 // Pardon Our Dust - Kinetic Special Grenade Launcher - Lightweight Frame (Dares of Eternity)
@@ -2736,8 +2841,16 @@ dimwishlist:item=-2599338624#notes: No good perks.
 
 // -----
 // New Pacific Epitaph - Stasis Special Grenade Launcher - Wave Frame (Ghosts of the Deep Dungeon)
-// PvE: Demolitionist + Pugilist
-dimwishlist:item=1125217994&perks=,3523296417,691659142#notes:PvE
+dimwishlist:item=-1125217994#notes: Powercrept by Rite of Nine.
+
+// (Rite of Nine)
+// PvE: Chain Reaction
+dimwishlist:item=492673102&perks=2396489472#notes: PvE
+dimwishlist:item=2059741649&perks=2396489472#notes: PvE
+
+// (Adept)
+dimwishlist:item=233402416&perks=2396489472#notes: PvE
+dimwishlist:item=3185151619&perks=2396489472#notes: PvE
 
 // -----
 // Tusk of the Boar - Strand Special Grenade Launcher - Wave Frame (Iron Banner)
@@ -2831,10 +2944,18 @@ dimwishlist:item=1762785663&perks=,3523296417,243981275#notes: PvE
 // PvE: Blinding + Auto-Loading + Lead from Gold
 dimwishlist:item=2306182339&perks=,3032599245,3300816228,1556840489#notes: PvE
 
+// (Rite of Nine)
+// PvE: Blinding + Auto-Loading
+dimwishlist:item=1206729100&perks=3032599245,3300816228#notes: PvE
+dimwishlist:item=2982006965&perks=3032599245,3300816228#notes: PvE
+
+// (Adept)
+dimwishlist:item=559523765&perks=3032599245,3300816228#notes: PvE
+dimwishlist:item=2477408004&perks=3032599245,3300816228#notes: PvE
+
 // -----
 // Truthteller - Void Special Grenade Launcher - Lightweight Frame (World)
-// PvE: Blinding grenade + Auto Loading + Disruption Break
-dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,1683379515#notes:PvE - MW Velocity
+dimwishlist:item=-1946491241#notes: Powercrept by Wilderflight.
 
 // -----
 // Deafening Whisper - Void Special Grenade Launcher - Wave frame (Season of Hunt)
@@ -2943,9 +3064,13 @@ dimwishlist:item=811403305&perks=,968510818,831391274#notes: PvE
 dimwishlist:item=1258168956&perks=3250034553,106909392,923806249,831391274#notes: PvE - MW Reload (Craftable)
 
 // -----
+// Qua Nilus II - Strand 900 SMG - Adaptive Frame (Edge of Fate)
+// PvE: Slice + Hatchling
+dimwishlist:item=190747610&perks=923806249,831391274#notes: PvE
+
+// -----
 // Perfect Pitch - Solar 600 SMG - Precision Frame (Ritual)
-// PvE: Subsistence + Incandescent
-dimwishlist:item=3276304504#notes: PvE
+dimwishlist:item=-3276304504#notes: Powercrept.
 
 // -----
 // Borrowed Time - Solar 750 SMG - Aggressive Frame (World)
@@ -2954,6 +3079,15 @@ dimwishlist:item=-875848769#notes: Powercrept.
 // -----
 // No Survivors - Solar 750 SMG - Aggressive Frame (Ghosts of the Deep Dungeon)
 dimwishlist:item=-3262192268#notes: Use CALUS Mini Tool.
+
+// (Rite of Nine)
+// PvE: Heal Clip + Incandescent
+dimwishlist:item=4193602194&perks=3017780555,4293542123#notes: PvE
+dimwishlist:item=4228149269&perks=3017780555,4293542123#notes: PvE
+
+// (Adept)
+dimwishlist:item=189194532&perks=3017780555,4293542123#notes: PvE
+dimwishlist:item=1157220231&perks=3017780555,4293542123#notes: PvE
 
 // -----
 // Death Adder - Solar 900 SMG - Lightweight Frame (World)
@@ -3343,28 +3477,16 @@ dimwishlist:item=-781498181#notes: No good perks.
 
 // -----
 // Father's Sins - Void 140 Sniper - Rapid-Fire Frame (Wellspring)
-// PvE: Arrowhead, Tactical, Triple Tap, Focused Fury
-dimwishlist:item=3865728990&perks=839105230,106909392,3400784728,2896038713#notes:PvE - MW Reload (Craftable)
+dimwishlist:item=-3865728990#notes: Powercrept.
+
+// -----
+// Shoreline Dissident - Void 140 Sniper - Rapid-Fire Frame (Edge of Fate)
+dimwishlist:item=-1193318082#notes: No good perks.
 
 
 // --------------------------------------------------------------------------
 // Type - Sword
 // --------------------------------------------------------------------------
-// Dragoncult Sickle - Strand Sword - Caster Frame (Warlord's Ruin)
-// PvE: Unrelenting, Chain Reaction
-dimwishlist:item=3668817296&perks=,3108830275,2396489472#notes: PvE
-
-// -----
-// Abyssal Edge - Strand Sword - Wave Sword Frame (Episode Heresy)
-// PvE: Tireless + Hatchling
-dimwishlist:item=547165496&perks=2590710093,831391274#notes: PvE
-dimwishlist:item=4221591387&perks=2590710093,831391274#notes: PvE
-
-// (Adept)
-dimwishlist:item=2712683313&perks=2590710093,831391274#notes: PvE
-dimwishlist:item=3054597646&perks=2590710093,831391274#notes: PvE
-
-// -----
 // Zephyr (2022) - Stasis Sword - Adaptive Frame (Dawning 2022)
 // PvE: Relentless + Cold Steel
 dimwishlist:item=396910433&perks=,1749209109,3650930298
@@ -3410,6 +3532,26 @@ dimwishlist:item=1354727549&perks=1749209109,3078487919#notes: PvE
 
 // PvE: Eager Edge + Cold Steel
 dimwishlist:item=1354727549&perks=2077819806,3650930298#notes: PvE
+
+// -----
+// Aurora Dawn - Stasis Sword - Wave Sword Frame (Edge of Fate)
+// PvE: Tireless + Cold Steel
+dimwishlist:item=2111625436&perks=2590710093,3650930298#notes: PvE
+
+// -----
+// Dragoncult Sickle - Strand Sword - Caster Frame (Warlord's Ruin)
+// PvE: Unrelenting, Chain Reaction
+dimwishlist:item=3668817296&perks=,3108830275,2396489472#notes: PvE
+
+// -----
+// Abyssal Edge - Strand Sword - Wave Sword Frame (Episode Heresy)
+// PvE: Relentless + Hatchling
+dimwishlist:item=547165496&perks=1749209109,831391274#notes: PvE
+dimwishlist:item=4221591387&perks=1749209109,831391274#notes: PvE
+
+// (Adept)
+dimwishlist:item=2712683313&perks=1749209109,831391274#notes: PvE
+dimwishlist:item=3054597646&perks=1749209109,831391274#notes: PvE
 
 // -----
 // Thin Precipice - Strand Sword - Vortex Frame (Season of Deep)
