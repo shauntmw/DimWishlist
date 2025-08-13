@@ -185,7 +185,8 @@ dimwishlist:item=-20935540#notes: No good perks. Use Chrysura Melo instead.
 
 // -----
 // Ahab Char - Solar 720 Auto Rifle - Rapid-Fire Frame (Edge of Fate)
-dimwishlist:item=-1411560894#notes: No good perks.
+// PvE: Heal Clip + Burning Ambition
+dimwishlist:item=1411560894&perks=3017780555,2890807135#notes: PvE
 
 // -----
 // Come to Pass - Arc 360 Auto Rifle - High Impact Frame (Wellspring)
@@ -344,6 +345,11 @@ dimwishlist:item=2591241074&perks=2801223209,201365942,2848615171#notes:PvE - MW
 // Pre Astyanax IV - Solar 684 Bow - Precision Frame (Nightfall)
 // PvE: Shoot to Loot + Incandescent
 dimwishlist:item=192784503&perks=,3700496672,4293542123#notes: PvE
+
+// -----
+// Pre Astyanax IV (S27) - Solar 684 Bow - Precision Frame (Pinnacle Ops)
+// PvE: Incandescent + Burning Ambition
+dimwishlist:item=471764396&perks=4293542123,2890807135#notes: PvE
 
 // -----
 // Pre Astyanax IV (Adept) - Solar 684 Bow - Precision Frame (Nightfall)
@@ -866,6 +872,13 @@ dimwishlist:item=-1875512595#notes: No good perks.
 dimwishlist:item=2485881870&perks=831391274,960997401#notes: PvE
 
 // -----
+// Phoneutria Fera - Solar 100 Hand Cannon - Spread Shot (Edge of Fate)
+// PvE: Threat Remover + Incandescent
+dimwishlist:item=3496887154&perks=1126264488,4293542123#notes: PvE
+dimwishlist:item=3804242792&perks=1126264488,4293542123#notes: PvE
+dimwishlist:item=3804242793&perks=1126264488,4293542123#notes: PvE
+
+// -----
 // Igneous Hammer - Solar 120 Hand Cannon - Aggressive Frame (Trials of Osiris)
 dimwishlist:item=-2351180975#notes: Hate 120. Use Annual Skate instead.
 dimwishlist:item=-1973107014#notes: Hate 120. Use Zaoli's Bane.
@@ -1103,10 +1116,15 @@ dimwishlist:item=3690523502&perks=3525010810,2822142346,3300816228,2396489472#no
 dimwishlist:item=3690523502&perks=3798852852,2822142346,3300816228,2396489472#notes:PvE - MW Blast or Velocity
 
 // -----
-// outrageous fortune - Solar Heavy Grenade Launcher - Rapid-Fire Frame (Strike)
-// PvE: spike grenade + Auto Loading + assassin
+// Outrageous Fortune (Legacy) - Solar Heavy Grenade Launcher - Rapid-Fire Frame (Strike)
+// PvE: Spike grenade + Auto Loading + Assassin
 dimwishlist:item=4146702548&perks=981914802,3301904089,3300816228,2010801679#notes:PvE - MW Velocity
 dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,2010801679#notes:PvE - MW Velocity
+
+// -----
+// Outrageous Fortune - Solar 150 Heavy Grenade Laucnher - Rapid-Fire Frame (Pinnacle Ops)
+// PvE: Incandescent + Chain Reaction
+dimwishlist:item=4146673634&perks=4293542123,2396489472#notes:PvE
 
 // -----
 // Marsilion-C - Solar Heavy Grenade Launcher - Rapid-Fire Frame (World)
@@ -1646,8 +1664,13 @@ dimwishlist:item=1974641289&perks=,1168162263,831391274#notes: PvE
 dimwishlist:item=3016891299&perks=839105230,679225683,1168162263,831391274#notes: PvE - MW Range (Craftable)
 
 // -----
-// Stars in Shadow - Solar 340 Pulse Rifle - High Impact Frame (Crucible)
+// Stars in Shadow (Legacy) - Solar 340 Pulse Rifle - High Impact Frame (Crucible)
 dimwishlist:item=-2050789284#notes: No good perk.
+
+// -----
+// Stars in Shadow - Solar 340 Pulse Rifle - High Impact Frame (Crucible)
+// PvE: Heal Clip + Incandescent
+dimwishlist:item=3602242905&perks=3017780555,4293542123#notes: PvE
 
 // -----
 // Forge's Pledge - Solar 390 Pulse Rifle - Adaptive Frame (Iron Banner)
@@ -3110,6 +3133,14 @@ dimwishlist:item=-2832639510#notes: Use Calus Mini Tool instead.
 dimwishlist:item=-3926811686#notes: Use Calus Mini Tool instead.
 
 // -----
+// Yeartide Apex - Solar 900 SMG - Lightweight Frame (Solstice 2025)
+// PvE: Heal Clip + Incandescent
+dimwishlist:item=2965080304&perks=3017780555,4293542123#notes: PvE
+
+// (Shiny)
+dimwishlist:item=3293207827&perks=3017780555,4293542123#notes: PvE
+
+// -----
 // Noxious Vetiver - Arc 600 SMG - Precision Frame (Episode Revenant)
 // PvE: Attrition Orbs + Jolting Feedback
 dimwishlist:item=825495813&perks=,243981275,3966416502#notes: PvE
@@ -3744,6 +3775,11 @@ dimwishlist:item=4153087276&perks=839105230,2749775325,3523296417,124408337#note
 // Incisor - Strand Trace Rifle - Adaptive Frame (Trials)
 // PvE: Slice + Hatchling
 dimwishlist:item=1711056134&perks=,923806249,831391274#notes: PvE
+
+// -----
+// Ribbontail - Strand Trace Rifle - Adaptive Frame (Edge of Fate)
+// PvE: Subsistence + Binary Orbit
+dimwishlist:item=407150810&perks=1820235745,1546142478#notes: PvE
 
 // -----
 // Unsworn - Strand Trace Rifle - Adaptive Frame (Sundered Doctrine)
