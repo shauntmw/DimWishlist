@@ -1047,6 +1047,13 @@ dimwishlist:item=-2817683783#notes: No good perks.
 dimwishlist:item=1246793994&perks=,776531651,2048641572#notes: PvE
 
 // --------------------------------------------------------------------------
+// Type - Heavy Bow
+// --------------------------------------------------------------------------
+// Opaque Hourglass - Arc Heavy Bow - High-Impact Frame (Desert Perpetual)
+// PvE: Field Prep + Firing Line
+dimwishlist:item=1553681400&perks=2869569095,1771339417#notes: PvE
+
+// --------------------------------------------------------------------------
 // Type - Heavy Grenade Launcher
 // --------------------------------------------------------------------------
 // Typhon GL5 - Stasis Heavy Grenade Launcher - Adaptive Frame (World)
@@ -1844,6 +1851,17 @@ dimwishlist:item=1505862304&perks=,776531651,2048641572#notes: PvE
 // --------------------------------------------------------------------------
 // Type - Rocket Launcher
 // --------------------------------------------------------------------------
+// The When and Where - Stasis 20 Rocket Launcher - Adaptive Frame (Desert Perpetual)
+// PvE: Reconstruction + Explosive Light
+dimwishlist:item=1090936013&perks=1523832109,3194351027#notes: PvE
+
+// PvE: Reconstruction + Bipod
+dimwishlist:item=1090936013&perks=1523832109,1439600632#notes: PvE
+
+// PvE: Chill Clip + Bipod
+dimwishlist:item=1090936013&perks=2978966579,1439600632#notes: PvE
+
+// -----
 // Cold Comfort - Stasis 25 Rocket Launcher - Aggressive Frame (Ghosts of the Deep Dungeon)
 dimwishlist:item=-839786290#notes: Use Bump in the Night instead.
 
@@ -1867,6 +1885,14 @@ dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,1546637391#no
 
 // PvE: Volatile, Impact Casing, Field Prep, Chill Clip
 dimwishlist:item=1959650777&perks=1478423395,3796465595,2869569095,2978966579#notes:PvE - MW Reload (Craftable)
+
+// -----
+// Haliaetus - Strand 15 Rocket Launcher - High-Impact Frame (Edge of Fate)
+// PvE: Auto-Loading + Binary Orbit
+dimwishlist:item=2155534128&perks=3300816228,1546142478#notes:PvE
+
+// PvE: Auto-Loading + Bipod
+dimwishlist:item=2155534128&perks=3300816228,1439600632#notes:PvE
 
 // -----
 // Cynosure - Strand 20 Rocket Launcher - Adaptive Frame (Strike)
@@ -2550,6 +2576,10 @@ dimwishlist:item=-1028582252#notes:No good perks.
 dimwishlist:item=-2443900757#notes:No good perks.
 
 // -----
+// Pure Recollection - Void 62 Shotgun - Heavy Burst Frame (Iron Banner)
+dimwishlist:item=-1956186483#notes: No good perks.
+
+// -----
 // Retold Tale (Reprised) - Void 65 shotgun - Precision Frame (Dreaming City)
 // PvP: Quickdraw + Snapshot
 dimwishlist:item=871900124&perks=1047830412,3142289711,706527188,957782887#notes: PvP
@@ -2988,6 +3018,11 @@ dimwishlist:item=-2060863616#notes: Use Forbearance.
 dimwishlist:item=268260373&perks=3525010810,3032599245,968510818,2173046394#notes:PvE - MW Handling (Craftable)
 
 // -----
+// Theodolite - Arc Special Grenade Launcher - Micro-Missile Frame (Pinnacle Ops)
+// PvE: Blast Distributor + Voltshot
+dimwishlist:item=4146673635&perks=1017229899,2173046394#notes:PvE
+
+// -----
 // Forbearance - Arc Special Grenade Launcher - Wave Frame (Vow of the Disciple)
 // PvE: Quick Launch, High Velocity, Assassin, Chain Reaction
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE - MW Reload (Craftable)
@@ -3047,6 +3082,11 @@ dimwishlist:item=981718087&perks=,1556840489,3300816228#notes: PvE
 // Harsh Language - Void Special Grenade Launcher - Wave Frame (World)
 // PvE: Stats for all + Destabilizing Rounds
 dimwishlist:item=1606497639&perks=,1583705720,2048641572#notes: PvE
+
+// -----
+// Romantic Death - Void Special Grenade Launcher - Wave Frame (Edge of Fate)
+// PvE: Stats for All + Chain Reaction
+dimwishlist:item=4169082039&perks=1583705720,2396489472#notes: PvE
 
 // -----
 // Orewing's Maul - Void special grenade - Lightweight Frame (Iron Banner)
