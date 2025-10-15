@@ -2628,6 +2628,11 @@ dimwishlist:item=-2821430069#notes: Just use Heritage.
 dimwishlist:item=-2531963421#notes:No good perk.
 
 // -----
+// Trachinus - Stasis 90 Slug Shotgun - Rapid-Fire Slug (Arms Week)
+// PvE: Lead from Gold + Chill Clip
+dimwishlist:item=3635232671&perks=1556840489,2978966579#notes: PvE
+
+// -----
 // Supercluster - Strand Slug Shotgun - Pinpoint Slug Frame (Season of Wish)
 // PvE: Hammer-Forged, Accurized, Reconstruction, Hatchling
 dimwishlist:item=92459755&perks=3250034553,3142289711,1523832109,831391274#notes: PvE - MW Range (Craftable)
